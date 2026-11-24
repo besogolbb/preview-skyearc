@@ -56,6 +56,10 @@ for (const slug of slugs) {
   need(p.embeds && "ghlFormUrl" in p.embeds && "ghlCalendarUrl" in p.embeds, "embeds.ghlFormUrl and embeds.ghlCalendarUrl must exist (empty string = mockup)");
 
   if (p.logo?.initials !== undefined) need(/^[A-Za-z0-9&]{1,3}$/.test(p.logo.initials), `logo.initials must be 1-3 letters, got "${p.logo.initials}"`);
+  if (p.logo?.svg !== undefined) {
+    if (!/^\/assets\/logos\/[a-z0-9-]+\.svg$/.test(p.logo.svg)) errs.push(`logo.svg must look like /assets/logos/<slug>.svg, got "${p.logo.svg}"`);
+    else if (!fileOk(p.logo.svg)) errs.push(`logo.svg points at ${p.logo.svg}, which is not on disk`);
+  } else warns.push("no logo.svg: the initials badge is used (design a mark with the logo-design skill)");
   if (!p.logo) warns.push("no logo block: initials/tagline will be generated from the name and trade");
 
   for (const key of ["primary", "dark", "accent", "primaryInk"]) {

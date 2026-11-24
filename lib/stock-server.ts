@@ -4,6 +4,12 @@ import { DEFAULT_PHOTO, STOCK, stockSrc, type StockKey, type StockPhoto } from "
 
 const PUBLIC = path.join(process.cwd(), "public");
 
+/** A designed logo path from the JSON, only if the file exists under public/ (else undefined: initials badge). */
+export function resolveLogo(src: string | undefined) {
+  if (!src || !/^\/assets\/logos\/[a-z0-9-]+\.svg$/.test(src)) return undefined;
+  return existsSync(path.join(PUBLIC, src)) ? src : undefined;
+}
+
 /** True when every file this photo's srcset points at is on disk. */
 export function photoFilesExist(p: StockPhoto) {
   const { srcSet } = stockSrc(p);

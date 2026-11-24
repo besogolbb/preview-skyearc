@@ -1597,3 +1597,6 @@ h3 { font-weight: 700; letter-spacing: -0.01em; color: var(--p-ink); }
   .hero { padding-bottom: 150px; }
   .hero__standin { bottom: 64px; z-index: 2; right: var(--gut); }
 }
+.logo__mark--img { border-radius: 10px; object-fit: contain; }
+.logo--lg .logo__mark--img { border-radius: 14px; }
+.logo--lg .logo__tag { white-space: normal; }

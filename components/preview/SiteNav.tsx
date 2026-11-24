@@ -14,6 +14,7 @@ export default function SiteNav({
   name,
   initials,
   tagline,
+  logoSrc,
   tel,
   phone,
   cta,
@@ -21,6 +22,7 @@ export default function SiteNav({
   name: string;
   initials: string;
   tagline?: string;
+  logoSrc?: string;
   tel?: string;
   phone?: string;
   cta: string;
@@ -65,7 +67,7 @@ export default function SiteNav({
           Skip to content
         </a>
         <a className="wordmark" href="#home" aria-label={`${name}, back to top`}>
-          <Logo name={name} initials={initials} tagline={tagline} />
+          <Logo name={name} initials={initials} tagline={tagline} src={logoSrc} />
         </a>
 
         <nav className="nav__links" aria-label="Main">

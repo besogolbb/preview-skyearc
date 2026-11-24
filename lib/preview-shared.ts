@@ -46,7 +46,14 @@ export type Preview = {
     credential?: string;
   };
   /** Concept logo: original typographic mark. Never the prospect's logo file. */
-  logo?: { /** 1-3 letters; default = first letters of the first two words */ initials?: string; /** Short line under the name; default "<trade> · <city>" */ tagline?: string };
+  logo?: {
+    /** 1-3 letters; default = first letters of the first two words */
+    initials?: string;
+    /** Short line under the name; default "<trade> · <city>" */
+    tagline?: string;
+    /** Designed concept mark from the logo-design skill: "/assets/logos/<slug>.svg" (client colours baked in) */
+    svg?: string;
+  };
   /**
    * Client brand colours (from their own site, van, signage or Google photos).
    * The page STYLE follows skyearc.tech; the COLOURS always come from here.

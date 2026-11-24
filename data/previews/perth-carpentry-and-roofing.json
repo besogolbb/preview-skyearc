@@ -23,7 +23,8 @@
   },
   "logo": {
     "initials": "PC",
-    "tagline": "Carpentry & Roofing · Perth"
+    "tagline": "Carpentry & Roofing · Perth",
+    "svg": "/assets/logos/perth-carpentry-and-roofing.svg"
   },
   "assetFolder": "carpentry",
   "google": {

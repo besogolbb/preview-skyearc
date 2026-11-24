@@ -41,16 +41,25 @@ export default function Logo({
   name,
   initials,
   tagline,
+  src,
   size = "md",
 }: {
   name: string;
   initials: string;
   tagline?: string;
+  /** Designed concept mark (public/assets/logos/<slug>.svg). Falls back to the initials badge. */
+  src?: string;
   size?: "md" | "lg";
 }) {
+  const px = size === "lg" ? 56 : 40;
   return (
     <span className={`logo logo--${size}`}>
-      <LogoMark initials={initials} size={size === "lg" ? 56 : 40} />
+      {src ? (
+        // eslint-disable-next-line @next/next/no-img-element
+        <img className="logo__mark logo__mark--img" src={src} width={px} height={px} alt="" />
+      ) : (
+        <LogoMark initials={initials} size={px} />
+      )}
       <span className="logo__text">
         <span className="logo__name">{name}</span>
         {tagline && <span className="logo__tag">{tagline}</span>}

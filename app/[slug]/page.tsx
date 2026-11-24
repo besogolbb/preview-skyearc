@@ -3,7 +3,7 @@ import { notFound } from "next/navigation";
 import type { CSSProperties, ReactNode } from "react";
 import { getPreview, listSlugs, telHref, wording, type Preview } from "@/lib/preview";
 import { DEFAULT_PHOTO, NICHES, STAND_IN_LABEL, STOCK, heroSrc, stockSrc, type StockKey, type StockPhoto } from "@/lib/stock";
-import { resolvePhoto } from "@/lib/stock-server";
+import { resolveLogo, resolvePhoto } from "@/lib/stock-server";
 import SafeImg from "@/components/preview/SafeImg";
 import Logo, { faviconFor, initialsFor } from "@/components/preview/Logo";
 import BlueprintCanvas from "@/components/preview/BlueprintCanvas";
@@ -33,7 +33,7 @@ export async function generateMetadata({ params }: PageProps<"/[slug]">): Promis
     description: p.hero.subhead,
     robots: { index: false, follow: false, nocache: true },
     icons: {
-      icon: faviconFor(initialsFor(p.company.name, p.logo?.initials), p.brand?.primary, p.brand?.accent, p.brand?.primaryInk),
+      icon: resolveLogo(p.logo?.svg) ?? faviconFor(initialsFor(p.company.name, p.logo?.initials), p.brand?.primary, p.brand?.accent, p.brand?.primaryInk),
     },
   };
 }
@@ -73,6 +73,7 @@ function PreviewView({ p }: { p: Preview }) {
   // Concept logo (original typographic mark, never the prospect's own logo file).
   const initials = initialsFor(company.name, p.logo?.initials);
   const logoTag = p.logo?.tagline ?? `${company.trade} · ${cityShort}`;
+  const logoSrc = resolveLogo(p.logo?.svg);
 
   // Stand-in photos: each service's own key, else the niche set in order, else
   // the default. resolvePhoto() checks the files exist on disk, so every card
@@ -113,7 +114,7 @@ function PreviewView({ p }: { p: Preview }) {
           <p className="concept" role="note">
             CONCEPT PREVIEW ONLY — Built by skyeArc AI Technologies for {company.name}. Not live or publicly indexed.
           </p>
-          <SiteNav name={company.name} initials={initials} tagline={logoTag} tel={tel} phone={company.phone} cta={cta} />
+          <SiteNav name={company.name} initials={initials} tagline={logoTag} logoSrc={logoSrc} tel={tel} phone={company.phone} cta={cta} />
         </div>
 
         <main>
@@ -473,7 +474,7 @@ function PreviewView({ p }: { p: Preview }) {
           <div className="wrap">
             <div className="ftr-grid">
               <div className="ftr-brand">
-                <Logo name={company.name} initials={initials} tagline={logoTag} size="lg" />
+                <Logo name={company.name} initials={initials} tagline={logoTag} src={logoSrc} size="lg" />
                 <p>{p.hero.subhead.split(". ")[0]}.</p>
               </div>
               <div>

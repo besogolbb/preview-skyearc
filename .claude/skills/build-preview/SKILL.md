@@ -40,6 +40,15 @@ Write homeowner-facing, zero-hype conversion copy matching our `PreviewData` sch
 5. **Final CTA (`#contact`):** Final Headline, CTA Body, Primary CTA, no-pressure Microcopy.
 6. **FAQ (`#faq`):** 5 practical homeowner Q&As tailored to their trade and city.
 
+## Step 3b: Design the concept logo (logo-design skill, fast track)
+Use the installed `logo-design` skill (`~/.claude/skills/logo-design`, run its scripts with `py -3` on Windows). For previews we run its **fast track** and skip the full kit:
+1. Brief in one line from the research (trade, 3 adjectives, what to avoid). List the category clichés (house, roof, hammer, wrench, faucet, water drop) and avoid them unless given a fresh form.
+2. Build **3 black SVG concepts** (viewBox 0 0 256 256, no `<text>`, letterforms as paths), across mark types (monogram / pictorial / abstract), in `.taste-skill/logos/<slug>/`.
+3. `py -3 <skill>/scripts/svg_audit.py …` then `concept_sheet.py … --greyscale -o .taste-skill/logos/<slug>-concepts.png` and LOOK at it. Run the craft checks: letter test (does the M read as an M at 16 px?), unintended readings (a "shirt", an "arrow"), clip-art literalism. Revise until one passes; snap near-miss angles the audit flags.
+4. Final site file: white one-colour mark centred (scale ~0.6) on a rounded tile (`rx="56"`) in the CLIENT's `brand.primary` (default `#2478cc`), saved as `public/assets/logos/<slug>.svg`. Keep it one colour: a second colour on part of the mark can create false readings.
+5. In the JSON: `"logo": { "initials", "tagline", "svg": "/assets/logos/<slug>.svg" }`. The page shows it in nav, footer and as the tab icon; if the file is missing it falls back to the initials badge, and `check:preview` errors.
+6. Never copy or trace the prospect's real logo or any library logo. The footer already says "Logo shown is a concept mark."
+
 ## Step 4: Verify, Commit & Output Outreach Assets
 1. Run `npm run check:preview -- <slug>` and fix every `error` (and read every `warn`).
 2. Run `npm run build` to confirm zero TypeScript or layout errors.
@@ -144,7 +153,7 @@ How to find them: the client's website CSS (`theme-color`, button and header col
 - **Sticky header:** the concept banner and nav are in normal flow (sticky), so they never overlap the hero. Long company names wrap to 2 lines on phones; the header CTA hides on phones (it's in the drawer and bottom bar).
 - **Wording safety:** CTA defaults to "Get a quote"/"Get an estimate". Only write "Free quote" if the contractor publicly offers it. Never write "no hidden fees", guarantees, "more leads" or revenue promises (the checker errors on these). The licence FAQ offers to send details unless `company.credential` is published.
 - **GHL embeds:** empty URLs show working mockups, not placeholders. The quick hero form posts to `/api/quote`; without a webhook (501) it pre-fills the hub form and scrolls to `#hub`.
-- **Logo:** every preview gets an original typographic concept logo (`components/preview/Logo.tsx`: initials under a roof line in the brand colour, plus name and tagline), also used as the browser tab icon. The footer notes it is a concept mark. Just fill `logo.initials` / `logo.tagline`; defaults work if omitted.
+- **Logo:** every preview gets a designed concept mark from Step 3b (`logo.svg`); without one it falls back to an original typographic badge (`components/preview/Logo.tsx`: initials under a roof line in the brand colour, plus name and tagline), also used as the browser tab icon. The footer notes it is a concept mark. Just fill `logo.initials` / `logo.tagline`; defaults work if omitted.
 - **Robots:** `noindex, nofollow` is hard-coded in `app/layout.tsx`, `X-Robots-Tag` is set in `next.config.ts`, and `public/robots.txt` disallows all. Don't touch.
 
 ## Research tactics that work
