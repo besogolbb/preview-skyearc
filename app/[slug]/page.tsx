@@ -16,7 +16,7 @@ import { NAV_LINKS } from "@/lib/nav";
 import LaunchLinks from "@/components/preview/LaunchLinks";
 import TiltCards from "@/components/preview/TiltCards";
 import { HeroItem, HeroPanel, HeroTitle, MotionRoot, Reveal } from "@/components/preview/motion";
-import { AlertIcon, ArrowIcon, PhoneIcon, Stars, TrustIcon } from "@/components/preview/icons";
+import { ArrowIcon, PhoneIcon, ProblemIcon, Stars, TrustIcon } from "@/components/preview/icons";
 
 export async function generateStaticParams() {
   const slugs = await listSlugs();
@@ -255,7 +255,7 @@ function PreviewView({ p }: { p: Preview }) {
                   {p.problems.points.slice(0, 4).map((pt, i) => (
                     <li key={pt.title} className={`bt bt-${"abcd"[i]}`} data-tilt>
                       <span className="bt-ic" aria-hidden="true">
-                        <AlertIcon />
+                        <ProblemIcon title={pt.title} body={pt.body} />
                       </span>
                       <h3>{pt.title}</h3>
                       <p>{pt.body}</p>

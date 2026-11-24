@@ -1,3 +1,6 @@
+import type { ReactElement } from "react";
+import { problemIconFor, type ProblemIconKey } from "@/lib/problem-icons";
+
 type P = { size?: number; className?: string };
 
 export function PhoneIcon({ size = 18, className }: P) {
@@ -140,4 +143,58 @@ export function AlertIcon({ size = 20 }: P) {
       <path d="M12 7.5v5.5M12 16.2v.3" {...stroke} />
     </svg>
   );
+}
+
+/* ---- problem-tile icons: one per homeowner pain point ---- */
+export function PhoneMissedIcon({ size = 22 }: P) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 24 24" aria-hidden="true">
+      <path d="M6.6 4.5h2.6l1.4 4-1.9 1.3a11.6 11.6 0 0 0 5.5 5.5l1.3-1.9 4 1.4v2.6a2 2 0 0 1-2.2 2A15.6 15.6 0 0 1 4.6 6.7a2 2 0 0 1 2-2.2Z" {...stroke} />
+      <path d="m15.5 3.5 5 5m0-5-5 5" {...stroke} />
+    </svg>
+  );
+}
+export function PriceTagIcon({ size = 22 }: P) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 24 24" aria-hidden="true">
+      <path d="M3.5 12.6V4.5a1 1 0 0 1 1-1h8.1l8 8a1.5 1.5 0 0 1 0 2.1l-6.9 6.9a1.5 1.5 0 0 1-2.1 0l-8.1-7.9Z" {...stroke} />
+      <path d="M12.5 9.2c-.4-.8-1.2-1.2-2.1-1.2-1.2 0-2 .7-2 1.6 0 2.1 4.4 1.2 4.4 3.4 0 .9-.9 1.6-2.2 1.6-1 0-1.9-.5-2.3-1.3M10.5 7v1m0 6.6v1" {...stroke} />
+    </svg>
+  );
+}
+export function ClockLateIcon({ size = 22 }: P) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 24 24" aria-hidden="true">
+      <circle cx="12" cy="13" r="7.5" {...stroke} />
+      <path d="M12 9v4l2.8 2M9.5 2.5h5M19 5.5l1.5 1.5" {...stroke} />
+    </svg>
+  );
+}
+export function MessIcon({ size = 22 }: P) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 24 24" aria-hidden="true">
+      <path d="M14.5 3.5 9.8 12.2M7 12.5h7l1.5 8h-10L7 12.5ZM9 16.5v4m3-4v4" {...stroke} />
+      <path d="M18.5 7.5h.01M20.5 12h.01M3.5 9h.01" {...stroke} strokeWidth={2.6} />
+    </svg>
+  );
+}
+export function UnevenIcon({ size = 22 }: P) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 24 24" aria-hidden="true">
+      <path d="M3.5 6.5h7v6h-7zM13 5.5h7.5v6H13zM3.5 15h7.5v5.5H3.5zM13.6 15.6l6.9-1.1.9 5.4-6.9 1.1z" {...stroke} />
+    </svg>
+  );
+}
+
+const PROBLEM_ICONS: Record<ProblemIconKey, () => ReactElement> = {
+  phoneMissed: () => <PhoneMissedIcon />,
+  priceTag: () => <PriceTagIcon />,
+  clockLate: () => <ClockLateIcon />,
+  uneven: () => <UnevenIcon />,
+  mess: () => <MessIcon />,
+};
+
+/** Problem-tile icon from the pain point's wording (rules in lib/problem-icons.ts). */
+export function ProblemIcon({ title, body = "" }: { title: string; body?: string }) {
+  return PROBLEM_ICONS[problemIconFor(title, body) ?? "priceTag"]();
 }

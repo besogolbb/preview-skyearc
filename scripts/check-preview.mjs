@@ -10,6 +10,7 @@ import path from "node:path";
 
 const root = process.cwd();
 const { STOCK, NICHES, stockSrc, heroSrc } = await import(new URL("../lib/stock.ts", import.meta.url).href);
+const { problemIconFor } = await import(new URL("../lib/problem-icons.ts", import.meta.url).href);
 
 const dir = path.join(root, "data", "previews");
 const args = process.argv.slice(2);
@@ -71,6 +72,10 @@ for (const slug of slugs) {
   if (/#07213f|#044696|#23bdf5|#fc7a58/i.test(JSON.stringify(p.brand ?? {}))) errs.push("brand uses SkyeArc's own colours: previews take the CLIENT's colours");
 
   if (/Skye/.test(p.skyeGreeting ?? "") || /Skye/i.test(p.assistantName ?? "")) errs.push("the chat says 'Skye': it must speak as the client (assistantName / skyeGreeting)");
+
+  for (const pt of p.problems?.points ?? []) {
+    if (!problemIconFor(pt.title ?? "", pt.body ?? "")) warns.push(`problem "${pt.title}" matches no icon (falls back to a price tag): reword the title or add a rule in lib/problem-icons.ts`);
+  }
 
   // Photos: keys only, every file on disk.
   if (p.assetFolder !== undefined) need(p.assetFolder in NICHES, `assetFolder "${p.assetFolder}" is not one of: ${Object.keys(NICHES).join(", ")}`);
