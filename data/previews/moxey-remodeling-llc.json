@@ -4,7 +4,7 @@
     "phone": "(904) 874-5561 on Google and ocalabusinessdirectory.com/business/moxey-remodeling-llc",
     "services": "ocalabusinessdirectory.com: tile installation for kitchens, bathrooms and flooring; full bathroom renovations; kitchen remodels and surface upgrades; interior updates incl. flooring and trim",
     "serviceArea": "Directory: 'Serving Ocala & Marion County'. Google service-area outline: Ocala and Silver Springs south through Belleview and Summerfield to The Villages.",
-    "brand": "No own website or verifiable brand colours: defaults used.",
+    "brand": "Sampled from the client's own Google Business Profile cover photo (their marble bathroom: blue-grey marble, matte black fixtures). No website, social profile or logo exists online, so these are the colours of their own work, not an official brand. Confirm with the owner.",
     "reviews": "No verbatim review text found (Angi pages return 403; Google hides text signed out). Paste up to 3 verbatim Google reviews into realReviews.",
     "notUsed": "Directory blurb claims 'family-owned' and 'over two decades of hands-on experience' (unclaimed listing): left out until confirmed by the owner."
   },
@@ -27,6 +27,11 @@
     "initials": "MR",
     "tagline": "Kitchen & Bath Remodeling · Ocala",
     "svg": "/assets/logos/moxey-remodeling-llc.svg"
+  },
+  "brand": {
+    "primary": "#5e6058",
+    "dark": "#282823",
+    "accent": "#d1d1c8"
   },
   "assetFolder": "remodeling",
   "google": null,

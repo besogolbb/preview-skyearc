@@ -108,7 +108,7 @@ function PreviewView({ p }: { p: Preview }) {
 
   return (
     <MotionRoot>
-      <div style={brandStyle}>
+      <div style={brandStyle} className="brand-scope">
         {/* Concept banner + sticky navigation (transparent over the hero, frosted white on scroll) */}
         <div className="topbar">
           <p className="concept" role="note">

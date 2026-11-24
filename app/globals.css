@@ -1600,3 +1600,18 @@ h3 { font-weight: 700; letter-spacing: -0.01em; color: var(--p-ink); }
 .logo__mark--img { border-radius: 10px; object-fit: contain; }
 .logo--lg .logo__mark--img { border-radius: 14px; }
 .logo--lg .logo__tag { white-space: normal; }
+
+/* Re-derive every brand token INSIDE the preview wrapper, where the client's
+   --brand / --brand-dark / --brand-hi are set inline. Derived custom properties
+   are resolved where they're declared, so :root alone would keep the defaults. */
+.brand-scope {
+  --navy: var(--brand-dark);
+  --navy-2: color-mix(in oklab, var(--brand-dark), var(--brand) 22%);
+  --navy-3: color-mix(in oklab, var(--brand-dark), black 30%);
+  --p-accent: var(--brand);
+  --p-accent-hover: color-mix(in oklab, var(--brand), black 16%);
+  --p-accent-ink: var(--brand-ink);
+  --p-accent-text: color-mix(in oklab, var(--brand), black 22%);
+  --hi: var(--brand-hi);
+  --p-ink: color-mix(in oklab, var(--brand-dark), black 25%);
+}

@@ -5,7 +5,8 @@
     "services": "Decking, screen installation, gazebo, patio, hut construction, roof framing: avenueperth.com/best-carpenters-perth",
     "reviews": "Google's signed-out view hides review text; copy 3 reviews verbatim from the listing into realReviews[].",
     "website": "perthcarpentryandroofing.com.au (listed on avenueperth) does not resolve",
-    "serviceArea": "Service-area outline drawn on the Google listing: Yanchep/Joondalup to Mandurah, east to Toodyay, Northam and York."
+    "serviceArea": "Service-area outline drawn on the Google listing: Yanchep/Joondalup to Mandurah, east to Toodyay, Northam and York.",
+    "brand": "Sampled from the client's own Google Business Profile cover photo (their blue roof trusses over terracotta tiles). No website, social profile or logo exists online, so these are the colours of their own work, not an official brand. Confirm with the owner."
   },
   "gap": "No working website: the domain listed on directories doesn't resolve, so the Google listing (Add website) is the only place to reach them and there's no way to request a quote online.",
   "market": "AU",
@@ -25,6 +26,11 @@
     "initials": "PC",
     "tagline": "Carpentry & Roofing · Perth",
     "svg": "/assets/logos/perth-carpentry-and-roofing.svg"
+  },
+  "brand": {
+    "primary": "#305b83",
+    "dark": "#241b20",
+    "accent": "#caa183"
   },
   "assetFolder": "carpentry",
   "google": {
