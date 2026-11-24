@@ -1,11 +1,11 @@
 {
   "_sources": {
-    "google": "Google Business Profile, rendered 2026-11-24 (google.com/maps/search/Moxey+Remodeling+LLC+Ocala+FL): 'Moxey Remodeling LLC', Contractor, 5.0 stars, +1 904-874-5561, opens 8 AM, website field = angi.com. Review count not visible in the signed-out view, so the rating shows in the eyebrow without a count.",
+    "google": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-24): 5.0 stars, 36 reviews; exact listing URL. Review topics: bathroom remodel 11, attention to detail 9, punctuality 8, quality work 5, home renovations 4, kitchen updates 3, fast completion 2, kitchen countertop 2, workmanship 2, excellent work 2.",
     "phone": "(904) 874-5561 on Google and ocalabusinessdirectory.com/business/moxey-remodeling-llc",
     "services": "ocalabusinessdirectory.com: tile installation for kitchens, bathrooms and flooring; full bathroom renovations; kitchen remodels and surface upgrades; interior updates incl. flooring and trim",
     "serviceArea": "Directory: 'Serving Ocala & Marion County'. Google service-area outline: Ocala and Silver Springs south through Belleview and Summerfield to The Villages.",
     "brand": "Sampled from the client's own Google Business Profile cover photo (their marble bathroom). Dark = the matte black of their fixtures (#282823). The photo is mostly grey, so the colour comes from its most colourful 8% of pixels: warm veining/lighting at hue ~43° (brass), saturated to brass #d0a539 (buttons, dark text #1d1c18) and light brass #e2bd5e (highlights). Not an official brand; confirm with the owner.",
-    "reviews": "No verbatim review text found (Angi pages return 403; Google hides text signed out). Paste up to 3 verbatim Google reviews into realReviews.",
+    "reviews": "Google Business Profile Reviews tab, same session: 3 complete 5-star reviews copied verbatim (Melissa Picchini, Lance S, Syd Caruthers). Kevin Daly's and Derek's skipped: text still truncated.",
     "notUsed": "Directory blurb claims 'family-owned' and 'over two decades of hands-on experience' (unclaimed listing): left out until confirmed by the owner."
   },
   "gap": "No website of their own: the Google listing's website link sends homeowners to an Angi marketplace page, so there is no way to request an estimate or book a visit directly with Moxey.",
@@ -35,9 +35,13 @@
     "primaryInk": "#1d1c18"
   },
   "assetFolder": "remodeling",
-  "google": null,
+  "google": {
+    "rating": 5,
+    "reviewCount": 36,
+    "profileUrl": "https://www.google.com/maps/place/Moxey+Remodeling+LLC/@29.0278164,-82.1025875,11z/data=!4m6!3m5!1s0x48b2510c813a2101:0xaddedef814f7670c!8m2!3d29.0278164!4d-82.1025874!16s%2Fg%2F11t_k2mnpb"
+  },
   "hero": {
-    "eyebrow": "5.0 ★ on Google · Kitchen & bath remodeling in Ocala",
+    "eyebrow": "Kitchen & bath remodeling in Ocala",
     "headline": "Kitchen and bathroom remodels in Ocala, tiled and finished properly.",
     "subhead": "Bathroom renovations, kitchen remodels and tile work for homeowners across Ocala and Marion County. Tell us about the project and get a clear written estimate.",
     "trustLine": [
@@ -161,7 +165,26 @@
       }
     ]
   },
-  "realReviews": [],
+  "realReviews": [
+    {
+      "author": "Melissa Picchini",
+      "rating": 5,
+      "text": "Brad Moxey does meticulous tile work. He remade our master bathroom exactly to our liking. We wanted something a little different and he made it happen. He is trustworthy and flexible. I was very comfortable leaving him alone in our home to work when we had other things to do. He listens.We’ll hire him for our next remodel!",
+      "date": "10 months ago"
+    },
+    {
+      "author": "Lance S",
+      "rating": 5,
+      "text": "Moxey remodeling is amazing, we absolutely love the backsplash Brad installed for us! Attention to detail was great, he talked us through options as they came up but was never pushy one way or the other. Would definitely recommend to friends and family! Great job at an amazing price!",
+      "date": "10 months ago"
+    },
+    {
+      "author": "Syd Caruthers",
+      "rating": 5,
+      "text": "I had seen Brads work at other homes and was impressed so I decided to hire him to do my house. Starting with the bathrooms. Everything turned out perfect. We have now scheduled him to do the rest of the house. Price, professionalism, quality of work. It doesn't get any better.",
+      "date": "a year ago"
+    }
+  ],
   "finalCta": {
     "headline": "Ready to talk about your kitchen or bathroom?",
     "body": "Send a few details or pick a time that suits you. You'll get a written estimate before anything is booked in.",
