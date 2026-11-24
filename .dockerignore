@@ -1,0 +1,13 @@
+node_modules
+.next
+.git
+.taste-skill
+.impeccable
+.agents
+.codex
+shots
+*.md
+!README.md
+Dockerfile
+.dockerignore
+.env*

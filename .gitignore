@@ -39,3 +39,12 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# design-taste-frontend working files
+/.taste-skill/
+
+# local agent tooling (installed per machine, not part of the site)
+/.agents/
+/.codex/
+/skills-lock.json
+/.impeccable/config.local.json

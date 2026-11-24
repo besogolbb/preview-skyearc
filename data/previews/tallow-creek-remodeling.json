@@ -1,0 +1,91 @@
+{
+  "_sources": {
+    "note": "Fictional demo prospect for the template. 555 phone number, no Google profile, no reviews."
+  },
+  "gap": "Demo only.",
+  "market": "US",
+  "company": {
+    "name": "Tallow Creek Remodeling",
+    "trade": "Kitchen and bathroom remodeling",
+    "city": "Plano, TX",
+    "serviceArea": ["Plano", "Frisco", "Allen", "McKinney", "Richardson"],
+    "phone": "(214) 555-0142"
+  },
+  "assetFolder": "remodeling",
+  "google": null,
+  "hero": {
+    "eyebrow": "Kitchen & bath remodeling in Plano, TX",
+    "headline": "A kitchen or bathroom remodel in Plano, without the runaround.",
+    "subhead": "Kitchen remodels, bathroom remodels and home additions for homeowners in Plano and the north Dallas suburbs. Tell us about the job and get a written estimate you can compare line by line.",
+    "trustLine": ["Clear written estimates", "Local Plano crew", "Fast response"],
+    "photo": "kitchen"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": ["Kitchen remodel", "Bathroom remodel", "Home addition", "Something else"]
+  },
+  "skyeGreeting": "Hi, I'm Skye, the assistant for Tallow Creek Remodeling. Planning a kitchen, bathroom or addition? Tell me about it and I'll help you get an estimate or book a time.",
+  "about": {
+    "headline": "You enjoy your home. We handle the remodeling work properly.",
+    "body": "Most homeowners we talk to want the same three things: a clear price before anything starts, a crew that shows up when it says it will, and a house that's still livable while the work happens. Every remodel is planned around those.",
+    "cards": [
+      { "title": "Busy families", "body": "A kitchen that works for weeknight dinners, finished with as little disruption to the house as possible." },
+      { "title": "Getting ready to sell", "body": "Kitchen and bathroom updates that help the house show well, scoped to what buyers notice." },
+      { "title": "Growing households", "body": "An extra bedroom, sunroom or second story, framed and finished to match the rest of the house." }
+    ],
+    "closing": "Not sure where to start? Tell us what you're thinking and we'll talk it through."
+  },
+  "problems": {
+    "headline": "Finding a reliable remodeler in Plano shouldn't be this hard.",
+    "points": [
+      { "title": "Unreturned calls & slow estimates", "body": "You leave messages, wait a week, and still don't have a number to plan around." },
+      { "title": "Vague pricing & surprise costs", "body": "A one-line quote that turns into change orders once the walls are open." },
+      { "title": "Missed timelines", "body": "Start dates slip, trades don't turn up, and the kitchen stays out of action for weeks." },
+      { "title": "Messy job sites", "body": "Dust through the house and debris left in the driveway at the end of the day." }
+    ],
+    "bridge": "You shouldn't have to chase a contractor just to get a clear estimate."
+  },
+  "solutions": {
+    "headline": "Straightforward remodeling built around clear communication.",
+    "services": [
+      { "title": "Kitchen remodels", "body": "New cabinets, countertops, plumbing and lighting, from a layout change to a full gut and rebuild.", "photo": "kitchen" },
+      { "title": "Bathroom remodels", "body": "Walk-in showers, tub-to-shower conversions, tile, vanities and new fixtures.", "photo": "bathroom" },
+      { "title": "Home additions", "body": "Extra bedrooms, sunrooms and second-story additions, framed and finished to match the house.", "photo": "framing" }
+    ]
+  },
+  "process": {
+    "headline": "We listen to what you need. Estimate it clearly. Build it right.",
+    "steps": [
+      { "title": "Request your estimate", "body": "Send a few details with the form or give us a call. A ZIP code and a rough idea is plenty." },
+      { "title": "Site visit & clear scope", "body": "We look at the space, talk through options and put the scope and price in writing." },
+      { "title": "Clean, on-time work", "body": "A start date you can plan around, with the site cleaned up at the end of each day." },
+      { "title": "Final walkthrough", "body": "We walk the finished job with you and sort out anything on the list before we call it done." }
+    ]
+  },
+  "why": {
+    "headline": "We're not here to rush the job. We're here to do it properly.",
+    "themes": [
+      { "title": "Remodeling-focused", "body": "Kitchens, bathrooms and additions are the work, not a side line." },
+      { "title": "Written estimates", "body": "Scope and price in writing, so you can compare it side by side." },
+      { "title": "Clean & respectful", "body": "Floors protected, dust contained and the site tidied every day." },
+      { "title": "Direct communication", "body": "One point of contact who answers your questions as the job goes." }
+    ]
+  },
+  "realReviews": [],
+  "finalCta": {
+    "headline": "Ready to talk about your remodel?",
+    "body": "Send a few details or pick a time that suits you. You'll get a written estimate before anything is booked in.",
+    "microcopy": "No pressure. Just a straightforward conversation about your project."
+  },
+  "faq": [
+    { "q": "How do estimates work?", "a": "Send the job through the form or call us. We'll ask a few questions, visit if the job needs it, and send a written estimate that lists the scope and price." },
+    { "q": "Which areas around Plano do you cover?", "a": "Plano, Frisco, Allen, McKinney and Richardson. If you're close by and not on the list, ask anyway." },
+    { "q": "Are you licensed and insured?", "a": "Ask when you request your estimate and we'll send the licence and insurance details for your job type." },
+    { "q": "How soon can you look at my job?", "a": "You get a confirmation as soon as you send a request, and we reply to set up a time. If you'd rather book directly, pick a slot in the calendar." },
+    { "q": "What happens after I submit a request?", "a": "Your details come straight to us, you get a text and email confirmation, and we follow up to talk through the job and book a site visit if it needs one." }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}

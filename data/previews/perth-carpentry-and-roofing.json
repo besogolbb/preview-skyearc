@@ -1,0 +1,99 @@
+{
+  "_sources": {
+    "phone": "0427 945 345, same number on tradieladder.com.au/best/roofers/perth, carpentersau.one/western-australia/carpenters-perth and avenueperth.com/best-carpenters-perth (checked 2026-11-24)",
+    "google": "Google Business Profile (link from client, rendered 2026-11-24): 4.9 stars, category Carpenter, +61 427 945 345, closes 5 PM. Review count 40 from tradieladder.com.au (November 2026); not visible in Google's signed-out view, confirm on the listing.",
+    "services": "Decking, screen installation, gazebo, patio, hut construction, roof framing: avenueperth.com/best-carpenters-perth",
+    "reviews": "Google's signed-out view hides review text; copy 3 reviews verbatim from the listing into realReviews[].",
+    "website": "perthcarpentryandroofing.com.au (listed on avenueperth) does not resolve",
+    "serviceArea": "Service-area outline drawn on the Google listing: Yanchep/Joondalup to Mandurah, east to Toodyay, Northam and York."
+  },
+  "gap": "No working website: the domain listed on directories doesn't resolve, so the Google listing (Add website) is the only place to reach them and there's no way to request a quote online.",
+  "market": "AU",
+  "company": {
+    "name": "Perth Carpentry and Roofing",
+    "trade": "Carpentry and roofing",
+    "city": "Perth, WA",
+    "phone": "0427 945 345",
+    "serviceArea": ["Perth metro", "Mandurah", "the Perth Hills", "the Avon Valley"]
+  },
+  "assetFolder": "carpentry",
+  "google": {
+    "rating": 4.9,
+    "reviewCount": 40,
+    "profileUrl": "https://www.google.com/maps/place/Perth+Carpentry+and+Roofing/@-32.0167339,116.1397877,9z/data=!3m1!4b1!4m6!3m5!1s0x2a32ba9affffffff:0xcf95e060d869cdb4!8m2!3d-32.0167339!4d116.1397877!16s%2Fg%2F11b7kl4ync"
+  },
+  "hero": {
+    "headline": "Decks, patios and roof framing in Perth, built properly the first time.",
+    "subhead": "Decking, patios, gazebos, screens and roof framing for homeowners across Perth, Mandurah and the Hills. Send the job through and get a clear written quote.",
+    "trustLine": ["Clear written quotes", "Local Perth crew", "Fast response"],
+    "photo": "framing"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": ["Deck", "Patio or gazebo", "Screens", "Roof framing", "Something else"]
+  },
+  "skyeGreeting": "G'day, I'm Skye, the assistant for Perth Carpentry and Roofing. Thinking about a deck, patio or roof framing job? Tell me about it and I'll help you get a quote or book a time.",
+  "about": {
+    "headline": "You enjoy your backyard. We handle the carpentry work properly.",
+    "body": "Most homeowners want a clear price, a crew that turns up when it says, and an outdoor space they can use for years. Every deck, patio and frame is planned around that, from the first measure to the last screw.",
+    "cards": [
+      { "title": "Families who live outdoors", "body": "A deck or patio that's the right size for the table, the barbecue and the kids." },
+      { "title": "Homes that need shade", "body": "Gazebos, patios and screens that make the backyard usable through a Perth summer." },
+      { "title": "Extensions and new builds", "body": "Roof framing set out to the plans, ready for the roofer and the next trade." }
+    ],
+    "closing": "Not sure what you need yet? Tell us about the space and we'll talk it through."
+  },
+  "problems": {
+    "headline": "Finding a reliable carpenter in Perth shouldn't be this hard.",
+    "points": [
+      { "title": "Unreturned calls & slow quotes", "body": "You ring around, leave messages and still don't have a price weeks later." },
+      { "title": "Vague pricing & surprise costs", "body": "A rough figure on the phone that grows once the timber's delivered." },
+      { "title": "Missed timelines", "body": "Start dates slip and the backyard stays a building site for longer than planned." },
+      { "title": "Messy job sites", "body": "Offcuts, screws and packaging left on the lawn when the crew packs up." }
+    ],
+    "bridge": "You shouldn't have to chase a tradie just to get a clear quote."
+  },
+  "solutions": {
+    "headline": "Straightforward carpentry and roofing, built around clear communication.",
+    "services": [
+      { "title": "Decking", "body": "New timber decks and board replacement, built level and fixed to last in the Perth sun.", "photo": "deck" },
+      { "title": "Patios, gazebos and screens", "body": "Patios, gazebos, huts and screens to shade and close in your outdoor space.", "photo": "pergola" },
+      { "title": "Roof framing", "body": "Roof framing for extensions, patios and new builds, set out to the plans.", "photo": "framing" }
+    ]
+  },
+  "process": {
+    "headline": "We listen to what you need. Quote it clearly. Build it right.",
+    "steps": [
+      { "title": "Request your quote", "body": "Send a few details with the form or give us a ring. A suburb and a rough size is plenty." },
+      { "title": "Site visit & clear scope", "body": "We measure up, talk through options and put the scope and price in writing." },
+      { "title": "Clean, on-time work", "body": "A start date you can plan around, with the site tidied at the end of each day." },
+      { "title": "Final walkthrough", "body": "We walk the finished job with you and sort anything on the list before we call it done." }
+    ]
+  },
+  "why": {
+    "headline": "We're not here to rush the job. We're here to do it properly.",
+    "themes": [
+      { "title": "Carpentry-focused", "body": "Decks, patios, gazebos and roof framing are the whole job." },
+      { "title": "Clear written quotes", "body": "Scope and price in writing before any work starts." },
+      { "title": "Clean & respectful", "body": "Offcuts and packaging taken away, the yard left tidy." },
+      { "title": "Direct communication", "body": "You talk to the people building it, start to finish." }
+    ]
+  },
+  "realReviews": [],
+  "finalCta": {
+    "headline": "Ready to plan your deck, patio or frame?",
+    "body": "Send a few details or pick a time that suits you. You'll get a clear written quote before anything is booked in.",
+    "microcopy": "No pressure. Just a straightforward conversation about your project."
+  },
+  "faq": [
+    { "q": "How do quotes work?", "a": "Send the job through the form or give us a ring. We'll ask a few questions, come out to measure up if it's needed, then send a written quote with the scope and price." },
+    { "q": "Which areas around Perth do you cover?", "a": "Perth metro, Mandurah, the Perth Hills and the Avon Valley. Close by but not sure? Ask anyway." },
+    { "q": "Are you licensed and insured?", "a": "Ask when you request a quote and we'll send through the licence and insurance details for your job." },
+    { "q": "How soon can you look at my job?", "a": "You get a confirmation as soon as you send a request, and we get back to you to book a time. Prefer to book yourself? Grab a slot in the calendar." },
+    { "q": "What happens after I submit a request?", "a": "Your details come straight to us, you get a text and email confirmation, and we follow up to talk through the job and arrange a measure-up if it needs one." }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}

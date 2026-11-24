@@ -1,0 +1,80 @@
+{
+  "_sources": { "field": "Where each fact came from (URL + date). Never rendered." },
+  "gap": "The one lead-capture gap found (no website, no form above the fold, Facebook-only, slow reply…). Never rendered.",
+  "market": "AU | US",
+  "company": {
+    "name": "Company name exactly as the prospect writes it",
+    "trade": "Trade as a noun phrase, e.g. Roofing and gutters",
+    "city": "City, ST (US) or Suburb, STATE (AU)",
+    "serviceArea": ["Only areas the prospect lists"],
+    "phone": "Published number, as written on their listing",
+    "credential": "Only if published, e.g. Licensed & Insured"
+  },
+  "brand": { "primary": "Optional hex from the prospect's own site, else omit (amber #f59e0b)" },
+  "assetFolder": "remodeling | carpentry | roofing | plumbing | electrical | builders (stand-in photo set)",
+  "google": {
+    "rating": 4.8,
+    "reviewCount": 37,
+    "profileUrl": "https://www.google.com/maps/place/... (REAL numbers only, or set google to null)"
+  },
+  "hero": {
+    "eyebrow": "Short pill text, used only when google is null, e.g. Roofing & reliable service in Perth",
+    "headline": "Problem-and-outcome headline naming the trade and the city",
+    "subhead": "Two sentences for local homeowners. No promises of leads, revenue or guarantees.",
+    "primaryCta": "Optional. Default Get a quote / Get an estimate. Only say 'free' if the contractor does.",
+    "secondaryCta": "Optional. Default See how it works",
+    "trustLine": ["Clear written quotes", "Local <City> crew", "Fast response"],
+    "photo": "Optional stand-in key for the hero: kitchen | bathroom | roofing | plumbing | electrical | framing | deck | pergola"
+  },
+  "quoteField": { "label": "Project type | Roof need | Urgency | Service type", "options": ["4-5 options for the trade"] },
+  "skyeGreeting": "First chat message, in the market's tone",
+  "about": {
+    "headline": "You enjoy your home. We handle the <trade> work properly.",
+    "body": "Short paragraph on what homeowners care about",
+    "cards": [{ "title": "Who we help", "body": "1-2 line outcome" }, { "title": "...", "body": "..." }, { "title": "...", "body": "..." }],
+    "closing": "One reassuring sentence inviting them to reach out"
+  },
+  "problems": {
+    "headline": "Finding a reliable <trade> in <City> shouldn't be this hard.",
+    "points": [{ "title": "Pain point", "body": "One line" }, { "title": "...", "body": "..." }, { "title": "...", "body": "..." }, { "title": "...", "body": "..." }],
+    "bridge": "You shouldn't have to chase a contractor just to get a clear quote."
+  },
+  "solutions": {
+    "headline": "Straightforward <trade> services built around clear communication.",
+    "intro": "Optional one-liner",
+    "services": [{ "title": "Real service", "body": "1-2 sentences", "photo": "optional stand-in key" }]
+  },
+  "process": {
+    "headline": "We listen to what you need. Quote it clearly. Build it right.",
+    "steps": [
+      { "title": "Request your quote", "body": "..." },
+      { "title": "Site visit & clear scope", "body": "..." },
+      { "title": "Clean, on-time work", "body": "..." },
+      { "title": "Final walkthrough", "body": "..." }
+    ]
+  },
+  "why": {
+    "headline": "We're not here to rush the job. We're here to do it properly.",
+    "themes": [{ "title": "Trade-focused", "body": "..." }, { "title": "...", "body": "..." }, { "title": "...", "body": "..." }, { "title": "...", "body": "..." }]
+  },
+  "realReviews": [{ "author": "Name as shown on Google", "rating": 5, "text": "VERBATIM review text, unedited", "date": "2 months ago" }],
+  "finalCta": {
+    "headline": "Final headline",
+    "body": "One or two sentences",
+    "cta": "Optional, defaults to the hero CTA",
+    "microcopy": "No pressure. Just a straightforward conversation about your project."
+  },
+  "faq": [
+    { "q": "How do quotes/estimates work?", "a": "..." },
+    { "q": "Which areas around <City> do you cover?", "a": "..." },
+    { "q": "Are you licensed and insured?", "a": "Only state a licence if it is published; else offer to send details." },
+    { "q": "How soon can you look at my job?", "a": "..." },
+    { "q": "What happens after I submit a request?", "a": "..." }
+  ],
+  "embeds": {
+    "ghlFormUrl": "https://api.leadconnectorhq.com/widget/form/<FORM_ID> (empty = mockup)",
+    "ghlCalendarUrl": "https://api.leadconnectorhq.com/widget/booking/<CALENDAR_ID> (empty = mockup)",
+    "skyeWebhookUrl": "Optional: n8n Chat Trigger URL (else env SKYE_CHAT_WEBHOOK_URL)",
+    "quickQuoteWebhookUrl": "Optional: GHL inbound webhook (else env GHL_QUICK_QUOTE_WEBHOOK_URL)"
+  }
+}
