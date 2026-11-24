@@ -18,6 +18,7 @@ When invoked with `<Company Name> <Sub-Niche> <City> <AU|US> [Optional URL]`:
 - If a Website, Facebook, or LinkedIn URL is provided, inspect it first.
 - If no URL is provided or a social page hits a login wall, search public listings (Google Business Profile / directories) for `<Company Name> <City>`.
 - Extract ONLY verified public facts: exact business name, phone number, suburbs/service areas, real services offered, Google rating/review count, and up to 3 verbatim public Google reviews.
+- **Reviews step (mandatory, never skip, never assume none):** get the rating, count, topic chips, exact listing URL and up to 3 COMPLETE 5★ reviews with **Claude in Chrome** (see "Research tactics → Get rating, count and reviews"). If Chrome isn't connected, ask the user to paste them. An automated render showing no reviews means Google's limited view, not "no reviews".
 - Identify **1 specific lead-capture gap** (e.g., no website, no quote form above the fold, Facebook-only, slow/manual reply).
 - NEVER invent reviews, stats, years in business, or licenses. If a detail is not publicly verified, omit it cleanly.
 - NEVER download or host a prospect's copyrighted photos or logo files. Map `assetFolder` to our local `/public/assets/<niche>/` sample photos.
