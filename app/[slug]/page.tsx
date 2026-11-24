@@ -100,8 +100,10 @@ function PreviewView({ p }: { p: Preview }) {
     ...(p.brand?.accent && { "--brand-hi": p.brand.accent }),
     ...(p.brand?.primaryInk && { "--brand-ink": p.brand.primaryInk }),
   } as CSSProperties;
-  // Bento lead photo: the second service photo (the hero already shows the first).
-  const bentoPhoto: StockPhoto = services[1]?.photo ?? services[0].photo;
+  // Bento lead photo: a service photo that isn't the hero's (prefer the last), so
+  // the same picture never fills both the hero and the problem tile.
+  const bentoPhoto: StockPhoto =
+    [...services].reverse().find((s) => s.photo.id !== heroPhoto.id)?.photo ?? services[0].photo;
 
   return (
     <MotionRoot>

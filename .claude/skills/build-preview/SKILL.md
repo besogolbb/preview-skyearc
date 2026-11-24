@@ -65,6 +65,7 @@ Write homeowner-facing, zero-hype conversion copy matching our `PreviewData` sch
 | `framing` | `public/assets/carpentry/photo-f94379265{-500,-960,,-hero}.webp` | Two-storey timber house frame (**default photo**) | CC BY-SA 4.0 |
 | `deck` | `public/assets/carpentry/photo-deck{-500,-960,}.webp` | Timber verandah deck, new boards | CC0 |
 | `pergola` | `public/assets/carpentry/photo-pergola{-500,-960,}.webp` | White timber pergola rafters on a column | CC BY-SA 4.0 |
+| `tile` | `public/assets/remodeling/photo-tile{-500,-960,}.webp` | Hand bedding floor tile, spacers in the joints | CC BY 2.0 |
 
 `{-500,-960,}` means three files: `…-500.webp`, `…-960.webp` and `….webp` (1280w). Only keys with a `-hero` file are sharp enough for the full-width hero: **`kitchen`, `plumbing`, `framing`**. Use one of those for `hero.photo`.
 
@@ -72,7 +73,7 @@ Write homeowner-facing, zero-hype conversion copy matching our `PreviewData` sch
 
 | assetFolder | Photos |
 |---|---|
-| `remodeling` | kitchen, bathroom, framing |
+| `remodeling` | kitchen, bathroom, tile |
 | `carpentry` | framing, deck, pergola |
 | `roofing` | roofing, framing, deck |
 | `plumbing` | plumbing, bathroom, kitchen |

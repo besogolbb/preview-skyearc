@@ -119,6 +119,18 @@ export const STOCK = {
     licenceUrl: "https://creativecommons.org/licenses/by-sa/4.0",
     page: "https://commons.wikimedia.org/wiki/File:MMDA-Photos_-_2008-06-01_-_Rye_Pool_House_Pergola_-2.jpg",
   },
+  tile: {
+    id: "tile-fgonzalez",
+    base: "remodeling/photo-tile",
+    w: 1280,
+    h: 960,
+    large: true,
+    alt: "Hand bedding a new floor tile with a rubber float, tile spacers in the joints",
+    by: "Francisco Gonzalez",
+    licence: "CC BY 2.0",
+    licenceUrl: "https://creativecommons.org/licenses/by/2.0",
+    page: "https://commons.wikimedia.org/wiki/File:Using_a_trowel_to_lay_floor_tiles.jpg",
+  },
 } satisfies Record<string, StockPhoto>;
 
 export type StockKey = keyof typeof STOCK;
@@ -146,7 +158,7 @@ export const STAND_IN_LABEL = "Sample project photo — replaced with your real 
  * hero takes the first. Files live in public/assets/<niche>/ (vetted, licensed).
  */
 export const NICHES = {
-  remodeling: ["kitchen", "bathroom", "framing"],
+  remodeling: ["kitchen", "bathroom", "tile"],
   carpentry: ["framing", "deck", "pergola"],
   roofing: ["roofing", "framing", "deck"],
   plumbing: ["plumbing", "bathroom", "kitchen"],
