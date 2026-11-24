@@ -132,6 +132,20 @@
    "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
    "page": "https://commons.wikimedia.org/wiki/File:HVAC_Technicians_Power_Mission_Success_(8850032).jpg",
    "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-gate.webp",
+   "files": [
+    "photo-gate-500.webp",
+    "photo-gate-960.webp",
+    "photo-gate.webp"
+   ],
+   "id": "gate-acabashi",
+   "alt": "Braced timber farm gate hung on a square post with galvanised strap hinges",
+   "by": "Acabashi",
+   "licence": "CC BY-SA 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Gate_to_Whitesbridge_Farm,_Sedgwick_Lane,_Nuthurst,_West_Sussex.jpg"
   }
  ]
 }

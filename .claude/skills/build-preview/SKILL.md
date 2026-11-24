@@ -94,6 +94,7 @@ Use the installed `logo-design` skill (`~/.claude/skills/logo-design`, run its s
 | `deck` | `public/assets/carpentry/photo-deck{-500,-960,}.webp` | Timber verandah deck, new boards | CC0 |
 | `pergola` | `public/assets/carpentry/photo-pergola{-500,-960,}.webp` | White timber pergola rafters on a column | CC BY-SA 4.0 |
 | `tile` | `public/assets/remodeling/photo-tile{-500,-960,}.webp` | Hand bedding floor tile, spacers in the joints | CC BY 2.0 |
+| `gate` | `public/assets/carpentry/photo-gate{-500,-960,}.webp` | Braced timber farm gate on a post, strap hinges | CC BY-SA 4.0 |
 
 `{-500,-960,}` means three files: `…-500.webp`, `…-960.webp` and `….webp` (1280w). Only keys with a `-hero` file are sharp enough for the full-width hero: **`kitchen`, `plumbing`, `framing`**. Use one of those for `hero.photo`.
 

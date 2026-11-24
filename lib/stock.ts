@@ -119,6 +119,18 @@ export const STOCK = {
     licenceUrl: "https://creativecommons.org/licenses/by-sa/4.0",
     page: "https://commons.wikimedia.org/wiki/File:MMDA-Photos_-_2008-06-01_-_Rye_Pool_House_Pergola_-2.jpg",
   },
+  gate: {
+    id: "gate-acabashi",
+    base: "carpentry/photo-gate",
+    w: 1280,
+    h: 853,
+    large: true,
+    alt: "Braced timber farm gate hung on a square post with galvanised strap hinges",
+    by: "Acabashi",
+    licence: "CC BY-SA 4.0",
+    licenceUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+    page: "https://commons.wikimedia.org/wiki/File:Gate_to_Whitesbridge_Farm,_Sedgwick_Lane,_Nuthurst,_West_Sussex.jpg",
+  },
   tile: {
     id: "tile-fgonzalez",
     base: "remodeling/photo-tile",

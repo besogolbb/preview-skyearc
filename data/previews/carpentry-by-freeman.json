@@ -1,0 +1,195 @@
+{
+  "_sources": {
+    "google": "Google Business Profile (headless render of google.com/maps/search/Carpentry+By+Freeman+Geelong, 2026-11-24): Carpentry By Freeman, 5.0 stars, category Carpenter, website = facebook.com, +61 412 115 281, opens 7:30 AM. Review count and review text hidden in Google's signed-out view, so google is null until the count and reviews are copied from the listing.",
+    "phone": "0412 115 281 from the Google listing only; no directory listing found to cross-check (web searches 2026-11-24).",
+    "serviceArea": "Service-area outline drawn on the Google listing: Geelong and Lara, the Bellarine Peninsula to Queenscliff, and the Surf Coast (Torquay, Anglesea).",
+    "services": "Only timber gates are verified, from the listing's own cover photo (braced timber farm gates). Decks/pergolas and general carpentry are typical for a Geelong carpenter but NOT verified: confirm with the owner or their Facebook page before sending.",
+    "website": "The listing's website link goes to facebook.com; no business website, Oneflare, Houzz or hipages listing found.",
+    "brand": "Sampled from their Google listing cover photo (their own timber gates): timber #8b6333, deep brown #2b2216, honey #d6ad72. Not an official brand; confirm with the owner.",
+    "photos": "Gate stand-in: Acabashi, CC BY-SA 4.0, Wikimedia Commons (added to the library 2026-11-24)."
+  },
+  "gap": "No website: the Google listing's website link goes to a Facebook page, so the only way to ask for a quote is to ring or message on Facebook. There's no quote form or booking anywhere.",
+  "market": "AU",
+  "company": {
+    "name": "Carpentry By Freeman",
+    "trade": "Carpentry",
+    "city": "Geelong, VIC",
+    "phone": "0412 115 281",
+    "serviceArea": [
+      "Geelong",
+      "Lara",
+      "the Bellarine Peninsula",
+      "the Surf Coast"
+    ]
+  },
+  "logo": {
+    "initials": "F",
+    "tagline": "Carpentry · Geelong",
+    "svg": "/assets/logos/carpentry-by-freeman.svg"
+  },
+  "brand": {
+    "primary": "#8b6333",
+    "dark": "#2b2216",
+    "accent": "#d6ad72"
+  },
+  "assetFolder": "carpentry",
+  "google": null,
+  "hero": {
+    "eyebrow": "Timber gates & carpentry around Geelong",
+    "headline": "Geelong timber gates and carpentry, built to last.",
+    "subhead": "Gates, decks and timber work for homes and small acreage across Geelong, the Bellarine and the Surf Coast. Send the job through and get a clear written quote.",
+    "trustLine": [
+      "Clear written quotes",
+      "Local Geelong carpenter",
+      "Fast response"
+    ],
+    "photo": "framing"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "Gate",
+      "Fence",
+      "Deck or pergola",
+      "Repairs",
+      "Something else"
+    ]
+  },
+  "skyeGreeting": "G'day, I'm the Carpentry By Freeman assistant. Got a gate, deck or bit of timber work in mind? Tell me about it and I'll help you get a quote or book a time.",
+  "assistantName": "Freeman",
+  "about": {
+    "headline": "You look after the property. We handle the timber work properly.",
+    "body": "Most people want a carpenter who answers, gives a straight price and builds something that's still square in ten years. Every gate, deck and repair is planned around that, from the first measure to the last bolt.",
+    "cards": [
+      {
+        "title": "Small acreage & lifestyle blocks",
+        "body": "Braced timber gates that swing true, latch properly and keep the animals in."
+      },
+      {
+        "title": "Homes on the Bellarine & Surf Coast",
+        "body": "Decks and outdoor timber work that stand up to salt air and coastal weather."
+      },
+      {
+        "title": "Odd jobs that keep getting put off",
+        "body": "Sagging gates, rotten boards and repairs fixed properly instead of patched."
+      }
+    ],
+    "closing": "Not sure exactly what you need? Tell us about the job and we'll talk it through."
+  },
+  "problems": {
+    "headline": "Getting a carpenter out in Geelong shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow quotes",
+        "body": "You leave messages and Facebook DMs and still don't have a price weeks later."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "A rough figure over the phone that grows once the timber's on site."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "Start dates slip and the gate stays tied up with rope for another month."
+      },
+      {
+        "title": "Messy job sites",
+        "body": "Offcuts, screws and packaging left in the paddock when the job's done."
+      }
+    ],
+    "bridge": "You shouldn't have to chase a tradie just to get a clear quote."
+  },
+  "solutions": {
+    "headline": "Honest timber work, built around clear communication.",
+    "services": [
+      {
+        "title": "Timber gates",
+        "body": "Braced timber farm and driveway gates, hung level on solid posts with proper hardware.",
+        "photo": "gate"
+      },
+      {
+        "title": "Decks & pergolas",
+        "body": "New decks, board replacement and pergolas, fixed to handle Geelong's wind and coastal weather.",
+        "photo": "pergola"
+      },
+      {
+        "title": "General carpentry & repairs",
+        "body": "Framing, fixing and repairs around the home, done properly the first time.",
+        "photo": "deck"
+      }
+    ]
+  },
+  "process": {
+    "headline": "We listen to what you need. Quote it clearly. Build it right.",
+    "steps": [
+      {
+        "title": "Request your quote",
+        "body": "Send a few details with the form or give us a ring. A suburb and a rough idea is plenty."
+      },
+      {
+        "title": "Site visit & clear scope",
+        "body": "We measure up, talk through timber and options, and put the scope and price in writing."
+      },
+      {
+        "title": "Clean, on-time work",
+        "body": "A start date you can plan around, with the site tidied at the end of each day."
+      },
+      {
+        "title": "Final walkthrough",
+        "body": "We check the job with you, swing the gate, walk the deck, and sort anything before we call it done."
+      }
+    ]
+  },
+  "why": {
+    "headline": "We're not here to rush the job. We're here to do it properly.",
+    "themes": [
+      {
+        "title": "Carpentry-focused",
+        "body": "Timber work is the whole job, not a side line."
+      },
+      {
+        "title": "Clear written quotes",
+        "body": "Scope and price in writing before any work starts."
+      },
+      {
+        "title": "Clean & respectful",
+        "body": "Offcuts and packaging taken away, the yard or paddock left tidy."
+      },
+      {
+        "title": "Direct communication",
+        "body": "You talk to the carpenter building it, start to finish."
+      }
+    ]
+  },
+  "realReviews": [],
+  "finalCta": {
+    "headline": "Ready to sort that gate, deck or timber job?",
+    "body": "Send a few details or pick a time that suits you. You'll get a clear written quote before anything is booked in.",
+    "microcopy": "No pressure. Just a straightforward conversation about your job."
+  },
+  "faq": [
+    {
+      "q": "How do quotes work?",
+      "a": "Send the job through the form or give us a ring. We'll ask a few questions, come out to measure up if it's needed, then send a written quote with the scope and price."
+    },
+    {
+      "q": "Which areas around Geelong do you cover?",
+      "a": "Geelong and Lara, the Bellarine Peninsula and the Surf Coast. A bit further out? Ask anyway."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request a quote and we'll send through the licence and insurance details for your job."
+    },
+    {
+      "q": "Can you build a gate to fit an existing opening?",
+      "a": "Yes. Send the width and a photo of the posts if you can. We'll check whether the posts are sound enough to hang it on or need replacing, and quote it either way."
+    },
+    {
+      "q": "What happens after I submit a request?",
+      "a": "Your details come straight to us, you get a text and email confirmation, and we follow up to talk through the job and arrange a measure-up if it needs one."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
