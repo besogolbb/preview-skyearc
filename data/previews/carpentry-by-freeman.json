@@ -1,12 +1,14 @@
 {
   "_sources": {
-    "google": "Google Business Profile (headless render of google.com/maps/search/Carpentry+By+Freeman+Geelong, 2026-11-24): Carpentry By Freeman, 5.0 stars, category Carpenter, website = facebook.com, +61 412 115 281, opens 7:30 AM. Review count and review text hidden in Google's signed-out view, so google is null until the count and reviews are copied from the listing.",
+    "google": "Google Business Profile Reviews tab, screenshots pasted by the user (2026-11-24): 5.0 stars, 14 reviews. Review topics: communication 5, attention 4, beautiful fence 3, project 3, renovation 2, property 2, job 2. Category Carpenter, website = facebook.com, +61 412 115 281. Listing URL from the earlier headless render.",
     "phone": "0412 115 281 from the Google listing only; no directory listing found to cross-check (web searches 2026-11-24).",
     "serviceArea": "Service-area outline drawn on the Google listing: Geelong and Lara, the Bellarine Peninsula to Queenscliff, and the Surf Coast (Torquay, Anglesea).",
-    "services": "Only timber gates are verified, from the listing's own cover photo (braced timber farm gates). Decks/pergolas and general carpentry are typical for a Geelong carpenter but NOT verified: confirm with the owner or their Facebook page before sending.",
+    "services": "Verified from Google reviews (2026-11-24): farm fence with custom gates for a rural property (Jemma Byron), designed gates and fence (Kerrie Byron), deck and outdoor living area (Eve Riordon, janine gordyn), home renovations (joanne reilly, Kate Devaney). Also braced timber gates in the listing cover photo. Pergolas not mentioned anywhere, so left out.",
     "website": "The listing's website link goes to facebook.com; no business website, Oneflare, Houzz or hipages listing found.",
     "brand": "Sampled from their Google listing cover photo (their own timber gates): timber #8b6333, deep brown #2b2216, honey #d6ad72. Not an official brand; confirm with the owner.",
-    "photos": "Gate stand-in: Acabashi, CC BY-SA 4.0, Wikimedia Commons (added to the library 2026-11-24)."
+    "photos": "Gate stand-in: Acabashi, CC BY-SA 4.0, Wikimedia Commons (added to the library 2026-11-24).",
+    "owner": "Owner's first name Mitch, from the reviews (several name him).",
+    "reviews": "3 complete 5-star reviews copied verbatim from the pasted screenshots: Jemma Byron (fence + gates), Kerrie Byron (designed gates), joanne reilly (renovations). janine gordyn, Eve Riordon and Kate Devaney skipped: text truncated ('More')."
   },
   "gap": "No website: the Google listing's website link goes to a Facebook page, so the only way to ask for a quote is to ring or message on Facebook. There's no quote form or booking anywhere.",
   "market": "AU",
@@ -33,45 +35,49 @@
     "accent": "#d6ad72"
   },
   "assetFolder": "carpentry",
-  "google": null,
+  "google": {
+    "rating": 5,
+    "reviewCount": 14,
+    "profileUrl": "https://www.google.com/maps/place/Carpentry+By+Freeman/@-38.1901767,144.2723773,10z/data=!3m1!4b1!4m6!3m5!1s0xc39556ad20a4315:0xd30af62be1429aa7!8m2!3d-38.1901768!4d144.2723773!16s%2Fg%2F11z7fwqfyk"
+  },
   "hero": {
-    "eyebrow": "Timber gates & carpentry around Geelong",
-    "headline": "Geelong timber gates and carpentry, built to last.",
-    "subhead": "Gates, decks and timber work for homes and small acreage across Geelong, the Bellarine and the Surf Coast. Send the job through and get a clear written quote.",
+    "eyebrow": "Fences, gates & decks around Geelong",
+    "headline": "Geelong fences, gates and decks, built to last.",
+    "subhead": "Custom gates, rural fencing, decks and renovation carpentry across Geelong, the Bellarine and the Surf Coast. Send the job through and get a clear written quote.",
     "trustLine": [
       "Clear written quotes",
       "Local Geelong carpenter",
-      "Fast response"
+      "Talk direct to Mitch"
     ],
     "photo": "framing"
   },
   "quoteField": {
     "label": "Project type",
     "options": [
-      "Gate",
-      "Fence",
-      "Deck or pergola",
-      "Repairs",
+      "Fence & gates",
+      "Gate only",
+      "Deck or outdoor area",
+      "Renovation",
       "Something else"
     ]
   },
-  "skyeGreeting": "G'day, I'm the Carpentry By Freeman assistant. Got a gate, deck or bit of timber work in mind? Tell me about it and I'll help you get a quote or book a time.",
+  "skyeGreeting": "G'day, I'm the Carpentry By Freeman assistant. Got a fence, gate, deck or reno in mind? Tell me about it and I'll help you get a quote or book a time.",
   "assistantName": "Freeman",
   "about": {
     "headline": "You look after the property. We handle the timber work properly.",
     "body": "Most people want a carpenter who answers, gives a straight price and builds something that's still square in ten years. Every gate, deck and repair is planned around that, from the first measure to the last bolt.",
     "cards": [
       {
-        "title": "Small acreage & lifestyle blocks",
-        "body": "Braced timber gates that swing true, latch properly and keep the animals in."
+        "title": "Rural & lifestyle properties",
+        "body": "Farm fencing and custom gates that swing true, latch properly and keep the animals in."
       },
       {
         "title": "Homes on the Bellarine & Surf Coast",
-        "body": "Decks and outdoor timber work that stand up to salt air and coastal weather."
+        "body": "Decks and outdoor living areas built to stand up to salt air and coastal weather."
       },
       {
-        "title": "Odd jobs that keep getting put off",
-        "body": "Sagging gates, rotten boards and repairs fixed properly instead of patched."
+        "title": "Renovations that need a carpenter",
+        "body": "Renovation carpentry that's thought through, finished properly and less stressful to live through."
       }
     ],
     "closing": "Not sure exactly what you need? Tell us about the job and we'll talk it through."
@@ -102,19 +108,19 @@
     "headline": "Honest timber work, built around clear communication.",
     "services": [
       {
-        "title": "Timber gates",
-        "body": "Braced timber farm and driveway gates, hung level on solid posts with proper hardware.",
+        "title": "Fences & custom gates",
+        "body": "Farm and boundary fencing with gates designed for the property, hung level on solid posts with proper hardware.",
         "photo": "gate"
       },
       {
-        "title": "Decks & pergolas",
-        "body": "New decks, board replacement and pergolas, fixed to handle Geelong's wind and coastal weather.",
-        "photo": "pergola"
+        "title": "Decks & outdoor living",
+        "body": "New decks and outdoor living areas, built with attention to detail and fixed to handle Geelong's wind and coastal weather.",
+        "photo": "deck"
       },
       {
-        "title": "General carpentry & repairs",
-        "body": "Framing, fixing and repairs around the home, done properly the first time.",
-        "photo": "deck"
+        "title": "Renovations & carpentry",
+        "body": "Carpentry for home renovations: framing, fixing and finishing, planned out and done properly the first time.",
+        "photo": "kitchen"
       }
     ]
   },
@@ -143,8 +149,8 @@
     "headline": "We're not here to rush the job. We're here to do it properly.",
     "themes": [
       {
-        "title": "Carpentry-focused",
-        "body": "Timber work is the whole job, not a side line."
+        "title": "Attention to detail",
+        "body": "Gates, fences and decks designed for your place and finished so they look as good as they work."
       },
       {
         "title": "Clear written quotes",
@@ -156,20 +162,39 @@
       },
       {
         "title": "Direct communication",
-        "body": "You talk to the carpenter building it, start to finish."
+        "body": "You talk to Mitch, the carpenter building it, start to finish."
       }
     ]
   },
-  "realReviews": [],
+  "realReviews": [
+    {
+      "author": "Jemma Byron",
+      "rating": 5,
+      "text": "Mitch built us a farm fence with custom gates for our rural property. The whole job was seamless, Mitch was an awesome communicator, priced well and the fence is beautiful, exactly what we wanted! We absolutely love it, and so do our pups. Could not recommend Mitch enough!",
+      "date": "6 months ago"
+    },
+    {
+      "author": "Kerrie Byron",
+      "rating": 5,
+      "text": "Would not hesitate to recommend Mitch.  Hardworking, creative, top quality work.  And estimate was accurate and fair.  Incredible job Mitch, our fence is not just highly functional - the gates you designed have made it a craftsman piece to be admired.  Thanks again :)",
+      "date": "3 months ago"
+    },
+    {
+      "author": "joanne reilly",
+      "rating": 5,
+      "text": "Highly recommend Mitch. Very reliable and has a very high standard of work. Thankyou for making our renovations less stressful",
+      "date": "a week ago"
+    }
+  ],
   "finalCta": {
-    "headline": "Ready to sort that gate, deck or timber job?",
+    "headline": "Ready to sort that fence, gate or deck?",
     "body": "Send a few details or pick a time that suits you. You'll get a clear written quote before anything is booked in.",
     "microcopy": "No pressure. Just a straightforward conversation about your job."
   },
   "faq": [
     {
       "q": "How do quotes work?",
-      "a": "Send the job through the form or give us a ring. We'll ask a few questions, come out to measure up if it's needed, then send a written quote with the scope and price."
+      "a": "Send the job through the form or give Mitch a ring. He'll ask a few questions, come out to measure up if it's needed, then send a written quote with the scope and price."
     },
     {
       "q": "Which areas around Geelong do you cover?",
