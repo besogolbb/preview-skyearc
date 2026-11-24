@@ -1,10 +1,18 @@
 import type { Metadata, Viewport } from "next";
-import { Host_Grotesk } from "next/font/google";
+import { Montserrat, Open_Sans } from "next/font/google";
 import "./globals.css";
 
-const host = Host_Grotesk({
-  variable: "--font-host",
+// SkyeArc house type: Montserrat for headings, Open Sans for body (as skyearc.tech).
+const display = Montserrat({
+  variable: "--font-mont",
   subsets: ["latin"],
+  weight: ["500", "600", "700", "800"],
+  display: "swap",
+});
+const body = Open_Sans({
+  variable: "--font-open",
+  subsets: ["latin"],
+  weight: ["400", "500", "600", "700"],
   display: "swap",
 });
 
@@ -18,12 +26,12 @@ export const viewport: Viewport = {
   width: "device-width",
   initialScale: 1,
   viewportFit: "cover",
-  themeColor: "#0b1626",
+  themeColor: "#07213f",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
-    <html lang="en" className={host.variable}>
+    <html lang="en" className={`${display.variable} ${body.variable}`}>
       <head>
         {/* Mandatory (claude.md): concept previews must never be indexed. */}
         <meta name="robots" content="noindex, nofollow" />

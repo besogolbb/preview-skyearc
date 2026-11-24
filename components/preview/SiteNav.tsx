@@ -3,6 +3,7 @@
 import { useEffect, useRef, useState } from "react";
 import { CloseIcon, PhoneIcon } from "./icons";
 import { NAV_LINKS } from "@/lib/nav";
+import Logo from "./Logo";
 
 
 /**
@@ -11,18 +12,31 @@ import { NAV_LINKS } from "@/lib/nav";
  */
 export default function SiteNav({
   name,
+  initials,
+  tagline,
   tel,
   phone,
   cta,
 }: {
   name: string;
+  initials: string;
+  tagline?: string;
   tel?: string;
   phone?: string;
   cta: string;
 }) {
   const [open, setOpen] = useState(false);
+  const [top, setTop] = useState(true);
   const btn = useRef<HTMLButtonElement>(null);
   const drawer = useRef<HTMLDivElement>(null);
+
+  // Clear over the hero at the top of the page, frosted solid once scrolled.
+  useEffect(() => {
+    const on = () => setTop(window.scrollY < 24);
+    on();
+    window.addEventListener("scroll", on, { passive: true });
+    return () => window.removeEventListener("scroll", on);
+  }, []);
 
   useEffect(() => {
     if (!open) return;
@@ -45,13 +59,13 @@ export default function SiteNav({
   }, [open]);
 
   return (
-    <header className="nav">
+    <header className="nav" data-top={top && !open ? "" : undefined}>
       <div className="wrap nav__row">
         <a className="skip-link" href="#home">
           Skip to content
         </a>
         <a className="wordmark" href="#home" aria-label={`${name}, back to top`}>
-          {name}
+          <Logo name={name} initials={initials} tagline={tagline} />
         </a>
 
         <nav className="nav__links" aria-label="Main">

@@ -55,6 +55,15 @@ for (const slug of slugs) {
   count(p.faq, 5, "faq");
   need(p.embeds && "ghlFormUrl" in p.embeds && "ghlCalendarUrl" in p.embeds, "embeds.ghlFormUrl and embeds.ghlCalendarUrl must exist (empty string = mockup)");
 
+  if (p.logo?.initials !== undefined) need(/^[A-Za-z0-9&]{1,3}$/.test(p.logo.initials), `logo.initials must be 1-3 letters, got "${p.logo.initials}"`);
+  if (!p.logo) warns.push("no logo block: initials/tagline will be generated from the name and trade");
+
+  for (const key of ["primary", "dark", "accent", "primaryInk"]) {
+    const v = p.brand?.[key];
+    if (v !== undefined) need(/^#[0-9a-fA-F]{6}$/.test(v), `brand.${key} must be a 6-digit hex like #2478CC, got "${v}"`);
+  }
+  if (/#07213f|#044696|#23bdf5|#fc7a58/i.test(JSON.stringify(p.brand ?? {}))) errs.push("brand uses SkyeArc's own colours: previews take the CLIENT's colours");
+
   // Photos: keys only, every file on disk.
   if (p.assetFolder !== undefined) need(p.assetFolder in NICHES, `assetFolder "${p.assetFolder}" is not one of: ${Object.keys(NICHES).join(", ")}`);
   const keys = [

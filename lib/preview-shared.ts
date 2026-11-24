@@ -45,8 +45,23 @@ export type Preview = {
     /** Only if published, e.g. "Licensed & Insured" or "Lic. 123456" */
     credential?: string;
   };
-  /** Brand colours. primary = buttons, highlight, form bar. Defaults to amber on navy. */
-  brand?: { primary?: string };
+  /** Concept logo: original typographic mark. Never the prospect's logo file. */
+  logo?: { /** 1-3 letters; default = first letters of the first two words */ initials?: string; /** Short line under the name; default "<trade> · <city>" */ tagline?: string };
+  /**
+   * Client brand colours (from their own site, van, signage or Google photos).
+   * The page STYLE follows skyearc.tech; the COLOURS always come from here.
+   * Defaults when unknown: primary #2478CC, dark #13243A, accent #F59E0B.
+   */
+  brand?: {
+    /** Buttons, links, logo badge */
+    primary?: string;
+    /** Hero, dark sections, footer */
+    dark?: string;
+    /** Highlights on dark: headline underline, icons, numerals */
+    accent?: string;
+    /** Text colour on primary buttons; set "#0b1626" when primary is light (yellow, lime) */
+    primaryInk?: string;
+  };
   /** Real Google Business Profile numbers. null when unknown. */
   google?: { rating: number; reviewCount: number; profileUrl: string } | null;
   /** Stand-in photo set for the trade (lib/stock.ts NICHES). */

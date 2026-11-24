@@ -5,6 +5,7 @@ import { getPreview, listSlugs, telHref, wording, type Preview } from "@/lib/pre
 import { DEFAULT_PHOTO, NICHES, STAND_IN_LABEL, STOCK, heroSrc, stockSrc, type StockKey, type StockPhoto } from "@/lib/stock";
 import { resolvePhoto } from "@/lib/stock-server";
 import SafeImg from "@/components/preview/SafeImg";
+import Logo, { faviconFor, initialsFor } from "@/components/preview/Logo";
 import BlueprintCanvas from "@/components/preview/BlueprintCanvas";
 import QuickQuoteForm from "@/components/preview/QuickQuoteForm";
 import GhlFrame from "@/components/preview/GhlFrame";
@@ -13,8 +14,9 @@ import SkyeChat from "@/components/preview/SkyeChat";
 import SiteNav from "@/components/preview/SiteNav";
 import { NAV_LINKS } from "@/lib/nav";
 import LaunchLinks from "@/components/preview/LaunchLinks";
+import TiltCards from "@/components/preview/TiltCards";
 import { HeroItem, HeroPanel, HeroTitle, MotionRoot, Reveal } from "@/components/preview/motion";
-import { AlertIcon, ArrowIcon, Stars, TrustIcon } from "@/components/preview/icons";
+import { AlertIcon, ArrowIcon, PhoneIcon, Stars, TrustIcon } from "@/components/preview/icons";
 
 export async function generateStaticParams() {
   const slugs = await listSlugs();
@@ -30,6 +32,9 @@ export async function generateMetadata({ params }: PageProps<"/[slug]">): Promis
     title: `${p.company.name}: ${p.company.trade.toLowerCase()} in ${p.company.city} (concept preview)`,
     description: p.hero.subhead,
     robots: { index: false, follow: false, nocache: true },
+    icons: {
+      icon: faviconFor(initialsFor(p.company.name, p.logo?.initials), p.brand?.primary, p.brand?.accent, p.brand?.primaryInk),
+    },
   };
 }
 
@@ -47,7 +52,12 @@ function highlight(text: string, word: string): ReactNode {
   return (
     <>
       {text.slice(0, i)}
-      <span className="hl">{text.slice(i, i + word.length)}</span>
+      <span className="arc-u">
+        {text.slice(i, i + word.length)}
+        <svg className="arc-u-svg" viewBox="0 0 200 20" preserveAspectRatio="none" aria-hidden="true" focusable="false">
+          <path pathLength={1} d="M3 15C70 19 150 11 197 3" />
+        </svg>
+      </span>
       {text.slice(i + word.length)}
     </>
   );
@@ -60,6 +70,9 @@ function PreviewView({ p }: { p: Preview }) {
   const area = company.serviceArea?.length ? company.serviceArea : null;
   const cityShort = company.city.split(",")[0];
   const cta = p.hero.primaryCta ?? w.getQuote;
+  // Concept logo (original typographic mark, never the prospect's own logo file).
+  const initials = initialsFor(company.name, p.logo?.initials);
+  const logoTag = p.logo?.tagline ?? `${company.trade} · ${cityShort}`;
 
   // Stand-in photos: each service's own key, else the niche set in order, else
   // the default. resolvePhoto() checks the files exist on disk, so every card
@@ -80,17 +93,25 @@ function PreviewView({ p }: { p: Preview }) {
   const g = p.google && p.google.reviewCount > 0 ? p.google : null;
   const eyebrow = p.hero.eyebrow ?? `${company.trade} & reliable service in ${cityShort}`;
   const reviews = (p.realReviews ?? []).filter((r) => r.text?.trim()).slice(0, 3);
-  const brandStyle = p.brand?.primary ? ({ "--p-accent": p.brand.primary } as CSSProperties) : undefined;
+  // Client colours only (style is skyearc's). Unset values fall back to the CSS defaults.
+  const brandStyle = {
+    ...(p.brand?.primary && { "--brand": p.brand.primary }),
+    ...(p.brand?.dark && { "--brand-dark": p.brand.dark }),
+    ...(p.brand?.accent && { "--brand-hi": p.brand.accent }),
+    ...(p.brand?.primaryInk && { "--brand-ink": p.brand.primaryInk }),
+  } as CSSProperties;
+  // Bento lead photo: the second service photo (the hero already shows the first).
+  const bentoPhoto: StockPhoto = services[1]?.photo ?? services[0].photo;
 
   return (
     <MotionRoot>
       <div style={brandStyle}>
-        {/* Concept banner + sticky navigation */}
+        {/* Concept banner + sticky navigation (transparent over the hero, frosted white on scroll) */}
         <div className="topbar">
           <p className="concept" role="note">
             CONCEPT PREVIEW ONLY — Built by skyeArc AI Technologies for {company.name}. Not live or publicly indexed.
           </p>
-          <SiteNav name={company.name} tel={tel} phone={company.phone} cta={cta} />
+          <SiteNav name={company.name} initials={initials} tagline={logoTag} tel={tel} phone={company.phone} cta={cta} />
         </div>
 
         <main>
@@ -109,7 +130,7 @@ function PreviewView({ p }: { p: Preview }) {
                 decoding="async"
               />
               <div className="hero__shade" />
-              <BlueprintCanvas />
+              <BlueprintCanvas color={p.brand?.primary ?? "#2478cc"} />
             </div>
 
             <div className="wrap split">
@@ -123,10 +144,7 @@ function PreviewView({ p }: { p: Preview }) {
                       <span>{g.reviewCount} reviews</span>
                     </a>
                   ) : (
-                    <p className="pill pill--caps">
-                      <span className="pill__dot" aria-hidden="true" />
-                      <span>{eyebrow}</span>
-                    </p>
+                    <p className="kicker kicker--light">{eyebrow}</p>
                   )}
                 </HeroItem>
                 <HeroTitle id="hero-h" lines={[highlight(p.hero.headline, cityShort)]} />
@@ -138,23 +156,22 @@ function PreviewView({ p }: { p: Preview }) {
                     {cta}
                     <ArrowIcon />
                   </a>
-                  <a className="btn btn--ghost btn--lg" href="#process">
-                    {p.hero.secondaryCta ?? "See how it works"}
+                  <a className="sbtn" href="#process">
+                    <span>{p.hero.secondaryCta ?? "See how it works"}</span>
+                    <i aria-hidden="true">
+                      <ArrowIcon />
+                    </i>
                   </a>
                 </HeroItem>
                 <HeroItem i={2}>
-                  <p className="trustline">
-                    {p.hero.trustLine.slice(0, 3).map((t, i) => (
-                      <span key={t}>
-                        {i > 0 && (
-                          <span className="trustline__dot" aria-hidden="true">
-                            •
-                          </span>
-                        )}
+                  <ul className="hero-proof" aria-label="Why homeowners choose us">
+                    {p.hero.trustLine.slice(0, 3).map((t) => (
+                      <li key={t}>
+                        <CheckMini />
                         {t}
-                      </span>
+                      </li>
                     ))}
-                  </p>
+                  </ul>
                 </HeroItem>
               </div>
 
@@ -172,183 +189,212 @@ function PreviewView({ p }: { p: Preview }) {
               </HeroPanel>
             </div>
             <p className="hero__standin">{STAND_IN_LABEL}</p>
+            <div className="arc-rise" aria-hidden="true">
+              <svg viewBox="0 0 1440 120" preserveAspectRatio="none" focusable="false">
+                <path d="M0 120V96C480 120 1080 60 1440 0V120Z" />
+              </svg>
+            </div>
           </section>
 
           {/* 2. Home: who we help (nav "About Us" scrolls here) */}
-          <section className="section section--white" id="about" aria-labelledby="about-h">
+          <section className="sec sec--white" id="about" aria-labelledby="about-h">
             <div className="wrap">
-              <div className="split split--top">
-                <Reveal className="section__head section__head--flush">
+              <div className="head head--split">
+                <Reveal>
                   <p className="kicker">Who we help</p>
                   <h2 id="about-h">{p.about.headline}</h2>
                 </Reveal>
                 <Reveal delay={0.06}>
-                  <p className="lead-body">{p.about.body}</p>
+                  <p className="head__sub">{p.about.body}</p>
                 </Reveal>
               </div>
-              <div className="cards3">
+              <ul className="who-grid">
                 {p.about.cards.slice(0, 3).map((c, i) => (
-                  <Reveal key={c.title} delay={i * 0.06} className="who">
-                    <span className="who__bar" aria-hidden="true" />
-                    <h3>{c.title}</h3>
-                    <p>{c.body}</p>
-                  </Reveal>
+                  <li key={c.title}>
+                    <Reveal delay={i * 0.06} className="tilt-wrap">
+                      <div className="who-card" data-tilt>
+                        <span className="who-card__n" aria-hidden="true">
+                          {String(i + 1).padStart(2, "0")}
+                        </span>
+                        <h3>{c.title}</h3>
+                        <p>{c.body}</p>
+                      </div>
+                    </Reveal>
+                  </li>
                 ))}
-              </div>
+              </ul>
               <Reveal className="closing">
                 <p>{p.about.closing}</p>
-                <a className="textlink" href="#contact">
+                <a className="tlink" href="#contact">
                   Get in touch <ArrowIcon />
                 </a>
               </Reveal>
             </div>
           </section>
 
-          {/* 3. Problems & solutions */}
+          {/* 3. Problems (bento) & solutions (navy rows) */}
           <section id="services" aria-labelledby="problems-h">
-            <div className="section section--slate">
+            <div className="sec sec--mist">
               <div className="wrap">
-                <Reveal className="section__head">
-                  <p className="kicker">The problem</p>
-                  <h2 id="problems-h">{p.problems.headline}</h2>
-                </Reveal>
-                <ul className="pains">
+                <ul className="bento">
+                  <li className="bt bt-lead" data-tilt>
+                    <SafeImg
+                      photo={{ ...stockSrc(bentoPhoto), alt: bentoPhoto.alt, width: bentoPhoto.w, height: bentoPhoto.h }}
+                      fallback={fallbackImg}
+                      sizes="(max-width: 1199px) 100vw, 820px"
+                    />
+                    <span className="standin">{STAND_IN_LABEL}</span>
+                    <div className="bt-lead-copy">
+                      <p className="kicker kicker--light">The problem</p>
+                      <h2 id="problems-h">{p.problems.headline}</h2>
+                    </div>
+                  </li>
                   {p.problems.points.slice(0, 4).map((pt, i) => (
-                    <li key={pt.title}>
-                      <Reveal delay={i * 0.05} className="pain">
-                        <span className="pain__icon">
-                          <AlertIcon />
-                        </span>
-                        <div>
-                          <h3>{pt.title}</h3>
-                          <p>{pt.body}</p>
-                        </div>
-                      </Reveal>
+                    <li key={pt.title} className={`bt bt-${"abcd"[i]}`} data-tilt>
+                      <span className="bt-ic" aria-hidden="true">
+                        <AlertIcon />
+                      </span>
+                      <h3>{pt.title}</h3>
+                      <p>{pt.body}</p>
                     </li>
                   ))}
                 </ul>
                 <Reveal>
-                  <p className="bridge">{p.problems.bridge}</p>
+                  <p className="bento-note">{p.problems.bridge}</p>
                 </Reveal>
               </div>
             </div>
 
-            <div className="section section--white">
+            <div className="sec sec--navy sec-rows">
               <div className="wrap">
-                <Reveal className="section__head">
-                  <p className="kicker">Services in {cityShort}</p>
+                <Reveal className="head head--light">
+                  <p className="kicker kicker--light">Services in {cityShort}</p>
                   <h2 id="solutions-h">{p.solutions.headline}</h2>
-                  {p.solutions.intro && <p className="measure">{p.solutions.intro}</p>}
+                  {p.solutions.intro && <p className="head__sub">{p.solutions.intro}</p>}
                 </Reveal>
-                <div className="services" style={{ "--cols": 3 } as CSSProperties}>
-                  {services.map((s, i) => {
-                    const img = stockSrc(s.photo);
-                    return (
-                      <Reveal key={s.title} delay={i * 0.05} className="card">
-                        <div className="card__media">
-                          <SafeImg
-                            photo={{ ...img, alt: s.photo.alt, width: s.photo.w, height: s.photo.h }}
-                            fallback={fallbackImg}
-                            sizes="(max-width: 639px) 100vw, (max-width: 1023px) 50vw, 420px"
-                            loading="eager"
-                          />
-                          <span className="standin">{STAND_IN_LABEL}</span>
-                        </div>
-                        <div className="card__body">
-                          <span className="card__num">{String(i + 1).padStart(2, "0")}</span>
-                          <h3>{s.title}</h3>
-                          <p>{s.body}</p>
-                          <a className="card__cta" href="#contact">
-                            {w.requestQuote.replace(/^Request an? /, "Request ")} <span aria-hidden="true">→</span>
-                          </a>
+                {services.map((s, i) => {
+                  const img = stockSrc(s.photo);
+                  return (
+                    <article key={s.title} className="srow">
+                      <Reveal className="srow-txt">
+                        <span className="srow-n">{String(i + 1).padStart(2, "0")}</span>
+                        <h3>{s.title}</h3>
+                        <p>{s.body}</p>
+                        <a className="sbtn" href="#contact">
+                          <span>{w.requestQuote}</span>
+                          <i aria-hidden="true">
+                            <ArrowIcon />
+                          </i>
+                        </a>
+                      </Reveal>
+                      <Reveal delay={0.08} className="tilt-wrap">
+                        <div className="srow-shot" data-tilt>
+                        <SafeImg
+                          photo={{ ...img, alt: s.photo.alt, width: s.photo.w, height: s.photo.h }}
+                          fallback={fallbackImg}
+                          sizes="(max-width: 1023px) 100vw, 640px"
+                          loading="eager"
+                        />
+                        <span className="standin">{STAND_IN_LABEL}</span>
                         </div>
                       </Reveal>
-                    );
-                  })}
-                </div>
+                    </article>
+                  );
+                })}
               </div>
             </div>
           </section>
 
           {/* 4. Process & the difference */}
-          <section className="section section--slate" id="process" aria-labelledby="process-h">
+          <section className="sec sec--white" id="process" aria-labelledby="process-h">
             <div className="wrap">
-              <Reveal className="section__head">
-                <p className="kicker">How it works</p>
-                <h2 id="process-h">{p.process.headline}</h2>
-              </Reveal>
-              <ol className="steps steps--4">
+              <div className="head head--split">
+                <Reveal>
+                  <p className="kicker">How it works</p>
+                  <h2 id="process-h">{p.process.headline}</h2>
+                </Reveal>
+              </div>
+              <ol className="arc2">
                 {p.process.steps.slice(0, 4).map((s, i) => (
-                  <li key={s.title} className="step">
-                    <span className="step__num" aria-hidden="true">
-                      {String(i + 1).padStart(2, "0")}
-                    </span>
-                    <Reveal delay={i * 0.07} className="step__card">
+                  <li key={s.title}>
+                    <Reveal delay={i * 0.07}>
+                      <span className="arc2-L" aria-hidden="true">
+                        {String(i + 1).padStart(2, "0")}
+                      </span>
                       <h3>{s.title}</h3>
                       <p>{s.body}</p>
                     </Reveal>
                   </li>
                 ))}
               </ol>
+            </div>
+          </section>
 
+          <section className="sec sec--mist" id="why" aria-labelledby="why-h">
+            <div className="wrap">
               <div className="why">
-                <Reveal className="section__head">
+                <Reveal className="why-l">
                   <p className="kicker">Why {company.name}</p>
                   <h2 id="why-h">{p.why.headline}</h2>
+                  <a className="tlink" href="#contact">
+                    {w.requestQuote} <ArrowIcon />
+                  </a>
                 </Reveal>
-                <ul className="themes">
+                <ul className="why-list">
                   {p.why.themes.slice(0, 4).map((t, i) => (
                     <li key={t.title}>
-                      <Reveal delay={i * 0.05} className="theme">
-                        <span className="trust__icon">
+                      <Reveal delay={i * 0.05} className="why-item">
+                        <span className="why-ic" aria-hidden="true">
                           <TrustIcon text={`${t.title} ${t.body}`} />
                         </span>
-                        <h3>{t.title}</h3>
-                        <p>{t.body}</p>
+                        <div>
+                          <h3>{t.title}</h3>
+                          <p>{t.body}</p>
+                        </div>
                       </Reveal>
                     </li>
                   ))}
                 </ul>
-
-                {reviews.length > 0 && (
-                  <div className="why__reviews">
-                    <Reveal className="bridge__head">
-                      <h3 className="why__sub">What homeowners say on Google</h3>
-                      {g && (
-                        <a className="bridge__score" href={g.profileUrl} target="_blank" rel="noopener noreferrer">
-                          <Stars rating={g.rating} />
-                          <strong>{g.rating.toFixed(1)}</strong>
-                          <span>from {g.reviewCount} Google reviews</span>
-                        </a>
-                      )}
-                    </Reveal>
-                    <div className="reviews">
-                      {reviews.map((r, i) => (
-                        <Reveal key={`${r.author}-${i}`} delay={i * 0.05}>
-                          <figure className="review">
-                            <span role="img" aria-label={`${r.rating} out of 5 stars`}>
-                              <Stars rating={r.rating} />
-                            </span>
-                            <blockquote>“{r.text}”</blockquote>
-                            <figcaption>
-                              <strong>{r.author}</strong>
-                              {r.date ? ` · ${r.date}` : ""} · Google
-                            </figcaption>
-                          </figure>
-                        </Reveal>
-                      ))}
-                    </div>
-                  </div>
-                )}
               </div>
+
+              {reviews.length > 0 && (
+                <div className="why__reviews">
+                  <Reveal className="bridge__head">
+                    <h3 className="why__sub">What homeowners say on Google</h3>
+                    {g && (
+                      <a className="bridge__score" href={g.profileUrl} target="_blank" rel="noopener noreferrer">
+                        <Stars rating={g.rating} />
+                        <strong>{g.rating.toFixed(1)}</strong>
+                        <span>from {g.reviewCount} Google reviews</span>
+                      </a>
+                    )}
+                  </Reveal>
+                  <div className="reviews">
+                    {reviews.map((r, i) => (
+                      <Reveal key={`${r.author}-${i}`} delay={i * 0.05}>
+                        <figure className="review" data-tilt>
+                          <span role="img" aria-label={`${r.rating} out of 5 stars`}>
+                            <Stars rating={r.rating} />
+                          </span>
+                          <blockquote>“{r.text}”</blockquote>
+                          <figcaption>
+                            <strong>{r.author}</strong>
+                            {r.date ? ` · ${r.date}` : ""} · Google
+                          </figcaption>
+                        </figure>
+                      </Reveal>
+                    ))}
+                  </div>
+                </div>
+              )}
             </div>
           </section>
 
           {/* 5. Final CTA + contact hub */}
-          <section className="section section--navy" id="contact" aria-labelledby="contact-h">
+          <section className="sec sec--navy sec-contact" id="contact" aria-labelledby="contact-h">
             <div className="wrap">
               <Reveal className="final">
-                <p className="kicker">Contact us</p>
+                <p className="kicker kicker--light">Contact us</p>
                 <h2 id="contact-h">{p.finalCta.headline}</h2>
                 <p className="final__body">{p.finalCta.body}</p>
                 <div className="final__actions">
@@ -356,8 +402,11 @@ function PreviewView({ p }: { p: Preview }) {
                     {p.finalCta.cta ?? cta} <ArrowIcon />
                   </a>
                   {tel && (
-                    <a className="btn btn--ghost btn--lg" href={tel}>
-                      Call {company.phone}
+                    <a className="sbtn" href={tel}>
+                      <span>Call {company.phone}</span>
+                      <i aria-hidden="true">
+                        <PhoneIcon />
+                      </i>
                     </a>
                   )}
                 </div>
@@ -394,25 +443,21 @@ function PreviewView({ p }: { p: Preview }) {
           </section>
 
           {/* 6. FAQ */}
-          <section className="section section--white" id="faq" aria-labelledby="faq-h">
-            <div className="wrap split split--top">
-              <Reveal className="section__head section__head--flush">
+          <section className="sec sec--white" id="faq" aria-labelledby="faq-h">
+            <div className="wrap faq-wrap">
+              <Reveal className="faq-l">
                 <p className="kicker">FAQ</p>
                 <h2 id="faq-h">Questions homeowners ask</h2>
-                <p className="measure">
-                  Something else on your mind?{" "}
-                  <a className="link" href="#contact">
-                    Ask us directly
-                  </a>
-                  .
-                </p>
+                <a className="tlink" href="#contact">
+                  Ask us directly <ArrowIcon />
+                </a>
               </Reveal>
-              <div className="faq">
+              <div className="faq-list">
                 {p.faq.slice(0, 5).map((f, i) => (
-                  <details key={f.q} className="faq__item" open={i === 0}>
+                  <details key={f.q} open={i === 0}>
                     <summary>
                       <span>{f.q}</span>
-                      <span className="faq__icon" aria-hidden="true" />
+                      <PlusIcon />
                     </summary>
                     <p>{f.a}</p>
                   </details>
@@ -422,31 +467,50 @@ function PreviewView({ p }: { p: Preview }) {
           </section>
         </main>
 
-        <footer className="footer">
+        <footer className="ftr">
           <div className="wrap">
-            <div className="footer__top split">
-              <div>
-                <p className="footer__name">{company.name}</p>
-                <nav className="footer__nav" aria-label="Footer">
-                  {NAV_LINKS.map((l) => (
-                    <a key={l.href} href={l.href}>
-                      {l.label}
-                    </a>
-                  ))}
-                </nav>
+            <div className="ftr-grid">
+              <div className="ftr-brand">
+                <Logo name={company.name} initials={initials} tagline={logoTag} size="lg" />
+                <p>{p.hero.subhead.split(". ")[0]}.</p>
               </div>
-              <div className="footer__meta">
-                <span>{company.trade}</span>
-                {area && <span>Serving {listJoin(area)}</span>}
+              <div>
+                <h3>Explore</h3>
+                <ul>
+                  {NAV_LINKS.map((l) => (
+                    <li key={l.href}>
+                      <a href={l.href}>{l.label}</a>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+              <div>
+                <h3>Services</h3>
+                <ul>
+                  {services.map((s) => (
+                    <li key={s.title}>
+                      <a href="#services">{s.title}</a>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+              <div>
+                <h3>Contact</h3>
+                {area && <p>Serving {listJoin(area)}</p>}
                 {tel && (
-                  <a href={tel} className="link">
-                    {company.phone}
-                  </a>
+                  <p>
+                    <a className="ftr-tel" href={tel}>
+                      {company.phone}
+                    </a>
+                  </p>
                 )}
+                <a className="btn btn--primary" href="#contact">
+                  {cta}
+                </a>
               </div>
             </div>
-            <div className="footer__legal">
-              <span>Concept preview built by skyeArc AI Technologies. Not a live website.</span>
+            <div className="ftr-base">
+              <span>Concept preview built by skyeArc AI Technologies. Not a live website. Logo shown is a concept mark.</span>
               <div className="footer__soft-row">
                 <LaunchLinks items={["Privacy Policy", "Terms"]} />
                 {credits.length > 0 && (
@@ -472,10 +536,28 @@ function PreviewView({ p }: { p: Preview }) {
           </div>
         </footer>
 
+        <TiltCards />
         <SkyeChat slug={p.slug} company={company.name} quoteWord={w.quote} tel={tel} greeting={p.skyeGreeting} />
         <MobileBar tel={tel} quoteLabel={cta} />
       </div>
     </MotionRoot>
+  );
+}
+
+function CheckMini() {
+  return (
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+      <circle cx="12" cy="12" r="9" stroke="currentColor" strokeWidth="2" />
+      <path d="m8 12.5 2.6 2.6L16 9.6" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
+    </svg>
+  );
+}
+
+function PlusIcon() {
+  return (
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+      <path d="M12 5v14M5 12h14" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" />
+    </svg>
   );
 }
 

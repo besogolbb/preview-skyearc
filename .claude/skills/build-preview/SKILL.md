@@ -99,7 +99,8 @@ Copy `data/previews/_TEMPLATE.json`; it documents every field. Slug = company na
 | `gap` | The one lead-capture gap. Never rendered. |
 | `market` | `"AU"` or `"US"` |
 | `company` | `name`, `trade` (noun phrase), `city` ("Perth, WA" / "Plano, TX"); optional `serviceArea[]`, `phone` (as published), `credential` (ONLY if published) |
-| `brand.primary` | Optional hex from their own site; omit to keep amber `#f59e0b` |
+| `logo` | Concept logo (auto-rendered in nav, footer and tab icon): `initials` (1-3 letters, e.g. `PC`) and `tagline` (e.g. `Carpentry & Roofing · Perth`). Never their real logo file. |
+| `brand` | Client colours `{ primary, dark, accent, primaryInk }`, see the Design rule; omit if unknown |
 | `assetFolder` | One of the `NICHES` keys above |
 | `google` | `{ rating, reviewCount, profileUrl }` with the REAL Google Maps listing link, or `null` |
 | `hero` | `eyebrow` (used only when `google` is null), `headline` (names trade + city; the city word is auto-highlighted), `subhead` (2 sentences), optional `primaryCta`/`secondaryCta`, `trustLine` (exactly 3), `photo` (hero-capable key) |
@@ -115,6 +116,25 @@ Copy `data/previews/_TEMPLATE.json`; it documents every field. Slug = company na
 | `faq` | Exactly 5 `{q, a}` |
 | `embeds` | `ghlFormUrl`, `ghlCalendarUrl` (empty string = working mockup with a "Preview mockup" tag), optional `skyeWebhookUrl`, `quickQuoteWebhookUrl` |
 
+## Design rule: skyearc.tech STYLE, client COLOURS (permanent)
+Every preview copies the *style* of skyearc.tech and the *colours* of the client. Never use SkyeArc's own colours (navy #07213f, ocean #044696, sky #23bdf5, coral) on a client preview.
+
+**Style (already built into `app/[slug]/page.tsx` + the "PREMIUM LAYER" in `app/globals.css`; do not restyle per prospect):**
+- Type: Montserrat 700/800 headings, Open Sans body, uppercase letter-spaced kickers.
+- Header clear over the hero, frosted white once scrolled; full-bleed photo hero with a dark brand gradient, the city word in the H1 drawn with an animated arc underline, a curved white wave into the next section.
+- **Apple TV-style cards**: any element with `data-tilt` leans toward the cursor in 3D with a moving glare (`components/preview/TiltCards.tsx`). Used on Who-We-Help cards, the problem bento tiles, service photos and review cards. Mouse only; off on touch and reduced motion. Put `data-tilt` on an element INSIDE a `<Reveal>`, never on the Reveal itself (framer-motion overwrites its transform).
+- Problems as a bento grid (big photo tile + 4 dark tiles), services as alternating dark rows (text + photo), glass pill buttons with a round arrow chip, process as big numerals, Why-us as a sticky left column + bordered list, two-column FAQ, four-column footer.
+
+**Colours (from the client only):** fill `brand` in the JSON:
+| Field | Used for | Default if unknown |
+|---|---|---|
+| `brand.primary` | buttons, links, logo badge, blueprint lines | `#2478CC` |
+| `brand.dark` | hero shade, dark sections, footer | `#13243A` |
+| `brand.accent` | arc underline, icons, numerals on dark | `#F59E0B` |
+| `brand.primaryInk` | text on primary buttons | `#ffffff` (use `#0b1626` when primary is light: yellow, lime, sky) |
+
+How to find them: the client's website CSS (`theme-color`, button and header colours), their logo, van wraps or signage in their Google Business Profile photos (look, don't download). Record the source in `_sources.brand`. Check contrast: white text on `primary` must read clearly (4.5:1); if not, set `primaryInk`. `dark` must be dark enough for white text. If nothing is verifiable, omit `brand` and the defaults apply.
+
 ## Permanent fixes already in the code (do NOT re-troubleshoot these)
 - **Broken/blank images:** `resolvePhoto()` (`lib/stock-server.ts`) checks every photo's files exist at build time and falls back to `DEFAULT_PHOTO` (`framing`). Service cards render through `components/preview/SafeImg.tsx` with `loading="eager"` and an `onError` swap to the default photo (it also catches errors that fired before hydration). A wrong key can never produce a grey box, but fix it anyway: the checker reports it.
 - **Photo paths:** the library lives in `public/assets/<niche>/`. There is no `public/stock/` any more; the checker errors on `/stock/`.
@@ -123,6 +143,7 @@ Copy `data/previews/_TEMPLATE.json`; it documents every field. Slug = company na
 - **Sticky header:** the concept banner and nav are in normal flow (sticky), so they never overlap the hero. Long company names wrap to 2 lines on phones; the header CTA hides on phones (it's in the drawer and bottom bar).
 - **Wording safety:** CTA defaults to "Get a quote"/"Get an estimate". Only write "Free quote" if the contractor publicly offers it. Never write "no hidden fees", guarantees, "more leads" or revenue promises (the checker errors on these). The licence FAQ offers to send details unless `company.credential` is published.
 - **GHL embeds:** empty URLs show working mockups, not placeholders. The quick hero form posts to `/api/quote`; without a webhook (501) it pre-fills the hub form and scrolls to `#hub`.
+- **Logo:** every preview gets an original typographic concept logo (`components/preview/Logo.tsx`: initials under a roof line in the brand colour, plus name and tagline), also used as the browser tab icon. The footer notes it is a concept mark. Just fill `logo.initials` / `logo.tagline`; defaults work if omitted.
 - **Robots:** `noindex, nofollow` is hard-coded in `app/layout.tsx`, `X-Robots-Tag` is set in `next.config.ts`, and `public/robots.txt` disallows all. Don't touch.
 
 ## Research tactics that work

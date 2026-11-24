@@ -8,8 +8,18 @@
     "name": "Banksia Line Plumbing",
     "trade": "Plumbing and hot water",
     "city": "Penrith, NSW",
-    "serviceArea": ["Penrith", "St Marys", "Emu Plains", "Glenmore Park", "Kingswood"],
+    "serviceArea": [
+      "Penrith",
+      "St Marys",
+      "Emu Plains",
+      "Glenmore Park",
+      "Kingswood"
+    ],
     "phone": "0491 570 156"
+  },
+  "logo": {
+    "initials": "BL",
+    "tagline": "Plumbing & Hot Water · Penrith"
   },
   "assetFolder": "plumbing",
   "google": null,
@@ -17,58 +27,123 @@
     "eyebrow": "Plumbing & hot water in Penrith",
     "headline": "Blocked drain or no hot water in Penrith? Get it sorted properly.",
     "subhead": "Blocked drains, leaking taps, hot water systems and renovation rough-ins across Penrith and the lower Blue Mountains. Send the job through and get a clear quote.",
-    "trustLine": ["Clear written quotes", "Local Penrith plumber", "Fast response"],
+    "trustLine": [
+      "Clear written quotes",
+      "Local Penrith plumber",
+      "Fast response"
+    ],
     "photo": "plumbing"
   },
   "quoteField": {
     "label": "Urgency",
-    "options": ["Emergency today", "This week", "Quote only"]
+    "options": [
+      "Emergency today",
+      "This week",
+      "Quote only"
+    ]
   },
   "skyeGreeting": "G'day, I'm Skye, the assistant for Banksia Line Plumbing. Got a leak, a blocked drain or a hot water problem? Tell me what's going on and I'll help you get a quote or book a time.",
   "about": {
     "headline": "You get on with your day. We handle the plumbing properly.",
     "body": "When something's leaking or the hot water's gone, you want someone who picks up, tells you what it'll cost and turns up when they say. That's how every job is run, from a dripping tap to a full hot water swap.",
     "cards": [
-      { "title": "Families with no hot water", "body": "Gas, electric and heat-pump units repaired or replaced, with the old unit taken away." },
-      { "title": "Drains that keep blocking", "body": "Cleared properly, with a camera check so you know why it keeps happening." },
-      { "title": "Renovators", "body": "Rough-in pipework for kitchens and bathrooms, ready for your tiler and cabinetmaker." }
+      {
+        "title": "Families with no hot water",
+        "body": "Gas, electric and heat-pump units repaired or replaced, with the old unit taken away."
+      },
+      {
+        "title": "Drains that keep blocking",
+        "body": "Cleared properly, with a camera check so you know why it keeps happening."
+      },
+      {
+        "title": "Renovators",
+        "body": "Rough-in pipework for kitchens and bathrooms, ready for your tiler and cabinetmaker."
+      }
     ],
     "closing": "Not sure if it's urgent? Send a photo and a quick note and we'll tell you straight."
   },
   "problems": {
     "headline": "Finding a reliable plumber in Penrith shouldn't be this hard.",
     "points": [
-      { "title": "Unreturned calls & slow quotes", "body": "You ring around, leave messages, and nobody gets back to you while the leak gets worse." },
-      { "title": "Vague pricing & surprise costs", "body": "A call-out that turns into a bill you didn't see coming." },
-      { "title": "No-shows and long waits", "body": "A window of 'sometime Thursday' and no word when they're running late." },
-      { "title": "Mess left behind", "body": "Mud through the house and old parts left on the lawn." }
+      {
+        "title": "Unreturned calls & slow quotes",
+        "body": "You ring around, leave messages, and nobody gets back to you while the leak gets worse."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "A call-out that turns into a bill you didn't see coming."
+      },
+      {
+        "title": "No-shows and long waits",
+        "body": "A window of 'sometime Thursday' and no word when they're running late."
+      },
+      {
+        "title": "Mess left behind",
+        "body": "Mud through the house and old parts left on the lawn."
+      }
     ],
     "bridge": "You shouldn't have to chase a tradie just to get a clear quote."
   },
   "solutions": {
     "headline": "Straightforward plumbing, quoted clearly and fixed properly.",
     "services": [
-      { "title": "Blocked drains", "body": "Sinks, toilets and stormwater cleared, with a camera check when the blockage keeps coming back.", "photo": "plumbing" },
-      { "title": "Hot water systems", "body": "Gas, electric and heat-pump units repaired or replaced, old unit taken away.", "photo": "bathroom" },
-      { "title": "Leaks and renovation rough-ins", "body": "Dripping taps, leaking cisterns and burst pipes fixed, plus pipework for kitchen and bathroom renos.", "photo": "kitchen" }
+      {
+        "title": "Blocked drains",
+        "body": "Sinks, toilets and stormwater cleared, with a camera check when the blockage keeps coming back.",
+        "photo": "plumbing"
+      },
+      {
+        "title": "Hot water systems",
+        "body": "Gas, electric and heat-pump units repaired or replaced, old unit taken away.",
+        "photo": "bathroom"
+      },
+      {
+        "title": "Leaks and renovation rough-ins",
+        "body": "Dripping taps, leaking cisterns and burst pipes fixed, plus pipework for kitchen and bathroom renos.",
+        "photo": "kitchen"
+      }
     ]
   },
   "process": {
     "headline": "We listen to what's wrong. Quote it clearly. Fix it properly.",
     "steps": [
-      { "title": "Request your quote", "body": "Send the job through the form or give us a ring. A suburb and a quick description is plenty." },
-      { "title": "Site visit & clear scope", "body": "We check the problem and tell you what's needed and what it costs before starting." },
-      { "title": "Clean, on-time work", "body": "We turn up when we say, protect the floors and clean up before we leave." },
-      { "title": "Final check", "body": "We test everything with you and make sure it's all working before we pack up." }
+      {
+        "title": "Request your quote",
+        "body": "Send the job through the form or give us a ring. A suburb and a quick description is plenty."
+      },
+      {
+        "title": "Site visit & clear scope",
+        "body": "We check the problem and tell you what's needed and what it costs before starting."
+      },
+      {
+        "title": "Clean, on-time work",
+        "body": "We turn up when we say, protect the floors and clean up before we leave."
+      },
+      {
+        "title": "Final check",
+        "body": "We test everything with you and make sure it's all working before we pack up."
+      }
     ]
   },
   "why": {
     "headline": "We're not here to rush the job. We're here to fix it properly.",
     "themes": [
-      { "title": "Plumbing-focused", "body": "Drains, hot water and leaks are the whole job, every day." },
-      { "title": "Clear written quotes", "body": "You know the price before the work starts." },
-      { "title": "Clean & respectful", "body": "Shoe covers on, floors protected, mess taken away." },
-      { "title": "Direct communication", "body": "You talk to the plumber doing the job, not a call centre." }
+      {
+        "title": "Plumbing-focused",
+        "body": "Drains, hot water and leaks are the whole job, every day."
+      },
+      {
+        "title": "Clear written quotes",
+        "body": "You know the price before the work starts."
+      },
+      {
+        "title": "Clean & respectful",
+        "body": "Shoe covers on, floors protected, mess taken away."
+      },
+      {
+        "title": "Direct communication",
+        "body": "You talk to the plumber doing the job, not a call centre."
+      }
     ]
   },
   "realReviews": [],
@@ -78,11 +153,26 @@
     "microcopy": "No pressure. Just a straightforward chat about the job."
   },
   "faq": [
-    { "q": "How do quotes work?", "a": "Send the job through or give us a call. For simple jobs we can often quote from photos; bigger ones get a quick site visit, then a written quote." },
-    { "q": "Which areas around Penrith do you cover?", "a": "Penrith, St Marys, Emu Plains, Glenmore Park and Kingswood. Close by but not on the list? Ask anyway." },
-    { "q": "Are you licensed and insured?", "a": "Ask when you request a quote and we'll send through the licence and insurance details for your job." },
-    { "q": "How soon can you look at my job?", "a": "Pick 'Emergency today' on the form and we'll know it's urgent. Everything else gets a reply to book a time, or you can grab a slot in the calendar." },
-    { "q": "What happens after I submit a request?", "a": "Your details come straight to us, you get a text and email confirmation, and we get back to you to sort a time." }
+    {
+      "q": "How do quotes work?",
+      "a": "Send the job through or give us a call. For simple jobs we can often quote from photos; bigger ones get a quick site visit, then a written quote."
+    },
+    {
+      "q": "Which areas around Penrith do you cover?",
+      "a": "Penrith, St Marys, Emu Plains, Glenmore Park and Kingswood. Close by but not on the list? Ask anyway."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request a quote and we'll send through the licence and insurance details for your job."
+    },
+    {
+      "q": "How soon can you look at my job?",
+      "a": "Pick 'Emergency today' on the form and we'll know it's urgent. Everything else gets a reply to book a time, or you can grab a slot in the calendar."
+    },
+    {
+      "q": "What happens after I submit a request?",
+      "a": "Your details come straight to us, you get a text and email confirmation, and we get back to you to sort a time."
+    }
   ],
   "embeds": {
     "ghlFormUrl": "",
