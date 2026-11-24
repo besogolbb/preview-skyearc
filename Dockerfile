@@ -32,6 +32,9 @@ COPY --from=builder --chown=nextjs:nodejs /app/data ./data
 
 USER nextjs
 EXPOSE 3000
-HEALTHCHECK --interval=30s --timeout=5s --start-period=20s --retries=3 \
-  CMD wget -qO- http://127.0.0.1:3000/robots.txt >/dev/null || exit 1
-CMD ["node", "server.js"]
+# Health check hits the port the app actually listens on (PORT, default 3000).
+HEALTHCHECK --interval=30s --timeout=5s --start-period=40s --retries=3 \
+  CMD wget -qO- "http://127.0.0.1:${PORT:-3000}/robots.txt" >/dev/null || exit 1
+# Docker Swarm (EasyPanel) can override HOSTNAME with the container name, which makes
+# Next.js listen only on that interface and fail the health check. Force 0.0.0.0.
+CMD ["sh", "-c", "HOSTNAME=0.0.0.0 exec node server.js"]
