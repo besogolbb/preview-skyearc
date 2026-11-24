@@ -180,6 +180,12 @@ How to find them: the client's website CSS (`theme-color`, button and header col
 - **Problem-tile icons are automatic and specific, never a generic "!" alert:** each pain point gets an icon from its TITLE (body only as fallback) via `lib/problem-icons.ts`: calls/replies → phone with a cross, pricing/costs/quotes → price tag, timelines/no-shows/waits → clock, sloppy/uneven finishing → uneven tiles, mess/sites/debris → broom. Write pain-point titles that name the problem plainly ("Unreturned calls & slow quotes", "Vague pricing & surprise costs", "Missed timelines", "Messy job sites"); `check:preview` warns if a title matches no icon. New kind of pain point? Add a rule + icon instead of reusing a wrong one.
 - **Robots:** `noindex, nofollow` is hard-coded in `app/layout.tsx`, `X-Robots-Tag` is set in `next.config.ts`, and `public/robots.txt` disallows all. Don't touch.
 
+## Deploy (auto)
+- Pushing to `preview-site` on github.com/besogolbb/preview-skyearc auto-deploys on EasyPanel (service preview-skyearc, Dockerfile, proxy port 80).
+- How it works: the GitHub webhook calls `https://panel.benedictjan.com/api/deploy/<token>`. That host goes through Cloudflare (the server firewall CF-LOCK only accepts Cloudflare IPs), and a Cloudflare Access **Bypass** app for path `api/deploy/*`, limited to GitHub's hook IP ranges, lets it past the Access login that protects the dashboard. If a push doesn't deploy, check GitHub → Settings → Webhooks → Recent Deliveries: 302 = Access is blocking (bypass app missing/expired), 403 = WAF/bot rule, timeout = it's pointing at the old `*.easypanel.host` address.
+- `https://preview.skyearc.tech/version.txt` shows which build is live; bump it when you need to confirm a deploy.
+- Your PC may cache old DNS for preview.skyearc.tech; prospects are not affected.
+
 ## Research tactics that work
 - **Google Business Profile:** WebFetch on a Maps URL returns an empty JS shell. Render it in headless Chrome instead (e.g. design-taste-frontend's `shoot.mjs --url "<maps url>?hl=en" --w 1440 --h 900 --wait 8000`) and read the screenshot: name, rating, category, phone, hours and the drawn service area are visible. The signed-out view hides the review count and review text, so ask the user to paste verbatim reviews; never paraphrase.
 - **Directories that list AU tradies:** tradieladder.com.au (rating + Google review count, dated), carpentersau.one, avenueperth.com, Houzz, Oneflare. whereis.com returns 403. Cross-check the phone across at least 2 sources and record each in `_sources`.
