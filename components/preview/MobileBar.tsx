@@ -15,16 +15,26 @@ export default function MobileBar({ tel, quoteLabel }: { tel?: string; quoteLabe
     const hero = document.getElementById("home");
     const hub = document.getElementById("contact");
     const seen = new Map<Element, boolean>();
+    const root = document.documentElement;
     const io = new IntersectionObserver(
       (entries) => {
         for (const e of entries) seen.set(e.target, e.isIntersecting);
-        setHidden([...seen.values()].some(Boolean));
+        const off = [...seen.values()].some(Boolean);
+        setHidden(off);
+        // Tell the floating chat where it is (phone layout in globals.css):
+        // hidden over the hero, above this bar when the bar shows.
+        root.dataset.bar = off ? "off" : "on";
+        root.dataset.hero = hero && seen.get(hero) ? "1" : "0";
       },
       { threshold: 0.1 },
     );
     if (hero) io.observe(hero);
     if (hub) io.observe(hub);
-    return () => io.disconnect();
+    return () => {
+      io.disconnect();
+      delete root.dataset.bar;
+      delete root.dataset.hero;
+    };
   }, []);
 
   return (

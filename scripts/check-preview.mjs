@@ -66,7 +66,11 @@ for (const slug of slugs) {
     const v = p.brand?.[key];
     if (v !== undefined) need(/^#[0-9a-fA-F]{6}$/.test(v), `brand.${key} must be a 6-digit hex like #2478CC, got "${v}"`);
   }
+  if (!p.brand) warns.push("no brand colours: run Step 1b (their brand, else sample-brand.mjs on their listing photo); defaults are the last resort");
+  else if (!p._sources?.brand) errs.push("brand is set but _sources.brand doesn't say where the colours came from");
   if (/#07213f|#044696|#23bdf5|#fc7a58/i.test(JSON.stringify(p.brand ?? {}))) errs.push("brand uses SkyeArc's own colours: previews take the CLIENT's colours");
+
+  if (/Skye/.test(p.skyeGreeting ?? "") || /Skye/i.test(p.assistantName ?? "")) errs.push("the chat says 'Skye': it must speak as the client (assistantName / skyeGreeting)");
 
   // Photos: keys only, every file on disk.
   if (p.assetFolder !== undefined) need(p.assetFolder in NICHES, `assetFolder "${p.assetFolder}" is not one of: ${Object.keys(NICHES).join(", ")}`);

@@ -17,10 +17,24 @@ When invoked with `<Company Name> <Sub-Niche> <City> <AU|US> [Optional URL]`:
 ## Step 1: Research & Fact Verification (Playwright MCP)
 - If a Website, Facebook, or LinkedIn URL is provided, inspect it first.
 - If no URL is provided or a social page hits a login wall, search public listings (Google Business Profile / directories) for `<Company Name> <City>`.
-- Extract ONLY verified public facts: exact business name, phone number, suburbs/service areas, real services offered, primary/accent brand hex colors (if site exists; otherwise default to `#13243A`, `#2478CC`, `#F59E0B`), Google rating/review count, and up to 3 verbatim public Google reviews.
+- Extract ONLY verified public facts: exact business name, phone number, suburbs/service areas, real services offered, Google rating/review count, and up to 3 verbatim public Google reviews.
 - Identify **1 specific lead-capture gap** (e.g., no website, no quote form above the fold, Facebook-only, slow/manual reply).
 - NEVER invent reviews, stats, years in business, or licenses. If a detail is not publicly verified, omit it cleanly.
 - NEVER download or host a prospect's copyrighted photos or logo files. Map `assetFolder` to our local `/public/assets/<niche>/` sample photos.
+
+## Step 1b: Client colour palette (MANDATORY for every prospect)
+The page style is always skyearc.tech; the **colours are always the client's**. Work down this list and stop at the first that exists:
+1. **Their own brand**: website CSS (`theme-color`, header/button colours), logo, Facebook/Instagram profile image, van wrap or signage. Use those hexes.
+2. **No brand online** (the usual case for small trades): take the colours of **their own work** from their Google Business Profile cover photo:
+   ```bash
+   node <design-taste-frontend>/scripts/shoot.mjs --url "https://www.google.com/maps/search/<Name>+<City>?hl=en" --w 1440 --h 900 --out .taste-skill/shots/<slug>-maps.png --profile .taste-skill/chrome-maps --no-tiles --wait 8000
+   node scripts/sample-brand.mjs .taste-skill/shots/<slug>-maps.png
+   ```
+   LOOK at the screenshot first (it must be their listing, not a search list), then at the suggestion. The script prints dominant colours, a suggested `{ primary, dark, accent }` and the contrast checks. Adjust by eye if it misses the obvious colour of the photo (e.g. Moxey: marble `#d1d1c8` read better as accent than the suggested darker grey). Only colours are measured: never save or reuse their photo.
+   **Grey/low-colour photo (marble, concrete, white rooms)?** Never ship a black-and-white page: the headline highlight and CTA buttons need real colour. `sample-brand.mjs` detects it and takes the hidden hue of the photo's most colourful 8% of pixels (Moxey's marble: 43° = brass), suggesting a saturated `primary` + `accent` and `primaryInk: "#1d1c18"` when white text fails on a light primary. Result for Moxey: matte black `#282823` + brass `#d0a539` / `#e2bd5e`, brass logo.
+3. **No usable photo either**: omit `brand`; defaults apply (`#2478CC` / `#13243A` / `#F59E0B`).
+
+Rules: white on `primary` ≥ 4.5:1, white on `dark` ≥ 4.5:1, `accent` on `dark` ≥ 4.5:1 (`sample-brand.mjs` exits 2 if not). If `primary` is light, add `primaryInk: "#0b1626"`. Record the source in `_sources.brand`; for option 2 say "sampled from their listing photo, not an official brand; confirm with the owner". Worked examples: Moxey (marble bathroom, low-colour → brass) = `#d0a539 / #282823 / #e2bd5e`, ink `#1d1c18`; Perth (blue trusses on terracotta) = `#305b83 / #241b20 / #caa183`.
 
 ## Step 2: Sub-Niche & Market Localization
 - **AU (`AU`):** Use "quotes", "tradies/builders", casual and direct tone.
@@ -33,7 +47,7 @@ When invoked with `<Company Name> <Sub-Niche> <City> <AU|US> [Optional URL]`:
 
 ## Step 3: Write Complete Homepage Copy into `data/previews/<slug>.json`
 Write homeowner-facing, zero-hype conversion copy matching our `PreviewData` schema:
-1. **Hero:** Eyebrow, Headline, Subhead, Primary/Secondary CTA, 3-item Trust Line, 4th form field options, Skye AI greeting.
+1. **Hero:** Eyebrow, Headline, Subhead, Primary/Secondary CTA, 3-item Trust Line, 4th form field options, chat greeting as the client ("I'm the <Company> assistant", never Skye).
 2. **Who We Help (`#about`):** Headline, Body, 3 tailored project/customer cards, Closing line.
 3. **Problems & Solutions (`#services`):** Problem Headline, 4 homeowner pain points, Bridge line, Solution Headline, 3 numbered service cards mapped to their real services.
 4. **Process & Why Us (`#process`):** Process Headline, 4 clear steps, Why Us Headline, 4 proof themes, plus verified `realReviews` array (empty if none found).
@@ -45,7 +59,11 @@ Use the installed `logo-design` skill (`~/.claude/skills/logo-design`, run its s
 1. Brief in one line from the research (trade, 3 adjectives, what to avoid). List the category clichés (house, roof, hammer, wrench, faucet, water drop) and avoid them unless given a fresh form.
 2. Build **3 black SVG concepts** (viewBox 0 0 256 256, no `<text>`, letterforms as paths), across mark types (monogram / pictorial / abstract), in `.taste-skill/logos/<slug>/`.
 3. `py -3 <skill>/scripts/svg_audit.py …` then `concept_sheet.py … --greyscale -o .taste-skill/logos/<slug>-concepts.png` and LOOK at it. Run the craft checks: letter test (does the M read as an M at 16 px?), unintended readings (a "shirt", an "arrow"), clip-art literalism. Revise until one passes; snap near-miss angles the audit flags.
-4. Final site file: white one-colour mark centred (scale ~0.6) on a rounded tile (`rx="56"`) in the CLIENT's `brand.primary` (default `#2478cc`), saved as `public/assets/logos/<slug>.svg`. Keep it one colour: a second colour on part of the mark can create false readings.
+4. Final site file, in the CLIENT's palette from Step 1b: the mark in ONE colour on a rounded tile. Pick the pair that echoes their work and contrasts strongly, e.g. `primary`/`accent` on `dark` (Moxey: brass M on matte black) or a light tint of `primary` on `dark` (Perth: timber blue `#6fa3cf` on charcoal):
+   ```bash
+   node scripts/make-logo-tile.mjs .taste-skill/logos/<slug>/final-mark.svg <slug> --bg "<dark>" --fg "<accent or light primary>" [--scale 0.6] [--dy 6]
+   ```
+   It writes `public/assets/logos/<slug>.svg` (refuses live `<text>` and a non-256 viewBox). Render it with `render_png.py` and LOOK at it at 256 and 32 px before using it. Keep the mark one colour: two colours on parts of a mark create false readings (Perth's amber king post read as a "down arrow").
 5. In the JSON: `"logo": { "initials", "tagline", "svg": "/assets/logos/<slug>.svg" }`. The page shows it in nav, footer and as the tab icon; if the file is missing it falls back to the initials badge, and `check:preview` errors.
 6. Never copy or trace the prospect's real logo or any library logo. The footer already says "Logo shown is a concept mark."
 
@@ -157,6 +175,8 @@ How to find them: the client's website CSS (`theme-color`, button and header col
 - **Wording safety:** CTA defaults to "Get a quote"/"Get an estimate". Only write "Free quote" if the contractor publicly offers it. Never write "no hidden fees", guarantees, "more leads" or revenue promises (the checker errors on these). The licence FAQ offers to send details unless `company.credential` is published.
 - **GHL embeds:** empty URLs show working mockups, not placeholders. The quick hero form posts to `/api/quote`; without a webhook (501) it pre-fills the hub form and scrolls to `#hub`.
 - **Logo:** every preview gets a designed concept mark from Step 3b (`logo.svg`); without one it falls back to an original typographic badge (`components/preview/Logo.tsx`: initials under a roof line in the brand colour, plus name and tagline), also used as the browser tab icon. The footer notes it is a concept mark. Just fill `logo.initials` / `logo.tagline`; defaults work if omitted.
+- **Chat widget speaks as the CLIENT, never "Skye"** (that's SkyeArc's own name): the button reads "Ask <first word of the company>" ("Ask Moxey", "Ask Perth"); override with `assistantName`. `skyeGreeting` must say "I'm the <Company> assistant", and `check:preview` errors if it says Skye.
+- **Chat position on phones:** hidden over the hero (it has its own call/quote buttons), a round button just above the Call/Quote bar while scrolling, and at the bottom edge in the contact section. `MobileBar` sets `html[data-bar]` / `html[data-hero]` and `globals.css` positions it. Don't move it by hand per prospect.
 - **Robots:** `noindex, nofollow` is hard-coded in `app/layout.tsx`, `X-Robots-Tag` is set in `next.config.ts`, and `public/robots.txt` disallows all. Don't touch.
 
 ## Research tactics that work

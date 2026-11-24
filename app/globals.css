@@ -1246,7 +1246,7 @@ a.pill:hover { background: rgb(255 255 255 / 0.14); }
   --p-accent: var(--brand);
   --p-accent-hover: color-mix(in oklab, var(--brand), black 16%);
   --p-accent-ink: var(--brand-ink);
-  --p-accent-text: color-mix(in oklab, var(--brand), black 22%);
+  --p-accent-text: color-mix(in oklab, var(--brand), black 42%);
   --hi: var(--brand-hi);
 
   --p-ink: color-mix(in oklab, var(--brand-dark), black 25%);
@@ -1611,7 +1611,27 @@ h3 { font-weight: 700; letter-spacing: -0.01em; color: var(--p-ink); }
   --p-accent: var(--brand);
   --p-accent-hover: color-mix(in oklab, var(--brand), black 16%);
   --p-accent-ink: var(--brand-ink);
-  --p-accent-text: color-mix(in oklab, var(--brand), black 22%);
+  --p-accent-text: color-mix(in oklab, var(--brand), black 42%);
   --hi: var(--brand-hi);
   --p-ink: color-mix(in oklab, var(--brand-dark), black 25%);
+}
+
+/* ---------- phone: floating chat never covers content ---------- */
+@media (max-width: 767px) {
+  .chat-launch {
+    right: calc(16px + env(safe-area-inset-right));
+    bottom: calc(16px + env(safe-area-inset-bottom));
+    width: 56px; height: 56px; padding: 0; justify-content: center;
+    transition: bottom 0.25s var(--ease-out), opacity 0.25s ease, transform 0.25s var(--ease-out), visibility 0s;
+  }
+  .chat-launch__dot { width: 44px; height: 44px; }
+  /* sits just above the Call / Get a quote bar while it shows */
+  html[data-bar="on"] .chat-launch { bottom: calc(var(--bar) + 12px); }
+  /* hidden over the hero: the hero already has the call and quote buttons */
+  html[data-hero="1"] .chat-launch:not([aria-expanded="true"]) {
+    opacity: 0; transform: translateY(16px) scale(0.9); visibility: hidden; pointer-events: none;
+    transition: opacity 0.2s ease, transform 0.2s ease, visibility 0s 0.2s;
+  }
+  .chat { right: 12px; left: 12px; width: auto; bottom: calc(84px + env(safe-area-inset-bottom)); height: min(540px, calc(100svh - var(--top) - 110px)); }
+  html[data-bar="on"] .chat { bottom: calc(var(--bar) + 80px); height: min(540px, calc(100svh - var(--top) - var(--bar) - 110px)); }
 }

@@ -91,8 +91,10 @@ export type Preview = {
   };
   /** The quick form's 4th field, by sub-niche (Project type, Roof need, Urgency…). */
   quoteField: { label: string; options: string[] };
-  /** First message from the Skye chat widget. */
+  /** First message from the chat widget. Never say "Skye": the chat speaks as the client. */
   skyeGreeting?: string;
+  /** Name on the floating chat ("Ask Moxey"). Default = first word of the company name. */
+  assistantName?: string;
 
   about: { headline: string; body: string; cards: Card[]; closing: string };
   problems: { headline: string; points: Card[]; bridge: string };

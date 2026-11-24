@@ -540,7 +540,7 @@ function PreviewView({ p }: { p: Preview }) {
         </footer>
 
         <TiltCards />
-        <SkyeChat slug={p.slug} company={company.name} quoteWord={w.quote} tel={tel} greeting={p.skyeGreeting} />
+        <SkyeChat slug={p.slug} company={company.name} quoteWord={w.quote} tel={tel} greeting={p.skyeGreeting} assistant={p.assistantName} />
         <MobileBar tel={tel} quoteLabel={cta} />
       </div>
     </MotionRoot>

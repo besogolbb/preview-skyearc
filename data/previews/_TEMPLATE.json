@@ -49,7 +49,8 @@
       "4-5 options for the trade"
     ]
   },
-  "skyeGreeting": "First chat message, in the market's tone",
+  "skyeGreeting": "First chat message in the market's tone, as the client (\"Hi, I'm the Moxey Remodeling assistant…\"). Never say Skye.",
+  "assistantName": "Optional: name on the chat button (\"Ask Moxey\"); default = first word of the company name",
   "about": {
     "headline": "You enjoy your home. We handle the <trade> work properly.",
     "body": "Short paragraph on what homeowners care about",

@@ -7,7 +7,8 @@ import { ChatIcon, CloseIcon, SendIcon } from "./icons";
 type Msg = { from: "bot" | "me"; text: string };
 
 /**
- * Floating "Skye" AI assistant. Talks to the n8n Chat Trigger through
+ * Floating AI assistant, named after the CLIENT (e.g. "Ask Moxey"), never
+ * "Skye": that's SkyeArc's own name. Talks to the n8n Chat Trigger through
  * /api/skye (server-side proxy, so the webhook URL never reaches the browser).
  */
 export default function SkyeChat({
@@ -16,13 +17,17 @@ export default function SkyeChat({
   quoteWord,
   tel,
   greeting,
+  assistant,
 }: {
   slug: string;
   company: string;
   quoteWord: string;
   tel?: string;
   greeting?: string;
+  /** Name shown on the chat ("Ask Moxey"); default = first word of the company name */
+  assistant?: string;
 }) {
+  const name = assistant?.trim() || company.split(/\s+/)[0];
   const [open, setOpen] = useState(false);
   const [busy, setBusy] = useState(false);
   const [msgs, setMsgs] = useState<Msg[]>([
@@ -30,7 +35,7 @@ export default function SkyeChat({
       from: "bot",
       text:
         greeting ??
-        `Hi, I'm Skye, the assistant for ${company}. Ask me about a job, or I can help you get a ${quoteWord} or book a time.`,
+        `Hi, I'm the ${company} assistant. Ask me about a job, or I can help you get a ${quoteWord} or book a time.`,
     },
   ]);
   const session = useRef<string>("");
@@ -108,7 +113,7 @@ export default function SkyeChat({
             id={panelId}
             className="chat"
             role="dialog"
-            aria-label={`Chat with Skye, assistant for ${company}`}
+            aria-label={`Chat with the ${company} assistant`}
             initial={{ opacity: 0, y: 12, scale: 0.98 }}
             animate={{ opacity: 1, y: 0, scale: 1 }}
             exit={{ opacity: 0, y: 8, scale: 0.98, transition: { duration: 0.12 } }}
@@ -120,7 +125,7 @@ export default function SkyeChat({
                 <ChatIcon size={18} />
               </span>
               <div>
-                <strong>Skye</strong>
+                <strong>Ask {name}</strong>
                 <span>AI assistant · {company}</span>
               </div>
               <button
@@ -141,13 +146,13 @@ export default function SkyeChat({
                   {m.text}
                 </p>
               ))}
-              {busy && <p className="msg msg--bot muted">Skye is typing…</p>}
+              {busy && <p className="msg msg--bot muted">Typing…</p>}
               {msgs.length === 1 && (
                 <div className="chat__chips">
-                  <a className="chip" href="#quote" onClick={() => setOpen(false)}>
+                  <a className="chip" href="#hub" onClick={() => setOpen(false)}>
                     Get a {quoteWord}
                   </a>
-                  <a className="chip" href="#quote" onClick={() => setOpen(false)}>
+                  <a className="chip" href="#hub" onClick={() => setOpen(false)}>
                     Book a time
                   </a>
                   {tel && (
@@ -160,7 +165,7 @@ export default function SkyeChat({
             </div>
             <form className="chat__form" onSubmit={send}>
               <label htmlFor={`${panelId}-in`} className="sr-only">
-                Message to Skye
+                Message to {company}
               </label>
               <input
                 ref={inputRef}
@@ -172,7 +177,7 @@ export default function SkyeChat({
                 <SendIcon />
               </button>
             </form>
-            <p className="chat__note">Skye is an AI assistant and can get things wrong.</p>
+            <p className="chat__note">AI assistant. It can get things wrong.</p>
           </motion.section>
         )}
       </AnimatePresence>
@@ -183,13 +188,13 @@ export default function SkyeChat({
         className="chat-launch"
         aria-expanded={open}
         aria-controls={panelId}
-        aria-label={open ? "Close chat" : "Ask Skye, the AI assistant"}
+        aria-label={open ? "Close chat" : `Ask ${name}, the AI assistant`}
         onClick={() => setOpen((o) => !o)}
       >
         <span className="chat-launch__dot" aria-hidden="true">
           {open ? <CloseIcon size={18} /> : <ChatIcon size={20} />}
         </span>
-        <span className="chat-launch__label">{open ? "Close chat" : "Ask Skye"}</span>
+        <span className="chat-launch__label">{open ? "Close chat" : `Ask ${name}`}</span>
       </button>
     </>
   );

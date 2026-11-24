@@ -4,7 +4,7 @@
     "phone": "(904) 874-5561 on Google and ocalabusinessdirectory.com/business/moxey-remodeling-llc",
     "services": "ocalabusinessdirectory.com: tile installation for kitchens, bathrooms and flooring; full bathroom renovations; kitchen remodels and surface upgrades; interior updates incl. flooring and trim",
     "serviceArea": "Directory: 'Serving Ocala & Marion County'. Google service-area outline: Ocala and Silver Springs south through Belleview and Summerfield to The Villages.",
-    "brand": "Sampled from the client's own Google Business Profile cover photo (their marble bathroom: blue-grey marble, matte black fixtures). No website, social profile or logo exists online, so these are the colours of their own work, not an official brand. Confirm with the owner.",
+    "brand": "Sampled from the client's own Google Business Profile cover photo (their marble bathroom). Dark = the matte black of their fixtures (#282823). The photo is mostly grey, so the colour comes from its most colourful 8% of pixels: warm veining/lighting at hue ~43° (brass), saturated to brass #d0a539 (buttons, dark text #1d1c18) and light brass #e2bd5e (highlights). Not an official brand; confirm with the owner.",
     "reviews": "No verbatim review text found (Angi pages return 403; Google hides text signed out). Paste up to 3 verbatim Google reviews into realReviews.",
     "notUsed": "Directory blurb claims 'family-owned' and 'over two decades of hands-on experience' (unclaimed listing): left out until confirmed by the owner."
   },
@@ -29,9 +29,10 @@
     "svg": "/assets/logos/moxey-remodeling-llc.svg"
   },
   "brand": {
-    "primary": "#5e6058",
+    "primary": "#d0a539",
     "dark": "#282823",
-    "accent": "#d1d1c8"
+    "accent": "#e2bd5e",
+    "primaryInk": "#1d1c18"
   },
   "assetFolder": "remodeling",
   "google": null,
@@ -56,7 +57,7 @@
       "Something else"
     ]
   },
-  "skyeGreeting": "Hi, I'm Skye, the assistant for Moxey Remodeling. Planning a new bathroom, a kitchen update or some tile work? Tell me about it and I'll help you get an estimate or book a time.",
+  "skyeGreeting": "Hi, I'm the Moxey Remodeling assistant. Planning a new bathroom, a kitchen update or some tile work? Tell me about it and I'll help you get an estimate or book a time.",
   "about": {
     "headline": "You enjoy your home. We handle the remodeling work properly.",
     "body": "Most homeowners want the same things from a remodel: a clear price before anything starts, a layout that suits how they live, and tile and trim finished so it looks right for years. Every job is planned around that, from the first measure to the last grout line.",
