@@ -1,0 +1,213 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-26): 'Guzman's Remodeling & Repair LLC', 5.0 stars, 21 reviews, category 'Remodeler', 369 Cashew Ln, Gerrardstown, WV 25420, phone +1 304-283-3784, closes 5:30 PM, opens 7 AM, website button = guzmansremodeling.com.",
+    "website": "https://www.guzmansremodeling.com/ (Wix, 2026-11-26): 'You Need It? I Got It.', services 'Drywall repairs & painting, floors and more', 'Kitchen or bathroom remodel', 'Deck and fence installation', 'Reach out today for your free estimate', booking and chat. Much of the copy is generic template text ('I bring my workshop right to you', 'Leave the dirty work to us'); its 'Since 2005' and 'licensed and insured' lines are not used here because they read as template copy. None of their Google reviews appear on the site. The older https://guzman.godaddysites.com/ (on the outreach sheet) is still live: 'Bathroom remodeling and more', an empty 'Reviews' section, owner 'Mike'.",
+    "services": "Website services plus Google review topics: deck 4, attention to detail 4, work quality 3, staircase remodel 2, stairs 2, house repair 2, timely work 2, craftsmanship 2, punctuality 2. Reviews: remodel with a detailed quote (Will Catlett), deck and pergola (M. O.), new deck (Susan Bosse), deck staining (Angela Jeffries), laundry leak repair with cabinet and flooring (Melissa B).",
+    "brand": "From their current website: dark brown rgb(51,40,26) and slate rgb(170,188,191). Primary = slate darkened for white text #4f6a70 (5.8:1), dark = #2a2116, accent = their slate #aabcbf (8.0:1 on dark).",
+    "reviews": "Google Reviews tab, same session: 3 complete 5-star reviews copied verbatim (Will Catlett, Susan Bosse, Angela Jeffries), stars checked via each review's rating label. Owner Mike; Nick also named.",
+    "serviceArea": "No service-area outline (storefront address only): page says Gerrardstown and the surrounding area."
+  },
+  "gap": "Their 21 five-star Google reviews never appear on their own website, which runs on generic template copy, while an older GoDaddy site with an empty 'Reviews' section is still live, so homeowners comparing contractors don't see the proof that sets Mike apart.",
+  "market": "US",
+  "company": {
+    "name": "Guzman's Remodeling & Repair LLC",
+    "trade": "Remodeling, decks and home repair",
+    "city": "Gerrardstown, WV",
+    "phone": "(304) 283-3784"
+  },
+  "logo": {
+    "initials": "GR",
+    "tagline": "Remodeling & Repair · Gerrardstown",
+    "svg": "/assets/logos/guzmans-remodeling-and-repair-llc.svg"
+  },
+  "brand": {
+    "primary": "#4f6a70",
+    "dark": "#2a2116",
+    "accent": "#aabcbf"
+  },
+  "assetFolder": "remodeling",
+  "assistantName": "Guzman's Remodeling",
+  "google": {
+    "rating": 5,
+    "reviewCount": 21,
+    "profileUrl": "https://www.google.com/maps/place/Guzman%E2%80%99s+Remodeling+%26+Repair+LLC/@39.3754526,-78.142391,17z/data=!4m6!3m5!1s0x89ca09ab644d0297:0x1105ec7ca248e451!8m2!3d39.3754526!4d-78.142391!16s%2Fg%2F11sv6z9x4w"
+  },
+  "hero": {
+    "eyebrow": "Remodeling & repair in Gerrardstown",
+    "headline": "Remodels, decks and repairs in Gerrardstown, with real attention to detail.",
+    "subhead": "Kitchen and bathroom remodels, decks, fences, stairs, drywall, painting and floors for homeowners around Gerrardstown. Tell us about the job and get a free estimate.",
+    "primaryCta": "Get a free estimate",
+    "trustLine": [
+      "Free estimates",
+      "Detailed written quotes",
+      "Clean job sites"
+    ],
+    "photo": "kitchen"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "Kitchen or bathroom remodel",
+      "Deck, fence or pergola",
+      "Stairs",
+      "Drywall, painting or floors",
+      "Repair or something else"
+    ]
+  },
+  "skyeGreeting": "Hi, I'm the Guzman's Remodeling assistant. Planning a remodel, a new deck or a repair? Tell me about it and I'll help you get a free estimate or book a time with Mike.",
+  "about": {
+    "headline": "You tell us what you want. We pay attention to the details.",
+    "body": "Most homeowners want the same things from a contractor: a detailed quote, someone who listens to what they actually want, and a crew that shows up on time and cleans up every day. Every job is run that way, from a deck stain to a full remodel.",
+    "cards": [
+      {
+        "title": "Rooms ready for a remodel",
+        "body": "Kitchens and bathrooms remodeled with the details you asked for."
+      },
+      {
+        "title": "Backyards and outdoor space",
+        "body": "New decks, pergolas, fences and deck staining that hold up."
+      },
+      {
+        "title": "Repairs around the house",
+        "body": "Stairs, drywall, painting, floors and leak damage put right."
+      }
+    ],
+    "closing": "Not sure where to start? Tell us about the job and we'll talk it through."
+  },
+  "problems": {
+    "headline": "Finding a reliable contractor near Gerrardstown shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow estimates",
+        "body": "You call around and wait weeks just to get someone out."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "A one-line quote that grows once the work starts."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "Crews that don't show up on the days they said they would."
+      },
+      {
+        "title": "Messy job sites",
+        "body": "Dust and debris left behind at the end of every day."
+      }
+    ],
+    "bridge": "You shouldn't have to chase a contractor just to get a clear estimate."
+  },
+  "solutions": {
+    "headline": "Straightforward remodeling and repair with clear communication.",
+    "services": [
+      {
+        "title": "Kitchen & bathroom remodels",
+        "body": "Kitchen and bathroom remodels planned around your needs and wants, with detailed quotes.",
+        "photo": "bathroom"
+      },
+      {
+        "title": "Decks, fences & pergolas",
+        "body": "New decks, pergolas and fences, plus deck staining to protect what you have.",
+        "photo": "deck"
+      },
+      {
+        "title": "Stairs, drywall, painting & floors",
+        "body": "Staircase remodels, drywall repairs, painting, flooring and repairs after leaks.",
+        "photo": "stairs"
+      }
+    ]
+  },
+  "process": {
+    "headline": "We listen to what you need. Estimate it clearly. Build it right.",
+    "steps": [
+      {
+        "title": "Request your free estimate",
+        "body": "Send a few details with the form or call Mike."
+      },
+      {
+        "title": "Detailed quote",
+        "body": "We go over your needs and wants and put a detailed quote in writing."
+      },
+      {
+        "title": "On-time, tidy work",
+        "body": "On time every day, with the site cleaned up after every work day."
+      },
+      {
+        "title": "Final walkthrough",
+        "body": "We walk the finished job with you and sort anything on the list before we call it done."
+      }
+    ]
+  },
+  "why": {
+    "headline": "21 five-star reviews, earned one job at a time.",
+    "themes": [
+      {
+        "title": "Attention to detail",
+        "body": "The finish is what customers mention most."
+      },
+      {
+        "title": "Detailed quotes",
+        "body": "Everything in writing, built around what you want."
+      },
+      {
+        "title": "On time",
+        "body": "Shows up when promised and communicates well."
+      },
+      {
+        "title": "Clean job sites",
+        "body": "Cleaned up after every work day."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Will Catlett",
+      "rating": 5,
+      "date": "a month ago",
+      "text": "Mike and Nick with Guzman’s Remodeling and Repair were excellent to work with. They provided a detailed quote and took all our needs/wants into consideration. They were always on time, communicated very well, and always cleaned up after every work day. I am very pleased with the attention to detail they provided. I would highly recommend them for all your remodeling needs. We will definitely be using their services again."
+    },
+    {
+      "author": "Susan Bosse",
+      "rating": 5,
+      "date": "2 months ago",
+      "text": "We are so happy with our new deck. Mike was so easy to work with. He did a solid job and was reasonably priced! Highly recommend. We will use his services again!"
+    },
+    {
+      "author": "Angela Jeffries",
+      "rating": 5,
+      "date": "3 years ago",
+      "text": "I highly recommend Guzman's Remodeling & Repair, LLC. We had them stain our deck that we had replaced 2 1/2 years ago. They did an excellent job. We were very pleased with it and will definitely contact them for future projects."
+    }
+  ],
+  "finalCta": {
+    "headline": "Ready to talk about your project?",
+    "body": "Send a few details or pick a time that suits you. You'll get a free estimate before anything is booked in.",
+    "cta": "Get a free estimate",
+    "microcopy": "No pressure. Just a straightforward conversation about the job."
+  },
+  "faq": [
+    {
+      "q": "Are estimates really free?",
+      "a": "Yes. Send the job through the form or call Mike, and you'll get a detailed estimate before any work starts."
+    },
+    {
+      "q": "Which areas do you cover?",
+      "a": "Gerrardstown and the surrounding area. Tell us where the job is when you get in touch and we'll confirm."
+    },
+    {
+      "q": "Do you take small jobs?",
+      "a": "Yes. Deck staining, drywall repairs and leak damage get the same care as a full remodel."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your estimate and we'll send the license and insurance details for your project."
+    },
+    {
+      "q": "What happens after I submit a request?",
+      "a": "Your details come straight to us, you get a text and email confirmation, and we follow up to set a time to look at the job."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
