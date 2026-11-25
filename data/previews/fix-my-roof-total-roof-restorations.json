@@ -1,0 +1,220 @@
+{
+  "_sources": {
+    "google": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-25): 5.0 stars, 139 reviews, category Roofing contractor, 29 Darien St, Bridgeman Downs QLD 4035, phone +61 410 607 076. Review topics: roof restoration 49, repointing 10, roof painting 7, tile replacement 5, on-time completion 5, reliable staff 4, no upsell 3, explanation of work 3, gutter painting 2, fantastic finish 2.",
+    "phone": "0410 607 076 on their Billdu page (tel link and logo) and the Google listing.",
+    "services": "billdu.me/fixmyrooftotalroofrestorations (2026-11-25): 'specialises in roof restorations on single-story concrete tile roofs in North Brisbane Qld which involves pressure washing the roof, repointing of ridgecapping, replacement of broken roof tiles, applying a PRIMER coat & applying 2 coats of INDUSTRIAL ROOF COATINGS membrane'. 'Available for online quotes & bookings as well.'",
+    "serviceArea": "Billdu page: North Brisbane Qld; Google: Bridgeman Downs QLD 4035.",
+    "brand": "Their own logo (Billdu header image): white and red italic 'FIX MY ROOF' on black, red sampled at #f80000. Primary #d40000 is that red deepened so white button text passes 4.5:1; dark #111111 from the logo black; accent #ff4d4d is a lighter tint for contrast on dark. Concept mark uses their #f80000 on black.",
+    "reviews": "Google Business Profile Reviews tab, same session: 3 complete 5-star reviews copied verbatim (Jenny Elmer, Susan Prince, Mark Woodrow).",
+    "photos": "No concrete-tile roof stand-ins in the library: added rooftiles (Wet Roof Tiles, Noah Wulf, CC BY-SA 4.0), brokentiles (W.carter, CC0) and tilemoss (W.carter, public domain) from Wikimedia Commons.",
+    "notUsed": "No licence number or insurance published, so no credential is claimed. 'Free' quotes not stated anywhere, so CTAs say 'Get a quote'."
+  },
+  "gap": "No website of their own: the Google listing links to a Billdu profile card with contact icons and one paragraph of text. There's no quote form, no photos of finished roofs and none of the 139 five-star Google reviews on it.",
+  "market": "AU",
+  "company": {
+    "name": "FIX MY ROOF Total Roof Restorations",
+    "trade": "Roof restorations and roofing",
+    "city": "Brisbane, QLD",
+    "serviceArea": [
+      "North Brisbane",
+      "Bridgeman Downs"
+    ],
+    "phone": "0410 607 076"
+  },
+  "assistantName": "Fix My Roof",
+  "logo": {
+    "initials": "FMR",
+    "tagline": "Concrete tile roofs · North Brisbane",
+    "svg": "/assets/logos/fix-my-roof-total-roof-restorations.svg"
+  },
+  "brand": {
+    "primary": "#d40000",
+    "dark": "#111111",
+    "accent": "#ff4d4d",
+    "primaryInk": "#ffffff"
+  },
+  "assetFolder": "roofing",
+  "google": {
+    "rating": 5,
+    "reviewCount": 139,
+    "profileUrl": "https://www.google.com/maps/place/FIX+MY+ROOF+Total+Roof+Restorations/@-27.3612506,152.9921766,17z/data=!4m6!3m5!1s0x6b93fd2e603b9f9f:0xa3a106e1631556ed!8m2!3d-27.3612506!4d152.9921766!16s%2Fg%2F11bbw_yb_r"
+  },
+  "hero": {
+    "eyebrow": "Roof restorations in North Brisbane",
+    "headline": "Tile roof restorations in Brisbane, done properly from the ridge down.",
+    "subhead": "Pressure clean, repointed ridge capping, broken tiles replaced, primer and two coats of membrane for concrete tile roofs across North Brisbane. Tell us about your roof and get a clear quote.",
+    "primaryCta": "Get a quote",
+    "trustLine": [
+      "5.0 from 139 Google reviews",
+      "Concrete tile roof specialist",
+      "No upsell"
+    ],
+    "photo": "rooftiles"
+  },
+  "quoteField": {
+    "label": "Roof need",
+    "options": [
+      "Full roof restoration",
+      "Repointing & broken tiles",
+      "Leak repair",
+      "Roof inspection",
+      "Something else"
+    ]
+  },
+  "skyeGreeting": "G'day, I'm the FIX MY ROOF assistant. Roof looking tired, tiles cracked or a leak coming through? Tell me a bit about it and I'll help you get a quote or book a time with Dino.",
+  "about": {
+    "headline": "Your roof restored properly, by the bloke who does the work.",
+    "body": "Dino specialises in one thing: restoring single-storey concrete tile roofs in North Brisbane. He looks at your roof properly, tells you what it actually needs, and does the job himself from the clean to the last coat.",
+    "cards": [
+      {
+        "title": "Faded, mossy roofs",
+        "body": "Tiles that have gone chalky, stained or green. A full clean and two coats of membrane brings them back."
+      },
+      {
+        "title": "Cracked tiles & loose capping",
+        "body": "Broken tiles swapped out and ridge capping repointed before small leaks turn into big ones."
+      },
+      {
+        "title": "Getting ready to sell",
+        "body": "A restored roof changes the whole look of the house from the street."
+      }
+    ],
+    "closing": "Not sure what your roof needs? Send a photo and Dino will take a look."
+  },
+  "problems": {
+    "headline": "Getting a roof restored in Brisbane shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow quotes",
+        "body": "You ring around, leave messages, and wait a week for anyone to come and look."
+      },
+      {
+        "title": "Upsells & surprise costs",
+        "body": "A quote that comes with a hard sell for a new roof you don't need, or extras added halfway through."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "Start dates that come and go with no word, even when the weather's fine."
+      },
+      {
+        "title": "Messy job sites",
+        "body": "Overspray on the car, broken tiles in the garden and gutters full of debris."
+      }
+    ],
+    "bridge": "You shouldn't have to chase a roofer just to get a straight answer about your roof."
+  },
+  "solutions": {
+    "headline": "One job, done start to finish by Dino.",
+    "services": [
+      {
+        "title": "Full roof restorations",
+        "body": "Pressure clean, repoint the ridge capping, replace broken tiles, primer, then two coats of industrial roof membrane.",
+        "photo": "rooftiles"
+      },
+      {
+        "title": "Repointing & broken tiles",
+        "body": "Ridge capping repointed and cracked or broken concrete tiles replaced, so the roof sheds water the way it should.",
+        "photo": "brokentiles"
+      },
+      {
+        "title": "Pressure cleaning & roof coatings",
+        "body": "Moss, lichen and years of grime blasted off, then a primer and membrane coating. Gutters painted to match too.",
+        "photo": "tilemoss"
+      }
+    ]
+  },
+  "process": {
+    "headline": "Dino looks. Quotes it straight. Does the job right.",
+    "steps": [
+      {
+        "title": "Ask for a quote",
+        "body": "Send a few details with the form or give Dino a ring. Your suburb and a photo of the roof is plenty."
+      },
+      {
+        "title": "Roof check & clear quote",
+        "body": "Dino gets up on the roof, talks you through what it needs, and gives you a price with no upsell."
+      },
+      {
+        "title": "Start date you can plan around",
+        "body": "You get a start date and updates if the weather or other jobs move it."
+      },
+      {
+        "title": "Clean finish",
+        "body": "Solar panels and the yard protected, the site cleaned up, and a walk-round when it's done."
+      }
+    ]
+  },
+  "why": {
+    "headline": "No hard sell. Just a roof that looks new again.",
+    "themes": [
+      {
+        "title": "Concrete tile specialist",
+        "body": "Single-storey concrete tile roofs are the job, not a side line."
+      },
+      {
+        "title": "No upsell",
+        "body": "If your roof only needs repointing and a few tiles, that's what you'll be quoted."
+      },
+      {
+        "title": "Done by Dino",
+        "body": "The person who quotes your roof is the person who restores it."
+      },
+      {
+        "title": "On time, kept in the loop",
+        "body": "Punctual, with updates when weather moves the start date."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Jenny Elmer",
+      "rating": 5,
+      "text": "Dino restored our roof and we were extremely pleased with the result! Repaired broken tiles, ridge capping, cleaned,  repointed and painted entire roof. Dino was punctual, worked hard, kept us informed throughout and was very friendly.\nWould highly recommend!!",
+      "date": "2 months ago"
+    },
+    {
+      "author": "Susan Prince",
+      "rating": 5,
+      "text": "We received excellent service from Dino. He responded quickly to request for quote, offered a competitive quote and kept us updated as to start date around other jobs and weather. Dino just got in and got the job done with no fuss and has been very easy and pleasant to deal with. We are very happy with the result. Roof is unrecognisable from before restoration. Dino went above and beyond and I would happily recommend his services.",
+      "date": "2 months ago"
+    },
+    {
+      "author": "Mark Woodrow",
+      "rating": 5,
+      "text": "A 5 star rating for Dino's work. He was very easy to deal with, no fuss, honest about the work required, and got the job done just like he said, without the upsell we had from other companies we approached. We are thrilled with the results. And the best part, he was cheaper than his competitors! Thanks Dino.",
+      "date": "6 months ago"
+    }
+  ],
+  "finalCta": {
+    "headline": "Ready to get your roof looking new again?",
+    "body": "Send a few details or pick a time that suits. You'll get a clear quote before anything's booked in.",
+    "cta": "Get a quote",
+    "microcopy": "No pressure. Just a straight chat about your roof."
+  },
+  "faq": [
+    {
+      "q": "What's included in a roof restoration?",
+      "a": "A full pressure clean, repointing of the ridge capping, replacing any broken tiles, a primer coat and two coats of industrial roof membrane."
+    },
+    {
+      "q": "Do you work on metal or two-storey roofs?",
+      "a": "Dino specialises in single-storey concrete tile roofs. If yours is different, send a photo and he'll let you know straight up."
+    },
+    {
+      "q": "Which areas do you cover?",
+      "a": "North Brisbane, from Bridgeman Downs out to the surrounding suburbs. Not sure if you're in range? Ask anyway."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your quote and Dino will send the licence and insurance details for your job."
+    },
+    {
+      "q": "How does the quote work?",
+      "a": "Send your details through the form or give Dino a ring. He'll come out, get up on the roof, and give you a clear quote for what it actually needs."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}

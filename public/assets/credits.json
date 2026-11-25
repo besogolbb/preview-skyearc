@@ -208,6 +208,52 @@
    "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
    "page": "https://commons.wikimedia.org/wiki/File:Fiber_cement_siding.jpg",
    "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-tiles.webp",
+   "files": [
+    "photo-tiles-500.webp",
+    "photo-tiles-960.webp",
+    "photo-tiles.webp",
+    "photo-tiles-hero.webp"
+   ],
+   "id": "tiles-noahwulf",
+   "alt": "Wet Roof Tiles",
+   "by": "Noah Wulf",
+   "licence": "CC BY-SA 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Wet_Roof_Tiles.jpg",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-brokentiles.webp",
+   "files": [
+    "photo-brokentiles-500.webp",
+    "photo-brokentiles-960.webp",
+    "photo-brokentiles.webp"
+   ],
+   "id": "brokentiles-wcarter",
+   "alt": "Broken black roof tiles 2",
+   "by": "W.carter",
+   "licence": "CC0",
+   "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "page": "https://commons.wikimedia.org/wiki/File:Broken_black_roof_tiles_2.jpg",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-moss.webp",
+   "files": [
+    "photo-moss-500.webp",
+    "photo-moss-960.webp",
+    "photo-moss.webp"
+   ],
+   "id": "tilemoss-wcarter",
+   "alt": "Moss on a cement tile",
+   "by": "W.carter",
+   "licence": "Public domain",
+   "licenceUrl": "https://commons.wikimedia.org/wiki/File:Moss_on_a_cement_tile.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Moss_on_a_cement_tile.jpg",
+   "source": "Wikimedia Commons"
   }
  ]
 }
