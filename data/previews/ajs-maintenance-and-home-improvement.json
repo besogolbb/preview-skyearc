@@ -1,0 +1,214 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-26): 'AJ's Maintenance and home improvement', 5.0 stars, 4 reviews, category 'Handyman/Handywoman/Handyperson', phone +1 804-431-6652, open until 5 PM, no website ('Add website' shown).",
+    "serviceArea": "Google service-area outline (headless render, same day): Richmond and Bon Air south through Bensley, Bellwood, Chesterfield, Chester, Enon and Hopewell to Petersburg and Prince George. A review says 'the Richmond/Hopewell area'. The outreach sheet only says 'Virginia'.",
+    "services": "Google reviews: finding and repairing a leak and pre-sale repairs (Nikki Lozano), same-day window AC unit install (Velvet Cooper). Business name: maintenance and home improvement. Listing photo categories include Exterior, Inside, Kitchen and Bathroom; the cover shows new timber steps and a deck on a home.",
+    "brand": "No website, socials or logo found. Sampled from their own Google listing cover photo (new timber steps on a blue-grey home with navy shutters): primary = slate navy #2d4b5d (white 9.2:1), dark = #18252c, accent = the new timber #c9a77d (7.0:1 on dark). Not an official brand; confirm with the owner.",
+    "reviews": "Google Reviews tab, same session: only 2 five-star reviews have text; both copied verbatim (Nikki Lozano, Velvet Cooper). Two other 5-star ratings have no text."
+  },
+  "gap": "No website: the Google listing shows 'Add website', so homeowners (and the agents who refer them) can only call before 5 PM; there's no way to send a repair list and photos for an estimate.",
+  "market": "US",
+  "company": {
+    "name": "AJ's Maintenance and home improvement",
+    "trade": "Home maintenance, repairs and improvements",
+    "city": "Richmond, VA",
+    "serviceArea": [
+      "Richmond",
+      "Bon Air",
+      "Chesterfield",
+      "Chester",
+      "Bellwood",
+      "Hopewell",
+      "Petersburg",
+      "Prince George"
+    ],
+    "phone": "(804) 431-6652"
+  },
+  "logo": {
+    "initials": "AJ",
+    "tagline": "Maintenance & Home Improvement · Richmond",
+    "svg": "/assets/logos/ajs-maintenance-and-home-improvement.svg"
+  },
+  "brand": {
+    "primary": "#2d4b5d",
+    "dark": "#18252c",
+    "accent": "#c9a77d"
+  },
+  "assetFolder": "carpentry",
+  "assistantName": "AJ's Maintenance",
+  "google": {
+    "rating": 5,
+    "reviewCount": 4,
+    "profileUrl": "https://www.google.com/maps/place/AJ%27s+Maintenance+and+home+improvement/@37.3839525,-77.420054,10z/data=!4m6!3m5!1s0x89b1a9c3e02b78b3:0x1e37c7d77284ebbf!8m2!3d37.3839525!4d-77.420054!16s%2Fg%2F11n7c5f6wp"
+  },
+  "hero": {
+    "eyebrow": "Maintenance & home improvement in Richmond",
+    "headline": "Home repairs and improvements in Richmond, handled fast and priced fairly.",
+    "subhead": "Repairs, leak fixes, installs, steps, decks and home improvements across Richmond, Chesterfield and Hopewell. Send the job and get a clear written estimate.",
+    "trustLine": [
+      "Clear written estimates",
+      "Same-day response when it counts",
+      "Reasonable rates"
+    ],
+    "photo": "stairs"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "Repair or leak",
+      "Install or maintenance",
+      "Steps, deck or exterior",
+      "Pre-sale repairs",
+      "Something else"
+    ]
+  },
+  "skyeGreeting": "Hi, I'm the AJ's Maintenance assistant. Got a repair, an install or a home improvement project? Tell me about it and I'll help you get an estimate or someone out to look.",
+  "about": {
+    "headline": "Someone who answers, shows up and fixes it right.",
+    "body": "Whether it's a leak, an install nobody else will take on, or a list of repairs before a sale, most people want the same things: a quick response, an honest price and work done properly. That's how every job is handled.",
+    "cards": [
+      {
+        "title": "Leaks and repairs",
+        "body": "Finding the source of the problem and fixing it, not just patching it."
+      },
+      {
+        "title": "Homes going on the market",
+        "body": "Pre-sale repairs done quickly, at a price that doesn't eat into the sale."
+      },
+      {
+        "title": "Family who need a hand",
+        "body": "Installs and small jobs for elderly relatives, handled with care, often the same day."
+      }
+    ],
+    "closing": "Not sure if it's worth a call? Send the job and we'll let you know."
+  },
+  "problems": {
+    "headline": "Getting a handyman in Richmond to call back shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow estimates",
+        "body": "You call around and nobody comes out for days."
+      },
+      {
+        "title": "Overpriced quotes & surprise costs",
+        "body": "A quote for thousands more than the job actually needs."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "Repairs that should take a day drag on for weeks."
+      },
+      {
+        "title": "Sloppy finishing",
+        "body": "Quick patches that fail again a month later."
+      }
+    ],
+    "bridge": "You shouldn't have to chase anyone just to get a repair done properly."
+  },
+  "solutions": {
+    "headline": "Straightforward maintenance and repairs with clear communication.",
+    "services": [
+      {
+        "title": "Repairs & leak fixes",
+        "body": "Finding the source of leaks and making the repair, fast and properly.",
+        "photo": "plumbing"
+      },
+      {
+        "title": "Installs & maintenance",
+        "body": "Window AC units, fixtures and the maintenance jobs that keep a home running.",
+        "photo": "door"
+      },
+      {
+        "title": "Steps, decks & improvements",
+        "body": "New steps, decks and home improvements, inside and out.",
+        "photo": "deck"
+      }
+    ]
+  },
+  "process": {
+    "headline": "We listen to what you need. Estimate it clearly. Fix it right.",
+    "steps": [
+      {
+        "title": "Request your estimate",
+        "body": "Send a few details and photos with the form or give AJ a call."
+      },
+      {
+        "title": "Look & clear price",
+        "body": "We look at the job, explain what's needed and put the price in writing."
+      },
+      {
+        "title": "Quick, careful work",
+        "body": "Done promptly and professionally, with the area left clean."
+      },
+      {
+        "title": "Final check",
+        "body": "We go over the work with you and sort anything on the list before we call it done."
+      }
+    ]
+  },
+  "why": {
+    "headline": "Professional, responsive and fairly priced.",
+    "themes": [
+      {
+        "title": "Responsive",
+        "body": "Quick answers and same-day visits when it matters."
+      },
+      {
+        "title": "Written estimates",
+        "body": "A clear price before any work starts."
+      },
+      {
+        "title": "Reasonable rates",
+        "body": "Honest pricing that can save thousands on the right job."
+      },
+      {
+        "title": "Knowledgeable",
+        "body": "Finds the real cause of the problem, not just the symptom."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Nikki Lozano",
+      "rating": 5,
+      "date": "a year ago",
+      "text": "AJ helped my client not only complete repairs while his home was on the market, but save thousands of dollars that another contractor was quoting.  He found the source of a leak, repaired it in record time and saved my client money.  He is professional, knowledgeable, and responsive.  If you are looking for a contractor in the Richmond/Hopewell area, look no further!  Call AJ!!"
+    },
+    {
+      "author": "Velvet Cooper",
+      "rating": 5,
+      "date": "2 years ago",
+      "text": "My sister is elderly and did not have an air conditioner.  We purchased a window unit but had no one to install it. AJ quickly responded and went out the same day we called. Installed at a resonable rate. Thanks to him she was cool last night. Thanks for your kind heart and professionalism. Great job. Looking forward to working with u on additional projects."
+    }
+  ],
+  "finalCta": {
+    "headline": "Got a repair or project that needs doing?",
+    "body": "Send a few details or pick a time that suits you. You'll get a written estimate before any work is booked.",
+    "microcopy": "No pressure. Just a straightforward conversation about the job."
+  },
+  "faq": [
+    {
+      "q": "How do estimates work?",
+      "a": "Send the job through the form or give us a call. We'll look at it and send a written estimate before any work starts."
+    },
+    {
+      "q": "Which areas do you cover?",
+      "a": "Richmond and the surrounding area, including Bon Air, Chesterfield, Chester, Bellwood, Hopewell, Petersburg and Prince George. Close by but not on the list? Ask anyway."
+    },
+    {
+      "q": "Can you handle repairs before a home sale?",
+      "a": "Yes. Pre-sale repair lists are done quickly and priced fairly, and agents are welcome to send the list on behalf of their clients."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your estimate and we'll send the license and insurance details for your job."
+    },
+    {
+      "q": "What happens after I submit a request?",
+      "a": "Your details come straight to us, you get a text and email confirmation, and we follow up to set a time."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
