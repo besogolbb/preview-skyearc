@@ -1,0 +1,214 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-26): 'JD Construction LLC', 5.0 stars, 16 reviews, category 'Construction company', 17765 200th St E, Welch, MN 55089, phone +1 651-208-0282, open until 7 PM, website button = jdconstructionllc.godaddysites.com.",
+    "website": "https://jdconstructionllc.godaddysites.com/ (2026-11-26): free GoDaddy site with the 'Start for free' banner. Header 'JD CONSTRUCTION LLC / FULLY INSURED / LICENSE #BC786121'. 'GET A FREE ESTIMATE'. 'We specialize in residential construction projects, including siding & roofing, gutters, windows, additions, renovations, and all other exterior & interior work.' Headings 'SHOWCASING OUR CONSTRUCTION EXCELLENCE THROUGH IMAGES' and 'SATISFIED CUSTOMER REVIEWS' followed by no content; the estimate form is at the very bottom. Hours Mon-Sun 7:00 am - 7:00 pm. Site address shows ZIP 55033; Google shows 55089.",
+    "services": "Website services plus Google review topics: cost 6, window replacement 4, door 4, siding 3, easy to work with 3, projects 3, job 3, quality work 2, decking 2, porch 2. Reviews: 250 sq ft porch addition (Dan Dobrick); front door, porch with decking and post wrap, gutters with leaf guards, shutters, garage and side doors painted, windows (Dave McNary); window, interior door and siding projects (Holly Kimmes).",
+    "brand": "From their own website: taupe rgb(127,110,91) on black rgb(22,22,22) and white. Primary darkened slightly to #6e5e4c for white text (6.2:1), dark = #161616, accent = light taupe #c8b49b (9.0:1 on dark).",
+    "reviews": "Google Reviews tab, same session: 3 complete 5-star reviews copied verbatim (Dan Dobrick, Dave McNary, Holly Kimmes), stars checked via each review's rating label. Owner named Joe.",
+    "serviceArea": "No service-area outline (storefront address only): page says Welch and the surrounding area."
+  },
+  "gap": "The Google website button opens a free GoDaddy page with a 'Start for free' ad banner, empty 'photos' and 'reviews' sections, and the estimate form buried at the very bottom, so their 16 five-star reviews and finished work never show up where homeowners decide.",
+  "market": "US",
+  "company": {
+    "name": "JD Construction LLC",
+    "trade": "Siding, roofing, windows and remodeling",
+    "city": "Welch, MN",
+    "phone": "(651) 208-0282",
+    "credential": "Fully insured · MN License #BC786121"
+  },
+  "logo": {
+    "initials": "JD",
+    "tagline": "Siding, Roofing & Remodeling · Welch",
+    "svg": "/assets/logos/jd-construction-llc.svg"
+  },
+  "brand": {
+    "primary": "#6e5e4c",
+    "dark": "#161616",
+    "accent": "#c8b49b"
+  },
+  "assetFolder": "builders",
+  "assistantName": "JD Construction",
+  "google": {
+    "rating": 5,
+    "reviewCount": 16,
+    "profileUrl": "https://www.google.com/maps/place/JD+Construction+LLC/@44.6615793,-92.7457974,17z/data=!4m6!3m5!1s0xf1209af93ce7e09:0xff0a955e5c68015d!8m2!3d44.6615793!4d-92.7457974!16s%2Fg%2F11nhzbldyp"
+  },
+  "hero": {
+    "eyebrow": "Siding, roofing & remodeling in Welch",
+    "headline": "Siding, windows and remodeling in Welch, done right at a fair price.",
+    "subhead": "Siding, roofing, gutters, windows, doors, porches, additions and renovations, inside and out. Tell us about the project and get a free estimate.",
+    "primaryCta": "Get a free estimate",
+    "trustLine": [
+      "Licensed & fully insured",
+      "Free estimates",
+      "Open 7 days, 7 am – 7 pm"
+    ],
+    "photo": "siding"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "Siding, roofing or gutters",
+      "Windows or doors",
+      "Porch or deck",
+      "Addition or renovation",
+      "Something else"
+    ]
+  },
+  "skyeGreeting": "Hi, I'm the JD Construction assistant. Planning new siding, windows, a porch or a remodel? Tell me a bit about the project and I'll help you get a free estimate or book a time.",
+  "about": {
+    "headline": "You picture the house. We build it to last.",
+    "body": "Most homeowners want the same things from a contractor: a fair price in writing, quality work from everyone on the crew, and someone who stays in touch until the job is done. Every project is run that way, from a few windows to a full addition.",
+    "cards": [
+      {
+        "title": "Homes that need a new face",
+        "body": "Siding, roofing, gutters, shutters and a new front door that change how the whole house looks."
+      },
+      {
+        "title": "Drafty windows and worn doors",
+        "body": "Window and door replacement, inside and out, at a price that makes sense."
+      },
+      {
+        "title": "Homes that need more room",
+        "body": "Porches, decks, additions and renovations built to match the rest of the house."
+      }
+    ],
+    "closing": "Not sure where to start? Tell us about the house and we'll talk it through."
+  },
+  "problems": {
+    "headline": "Getting a contractor out to Welch shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow estimates",
+        "body": "You call the big companies and wait weeks for someone to come out."
+      },
+      {
+        "title": "Overpriced quotes & surprise costs",
+        "body": "A quote from a large company that's nearly double what the job should cost."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "The project drags on with no word on when the crew is coming back."
+      },
+      {
+        "title": "Sloppy finishing",
+        "body": "Trim that doesn't line up and siding that wasn't finished properly."
+      }
+    ],
+    "bridge": "You shouldn't have to chase a contractor just to get a fair, clear estimate."
+  },
+  "solutions": {
+    "headline": "Straightforward exterior and remodeling work with clear communication.",
+    "services": [
+      {
+        "title": "Siding, roofing & gutters",
+        "body": "Siding, roofing and gutters with leaf guards, plus shutters and trim to finish the outside.",
+        "photo": "roofing"
+      },
+      {
+        "title": "Windows & doors",
+        "body": "Window replacement and new front, side, interior and garage doors, installed and finished properly.",
+        "photo": "door"
+      },
+      {
+        "title": "Porches, additions & renovations",
+        "body": "Porches with decking and post wrap, additions and renovations, inside and out.",
+        "photo": "deck"
+      }
+    ]
+  },
+  "process": {
+    "headline": "We listen to what you need. Estimate it clearly. Build it right.",
+    "steps": [
+      {
+        "title": "Request your free estimate",
+        "body": "Send a few details and photos with the form or give Joe a call."
+      },
+      {
+        "title": "Site visit & clear scope",
+        "body": "We look at the project, talk through options and put the scope and price in writing."
+      },
+      {
+        "title": "Quality work",
+        "body": "Quality work from everyone on the crew, with change orders handled openly."
+      },
+      {
+        "title": "Final walkthrough",
+        "body": "We walk the finished project with you and sort anything on the list before we call it done."
+      }
+    ]
+  },
+  "why": {
+    "headline": "Quality work at a fair price.",
+    "themes": [
+      {
+        "title": "Licensed & fully insured",
+        "body": "Minnesota license #BC786121 and full insurance on every job."
+      },
+      {
+        "title": "Fair pricing",
+        "body": "Free estimates and prices that hold up against the big companies."
+      },
+      {
+        "title": "Easy to work with",
+        "body": "Open to change orders and in touch until the job is done."
+      },
+      {
+        "title": "Inside and out",
+        "body": "Siding, roofing, windows, doors and renovations from one crew."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Dan Dobrick",
+      "rating": 5,
+      "date": "a month ago",
+      "text": "Joe recently completed a big project for us: adding a 250 sq. ft. porch on our house.  It’s turned out so beautiful!  We really are very impressed, not only with the quality of his work, but also the excellent quality produced by the people he hires.  Yes, you can get both high quality and reasonable price!"
+    },
+    {
+      "author": "Dave McNary",
+      "rating": 5,
+      "date": "3 weeks ago",
+      "text": "We hired Joe to renovate the front of our house. A new front door, remodeled porch with decking and post wrap. We also had new gutters with leaf guards, new shutters, painted garage doors and side doors as well as a few windows. Joe did a great job taking our vision and making it a reality. Easy to work with, open to change orders and quality work. We would not hesitate to work again with JD Construction.\n\nDave and Bonnie"
+    },
+    {
+      "author": "Holly Kimmes",
+      "rating": 5,
+      "date": "3 months ago",
+      "text": "JD construction was wonderful to work with!  I hired Joe for window replacement,  interior door replacement,  as well as siding projects.  The window replacement cost was almost half of what a larger company quoted me!  He really goes above and beyond to make sure the job is completed as you desire."
+    }
+  ],
+  "finalCta": {
+    "headline": "Ready to talk about your project?",
+    "body": "Send a few details or pick a time that suits you. You'll get a free estimate before anything is booked in.",
+    "cta": "Get a free estimate",
+    "microcopy": "No pressure. Just a straightforward conversation about your project."
+  },
+  "faq": [
+    {
+      "q": "Are estimates really free?",
+      "a": "Yes. Send the project through the form or give us a call, and we'll come out, look at it and give you a written estimate."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Yes. JD Construction is fully insured and holds Minnesota license #BC786121."
+    },
+    {
+      "q": "Which areas do you cover?",
+      "a": "Welch and the surrounding area. Tell us where the project is when you get in touch and we'll confirm."
+    },
+    {
+      "q": "Can I make changes once the job starts?",
+      "a": "Yes. Change orders are talked through and priced openly, so you always know where the project stands."
+    },
+    {
+      "q": "What happens after I submit a request?",
+      "a": "Your details come straight to us, you get a text and email confirmation, and we follow up to book a time to look at the project."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
