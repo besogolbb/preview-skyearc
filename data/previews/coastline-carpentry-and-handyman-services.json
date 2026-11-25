@@ -1,0 +1,218 @@
+{
+  "_sources": {
+    "google": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-25): 5.0 stars, 21 reviews, category Handyman, phone +61 468 678 972, no website ('Add website'). Service-area business; drawn area covers Sydney's Northern Beaches from Manly to Palm Beach (pin -33.7157, 151.2369). Review topics: work 8, punctuality 5, finished work 3, reliability 3, deck 2, kitchen 2.",
+    "location": "homedone.com.au/northern-beaches/carpentry/coastline-carpentry-and-handyman-services-north-curl-curl (2026-11-25): 'North Curl Curl, NSW', 'ABN verified, active since 2025', 'Brandon runs Coastline Carpentry & Handyman Services as a hands-on sole operator'. calso.com.au lists it under Sydney handymen. The brief said 'Central Coast, NSW', but no source places the business there, so the page uses the verified Northern Beaches location.",
+    "phone": "0468 678 972 on Google and Calso.",
+    "services": "Google reviews: decks, carpentry to a client's design, a single garage converted to a BBQ/cabana room, bathroom and kitchen repairs, carpet and wardrobe removal, preparing a home for sale, handyman job lists (around 10 items in one visit), desk assembly, maintenance for rental properties owned from out of the area. HomeDone summary: repeat bookings for rental and investment property maintenance.",
+    "brand": "No website, socials or logo online. Sampled from their Google listing cover photo (grey-tiled bathroom with a white freestanding bath) with sample-brand.mjs: suggested grey #74726f / #382f28 / #d1dded was too low-colour, so primary is the photo's pale blue (#d1dded, window light) deepened to ocean blue #2f6690 (white text 6.1:1, also fits the 'Coastline' name), dark #23292e from the tile greys, accent #d1dded. Not an official brand; confirm with the owner.",
+    "reviews": "Google Business Profile Reviews tab, same session: 3 complete 5-star reviews copied verbatim (Louise K, Candice Girdham, Kingsley Waterson).",
+    "notUsed": "No licence or insurance published (one review says 'qualified tradesman'; HomeDone verifies an ABN only), so none claimed. No 'free' quotes stated. Owner first name Brandon kept to the reviews and FAQ."
+  },
+  "gap": "No website: the Google listing shows 'Add website' and the only other trace online is a couple of directory listings, so the way to reach Brandon is a phone call. Landlords and homeowners can't send a job list or photos to get a quote.",
+  "market": "AU",
+  "company": {
+    "name": "Coastline Carpentry & Handyman Services",
+    "trade": "Carpentry and handyman services",
+    "city": "Northern Beaches, NSW",
+    "serviceArea": [
+      "Northern Beaches",
+      "North Curl Curl",
+      "Manly to Palm Beach"
+    ],
+    "phone": "0468 678 972"
+  },
+  "logo": {
+    "initials": "CC",
+    "tagline": "Carpentry & Handyman · Northern Beaches",
+    "svg": "/assets/logos/coastline-carpentry-and-handyman-services.svg"
+  },
+  "brand": {
+    "primary": "#2f6690",
+    "dark": "#23292e",
+    "accent": "#d1dded",
+    "primaryInk": "#ffffff"
+  },
+  "assetFolder": "carpentry",
+  "google": {
+    "rating": 5,
+    "reviewCount": 21,
+    "profileUrl": "https://www.google.com/maps/place/Coastline+Carpentry+%26+Handyman+Services/@-33.7156618,151.2369307,12z/data=!4m6!3m5!1s0x23b11a1001130cf3:0xaecc4cf7655c322a!8m2!3d-33.7156618!4d151.2369307!16s%2Fg%2F11nb6k5s1d"
+  },
+  "hero": {
+    "eyebrow": "Carpentry & handyman on the Northern Beaches",
+    "headline": "Carpentry and handyman jobs on the Northern Beaches, done properly.",
+    "subhead": "Decks, carpentry, bathroom and kitchen repairs, and the whole job list in one visit, for homes and rentals from Manly to Palm Beach. Tell us what needs doing and get a clear quote.",
+    "trustLine": [
+      "5.0 from 21 Google reviews",
+      "On time, every visit",
+      "No job too big or small"
+    ],
+    "photo": "stairs"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "Carpentry or decking",
+      "Bathroom or kitchen repairs",
+      "Handyman job list",
+      "Rental property maintenance",
+      "Prep a home for sale",
+      "Something else"
+    ]
+  },
+  "skyeGreeting": "G'day, I'm the Coastline Carpentry & Handyman assistant. Got a deck, some carpentry or a list of jobs around the house? Tell me what needs doing and I'll help you get a quote or book a time.",
+  "about": {
+    "headline": "One reliable tradie for the whole job list.",
+    "body": "Most people call with a list: a sticking door, a wobbly deck board, something in the bathroom, and a carpentry job they've been putting off. Brandon works through it in one visit, turns up when he says, and tells you straight how long it'll take.",
+    "cards": [
+      {
+        "title": "Homeowners",
+        "body": "Decks, carpentry, bathroom and kitchen repairs, and the jobs that keep piling up."
+      },
+      {
+        "title": "Landlords & property managers",
+        "body": "A reliable local tradie for rentals, even when you live out of the area."
+      },
+      {
+        "title": "Getting ready to sell",
+        "body": "Clear-outs, repairs and touch-ups to get the house ready for market."
+      }
+    ],
+    "closing": "Not sure if it's a carpentry job or a handyman job? Send the list and we'll sort it."
+  },
+  "problems": {
+    "headline": "Finding a reliable handyman on the Northern Beaches shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow quotes",
+        "body": "You ring around for a few small jobs and nobody wants to come out."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "An hourly rate that keeps running and a bill bigger than you expected."
+      },
+      {
+        "title": "No-shows & missed timelines",
+        "body": "You wait in for the morning and the tradie never turns up."
+      },
+      {
+        "title": "Messy job sites",
+        "body": "Offcuts, dust and old fittings left behind for you to clean up."
+      }
+    ],
+    "bridge": "You shouldn't have to chase a tradie just to get the job list done."
+  },
+  "solutions": {
+    "headline": "Carpentry and repairs, done right the first time.",
+    "services": [
+      {
+        "title": "Carpentry & decks",
+        "body": "Decks, custom carpentry built to your design, and bigger projects like converting a garage into a BBQ or cabana room.",
+        "photo": "stairs"
+      },
+      {
+        "title": "Bathroom & kitchen repairs",
+        "body": "Repairs and updates in bathrooms and kitchens, plus doors, fittings and the fixes that keep a house running.",
+        "photo": "bathroom"
+      },
+      {
+        "title": "Rentals & pre-sale prep",
+        "body": "Ongoing maintenance for rental properties, and clear-outs, repairs and touch-ups to get a home ready for sale.",
+        "photo": "kitchen"
+      }
+    ]
+  },
+  "process": {
+    "headline": "Send the list. Get a clear quote. Done in one go.",
+    "steps": [
+      {
+        "title": "Send your job list",
+        "body": "Use the form, add a few photos, or give Brandon a ring. Your suburb and a rough list is plenty."
+      },
+      {
+        "title": "Clear quote & timeframe",
+        "body": "You get a price and an honest timeframe before any work starts."
+      },
+      {
+        "title": "On time, every visit",
+        "body": "Brandon turns up when he says and works through the list properly."
+      },
+      {
+        "title": "Done & tidied up",
+        "body": "Finished within the timeframe he gave you, and tidied up before he goes."
+      }
+    ]
+  },
+  "why": {
+    "headline": "No rushing. Just jobs done properly.",
+    "themes": [
+      {
+        "title": "Hands-on sole operator",
+        "body": "The person you speak to is the person who does the work."
+      },
+      {
+        "title": "Punctual & reliable",
+        "body": "Turning up on time is what our Google reviewers mention most."
+      },
+      {
+        "title": "Fair, upfront pricing",
+        "body": "A clear quote and an honest timeframe, with no pressure."
+      },
+      {
+        "title": "Trusted by landlords",
+        "body": "Repeat work for rental owners who need someone they can rely on."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Louise K",
+      "rating": 5,
+      "text": "I highly recommend Brandon and his services. He delivers high quality and precise craftsmanship. He was able to execute exactly what I envisioned and also gave his professional advice to make it even more aesthetically appealing. Brandon is easy to communicate with, punctual and reliable. I know exactly who I will be calling when I next need a carpenter/ handyman!",
+      "date": "7 months ago"
+    },
+    {
+      "author": "Candice Girdham",
+      "rating": 5,
+      "text": "Brandon is our family's go to for anything  building and maintenance related for our rental properties. We are located out of the area and having a reliable local tradesman gives us confidence our investments are in good hands whenever we need works completed. He is courteous, punctual and professional. Highly recommend!",
+      "date": "6 months ago"
+    },
+    {
+      "author": "Kingsley Waterson",
+      "rating": 5,
+      "text": "A great company. I have used Brandon on a variety of projects including carpet and wardrobes removal, bathroom and kitchen repairs. More recently, Brandon undertook the cleaning out and preparing of a home for sale, making the whole process significantly less stressful. Brandon is reliable, reasonable and importantly, will work through with you the project or task at hand. Highly recommended by myself.",
+      "date": "7 months ago"
+    }
+  ],
+  "finalCta": {
+    "headline": "Ready to get the job list sorted?",
+    "body": "Send a few details or pick a time that suits. You'll get a clear quote before anything's booked in.",
+    "microcopy": "No pressure. Just a straight chat about the job."
+  },
+  "faq": [
+    {
+      "q": "How do quotes work?",
+      "a": "Send your job list through the form, with photos if you've got them, or give Brandon a ring. You'll get a clear quote and an honest timeframe before anything starts."
+    },
+    {
+      "q": "Which areas do you cover?",
+      "a": "The Northern Beaches, from Manly up to Palm Beach. Not sure if you're in range? Ask anyway."
+    },
+    {
+      "q": "Can you do several small jobs in one visit?",
+      "a": "Yes. Send the whole list: carpentry, repairs and odd jobs can be worked through in one visit."
+    },
+    {
+      "q": "I own a rental but live out of the area. Can you help?",
+      "a": "Yes. Brandon already looks after rental properties for owners who live out of the area."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your quote and we'll send the licence and insurance details for your job."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}

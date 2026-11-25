@@ -1,6 +1,6 @@
 ---
 name: build-preview
-description: Research a construction contractor and generate a full lead-generating website preview (Hero, Who We Help, Problems & Solutions, 4-Step Process, Why Us, Contact/GHL Hub, FAQ) plus a Permission-First outreach DM. Use when building a prospect preview.
+description: Research a construction contractor and generate a full lead-generating website preview (Hero, Who We Help, Problems & Solutions, 4-Step Process, Why Us, Contact/GHL Hub, FAQ) plus outreach mockup images (desktop + phone) and a Permission-First outreach DM. Use when building a prospect preview.
 argument-hint: "<Company Name>" "<Sub-Niche>" "<City>" "<AU|US>" [Optional URL]
 disable-model-invocation: true
 ---
@@ -72,8 +72,14 @@ Use the installed `logo-design` skill (`~/.claude/skills/logo-design`, run its s
 1. Run `npm run check:preview -- <slug>` and fix every `error` (and read every `warn`).
 2. Run `npm run build` to confirm zero TypeScript or layout errors.
 3. Stage and commit `data/previews/<slug>.json` (`git add data/previews/<slug>.json && git commit -m "Add preview: <slug>"`) and push if a git remote is configured. If you added photos, also `git add public/assets lib/stock.ts`.
-4. Print to the terminal:
+4. **Outreach mockups (mandatory, every prospect):** with the fresh build running locally (`npx next start -p 3123`), run
+   ```bash
+   node scripts/outreach-shots.mjs <slug>            # several slugs at once is fine; --base https://preview.skyearc.tech shoots live
+   ```
+   It writes ONE file, `../outreach/<slug>/desktop-and-phone.jpg` (the `outreach` folder next to this project, not in git): a 1920×1080 browser + phone mockup of the hero on white, the image to send with DM message #2. The user only wants this combined mockup: never add separate desktop, phone or full-page files. LOOK at `desktop-and-phone.jpg` before reporting: hero headline complete, arc underline fully drawn (raise `--wait` if it is caught mid-animation), no stray elements at the top of the phone screen. Stop the server afterwards.
+5. Print to the terminal:
    - **Live URL:** `https://preview.skyearc.tech/<slug>`
+   - **Outreach mockup:** the path to `../outreach/<slug>/desktop-and-phone.jpg`
    - **Identified Gap:** The exact lead-capture leak found.
    - **Permission-First DM (3 lines, no raw link in Message #1, no hype, never promising "more leads" or revenue):** Ready to copy-paste into LinkedIn or Facebook Messenger.
 
@@ -217,4 +223,5 @@ How to find them: the client's website CSS (`theme-color`, button and header col
 ## Verify before reporting
 1. `npm run check:preview -- <slug>` → `✓`.
 2. `npm run build` → the slug appears under `/[slug]` as `○` (static).
-3. Look at the page at 1440 and 390: hero, the 3 service photos, the hub. The design-taste-frontend `shoot.mjs` full-page capture can drop content right above each 900/1800/2700 px stitch seam; if a heading looks cut there, crop that section at 390 or scroll to it before calling it a bug.
+3. `../outreach/<slug>/desktop-and-phone.jpg` exists and looks right (Step 4.4).
+4. Look at the page at 1440 and 390: hero, the 3 service photos, the hub. The design-taste-frontend `shoot.mjs` full-page capture can drop content right above each 900/1800/2700 px stitch seam; if a heading looks cut there, crop that section at 390 or scroll to it before calling it a bug.

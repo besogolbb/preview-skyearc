@@ -135,8 +135,8 @@ p { margin: 0; text-wrap: pretty; }
 
 .skip-link {
   position: absolute;
-  left: var(--gut);
-  top: -100px;
+  top: 8px;
+  left: -9999px; /* parked off to the side: hiding it above the page let it peek over the banner on phones */
   z-index: 60;
   background: var(--p-accent);
   color: var(--p-accent-ink);
@@ -144,7 +144,7 @@ p { margin: 0; text-wrap: pretty; }
   border-radius: var(--r-sm);
   font-weight: 600;
 }
-.skip-link:focus { top: 8px; }
+.skip-link:focus { left: var(--gut); }
 
 /* ---------- (0) concept banner + (1) header: one sticky block ---------- */
 .topbar {
