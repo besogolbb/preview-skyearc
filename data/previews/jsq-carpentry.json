@@ -1,0 +1,218 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-26): 'JSQ Carpentry', 5.0 stars, 9 reviews, category 'Carpenter', phone +61 402 370 021, opens 8:30 AM, no website ('Add website' shown).",
+    "serviceArea": "Google service-area outline (headless render, same day): Caboolture and North Lakes south through Chermside and Brisbane to Ipswich and Beenleigh.",
+    "services": "Google reviews: retaining wall, steps and garden edge (Vini Pyx), installation work (Jonathan Johnny-moore), a variety of carpentry work over several jobs (Nicky Pav). Review topics: quality of work 5, excellent tradesman 2, on-time 2, communication 2, reliability 2, accommodating 2, contractor 2. Cover photo shows a new hardwood deck with posts.",
+    "brand": "No website, socials or logo found. Sampled from their own Google listing cover photo (a new hardwood deck on a charcoal-clad home): primary = the deck's red-brown #8a4f2e (white 6.5:1), dark = the charcoal cladding #1c1b1f, accent = lighter timber #d0956a (6.7:1 on dark). Not an official brand; confirm with the owner.",
+    "reviews": "Google Reviews tab, same session: 3 complete 5-star reviews copied verbatim (Vini Pyx, Jonathan Johnny-moore, bharath reddy), stars checked via each review's rating label. Owner named Jaime."
+  },
+  "gap": "No website: the Google listing shows 'Add website', so people who find JSQ can only ring Jaime during the day; there's no way to send a job, photos or a quote request after hours.",
+  "market": "AU",
+  "company": {
+    "name": "JSQ Carpentry",
+    "trade": "Carpentry, decks and landscaping structures",
+    "city": "Brisbane, QLD",
+    "serviceArea": [
+      "Brisbane",
+      "Caboolture",
+      "North Lakes",
+      "Chermside",
+      "Ipswich",
+      "Beenleigh"
+    ],
+    "phone": "0402 370 021"
+  },
+  "logo": {
+    "initials": "JSQ",
+    "tagline": "Carpentry · Brisbane",
+    "svg": "/assets/logos/jsq-carpentry.svg"
+  },
+  "brand": {
+    "primary": "#8a4f2e",
+    "dark": "#1c1b1f",
+    "accent": "#d0956a"
+  },
+  "assetFolder": "carpentry",
+  "assistantName": "JSQ Carpentry",
+  "google": {
+    "rating": 5,
+    "reviewCount": 9,
+    "profileUrl": "https://www.google.com/maps/place/JSQ+Carpentry/@-27.467725,152.9931964,9z/data=!4m6!3m5!1s0x6b96c9425dc64333:0xf1ade6cc0fc761a!8m2!3d-27.467725!4d152.9931964!16s%2Fg%2F11rxjsyz47"
+  },
+  "hero": {
+    "eyebrow": "Carpentry across Brisbane",
+    "headline": "Decks, steps and carpentry in Brisbane, precise work with no shortcuts.",
+    "subhead": "Decks, steps, retaining walls, garden edges and installation work from Caboolture to Ipswich and Beenleigh. Send through the job and get a clear written quote.",
+    "trustLine": [
+      "Clear written quotes",
+      "On time and reliable",
+      "No shortcuts"
+    ],
+    "photo": "stairs"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "Deck or steps",
+      "Retaining wall or garden edge",
+      "Installation work",
+      "Other carpentry",
+      "Something else"
+    ]
+  },
+  "skyeGreeting": "G'day, I'm the JSQ Carpentry assistant. Got a deck, steps, a retaining wall or another carpentry job? Tell me a bit about it and I'll help you get a quote or book a time with Jaime.",
+  "about": {
+    "headline": "The chippy you wish you'd found first.",
+    "body": "Most people have been burned by a tradie at some point. What they want is simple: someone who turns up on time, communicates, and doesn't cut corners to finish early. Every job is done that way, from a garden edge to a full deck.",
+    "cards": [
+      {
+        "title": "Backyards that need structure",
+        "body": "Retaining walls, steps and garden edges that hold up and look tidy."
+      },
+      {
+        "title": "Outdoor living",
+        "body": "Decks and steps built square, solid and finished cleanly."
+      },
+      {
+        "title": "Jobs around the house",
+        "body": "Installation work and carpentry, done properly the first time."
+      }
+    ],
+    "closing": "Not sure if it's worth a call? Send a few photos and we'll talk it through."
+  },
+  "problems": {
+    "headline": "Finding a reliable chippy in Brisbane shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow quotes",
+        "body": "You chase tradies for weeks just to get a number."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "A cheap quote that turns into a big bill."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "Tradies who don't show up when they said they would."
+      },
+      {
+        "title": "Sloppy finishing",
+        "body": "Shortcuts that show the first time it rains."
+      }
+    ],
+    "bridge": "You shouldn't have to chase a tradie just to get it done properly."
+  },
+  "solutions": {
+    "headline": "Straightforward carpentry with clear communication.",
+    "services": [
+      {
+        "title": "Decks & steps",
+        "body": "New decks and steps built with precise, accurate work and a clean finish.",
+        "photo": "deck"
+      },
+      {
+        "title": "Retaining walls & garden edges",
+        "body": "Retaining walls, steps and garden edging that tidy up the yard and stay put.",
+        "photo": "framing"
+      },
+      {
+        "title": "Installation & carpentry",
+        "body": "Installation work and carpentry around the house, done professionally and honestly.",
+        "photo": "door"
+      }
+    ]
+  },
+  "process": {
+    "headline": "We listen to what you need. Quote it clearly. Build it right.",
+    "steps": [
+      {
+        "title": "Request your quote",
+        "body": "Send a few details and photos with the form or give Jaime a ring."
+      },
+      {
+        "title": "Look & clear quote",
+        "body": "We have a look, talk through the options and put the price in writing."
+      },
+      {
+        "title": "On-time, careful work",
+        "body": "On time, patient and communicating as the job goes."
+      },
+      {
+        "title": "Final walkthrough",
+        "body": "We walk the finished job with you and sort anything on the list before we call it done."
+      }
+    ]
+  },
+  "why": {
+    "headline": "Precise work, no shortcuts.",
+    "themes": [
+      {
+        "title": "Quality of work",
+        "body": "Precise, accurate carpentry you can see in the finish."
+      },
+      {
+        "title": "On time",
+        "body": "Shows up when promised and responds fast."
+      },
+      {
+        "title": "No shortcuts",
+        "body": "Done properly, even where nobody will look."
+      },
+      {
+        "title": "Good communication",
+        "body": "Patient, accommodating and clear from start to finish."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Vini Pyx",
+      "rating": 5,
+      "date": "5 years ago",
+      "text": "After doing renovations for nearly two years I have found the best contractor I have ever had. He was on time, respectful and knowledgeable, fast at responding to any requests. I would hire him again time and time over. Overall such precise and accurate work. He built this retaining wall and then we asked if he could build some steps and a garden edge. You will have zero regrets hiring Jaime. Some fefore and afters :)"
+    },
+    {
+      "author": "Jonathan Johnny-moore",
+      "rating": 5,
+      "date": "5 years ago",
+      "text": "I used JSQ Carpentry to do some installation work on my house and I was very pleased with the quality of the work. Jaime was very professional, reliable and honest in his dealings with me. I would definitely hire him again."
+    },
+    {
+      "author": "bharath reddy",
+      "rating": 5,
+      "date": "4 years ago",
+      "text": "I wish I could have found him earlier. After multiple bad contractors finally found Jamie who is the best contractor I ever hired . He is on time professional, accommodating and didn't took one single shortcut to finish the job. He is on-time, patient and always communicated well. I am confident that he is my go to tradie from now on ."
+    }
+  ],
+  "finalCta": {
+    "headline": "Got a carpentry job in mind?",
+    "body": "Send a few details or pick a time that suits you. You'll get a written quote before anything is booked in.",
+    "microcopy": "No pressure. Just a straightforward chat about the job."
+  },
+  "faq": [
+    {
+      "q": "How do quotes work?",
+      "a": "Send the job through the form or give Jaime a ring. We'll have a look and send a written quote with the scope and price."
+    },
+    {
+      "q": "Which areas do you cover?",
+      "a": "Brisbane and surrounds, from Caboolture and North Lakes down to Ipswich and Beenleigh. Close by but not on the list? Ask anyway."
+    },
+    {
+      "q": "Do you build retaining walls and garden edges?",
+      "a": "Yes. Retaining walls, steps and garden edging are part of the work, as well as decks and general carpentry."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your quote and we'll send the licence and insurance details for your job."
+    },
+    {
+      "q": "What happens after I submit a request?",
+      "a": "Your details come straight to us, you get a text and email confirmation, and we follow up to book a time to look at the job."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
