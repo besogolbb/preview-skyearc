@@ -1,0 +1,218 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-26): 'M & E Knox Carpenter LLC', 5.0 stars, 19 reviews, category 'Deck builder', phone +1 865-255-9880, open until 6 PM, no website ('Add website' shown).",
+    "serviceArea": "Google service-area outline on the same listing: Knoxville, Fountain City, Powell, Cedar Bluff, West Hills and Asbury (east to Strawberry Plains, south to Bonny Kate).",
+    "services": "Google reviews: decks and deck structural repair (Sara Webb, Robert Gionfriddo, Shawna Moore, Tim Blackburn), pergolas (Connie York, Kristie D.), a pavilion (Jimbo), a 40x24 garage (Billy Morgan), a boat house structural repair (Mark Scheuer) and a lake renovation with framing and drywall (Kym Koch). Review topics: on time 5, quality of craftsmanship 4, cleanliness 3, structural issues 3, pergola installation 2, framing 2, drywall 2, renovation 2, honest work 2, punctual 2.",
+    "brand": "No website, socials or logo found. Sampled from their own Google listing cover photo (a stained cedar pergola over a deck with black railings): primary = cedar brown (#7a4f2a, white 7.1:1), dark = the railing black (#1c1814), accent = the lit cedar (#d39d5e, 7.4:1 on dark). Not an official brand; confirm with the owner.",
+    "reviews": "Google Reviews tab, same session: 3 complete 5-star reviews copied verbatim (Robert Gionfriddo, Connie York, Jimbo), stars checked via each review's rating label. Owner/lead named Miguel in most reviews."
+  },
+  "gap": "No website: the Google listing shows 'Add website', so homeowners who find them can only call before 6 PM; there is no way to send deck or pergola details, photos or a request for an estimate after hours.",
+  "market": "US",
+  "company": {
+    "name": "M & E Knox Carpenter LLC",
+    "trade": "Decks, pergolas and carpentry",
+    "city": "Knoxville, TN",
+    "serviceArea": [
+      "Knoxville",
+      "Fountain City",
+      "Powell",
+      "Cedar Bluff",
+      "West Hills",
+      "Asbury"
+    ],
+    "phone": "(865) 255-9880"
+  },
+  "logo": {
+    "initials": "ME",
+    "tagline": "Decks, Pergolas & Carpentry · Knoxville",
+    "svg": "/assets/logos/m-and-e-knox-carpenter-llc.svg"
+  },
+  "brand": {
+    "primary": "#7a4f2a",
+    "dark": "#1c1814",
+    "accent": "#d39d5e"
+  },
+  "assetFolder": "carpentry",
+  "assistantName": "M & E Knox",
+  "google": {
+    "rating": 5,
+    "reviewCount": 19,
+    "profileUrl": "https://www.google.com/maps/place/M+%26+E+Knox+Carpenter+LLC/@35.958357,-83.9252585,11z/data=!4m6!3m5!1s0x81b43a12d3b99ed9:0x3519676fdf48ae8f!8m2!3d35.958357!4d-83.9252585!16s%2Fg%2F11vd7d4kyk"
+  },
+  "hero": {
+    "eyebrow": "Decks, pergolas & carpentry in Knoxville",
+    "headline": "Decks and pergolas in Knoxville, built solid and finished on time.",
+    "subhead": "New decks, deck repairs, pergolas, pavilions and carpentry for homeowners across Knoxville, Powell and Fountain City. Send us the details and get a clear written estimate.",
+    "trustLine": [
+      "Clear written estimates",
+      "Local Knoxville crew",
+      "Known for being on time"
+    ],
+    "photo": "stairs"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "New deck",
+      "Deck repair",
+      "Pergola or pavilion",
+      "Garage or framing",
+      "Renovation or other carpentry"
+    ]
+  },
+  "skyeGreeting": "Hi, I'm the M & E Knox Carpenter assistant. Planning a new deck, a pergola or a repair? Tell me a bit about the project and I'll help you get an estimate or book a time.",
+  "about": {
+    "headline": "You picture the space. We build it properly.",
+    "body": "Most homeowners want the same things from a carpentry project: a fair price in writing before work starts, a crew that shows up when it says it will, and framing that's done right where nobody looks. Every job is built around that, from the first measure to the last clean-up.",
+    "cards": [
+      {
+        "title": "Backyards with no deck yet",
+        "body": "New decks, stairs and railings planned around how you want to use the yard."
+      },
+      {
+        "title": "Decks with structural problems",
+        "body": "Sagging, soft or unsafe decks repaired properly, not just covered over."
+      },
+      {
+        "title": "Shade and outdoor rooms",
+        "body": "Pergolas and pavilions over the patio or pool deck, built tight and finished clean."
+      }
+    ],
+    "closing": "Not sure what the project needs? Send a few photos and we'll talk it through."
+  },
+  "problems": {
+    "headline": "Getting a deck built in Knoxville shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow estimates",
+        "body": "You message a few contractors and wait weeks to hear back from one."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "A rough number that grows once the old boards come up."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "The old deck torn down and the new one months away, with no answers."
+      },
+      {
+        "title": "Messy job sites",
+        "body": "Offcuts and screws left in the yard at the end of every day."
+      }
+    ],
+    "bridge": "You shouldn't have to chase a contractor just to get a clear estimate."
+  },
+  "solutions": {
+    "headline": "Straightforward carpentry with clear communication.",
+    "services": [
+      {
+        "title": "Decks & deck repair",
+        "body": "New decks, rebuilds and repairs for decks with structural problems, with stairs and railings finished properly.",
+        "photo": "deck"
+      },
+      {
+        "title": "Pergolas & pavilions",
+        "body": "Pergolas over patios and pool decks, and pavilions built with clean, solid carpentry.",
+        "photo": "pergola"
+      },
+      {
+        "title": "Garages, framing & renovations",
+        "body": "Garages, framing, drywall and structural work for renovations, from the frame to the finish.",
+        "photo": "framing"
+      }
+    ]
+  },
+  "process": {
+    "headline": "We listen to what you need. Estimate it clearly. Build it right.",
+    "steps": [
+      {
+        "title": "Request your estimate",
+        "body": "Send a few details and a photo or two with the form, or give us a call."
+      },
+      {
+        "title": "Site visit & clear scope",
+        "body": "We measure up, talk through the design and materials, and put the scope and price in writing."
+      },
+      {
+        "title": "Clean, on-time work",
+        "body": "A start date you can plan around, the timeframe we promised, and the site cleaned up each day."
+      },
+      {
+        "title": "Final walkthrough",
+        "body": "We walk the finished project with you and sort anything on the list before we call it done."
+      }
+    ]
+  },
+  "why": {
+    "headline": "We're not here to rush the job. We're here to build it right.",
+    "themes": [
+      {
+        "title": "On time",
+        "body": "The job finished in the timeframe we give you."
+      },
+      {
+        "title": "Written estimates",
+        "body": "Scope and price in writing, so you know what you're paying for."
+      },
+      {
+        "title": "Quality craftsmanship",
+        "body": "Solid framing and clean finishes, including the parts nobody sees."
+      },
+      {
+        "title": "Clean job sites",
+        "body": "Cleaned up at the end of every day, not just at the end of the job."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Robert Gionfriddo",
+      "rating": 5,
+      "date": "a year ago",
+      "text": "Miguel and his crew did a fantastic job! We had no deck as a previous contractor left us high and dry for months after tearing down the old deck.  Miguel came in at fair price and kept to his word knocking this huge project out just in time for the beautiful weather.  I would highly recommend M.E. Knox Carpenter."
+    },
+    {
+      "author": "Connie York",
+      "rating": 5,
+      "date": "a year ago",
+      "text": "They installed a pergola on the back of my house I absolutely love it they were quick professional cleaned up after themselves and I just had them to come back and do one additional things and he was prompt on time and no worries at all to do it I would highly recommend them"
+    },
+    {
+      "author": "Jimbo",
+      "rating": 5,
+      "date": "a year ago",
+      "text": "Miguel and his crew were very professional and performed outstanding carpentry work on our pavilion. The workmanship was amazing. I would recommend Miguel to anyone who wants the job done right. He exceeds all expectations."
+    }
+  ],
+  "finalCta": {
+    "headline": "Ready to talk about your deck or pergola?",
+    "body": "Send a few details or pick a time that suits you. You'll get a written estimate before anything is booked in.",
+    "microcopy": "No pressure. Just a straightforward conversation about your project."
+  },
+  "faq": [
+    {
+      "q": "How do estimates work?",
+      "a": "Send the project through the form or give us a call. We'll ask a few questions, come out to measure, and send a written estimate that lists the scope, materials and price."
+    },
+    {
+      "q": "Which areas around Knoxville do you cover?",
+      "a": "Knoxville and the surrounding area, including Fountain City, Powell, Cedar Bluff, West Hills and Asbury. Close by but not on the list? Ask anyway."
+    },
+    {
+      "q": "My deck has structural problems. Can it be repaired?",
+      "a": "Often, yes. We'll look at the posts, beams and joists on the site visit and tell you honestly whether a repair or a rebuild makes more sense."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your estimate and we'll send the license and insurance details for your project."
+    },
+    {
+      "q": "What happens after I submit a request?",
+      "a": "Your details come straight to us, you get a text and email confirmation, and we follow up to talk through the project and book a site visit."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
