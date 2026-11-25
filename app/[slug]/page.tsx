@@ -49,16 +49,23 @@ export default async function PreviewPage({ params }: PageProps<"/[slug]">) {
 function highlight(text: string, word: string): ReactNode {
   const i = word ? text.toLowerCase().indexOf(word.toLowerCase()) : -1;
   if (i < 0) return text;
+  // Keep punctuation right after the city ("Ocala,") on the same line as it:
+  // the underlined span is inline-block, so a bare comma could wrap on its own.
+  const rest = text.slice(i + word.length);
+  const punct = rest.match(/^[,.;:!?]+/)?.[0] ?? "";
   return (
     <>
       {text.slice(0, i)}
-      <span className="arc-u">
-        {text.slice(i, i + word.length)}
-        <svg className="arc-u-svg" viewBox="0 0 200 20" preserveAspectRatio="none" aria-hidden="true" focusable="false">
-          <path pathLength={1} d="M3 15C70 19 150 11 197 3" />
-        </svg>
+      <span style={{ whiteSpace: "nowrap" }}>
+        <span className="arc-u">
+          {text.slice(i, i + word.length)}
+          <svg className="arc-u-svg" viewBox="0 0 200 20" preserveAspectRatio="none" aria-hidden="true" focusable="false">
+            <path pathLength={1} d="M3 15C70 19 150 11 197 3" />
+          </svg>
+        </span>
+        {punct}
       </span>
-      {text.slice(i + word.length)}
+      {rest.slice(punct.length)}
     </>
   );
 }

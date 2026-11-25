@@ -1,0 +1,222 @@
+{
+  "_sources": {
+    "google": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-25): 4.7 stars, 46 reviews, category Handyman, address 6677 N Deltona Blvd, Citrus Springs, FL 34434. Review topics: punctuality 12, fair pricing 10, bathroom renovation 6, thoroughness 4, professional work 4, cleanliness 4, door repair 2, finish work 2.",
+    "phone": "352-721-1756 on their website header (tel:3527211756) and the Google listing (+1 352-721-1756). Website also lists 917-982-8581 (WhatsApp); not used.",
+    "services": "kpmaintenancegroupllc.godaddysites.com (2026-11-25): 'Bathroom renovation & epoxy countertop Installation', 'Repair & Remodeling', 'Maintenance & Home Services'; 'interior and exterior painting, Sheetrock repair, kitchen and bathroom remodeling, and epoxy countertop transformations', 'framing, plumbing and electrical repairs, flooring installation'. Onyx Collection authorized dealer (shower bases, wall panels).",
+    "serviceArea": "Website contact page: Citrus Springs, Lecanto, Dunnellon, Ocala; home page: 'citrus county Marion county, Ocala'.",
+    "freeEstimate": "Website banner 'Contact us for a FREE quote!' and buttons 'Get a Free Estimate'.",
+    "experience": "Website home page: 'Backed by over 25 years of experience in residential and commercial maintenance'.",
+    "brand": "Their own website (2026-11-25): meta theme-color #b50d0d, all buttons #b50d0d with white text, page background #161616, logo a red/white/black badge. Accent #ff5c4d is a lighter tint of their red, made for contrast on the dark sections.",
+    "reviews": "Google Business Profile Reviews tab, same session: 3 complete 5-star reviews copied verbatim (Elena C, Tammy Whipple, Ronda Driskell).",
+    "notUsed": "Owner name (Ken / Kenneth Polanco) appears only in reviews; '24 Hour Emergency Service' on the contact page (off-topic for remodeling); no licence or insurance details published."
+  },
+  "gap": "Every 'Get a Free Estimate' button on their site either dials the phone or reloads the homepage. The only form is on the contact page, and the homepage 'Reviews' section is empty even though they have 4.7 stars from 46 Google reviews.",
+  "market": "US",
+  "company": {
+    "name": "KP Maintenance Group L.L.C",
+    "trade": "Kitchen and bathroom remodeling",
+    "city": "Citrus Springs, FL",
+    "serviceArea": [
+      "Citrus Springs",
+      "Dunnellon",
+      "Lecanto",
+      "Ocala"
+    ],
+    "phone": "352-721-1756"
+  },
+  "logo": {
+    "initials": "KP",
+    "tagline": "Kitchen & Bath Remodeling · Citrus Springs",
+    "svg": "/assets/logos/kp-maintenance-group-llc.svg"
+  },
+  "brand": {
+    "primary": "#b50d0d",
+    "dark": "#161616",
+    "accent": "#ff5c4d",
+    "primaryInk": "#ffffff"
+  },
+  "assetFolder": "remodeling",
+  "google": {
+    "rating": 4.7,
+    "reviewCount": 46,
+    "profileUrl": "https://www.google.com/maps/place/KP+Maintenance+Group+L.L.C/@28.9612938,-82.4403152,17z/data=!4m6!3m5!1s0x88e86f7b5d8a8733:0x274af307a65dfa25!8m2!3d28.9612938!4d-82.4403152!16s%2Fg%2F11lxgvmcs2"
+  },
+  "hero": {
+    "eyebrow": "Kitchen & bath remodeling in Citrus Springs",
+    "headline": "Kitchen and bathroom remodels in Citrus Springs, done neat and on time.",
+    "subhead": "Bathroom renovations, kitchen updates, tile and epoxy countertops for homeowners across Citrus Springs, Dunnellon, Lecanto and Ocala. Tell us about the room and get a free written estimate.",
+    "primaryCta": "Get a free estimate",
+    "trustLine": [
+      "Free written estimates",
+      "Shows up on time",
+      "Cleans up every day"
+    ],
+    "photo": "kitchen"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "Bathroom renovation",
+      "Kitchen update",
+      "Epoxy countertops",
+      "Tile or flooring",
+      "Repairs or something else"
+    ]
+  },
+  "skyeGreeting": "Hi, I'm the KP Maintenance Group assistant. Thinking about a bathroom remodel, a kitchen update or some tile work? Tell me about it and I'll help you get a free estimate or book a time.",
+  "about": {
+    "headline": "Your home, updated properly, by someone who turns up.",
+    "body": "Most homeowners want the same things from a remodel: someone who answers the phone, a fair price up front, and a room that's finished and clean at the end. Every job is planned around that, from the first visit to the last grout line.",
+    "cards": [
+      {
+        "title": "Dated bathrooms",
+        "body": "A tired 1990s bathroom turned into one you're proud of: new shower, tiled floors, lighting and paint."
+      },
+      {
+        "title": "Kitchens on a budget",
+        "body": "Backsplash tile, under-cabinet lighting or an epoxy countertop finish, without replacing everything."
+      },
+      {
+        "title": "Repairs that keep piling up",
+        "body": "Drywall, doors, fixtures and the rest of the list, handled while we're already there."
+      }
+    ],
+    "closing": "Not sure where to start? Tell us about the room and we'll talk it through."
+  },
+  "problems": {
+    "headline": "Getting a remodel done around Citrus Springs shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow estimates",
+        "body": "You call three contractors, nobody calls back, and you still don't have a number to plan around."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "A price that grows once the old tile is up, with no clear explanation of why."
+      },
+      {
+        "title": "No-shows & missed timelines",
+        "body": "You stay home for the appointment and nobody turns up. The bathroom stays torn out for weeks."
+      },
+      {
+        "title": "Messy job sites",
+        "body": "Dust through the house and debris left behind for you to clean up after they've gone."
+      }
+    ],
+    "bridge": "You shouldn't have to chase a contractor just to get your bathroom finished."
+  },
+  "solutions": {
+    "headline": "Kitchen and bath work, explained clearly and finished properly.",
+    "services": [
+      {
+        "title": "Bathroom renovations",
+        "body": "Full bathroom remodels: shower installs and shower doors, tiled floors and walls, lighting, fans and paint.",
+        "photo": "bathroom"
+      },
+      {
+        "title": "Kitchens & epoxy countertops",
+        "body": "Backsplash tile, under-cabinet lighting and epoxy countertop transformations that refresh a kitchen on a budget.",
+        "photo": "kitchen"
+      },
+      {
+        "title": "Tile, flooring & repairs",
+        "body": "Floor and wall tile, flooring installation, drywall repair, painting and the repairs that come up along the way.",
+        "photo": "tile"
+      }
+    ]
+  },
+  "process": {
+    "headline": "We listen. Explain the plan. Show up and finish it.",
+    "steps": [
+      {
+        "title": "Request your free estimate",
+        "body": "Send a few details with the form or give us a call. A ZIP code and a rough idea of the room is plenty."
+      },
+      {
+        "title": "Visit & clear plan",
+        "body": "We look at the room, listen to what you want, and explain the work and the price before anything starts."
+      },
+      {
+        "title": "On time, every day",
+        "body": "We show up when we said we would, keep you posted as the work goes, and clean up before we leave each day."
+      },
+      {
+        "title": "Final walkthrough",
+        "body": "We walk the finished room with you and sort anything on the list before we call it done."
+      }
+    ]
+  },
+  "why": {
+    "headline": "We're not here to rush the job. We're here to do it right.",
+    "themes": [
+      {
+        "title": "Over 25 years of experience",
+        "body": "Residential and commercial maintenance and remodeling, so the problems behind the walls aren't a surprise."
+      },
+      {
+        "title": "On time",
+        "body": "Punctuality is the thing our Google reviewers mention most."
+      },
+      {
+        "title": "Fair, upfront pricing",
+        "body": "A free estimate with the price explained, and options when you're working to a budget."
+      },
+      {
+        "title": "Clean as we go",
+        "body": "The work area is cleaned up every day, not just on the last one."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Elena C",
+      "rating": 5,
+      "text": "Highly recommend KPMaintenance Group LLC services for home repair and remodeling. Ken is the owner and was easy to work with, understood our needs and efficiently completed our kitchen tiling job in 4 days even though the tile pattern was tedious. In addition, he installed under cabinet lighting and fixed electrical issues. It all looks amazing and exactly what I envisioned.  Every day Ken showed up on time, worked hard, and  cleaned up his work area and my kitchen. I have a list of future projects that will eventually be accomplished by him. Great work!",
+      "date": "9 months ago"
+    },
+    {
+      "author": "Tammy Whipple",
+      "rating": 5,
+      "text": "We couldn't be happier with the work Ken has done for us. This is the second time we have used him. He transformed our 1990s bathroom into something we can be proud of. We were working on a budget, and Ken did his best to keep price in mind. I didn't want the expense of changing the counter top, so instead he used an epoxy application that turned out better than we ever expected.\nI'm giddy over the job he did installing our new barn door. It's so beautiful and looks perfect leading into our new bathroom.\nKen is a master at laying tile. Both of our bathroom floors look amazing. We couldn't be more pleased. He also fixed a  drywall mess from a previous job which matches perfectly. He also worked on a couple of doors we were having issues with.\nI would highly recommend Ken and KP Maintenance Group for any of your home or business projects. He's prompt, easy to work with, fair and professional.",
+      "date": "6 months ago"
+    },
+    {
+      "author": "Ronda Driskell",
+      "rating": 5,
+      "text": "I called several places to get remodeling done of two bathrooms and prep work prior to kitchen cabinet replacement and either they wouldn't call me back or they would no show. I called Ken and he showed up on time.  The work he has done looks great! He takes the time to explain the process step by step.The prices are very reasonable as well. Thanks Ken!",
+      "date": "4 years ago"
+    }
+  ],
+  "finalCta": {
+    "headline": "Ready to talk about your kitchen or bathroom?",
+    "body": "Send a few details or pick a time that suits you. You'll get a free written estimate before anything is booked in.",
+    "cta": "Get a free estimate",
+    "microcopy": "No pressure. Just a straightforward conversation about your project."
+  },
+  "faq": [
+    {
+      "q": "Are estimates really free?",
+      "a": "Yes. Send the project through the form or give us a call. We'll ask a few questions, come out to look at the room if the job needs it, and give you a written estimate with the scope and price."
+    },
+    {
+      "q": "Which areas do you cover?",
+      "a": "Citrus Springs, Dunnellon, Lecanto and Ocala, across Citrus and Marion County. Close by but not on the list? Ask anyway."
+    },
+    {
+      "q": "Can you redo a countertop without replacing it?",
+      "a": "Often, yes. An epoxy countertop finish can give a kitchen or bathroom counter a new look without the cost of a full replacement. We'll tell you honestly whether your counter is a good candidate."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your estimate and we'll send the licence and insurance details for your project."
+    },
+    {
+      "q": "What happens after I submit a request?",
+      "a": "Your details come straight to us, you get a text and email confirmation, and we follow up to talk through the project and book a visit if it needs one."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
