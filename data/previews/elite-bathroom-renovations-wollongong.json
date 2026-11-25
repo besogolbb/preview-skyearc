@@ -1,0 +1,213 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-26): 'Elite Bathroom Renovations Wollongong', 5.0 stars, 18 reviews, category 'Bathroom remodeler', phone +61 405 259 124, opens 7:30 AM. Main website button = pinkpages.com.au/elite-bathroom-laundry-renovations-and-shower-repairs-warrawong/11385418/listing; a separate booking link points to elitebathroomsreno.com.au/contact. (A second, different listing 'Elite Bathroom & Laundry Renovations' with 3 reviews also appears in search: not used.)",
+    "website": "https://www.elitebathroomsreno.com.au/ (2026-11-26): 'Shower Repairs | Elite Bathroom Renovations | Wollongong & Illawarra', '© 2019 by Quartz Creative Co.', hero is the logo only; services 'Shower Repairs | Bathroom Renovations | Laundry Renovations'; Tel 0405 259 124; one contact form at the bottom.",
+    "services": "Website services plus Google review topics: new bathroom 4, attention to detail 4, workmanship 3, friendliness 3, design 3, accessible bathroom 2, respectful team 2, easy process 2, promptness 2, painting 2. Reviews describe bathroom and laundry renovations with design and product selection (Lee-Anne McCabe) and an accessible bathroom/laundry conversion (Jenny).",
+    "serviceArea": "Website title: Wollongong & Illawarra. No suburb list verified.",
+    "brand": "From their own website and logo: navy #1e3643, bronze #957b5f and light bronze #c6a47e. Primary = light bronze with navy text (5.4:1; white on bronze fails), dark = navy, accent = a lighter bronze #d9bf98 (7.1:1 on navy).",
+    "reviews": "Google Reviews tab, same session: 3 complete 5-star reviews copied verbatim (Lee-Anne McCabe, carol jackson, Jenny), stars checked via each review's rating label. Owner named Steve.",
+    "photos": "No hero-size bathroom photo in the library: hero uses the renovated-kitchen stand-in; service cards use bathroom, kitchen (laundry stand-in) and tile."
+  },
+  "gap": "Google's main website button sends homeowners to a Pink Pages directory listing, next to other renovators, instead of Elite's own page; their own 2019 site is a logo with the only contact form at the very bottom, so there's no quick way to send bathroom details and photos for a quote.",
+  "market": "AU",
+  "company": {
+    "name": "Elite Bathroom Renovations Wollongong",
+    "trade": "Bathroom and laundry renovations",
+    "city": "Wollongong, NSW",
+    "phone": "0405 259 124"
+  },
+  "logo": {
+    "initials": "EB",
+    "tagline": "Bathroom & Laundry Renovations · Wollongong",
+    "svg": "/assets/logos/elite-bathroom-renovations-wollongong.svg"
+  },
+  "brand": {
+    "primary": "#c6a47e",
+    "dark": "#1e3643",
+    "accent": "#d9bf98",
+    "primaryInk": "#1e3643"
+  },
+  "assetFolder": "remodeling",
+  "assistantName": "Elite Bathrooms",
+  "google": {
+    "rating": 5,
+    "reviewCount": 18,
+    "profileUrl": "https://www.google.com/maps/place/Elite+Bathroom+Renovations+Wollongong/@-34.8873152,150.5217293,9z/data=!4m6!3m5!1s0x6b13195ba77ccb2f:0x2f0cf7f0d989b631!8m2!3d-34.8873152!4d150.5217293!16s%2Fg%2F11h94y9zmk"
+  },
+  "hero": {
+    "eyebrow": "Bathroom & laundry renovations in Wollongong",
+    "headline": "Bathroom and laundry renovations in Wollongong, designed and finished properly.",
+    "subhead": "Full bathroom and laundry renovations and shower repairs across Wollongong and the Illawarra. Tell us about the room and get a clear written quote.",
+    "trustLine": [
+      "Clear written quotes",
+      "Local Illawarra renovator",
+      "Clean site every day"
+    ],
+    "photo": "kitchen"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "Bathroom renovation",
+      "Laundry renovation",
+      "Shower repair",
+      "Accessible bathroom",
+      "Something else"
+    ]
+  },
+  "skyeGreeting": "G'day, I'm the Elite Bathrooms assistant. Planning a new bathroom or laundry, or got a shower that's leaking? Tell me about it and I'll help you get a quote or book a time.",
+  "about": {
+    "headline": "You picture the room. We design it and build it properly.",
+    "body": "Most people want the same things from a bathroom renovation: help with the design and products, a clear price before anything starts, and a tidy site they can keep living around. Every job runs that way, from the first design chat to the final clean.",
+    "cards": [
+      {
+        "title": "Dated bathrooms",
+        "body": "A full strip-out and rebuild, with help choosing the layout, tiles and fittings."
+      },
+      {
+        "title": "Laundries that don't work",
+        "body": "Laundries renovated with proper benchtops, storage and plumbing where you need it."
+      },
+      {
+        "title": "Bathrooms that need to be easier to use",
+        "body": "Accessible bathrooms with walk-in baths, wider spaces and fittings built around mobility."
+      }
+    ],
+    "closing": "Not sure where to start? Tell us about the room and we'll talk it through."
+  },
+  "problems": {
+    "headline": "Getting a bathroom renovated in the Illawarra shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow quotes",
+        "body": "You leave messages with three renovators and wait a fortnight for a number."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "A rough figure that grows once the old tiles come off."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "The only bathroom in the house out of action for weeks longer than promised."
+      },
+      {
+        "title": "Messy job sites",
+        "body": "Dust and rubble through the house while you're still living in it."
+      }
+    ],
+    "bridge": "You shouldn't have to chase a renovator just to get a clear quote."
+  },
+  "solutions": {
+    "headline": "Straightforward renovations built around clear communication.",
+    "services": [
+      {
+        "title": "Bathroom renovations",
+        "body": "Complete bathroom renovations, from design and product selection to tiling, plumbing and painting.",
+        "photo": "bathroom"
+      },
+      {
+        "title": "Laundry renovations",
+        "body": "Laundry renovations with benchtops, storage and fittings planned around how you use the room.",
+        "photo": "kitchen"
+      },
+      {
+        "title": "Shower repairs",
+        "body": "Leaking or tired showers repaired properly, with the tiling finished to match.",
+        "photo": "tile"
+      }
+    ]
+  },
+  "process": {
+    "headline": "We listen to what you need. Quote it clearly. Build it properly.",
+    "steps": [
+      {
+        "title": "Request your quote",
+        "body": "Send a few details and photos with the form or give Steve a call."
+      },
+      {
+        "title": "Design & clear scope",
+        "body": "We measure up, help with the design and products, and put the scope and price in writing."
+      },
+      {
+        "title": "Clean, careful work",
+        "body": "Updates at every stage and the site cleaned up at the end of each day."
+      },
+      {
+        "title": "Final walkthrough",
+        "body": "We walk the finished room with you and sort anything on the list before we call it done."
+      }
+    ]
+  },
+  "why": {
+    "headline": "We're not here to rush the job. We're here to do it properly.",
+    "themes": [
+      {
+        "title": "Bathroom & laundry focused",
+        "body": "Bathrooms, laundries and showers are the work, not a side line."
+      },
+      {
+        "title": "Help with design",
+        "body": "Layout, tiles and fittings chosen together, so it suits how you live."
+      },
+      {
+        "title": "Attention to detail",
+        "body": "Neat, particular work and quality tradies on every stage."
+      },
+      {
+        "title": "Clean site every day",
+        "body": "Tidied at the end of each day, so you can keep living at home."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Lee-Anne McCabe",
+      "rating": 5,
+      "date": "2 months ago",
+      "text": "We are absolutely delighted with the bathroom and laundry renovation Steve recently completed. He kept us informed every step of the way from the inital design, selecting products and through each stage. He made sure the work site was cleaned up at the end of each day which was important as we remained living in our house during the renovations. The tradies he used were top class and all work was completed to the highest standard. Highly recommend Steve to anyone looking for an experienced, quality bathroom/laundry renovation business."
+    },
+    {
+      "author": "carol jackson",
+      "rating": 5,
+      "date": "3 months ago",
+      "text": "Steve did the most amazing job for me on my bathroom . He encountered a few issues that were not expected but was able to sort them out in a timely manner . He is neat and very particular and his attention to detail was great .\nI highly recommend him ."
+    },
+    {
+      "author": "Jenny",
+      "rating": 5,
+      "date": "2 years ago",
+      "text": "If you  are looking for a renovator who is prompt, professional and meticulous in every way, then this is the business for you.\nSteve converted a spare bedroom to an age-friendly, mobility walker accessible bathroom/laundry. He started from scratch with flooring, plumbing, tiling, painting and installed a bidet toilet, walk-in bath, laundry facilities, benchtop and storage.\nThe team carried out everything to the highest standard. Steve was on-site every single day; cleaned and tidied the site at the end of the day and regularly referred to me for decisions and preferences. He did everything he could to help me improve my lifestyle.\nIf there were more than 5 stars,  I would happily give them. Thank you, Steve."
+    }
+  ],
+  "finalCta": {
+    "headline": "Ready to talk about your bathroom or laundry?",
+    "body": "Send a few details or pick a time that suits you. You'll get a written quote before anything is booked in.",
+    "microcopy": "No pressure. Just a straightforward chat about your project."
+  },
+  "faq": [
+    {
+      "q": "How do quotes work?",
+      "a": "Send the project through the form or give us a call. We'll come out to measure, talk through the design and send a written quote that lists the scope and price."
+    },
+    {
+      "q": "Which areas do you cover?",
+      "a": "Wollongong and the Illawarra. Tell us your suburb when you get in touch and we'll confirm."
+    },
+    {
+      "q": "Can we stay at home during the renovation?",
+      "a": "Yes. The site is cleaned up at the end of each day, so you can keep living at home while the work goes on."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your quote and we'll send the licence and insurance details for your job."
+    },
+    {
+      "q": "What happens after I submit a request?",
+      "a": "Your details come straight to us, you get a text and email confirmation, and we follow up to talk through the room and book a measure-up."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
