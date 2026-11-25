@@ -143,6 +143,43 @@ export const STOCK = {
     licenceUrl: "https://creativecommons.org/licenses/by/2.0",
     page: "https://commons.wikimedia.org/wiki/File:Using_a_trowel_to_lay_floor_tiles.jpg",
   },
+  driveway: {
+    id: "driveway-panamitsu",
+    base: "concrete/photo-driveway",
+    w: 1280,
+    h: 960,
+    large: true,
+    hero: { w: 2200, h: 1650 },
+    alt: "Driveway formed up with steel reinforcing mesh on chairs, ready for the concrete pour",
+    by: "Panamitsu",
+    licence: "CC BY-SA 4.0",
+    licenceUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+    page: "https://commons.wikimedia.org/wiki/File:Driveway_concrete_reinforcement.jpg",
+  },
+  asphalt: {
+    id: "asphalt-famartin",
+    base: "concrete/photo-asphalt",
+    w: 1280,
+    h: 960,
+    large: true,
+    alt: "Close-up of fresh black asphalt on a newly paved driveway",
+    by: "Famartin",
+    licence: "CC BY-SA 4.0",
+    licenceUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+    page: "https://commons.wikimedia.org/wiki/File:2026-04-14_12_06_18_Fresh_asphalt_on_a_newly_paved_driveway_along_Windybush_Way_in_the_Mountainview_section_of_Ewing_Township,_Mercer_County,_New_Jersey.jpg",
+  },
+  sidewalk: {
+    id: "sidewalk-mta",
+    base: "concrete/photo-sidewalk",
+    w: 1280,
+    h: 960,
+    large: true,
+    alt: "Sidewalk formed with timber edges and rebar, crew preparing the concrete pour",
+    by: "MTA Capital Construction Mega Projects",
+    licence: "CC BY 2.0",
+    licenceUrl: "https://creativecommons.org/licenses/by/2.0",
+    page: "https://commons.wikimedia.org/wiki/File:Pouring_concrete_for_a_newly_graded_sidewalk_at_the_northern_end_of_the_LIRR_concourse._06-25-2019_(48146739097).jpg",
+  },
 } satisfies Record<string, StockPhoto>;
 
 export type StockKey = keyof typeof STOCK;
@@ -176,6 +213,7 @@ export const NICHES = {
   plumbing: ["plumbing", "bathroom", "kitchen"],
   electrical: ["electrical", "kitchen", "framing"],
   builders: ["framing", "kitchen", "deck"],
+  concrete: ["driveway", "sidewalk", "asphalt"],
 } satisfies Record<string, StockKey[]>;
 
 export type NicheKey = keyof typeof NICHES;

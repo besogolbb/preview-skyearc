@@ -146,6 +146,52 @@
    "licence": "CC BY-SA 4.0",
    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
    "page": "https://commons.wikimedia.org/wiki/File:Gate_to_Whitesbridge_Farm,_Sedgwick_Lane,_Nuthurst,_West_Sussex.jpg"
+  },
+  {
+   "file": "concrete/photo-driveway.webp",
+   "files": [
+    "concrete/photo-driveway-500.webp",
+    "concrete/photo-driveway-960.webp",
+    "concrete/photo-driveway.webp",
+    "concrete/photo-driveway-hero.webp"
+   ],
+   "id": "driveway-panamitsu",
+   "alt": "Driveway concrete reinforcement",
+   "by": "Panamitsu",
+   "licence": "CC BY-SA 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Driveway_concrete_reinforcement.jpg",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "concrete/photo-asphalt.webp",
+   "files": [
+    "concrete/photo-asphalt-500.webp",
+    "concrete/photo-asphalt-960.webp",
+    "concrete/photo-asphalt.webp"
+   ],
+   "id": "asphalt-famartin",
+   "alt": "Fresh asphalt on a newly paved driveway, Ewing Township, New Jersey",
+   "by": "Famartin",
+   "licence": "CC BY-SA 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:2026-04-14_12_06_18_Fresh_asphalt_on_a_newly_paved_driveway_along_Windybush_Way_in_the_Mountainview_section_of_Ewing_Township,_Mercer_County,_New_Jersey.jpg",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "concrete/photo-sidewalk.webp",
+   "files": [
+    "concrete/photo-sidewalk-500.webp",
+    "concrete/photo-sidewalk-960.webp",
+    "concrete/photo-sidewalk.webp"
+   ],
+   "id": "sidewalk-mta",
+   "alt": "Pouring concrete for a newly graded sidewalk at the northern end of the LIRR concourse",
+   "by": "MTA Capital Construction Mega Projects",
+   "licence": "CC BY 2.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Pouring_concrete_for_a_newly_graded_sidewalk_at_the_northern_end_of_the_LIRR_concourse._06-25-2019_(48146739097).jpg",
+   "source": "Wikimedia Commons"
   }
  ]
 }

@@ -1,0 +1,222 @@
+{
+  "_sources": {
+    "google": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-25): 4.8 stars, 87 reviews, category Construction company, phone +1 773-495-8362, no website link. About tab: 'Identifies as Latino-owned', 'Online estimates', 'Appointment required'. Review topics: work quality 9, driveway work 4, asphalt jobs 3, backyard 3, attention to detail 3, concrete sidewalk installation 2, cleanliness 2, customer care 2, crew 2.",
+    "phone": "(773) 495-8362 on the Google listing, the Facebook page and the BBB profile.",
+    "services": "Facebook page facebook.com/CallHeavyDutyConstructionLLC (2026-11-25): 'Residential & Commercial Concrete/Asphalt/Snow Removal Services- Parking Lot's & Driveway Specialist'. Profile logo lists asphalt, concrete work, excavating, power washing, sealcoating, exterior work, driveways, parking lot repairs. Reviews also mention porch steps, service walks, waterproofing, garage aprons and basement demolition. BBB lists the business under Concrete, Cicero IL.",
+    "serviceArea": "Facebook profile logo: 'We serve Chicagoland and suburbs'; Facebook: Cicero, IL 60804.",
+    "credential": "Facebook profile logo: 'Licensed, Bonded & Insured'.",
+    "brand": "Their own logo (Facebook profile image): bold safety-yellow 'HEAVY DUTY' lettering with a dark outline, sampled at #f0e430. Primary #f0d82e (a touch warmer for button contrast, dark text #0b1626), dark #15171c from the logo outline, accent #ffe24a. Concept mark in the same yellow on dark.",
+    "reviews": "Google Business Profile Reviews tab, same session: 3 complete 5-star reviews copied verbatim (Laura Diaz, Pedro Lopez, Cesar Perez).",
+    "subNiche": "Brief said 'Residential Construction and Remodeling'; their own pages and reviews show a concrete/asphalt contractor, so the page leads with their real services.",
+    "photos": "No concrete/asphalt stand-ins in the library: added driveway (Panamitsu, CC BY-SA 4.0), sidewalk (MTA Capital Construction, CC BY 2.0) and asphalt (Famartin, CC BY-SA 4.0) from Wikimedia Commons. Skipped 'Concrete being stamped' because its uploader is named 'ChicagoConcrete'.",
+    "notUsed": "Owner name (Eric) appears only in reviews; snow removal kept to the FAQ."
+  },
+  "gap": "No website at all: the Google listing has no website link and the only online presence is a Facebook page, so homeowners searching for a driveway or concrete contractor can't send project details or request an estimate outside of a phone call or WhatsApp.",
+  "market": "US",
+  "company": {
+    "name": "Heavy-Duty Construction LLC",
+    "trade": "Concrete, asphalt and residential construction",
+    "city": "Chicago, IL",
+    "serviceArea": [
+      "Chicago",
+      "Cicero",
+      "Chicagoland suburbs"
+    ],
+    "phone": "(773) 495-8362",
+    "credential": "Licensed, Bonded & Insured"
+  },
+  "logo": {
+    "initials": "HD",
+    "tagline": "Concrete & Asphalt · Chicagoland",
+    "svg": "/assets/logos/heavy-duty-construction-llc.svg"
+  },
+  "brand": {
+    "primary": "#f0d82e",
+    "dark": "#15171c",
+    "accent": "#ffe24a",
+    "primaryInk": "#0b1626"
+  },
+  "assetFolder": "concrete",
+  "google": {
+    "rating": 4.8,
+    "reviewCount": 87,
+    "profileUrl": "https://www.google.com/maps/place/Heavy-Duty+Construction+LLC/@41.8010386,-87.7368674,10z/data=!4m6!3m5!1s0x880e331eb755eb55:0xb2ccc056bb506f4c!8m2!3d41.8010386!4d-87.7368674!16s%2Fg%2F11mwwq7hx1"
+  },
+  "hero": {
+    "eyebrow": "Concrete & asphalt contractor in Chicagoland",
+    "headline": "Concrete driveways, sidewalks and asphalt in Chicago, built to last.",
+    "subhead": "Driveways, porch steps, sidewalks, backyard concrete, asphalt and sealcoating for homes and businesses across Chicago and the suburbs. Tell us about the job and get a clear written estimate.",
+    "trustLine": [
+      "Licensed, bonded & insured",
+      "Driveway & parking lot specialists",
+      "Clean job sites"
+    ],
+    "photo": "driveway"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "Concrete driveway",
+      "Sidewalk or porch steps",
+      "Patio or backyard concrete",
+      "Asphalt or sealcoating",
+      "Parking lot or commercial",
+      "Something else"
+    ]
+  },
+  "skyeGreeting": "Hi, I'm the Heavy-Duty Construction assistant. Need a new driveway, porch steps, a sidewalk or asphalt work? Tell me about the job and I'll help you get an estimate or book a time.",
+  "about": {
+    "headline": "Concrete and asphalt work for Chicago homes and businesses.",
+    "body": "Chicago winters are hard on concrete. Most of our jobs start with a driveway that's cracked and heaved, steps that are crumbling, or a lot full of potholes. We tell you what's causing it, fix it properly, and leave the site clean.",
+    "cards": [
+      {
+        "title": "Homeowners",
+        "body": "New driveways, garage aprons, porch steps, service walks and backyard concrete."
+      },
+      {
+        "title": "Property managers & businesses",
+        "body": "Parking lot repairs, asphalt paving and sealcoating that keep the lot safe and tidy."
+      },
+      {
+        "title": "Bigger projects",
+        "body": "Excavation, demolition and site prep for basement and construction projects."
+      }
+    ],
+    "closing": "Not sure what the job needs? Send a photo and we'll talk it through."
+  },
+  "problems": {
+    "headline": "Getting concrete work done in Chicago shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow estimates",
+        "body": "You call around for a driveway price and half the contractors never call back."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "A low number up front, then extras once the old concrete is broken out."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "Pour dates that slip, inspections that get missed, and a driveway you can't use for weeks."
+      },
+      {
+        "title": "Messy job sites",
+        "body": "Broken concrete, mud and debris left in your yard, and your neighbor's."
+      }
+    ],
+    "bridge": "You shouldn't have to chase a contractor just to get your driveway poured."
+  },
+  "solutions": {
+    "headline": "Heavy-duty work, done right the first time.",
+    "services": [
+      {
+        "title": "Concrete driveways & aprons",
+        "body": "Tear-out and replacement of driveways and garage aprons, formed, reinforced and finished to handle Chicago winters.",
+        "photo": "driveway"
+      },
+      {
+        "title": "Sidewalks, steps & backyard concrete",
+        "body": "Service walks, porch steps, patios and backyard slabs, plus excavation and waterproofing when the job needs it.",
+        "photo": "sidewalk"
+      },
+      {
+        "title": "Asphalt, sealcoating & parking lots",
+        "body": "Asphalt paving, parking lot repairs and sealcoating for homes, apartment buildings and businesses.",
+        "photo": "asphalt"
+      }
+    ]
+  },
+  "process": {
+    "headline": "We look at the job. Price it clearly. Pour it right.",
+    "steps": [
+      {
+        "title": "Request your estimate",
+        "body": "Send a few details and a photo with the form, or give us a call. A ZIP code and a rough size is plenty."
+      },
+      {
+        "title": "Site visit & clear scope",
+        "body": "We measure up, check what's underneath, and put the scope and price in writing."
+      },
+      {
+        "title": "On schedule, inspections handled",
+        "body": "A start date you can plan around, inspections kept on track, and updates as the work goes."
+      },
+      {
+        "title": "Clean-up & walkthrough",
+        "body": "We haul away the debris, clean up the site and walk the finished work with you."
+      }
+    ]
+  },
+  "why": {
+    "headline": "We're not here to cut corners. We're here to do it right.",
+    "themes": [
+      {
+        "title": "Licensed, bonded & insured",
+        "body": "Residential and commercial work, covered while we're on your property."
+      },
+      {
+        "title": "Driveway & parking lot specialists",
+        "body": "Concrete and asphalt are the work, not a side line."
+      },
+      {
+        "title": "Straight answers",
+        "body": "If there's a structural problem, we explain it and the fix before we start."
+      },
+      {
+        "title": "Clean job sites",
+        "body": "Debris hauled away and the yard cleaned up, yours and your neighbor's."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Laura Diaz",
+      "rating": 5,
+      "text": "I needed some concrete work done in my back yard. Eric did an awesome job, along with his team of employees. The concrete looks great. They also  came back and cleaned up my yard and  my neighbors yard from  all the work that had been done.  Eric and his team were easy to work with and  always kept me  communicated  on the work being done. I  would  definitely use his service again and recommend  Heavy-Dury Construction.",
+      "date": "2 years ago"
+    },
+    {
+      "author": "Pedro Lopez",
+      "rating": 5,
+      "text": "Eric and his crew were very professional and informative. We hired them to fix a crumbling front porch. They let us know about the structural issues and gave us the solution we needed. The new steps came out so nice that our neighbor across the street got theirs done a few weeks later too\nThank you",
+      "date": "3 years ago"
+    },
+    {
+      "author": "Cesar Perez",
+      "rating": 5,
+      "text": "Does real nice work my driveway turned out to be amazing. Was good with the inspectors always on point and on schedule and on time  also real clean Company never had any complaints with my neighbors",
+      "date": "2 years ago"
+    }
+  ],
+  "finalCta": {
+    "headline": "Ready to talk about your driveway or concrete job?",
+    "body": "Send a few details or pick a time that suits you. You'll get a written estimate before anything is booked in.",
+    "microcopy": "No pressure. Just a straightforward conversation about your project."
+  },
+  "faq": [
+    {
+      "q": "How do estimates work?",
+      "a": "Send the job through the form, with a photo if you have one, or give us a call. We'll come out to measure and look at what's underneath, then send a written estimate with the scope and price."
+    },
+    {
+      "q": "Which areas do you cover?",
+      "a": "Chicago and the suburbs. We're based in Cicero and work across Chicagoland. Not sure if you're in range? Ask anyway."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Yes, we're licensed, bonded and insured. Ask when you request your estimate and we'll send the details for your project."
+    },
+    {
+      "q": "What about city inspections?",
+      "a": "We work with the city inspectors and keep the job on schedule around them, so you don't have to chase it yourself. Ask about permits for your project when you request your estimate."
+    },
+    {
+      "q": "Do you do commercial work and snow removal?",
+      "a": "Yes. Parking lot paving, repairs and sealcoating for businesses and apartment buildings, plus snow removal in the winter. Tell us what you need."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
