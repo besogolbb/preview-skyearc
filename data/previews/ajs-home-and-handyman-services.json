@@ -1,0 +1,220 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-26): 'AJ's Home & Handyman Services', 5.0 stars, 10 reviews, category 'Handyman/Handywoman/Handyperson', phone +1 763-742-3545, open until 5 PM, no website ('Add website' shown). Listing attributes also include 'LGBTQ+ friendly' and 'Identifies as LGBTQ+ owned' (not used in copy).",
+    "serviceArea": "Google service-area outline: the Twin Cities metro, including Minneapolis, St. Paul, Brooklyn Park, Maple Grove, Roseville, Minnetonka, Edina, Richfield, Bloomington, Eden Prairie, Burnsville, Savage and Shakopee. The outreach sheet only says 'Minnesota'.",
+    "services": "Google reviews: custom fireplace and mantle, custom barn door, light fixtures, medicine cabinets and mirrors, drywall repair (Hollie Athen); TV mounting, garage storage, oven repair, painting, drywall removal and installation, a custom cornhole game (Jennifer Athen); water issue, door and lock upgrade (Kriss Romano); window leak repair (balloon hands). Review topics: quality work 2, pricing 2, drywall repair 2, door 2.",
+    "brand": "No website, socials or logo found. Sampled from their own Google listing cover photo (a walnut door and round mirror): primary = walnut #6b4423 (white 8.5:1), dark = #21180f, accent = light wood #d4aa7d (8.2:1 on dark). Not an official brand; confirm with the owner.",
+    "reviews": "Google Reviews tab, same session: 3 complete 5-star reviews copied verbatim (Hollie Athen, Jennifer Athen, Kriss Romano), stars checked via each review's rating label. Owner named Andrew ('AJ')."
+  },
+  "gap": "No website: the Google listing shows 'Add website', so homeowners with a list of jobs can only call before 5 PM; there's no way to send the list and photos for an estimate.",
+  "market": "US",
+  "company": {
+    "name": "AJ's Home & Handyman Services",
+    "trade": "Handyman services and custom carpentry",
+    "city": "Minneapolis, MN",
+    "serviceArea": [
+      "Minneapolis",
+      "St. Paul",
+      "Edina",
+      "Bloomington",
+      "Eden Prairie",
+      "Minnetonka",
+      "Maple Grove",
+      "Brooklyn Park"
+    ],
+    "phone": "(763) 742-3545"
+  },
+  "logo": {
+    "initials": "AJ",
+    "tagline": "Home & Handyman Services · Twin Cities",
+    "svg": "/assets/logos/ajs-home-and-handyman-services.svg"
+  },
+  "brand": {
+    "primary": "#6b4423",
+    "dark": "#21180f",
+    "accent": "#d4aa7d"
+  },
+  "assetFolder": "carpentry",
+  "assistantName": "AJ's Home",
+  "google": {
+    "rating": 5,
+    "reviewCount": 10,
+    "profileUrl": "https://www.google.com/maps/place/AJ%27s+Home+%26+Handyman+Services/@44.9348325,-93.2902435,10z/data=!4m6!3m5!1s0x87f627b53fcf03a9:0xed368c59c3c245cf!8m2!3d44.9348325!4d-93.2902436!16s%2Fg%2F11sd92l28d"
+  },
+  "hero": {
+    "eyebrow": "Handyman & carpentry across the Twin Cities",
+    "headline": "Handyman jobs and custom carpentry in Minneapolis, done right at a fair price.",
+    "subhead": "Repairs, drywall, painting, mounting, doors, locks and custom carpentry across Minneapolis, St. Paul and the metro. Send your list and get a clear written estimate.",
+    "trustLine": [
+      "Clear written estimates",
+      "Fair pricing",
+      "Always timely"
+    ],
+    "photo": "kitchen"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "A list of small jobs",
+      "Drywall or painting",
+      "Mounting or installs",
+      "Doors, locks or custom carpentry",
+      "Something else"
+    ]
+  },
+  "skyeGreeting": "Hi, I'm the AJ's Home & Handyman assistant. Got a list of jobs or a custom project in mind? Tell me about it and I'll help you get an estimate or book a time.",
+  "about": {
+    "headline": "Your whole list, handled by one person you can trust.",
+    "body": "Most homeowners have the same problem: a list of jobs that never gets done because nobody wants the small stuff. You want someone who shows up on time, prices it fairly and does it properly, whether it's drywall, a TV on the wall or a custom barn door.",
+    "cards": [
+      {
+        "title": "The never-ending to-do list",
+        "body": "Light fixtures, mirrors, cabinets, drywall and paint, ticked off in one visit."
+      },
+      {
+        "title": "Something custom",
+        "body": "Fireplace mantles, barn doors and one-off builds made to fit your home."
+      },
+      {
+        "title": "Owners who can't be there",
+        "body": "A quick call and the problem gets handled, with clear updates the whole way."
+      }
+    ],
+    "closing": "Not sure if it's worth a call? Send the list and we'll let you know."
+  },
+  "problems": {
+    "headline": "Getting small jobs done in the Twin Cities shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow estimates",
+        "body": "Nobody calls back for the small jobs, so the list keeps growing."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "No idea what it'll cost until the bill shows up."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "Handymen who don't show up on the day they promised."
+      },
+      {
+        "title": "Sloppy finishing",
+        "body": "Drywall patches you can see from across the room."
+      }
+    ],
+    "bridge": "You shouldn't have to chase anyone to get the small stuff done properly."
+  },
+  "solutions": {
+    "headline": "Straightforward handyman work with fair pricing.",
+    "services": [
+      {
+        "title": "Custom carpentry & doors",
+        "body": "Barn doors, fireplace mantles, custom builds and door and lock upgrades.",
+        "photo": "door"
+      },
+      {
+        "title": "Drywall, painting & repairs",
+        "body": "Drywall repair, removal and installation, painting, and repairs around the house.",
+        "photo": "framing"
+      },
+      {
+        "title": "Mounting & installs",
+        "body": "TVs, garage storage, light fixtures, medicine cabinets and mirrors, installed properly.",
+        "photo": "kitchen"
+      }
+    ]
+  },
+  "process": {
+    "headline": "We listen to what you need. Price it clearly. Get it done.",
+    "steps": [
+      {
+        "title": "Send your list",
+        "body": "Send the jobs and a few photos with the form or give AJ a call."
+      },
+      {
+        "title": "Clear estimate",
+        "body": "We go over the list and put the price in writing before any work starts."
+      },
+      {
+        "title": "Timely, tidy work",
+        "body": "On time, with the work area cleaned up as we go."
+      },
+      {
+        "title": "Final check",
+        "body": "We go over everything with you and sort anything on the list before we call it done."
+      }
+    ]
+  },
+  "why": {
+    "headline": "One call, and the list gets done.",
+    "themes": [
+      {
+        "title": "Fair pricing",
+        "body": "Reasonable prices, written down before work starts."
+      },
+      {
+        "title": "Quality work",
+        "body": "Repairs and custom builds done properly, not patched over."
+      },
+      {
+        "title": "Always timely",
+        "body": "Shows up when promised and keeps you updated."
+      },
+      {
+        "title": "Big list or small",
+        "body": "From one fixture to a whole house of jobs."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Hollie Athen",
+      "rating": 5,
+      "date": "3 years ago",
+      "text": "Had a list of projects to have completed. AJ custom made a fireplace and mantle, a custom barn door, installed new light fixtures throughout my home, installed new medicine cabinets and mirrors, and repaired drywall.  Highly recommend AJ for home repairs and handyman services.  Prices are very reasonable."
+    },
+    {
+      "author": "Jennifer Athen",
+      "rating": 5,
+      "date": "3 years ago",
+      "text": "AJ's has been extremely helpful! I have had several services performed including TV mounting, hanging garage storage assembly and mounting, oven repair, painting, drywall removal and installation, and they even built a custom cornhole game for my husband. The customer service is amazing and they are always timely with their services."
+    },
+    {
+      "author": "Kriss Romano",
+      "rating": 5,
+      "date": "2 years ago",
+      "text": "Andrew had been an amazing help. We have 2 homes. One in AZ & one in MN. Just a quick call to Andrew and he was able to fix the water issue in MN. He let us know what items were needed, sent us a link to pay for these items, then did the upgrade on door & locks. It is invaluable to have him a phone call away and trust him immensely.  One would be lucky to have him."
+    }
+  ],
+  "finalCta": {
+    "headline": "Got a list that needs doing?",
+    "body": "Send a few details or pick a time that suits you. You'll get a written estimate before anything is booked in.",
+    "microcopy": "No pressure. Just a straightforward conversation about the job."
+  },
+  "faq": [
+    {
+      "q": "How do estimates work?",
+      "a": "Send the job or your whole list through the form or give us a call. We'll ask a few questions, come out if needed, and send a written estimate."
+    },
+    {
+      "q": "Which areas do you cover?",
+      "a": "The Twin Cities metro, including Minneapolis, St. Paul, Edina, Bloomington, Eden Prairie, Minnetonka, Maple Grove and Brooklyn Park. Close by but not on the list? Ask anyway."
+    },
+    {
+      "q": "Do you take small jobs?",
+      "a": "Yes. A single light fixture or a TV on the wall is fine, and it's even better when you bundle a few jobs together."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your estimate and we'll send the license and insurance details for your job."
+    },
+    {
+      "q": "What happens after I submit a request?",
+      "a": "Your details come straight to us, you get a text and email confirmation, and we follow up to set a time."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
