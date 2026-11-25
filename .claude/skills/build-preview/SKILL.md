@@ -81,7 +81,7 @@ Use the installed `logo-design` skill (`~/.claude/skills/logo-design`, run its s
 
 # Reference (read before Step 3, so nothing needs troubleshooting again)
 
-## Photo library: exact keys and files (as of 2026-11-24; re-check with `ls -R public/assets/`)
+## Photo library: exact keys and files (as of 2026-11-25; re-check with `ls -R public/assets/`)
 
 | Key | Files on disk | Shows | Licence |
 |---|---|---|---|
@@ -95,8 +95,19 @@ Use the installed `logo-design` skill (`~/.claude/skills/logo-design`, run its s
 | `pergola` | `public/assets/carpentry/photo-pergola{-500,-960,}.webp` | White timber pergola rafters on a column | CC BY-SA 4.0 |
 | `tile` | `public/assets/remodeling/photo-tile{-500,-960,}.webp` | Hand bedding floor tile, spacers in the joints | CC BY 2.0 |
 | `gate` | `public/assets/carpentry/photo-gate{-500,-960,}.webp` | Braced timber farm gate on a post, strap hinges | CC BY-SA 4.0 |
+| `siding` | `public/assets/remodeling/photo-siding{-500,-960,,-hero}.webp` | House with new blue fiber-cement siding and a dark shingle roof (aerial) | CC0 |
+| `driveway` | `public/assets/concrete/photo-driveway{-500,-960,,-hero}.webp` | Driveway formed up with reinforcing mesh, ready to pour | CC BY-SA 4.0 |
+| `sidewalk` | `public/assets/concrete/photo-sidewalk{-500,-960,}.webp` | Sidewalk forms and rebar, crew preparing the pour (gritty urban setting) | CC BY 2.0 |
+| `asphalt` | `public/assets/concrete/photo-asphalt{-500,-960,}.webp` | Close-up of fresh black asphalt on a new driveway | CC BY-SA 4.0 |
+| `rooftiles` | `public/assets/roofing/photo-tiles{-500,-960,,-hero}.webp` | Close-up of interlocking concrete roof tiles after rain | CC BY-SA 4.0 |
+| `brokentiles` | `public/assets/roofing/photo-brokentiles{-500,-960,}.webp` | Pile of broken grey concrete roof tiles with moss | CC0 |
+| `tilemoss` | `public/assets/roofing/photo-moss{-500,-960,}.webp` | Moss and lichen on a weathered cement tile (a "before" shot) | Public domain |
 
-`{-500,-960,}` means three files: `…-500.webp`, `…-960.webp` and `….webp` (1280w). Only keys with a `-hero` file are sharp enough for the full-width hero: **`kitchen`, `plumbing`, `framing`**. Use one of those for `hero.photo`.
+`{-500,-960,}` means three files: `…-500.webp`, `…-960.webp` and `….webp` (1280w). Only keys with a `-hero` file are sharp enough for the full-width hero: **`kitchen`, `plumbing`, `framing`, `siding`, `driveway`, `rooftiles`**. Use one of those for `hero.photo`.
+
+Note: the key and the file stem don't always match (`rooftiles` → `photo-tiles`, `tilemoss` → `photo-moss`). Always reference the **key** in JSON.
+
+Fit by trade: metal roofs → `roofing`; concrete/terracotta tile roofs → `rooftiles`, `brokentiles`, `tilemoss`; roofing + siding or exterior remodeling → `siding`; concrete, paving, driveways → `driveway`, `sidewalk`, `asphalt`.
 
 `assetFolder` sets (used when a service has no `photo`, in order):
 
@@ -108,6 +119,7 @@ Use the installed `logo-design` skill (`~/.claude/skills/logo-design`, run its s
 | `plumbing` | plumbing, bathroom, kitchen |
 | `electrical` | electrical, kitchen, framing |
 | `builders` | framing, kitchen, deck |
+| `concrete` | driveway, sidewalk, asphalt |
 
 Pick the 3 service photos to match the 3 real services (a decking service gets `deck`, not `kitchen`). Never use the same photo on two cards unless the library has nothing closer.
 
@@ -115,9 +127,9 @@ Pick the 3 service photos to match the 3 real services (a decking service gets `
 1. Search Wikimedia Commons by API (free licences only: CC0, CC BY, CC BY-SA, public domain):
    `https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=<terms>&gsrlimit=12&prop=imageinfo&iiprop=size|extmetadata`
 2. Download through `https://commons.wikimedia.org/w/thumb.php?f=<File_name.jpg>&w=1280` with a real User-Agent (`SkyeArcPreviewBuilder/1.0 (https://skyearc.tech)`). `Special:FilePath` and direct `upload.wikimedia.org` links return HTTP 429 "Too many requests". Wait 2-3 s between downloads.
-3. LOOK at the photo before using it (it must show the trade, no people's faces, no branding).
+3. LOOK at the photo before using it (it must show the trade, no people's faces, no branding). Also check the author name: skip photos whose uploader looks like a trade business in the prospect's area (e.g. "ChicagoConcrete" for a Chicago concrete prospect), because the credit shows on the page.
 4. Convert with sharp to `public/assets/<niche>/photo-<name>-500.webp`, `-960.webp` and `.webp` (1280w), quality ~74. For a hero, also `-hero.webp` at 2200w (`withoutEnlargement`).
-5. Add an entry to `STOCK` in `lib/stock.ts` (`base: "<niche>/photo-<name>"`, `w`, `h`, `large`, optional `hero`, `alt`, `by`, `licence`, `licenceUrl`, `page`), and to `NICHES` if it suits a niche.
+5. Add an entry to `STOCK` in `lib/stock.ts` (`base: "<niche>/photo-<name>"`, `w`, `h`, `large`, optional `hero`, `alt`, `by`, `licence`, `licenceUrl`, `page`), and to `NICHES` if it suits a niche. Add a matching entry to `public/assets/credits.json` (`file`/`files` are bare filenames, no folder; `id`, `alt`, `by`, `licence`, `licenceUrl`, `page`, `source: "Wikimedia Commons"`).
 6. Run `npm run check:preview` (it fails if any key points at a missing file).
 
 ## JSON format (`data/previews/<slug>.json`)
@@ -177,7 +189,7 @@ How to find them: the client's website CSS (`theme-color`, button and header col
 - **Wording safety:** CTA defaults to "Get a quote"/"Get an estimate". Only write "Free quote" if the contractor publicly offers it. Never write "no hidden fees", guarantees, "more leads" or revenue promises (the checker errors on these). The licence FAQ offers to send details unless `company.credential` is published.
 - **GHL embeds:** empty URLs show working mockups, not placeholders. The quick hero form posts to `/api/quote`; without a webhook (501) it pre-fills the hub form and scrolls to `#hub`.
 - **Logo:** every preview gets a designed concept mark from Step 3b (`logo.svg`); without one it falls back to an original typographic badge (`components/preview/Logo.tsx`: initials under a roof line in the brand colour, plus name and tagline), also used as the browser tab icon. The footer notes it is a concept mark. Just fill `logo.initials` / `logo.tagline`; defaults work if omitted.
-- **Chat widget speaks as the CLIENT, never "Skye"** (that's SkyeArc's own name): the button reads "Ask <first word of the company>" ("Ask Moxey", "Ask Perth"); override with `assistantName`. `skyeGreeting` must say "I'm the <Company> assistant", and `check:preview` errors if it says Skye.
+- **Chat widget speaks as the CLIENT, never "Skye"** (that's SkyeArc's own name): the button reads "Ask <first word of the company>" ("Ask Moxey", "Ask Perth"); override with `assistantName` when the first word reads badly ("FIX" → `"assistantName": "Fix My Roof"`). Give the name only: the button adds "Ask" itself. Use the business name, not the owner's first name, so the AI never reads as the owner replying. `skyeGreeting` must say "I'm the <Company> assistant", and `check:preview` errors if it says Skye.
 - **Chat position on phones:** hidden over the hero (it has its own call/quote buttons), a round button just above the Call/Quote bar while scrolling, and at the bottom edge in the contact section. `MobileBar` sets `html[data-bar]` / `html[data-hero]` and `globals.css` positions it. Don't move it by hand per prospect.
 - **Problem-tile icons are automatic and specific, never a generic "!" alert:** each pain point gets an icon from its TITLE (body only as fallback) via `lib/problem-icons.ts`: calls/replies → phone with a cross, pricing/costs/quotes → price tag, timelines/no-shows/waits → clock, sloppy/uneven finishing → uneven tiles, mess/sites/debris → broom. Write pain-point titles that name the problem plainly ("Unreturned calls & slow quotes", "Vague pricing & surprise costs", "Missed timelines", "Messy job sites"); `check:preview` warns if a title matches no icon. New kind of pain point? Add a rule + icon instead of reusing a wrong one.
 - **Robots:** `noindex, nofollow` is hard-coded in `app/layout.tsx`, `X-Robots-Tag` is set in `next.config.ts`, and `public/robots.txt` disallows all. Don't touch.
