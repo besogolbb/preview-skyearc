@@ -1,0 +1,220 @@
+{
+  "_sources": {
+    "google": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-25): matched by phone +61 415 086 099. 4.9 stars, 30 reviews, category Tile contractor, service-area business (no street address); drawn service area covers the Blue Mountains from Mount Victoria to Glenbrook. Review topics: bathroom renovation 12, design 5, professional team 4, workmanship 3, waterproofing 2, on-time completion 2, helpful staff 2, easy process 2, attention to detail 2, friendly with kids 2.",
+    "location": "Facebook page facebook.com/scottswallandfloortiling (2026-11-25): 'Hazelbrook, NSW, Australia'; service areas 'Emu Plains, Penrith, Lithgow, Blue Mountains National Park'. Instagram handle srbrenovationstiling: 'SRB Renovations & Tiling Blue Mountains'.",
+    "phone": "+61 415 086 099 on Google and Facebook (shown as 0415 086 099).",
+    "services": "Facebook intro: 'Specialising in bespoke tiling, both indoor & outdoor kitchen splashbacks fire place harths'. Google reviews: bathroom and ensuite renovations, laundry renovations, kitchen floor tiling, full tiling of a new build in Leura, waterproofing (topic chip), design advice, professional clean at handover.",
+    "brand": "Their own logo (Facebook profile image): white 'SRB' in a thin teal diamond on a charcoal circle; charcoal sampled at #363636, teal read by eye at about #4aa8b8 (thin anti-aliased line). Primary #2a7884 is the teal deepened so white button text passes 4.5:1; dark #303131 from the logo charcoal; accent #7fd1dc light teal. Concept mark avoids their SRB/diamond monogram.",
+    "reviews": "Google Business Profile Reviews tab, same session: 3 complete 5-star reviews copied verbatim (Whitney and Luke Keir, Robert Leslie, Andy Welch).",
+    "notUsed": "Owner first name (Scott) appears in reviews and the Facebook URL, kept out of headings. No licence number or insurance published, so none claimed. No 'free' quotes stated. A Threads post mentions the business 'will be taking a ba[ck seat?]' (truncated): not used; worth checking it's still taking work."
+  },
+  "gap": "No website: the Google listing has no website link and enquiries rely on Facebook, Instagram or a phone call, so homeowners can't send bathroom details or photos and get a quote request in outside business hours.",
+  "market": "AU",
+  "company": {
+    "name": "SRB Renovations & Tiling",
+    "trade": "Bathroom renovations and tiling",
+    "city": "Blue Mountains, NSW",
+    "serviceArea": [
+      "Hazelbrook",
+      "Blue Mountains",
+      "Penrith",
+      "Emu Plains",
+      "Lithgow"
+    ],
+    "phone": "0415 086 099"
+  },
+  "logo": {
+    "initials": "SRB",
+    "tagline": "Bathrooms & Tiling · Blue Mountains",
+    "svg": "/assets/logos/srb-renovations-and-tiling.svg"
+  },
+  "brand": {
+    "primary": "#2a7884",
+    "dark": "#303131",
+    "accent": "#7fd1dc",
+    "primaryInk": "#ffffff"
+  },
+  "assetFolder": "remodeling",
+  "google": {
+    "rating": 4.9,
+    "reviewCount": 30,
+    "profileUrl": "https://www.google.com/maps/place/SRB+Renovations+%26+Tiling/@-33.6618816,150.4648628,11z/data=!4m6!3m5!1s0x8debdbf0ebfe234b:0x348fa25225aa82e6!8m2!3d-33.6618816!4d150.4648628!16s%2Fg%2F11tb518lfb"
+  },
+  "hero": {
+    "eyebrow": "Bathroom renovations & tiling in the Blue Mountains",
+    "headline": "Bathroom renovations and tiling in the Blue Mountains, finished beautifully.",
+    "subhead": "Bathrooms, ensuites, laundries and bespoke tiling for homes from Lithgow to Penrith, based in Hazelbrook. Tell us about your space and get a clear quote.",
+    "trustLine": [
+      "Design ideas included",
+      "Waterproofing included",
+      "Clean site, every day"
+    ],
+    "photo": "kitchen"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "Bathroom renovation",
+      "Ensuite",
+      "Laundry renovation",
+      "Tiling only",
+      "Kitchen splashback",
+      "Something else"
+    ]
+  },
+  "skyeGreeting": "G'day, I'm the SRB Renovations & Tiling assistant. Planning a new bathroom, a laundry or some tiling? Tell me a bit about the space and I'll help you get a quote or book a time.",
+  "about": {
+    "headline": "Bathrooms designed around your space, tiled with care.",
+    "body": "A lot of Blue Mountains homes are older, with tight bathrooms and surprises behind the wall. We help you plan the layout, handle the waterproofing and tiling, and keep the house clean while we work.",
+    "cards": [
+      {
+        "title": "Tired bathrooms & ensuites",
+        "body": "A full renovation with a layout that makes the most of a small space."
+      },
+      {
+        "title": "Laundries that need a rethink",
+        "body": "Laundry and bathroom combos, storage and finishes that work every day."
+      },
+      {
+        "title": "Tiling projects",
+        "body": "Floors, new builds, kitchen splashbacks, outdoor areas and fireplace hearths."
+      }
+    ],
+    "closing": "Not sure what will fit? Send a few photos and we'll talk through ideas."
+  },
+  "problems": {
+    "headline": "Getting a bathroom renovated in the Blue Mountains shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow quotes",
+        "body": "You message a few tradies about your bathroom and wait weeks to hear back."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "A rough number that grows once the old tiles come off in a 60-year-old house."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "The bathroom's out of action for weeks longer than anyone said."
+      },
+      {
+        "title": "Messy job sites",
+        "body": "Tile dust through the house and nobody cleaning up at the end of the day."
+      }
+    ],
+    "bridge": "You shouldn't have to chase anyone for updates on your own bathroom."
+  },
+  "solutions": {
+    "headline": "From the first idea to the last grout line.",
+    "services": [
+      {
+        "title": "Bathroom & laundry renovations",
+        "body": "Full bathroom, ensuite and laundry renovations, with layout and design ideas to make the most of the space.",
+        "photo": "bathroom"
+      },
+      {
+        "title": "Wall & floor tiling",
+        "body": "Bespoke tiling for floors, walls, new builds, outdoor areas and fireplace hearths, with waterproofing done properly underneath.",
+        "photo": "tile"
+      },
+      {
+        "title": "Kitchen splashbacks & floors",
+        "body": "Indoor and outdoor kitchen splashbacks and kitchen floor tiling, laid neat and finished with care.",
+        "photo": "kitchen"
+      }
+    ]
+  },
+  "process": {
+    "headline": "We listen. Plan it with you. Tile it right.",
+    "steps": [
+      {
+        "title": "Ask for a quote",
+        "body": "Send a few details and photos with the form, or give us a ring. Your suburb and a rough idea of the job is plenty."
+      },
+      {
+        "title": "Visit & design ideas",
+        "body": "We look at the space, suggest ways to make it work better, and give you a clear quote."
+      },
+      {
+        "title": "On time, kept updated",
+        "body": "We turn up when we say, keep you posted without you chasing, and vacuum up every day."
+      },
+      {
+        "title": "Clean handover",
+        "body": "A final walk-through and a clean-up so the room's ready to use."
+      }
+    ]
+  },
+  "why": {
+    "headline": "No rushing. Just bathrooms done beautifully.",
+    "themes": [
+      {
+        "title": "Tilers first",
+        "body": "Bespoke tiling is the specialty, and it shows in the finish."
+      },
+      {
+        "title": "Design help",
+        "body": "Ideas to maximise a small space, from layout to the finishing touches."
+      },
+      {
+        "title": "Kept in the loop",
+        "body": "Updates as the job goes, without you having to chase."
+      },
+      {
+        "title": "Respect for your home",
+        "body": "On time, tidy every day, and a clean handover at the end."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Whitney and Luke Keir",
+      "rating": 5,
+      "text": "Scott and his team recently renovated our bathroom and I cannot rate them highly enough. They showed up on time, treated our home with respect and their craftsmanship in such a small space was outstanding. They vacuumed every single day and kept us updated along the way without me chasing for updates. Scott also made plenty of helpful suggestions on how we could maximise our space and the result is unreal.\nScott was the tiler on our previous bathroom Reno at our old place and I am so thrilled to recommend him for any renovation work you need done. We will only use him and his team going forward.",
+      "date": "a year ago"
+    },
+    {
+      "author": "Robert Leslie",
+      "rating": 5,
+      "text": "I would highly recommend Scott and his team for your renovations project. Scott renovated our bathroom and laundry and did an amazing job that transformed the house. We weren’t really sure what would work and Scott had great advice and design ideas to maximise the use of the space. The team adapted with ease to some unforeseen problems with our 60 year old house and made everything work beautifully. The quality of the craftsmanship was second to none and Scott added some really nice finishing touches that enhanced the project. A big thank you to Scott and his team for a fantastic job!",
+      "date": "a year ago"
+    },
+    {
+      "author": "Andy Welch",
+      "rating": 5,
+      "text": "Scott and his team have just completed the renovation of our laundry / bathroom.  The whole process from start to finish has been a pleasure and the end result is better than we had imagined.  All the tradies Scott used were amazing.  I would highly recommend Scott for any bathroom or laundry Reno",
+      "date": "11 months ago"
+    }
+  ],
+  "finalCta": {
+    "headline": "Ready to talk about your bathroom?",
+    "body": "Send a few details or pick a time that suits. You'll get a clear quote before anything's booked in.",
+    "microcopy": "No pressure. Just a straight chat about your space."
+  },
+  "faq": [
+    {
+      "q": "How do quotes work?",
+      "a": "Send the job through the form with a few photos, or give us a ring. We'll come out, look at the space, talk through ideas and give you a clear quote."
+    },
+    {
+      "q": "Which areas do you cover?",
+      "a": "We're based in Hazelbrook and work across the Blue Mountains, out to Lithgow, Penrith and Emu Plains. Not sure if you're in range? Ask anyway."
+    },
+    {
+      "q": "Do you do the waterproofing?",
+      "a": "Yes. Waterproofing is handled as part of bathroom and laundry renovations, done properly before the tiles go down."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your quote and we'll send the licence and insurance details for your job."
+    },
+    {
+      "q": "Can you just do the tiling?",
+      "a": "Yes. Tiling-only jobs are welcome: floors, splashbacks, outdoor areas, fireplace hearths and new builds."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
