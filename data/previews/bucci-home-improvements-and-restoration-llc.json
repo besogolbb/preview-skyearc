@@ -1,0 +1,203 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-26): 'Bucci Home Improvements and Restoration, LLC', 4.5 stars, 8 reviews, category 'Water damage restoration service', 947 Unity St, Latrobe, PA 15650, 'Open 24 hours', phone +1 724-970-3008, no website ('Add website' shown).",
+    "phone": "Page uses the Google listing number (724) 970-3008, same as the outreach sheet. The truck lettering in their cover photo shows (724) 237-6580: confirm which number they want.",
+    "services": "Business name and Google category only: home improvements, restoration, water damage restoration. No website, socials or directory page with a service list could be read, so service copy stays general.",
+    "brand": "No website or socials found. Their own green circle 'B' logo shows on the truck door and shirt in the Google cover photo: primary = that green darkened for white text (#3d7a2c, 5.2:1), dark = #1f2129 (sampled from the photo), accent = the logo lime (#8dc63f, 7.9:1 on dark). Concept mark is original (a water drop), not their logo.",
+    "reviews": "Google Reviews tab, same session: only 2 five-star reviews have text; both copied verbatim (Vicki S, Renee Gumbita). Five other 5-star ratings have no text; one 1-star review (Karen Morgan: calls not returned) not used.",
+    "serviceArea": "No service-area outline (storefront address only): page says Latrobe and the surrounding area."
+  },
+  "gap": "No website: the Google listing shows 'Add website', so a homeowner with water coming through the ceiling at night can only call; there's no way to send photos, an address or a request, and their one bad review is about calls not being returned.",
+  "market": "US",
+  "company": {
+    "name": "Bucci Home Improvements and Restoration, LLC",
+    "trade": "Water damage restoration and home improvements",
+    "city": "Latrobe, PA",
+    "phone": "(724) 970-3008"
+  },
+  "logo": {
+    "initials": "BH",
+    "tagline": "Restoration & Home Improvements · Latrobe",
+    "svg": "/assets/logos/bucci-home-improvements-and-restoration-llc.svg"
+  },
+  "brand": {
+    "primary": "#3d7a2c",
+    "dark": "#1f2129",
+    "accent": "#8dc63f"
+  },
+  "assetFolder": "remodeling",
+  "assistantName": "Bucci",
+  "google": {
+    "rating": 4.5,
+    "reviewCount": 8,
+    "profileUrl": "https://www.google.com/maps/place/Bucci+Home+Improvements+and+Restoration,+LLC/@40.3114836,-79.4021823,17z/data=!4m6!3m5!1s0x8834cd8ca69ca3e5:0xca0c7a5f27363f25!8m2!3d40.3114836!4d-79.4021823!16s%2Fg%2F11fplbf9w2"
+  },
+  "hero": {
+    "eyebrow": "Restoration & home improvements in Latrobe",
+    "headline": "Water damage restoration and home repairs in Latrobe, handled with care.",
+    "subhead": "Water damage cleanup and restoration, repairs and home improvements for homeowners in Latrobe and nearby. Send us what happened and get a clear written estimate.",
+    "trustLine": [
+      "Open 24 hours",
+      "Local Latrobe business",
+      "Reasonably priced"
+    ],
+    "photo": "kitchen"
+  },
+  "quoteField": {
+    "label": "Urgency",
+    "options": [
+      "Emergency today",
+      "This week",
+      "Quote only"
+    ]
+  },
+  "skyeGreeting": "Hi, I'm the Bucci Home Improvements assistant. Dealing with water damage or need something fixed around the house? Tell me what happened and I'll help you get an estimate or someone out to look.",
+  "about": {
+    "headline": "When something goes wrong at home, you need someone who cares.",
+    "body": "Water in the wrong place or a repair that can't wait: most homeowners want the same things. Someone who answers, explains what happened, and gives a fair price before the work starts. Every job is handled that way, from cleanup to the final repair.",
+    "cards": [
+      {
+        "title": "Water where it shouldn't be",
+        "body": "Leaks, burst pipes and wet floors dealt with before the damage spreads."
+      },
+      {
+        "title": "Rooms that need putting back",
+        "body": "Restoration after the damage, so the room looks like home again."
+      },
+      {
+        "title": "Jobs on the to-do list",
+        "body": "Repairs and improvements around the house, done properly at a fair price."
+      }
+    ],
+    "closing": "Not sure how bad it is? Send a few photos and we'll talk it through."
+  },
+  "problems": {
+    "headline": "When water gets in, waiting days for a call back isn't an option.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow estimates",
+        "body": "You leave messages while the water keeps spreading."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "No idea what the cleanup and repair will cost until it's done."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "Cleanup that drags on and repairs that never get booked in."
+      },
+      {
+        "title": "Messy job sites",
+        "body": "Wet materials and debris left around the house."
+      }
+    ],
+    "bridge": "You shouldn't have to chase anyone when something's gone wrong at home."
+  },
+  "solutions": {
+    "headline": "Straightforward restoration and repairs with clear communication.",
+    "services": [
+      {
+        "title": "Water damage restoration",
+        "body": "Help after leaks and water damage, from finding the source to getting the area dry and sound.",
+        "photo": "plumbing"
+      },
+      {
+        "title": "Restoration & rebuild",
+        "body": "Putting damaged rooms back together so they look and work like they did before.",
+        "photo": "framing"
+      },
+      {
+        "title": "Home improvements & repairs",
+        "body": "Repairs and improvements around the house, done efficiently and reasonably priced.",
+        "photo": "door"
+      }
+    ]
+  },
+  "process": {
+    "headline": "We listen to what happened. Estimate it clearly. Put it right.",
+    "steps": [
+      {
+        "title": "Tell us what happened",
+        "body": "Send a few details and photos with the form or call any time."
+      },
+      {
+        "title": "Assessment & clear scope",
+        "body": "We look at the damage, explain what's needed and put the price in writing."
+      },
+      {
+        "title": "Careful, efficient work",
+        "body": "Work done efficiently, with your home treated with care."
+      },
+      {
+        "title": "Final walkthrough",
+        "body": "We walk the finished work with you and sort anything on the list before we call it done."
+      }
+    ]
+  },
+  "why": {
+    "headline": "We care about the work, and it shows.",
+    "themes": [
+      {
+        "title": "Open 24 hours",
+        "body": "Water damage doesn't wait for business hours, and neither do we."
+      },
+      {
+        "title": "Written estimates",
+        "body": "Scope and price in writing before any work starts."
+      },
+      {
+        "title": "Reasonably priced",
+        "body": "Fair prices from a local Latrobe business."
+      },
+      {
+        "title": "Care in the work",
+        "body": "Pleasant, efficient and proud of a job done properly."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Vicki S",
+      "rating": 5,
+      "date": "4 years ago",
+      "text": "They were awesome and did a great job!!  You could tell they really cared about their work!  I would definitely recommend them!!"
+    },
+    {
+      "author": "Renee Gumbita",
+      "rating": 5,
+      "date": "6 years ago",
+      "text": "Very pleasent,efficient and very reasonably priced.Good person I definitely recommend his services 100%"
+    }
+  ],
+  "finalCta": {
+    "headline": "Water damage or a repair that can't wait?",
+    "body": "Send a few details and photos, or pick a time. You'll get a written estimate before any work is booked.",
+    "microcopy": "No pressure. Just honest help when something goes wrong."
+  },
+  "faq": [
+    {
+      "q": "Can you come out quickly for water damage?",
+      "a": "We're open 24 hours. Send what happened through the form or call, and choose 'Emergency today' so we know it's urgent."
+    },
+    {
+      "q": "How do estimates work?",
+      "a": "We look at the damage or the job, explain what's needed and send a written estimate with the scope and price."
+    },
+    {
+      "q": "Which areas do you cover?",
+      "a": "Latrobe and the surrounding area. Tell us where you are when you get in touch and we'll confirm."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your estimate and we'll send the license and insurance details for your job."
+    },
+    {
+      "q": "What happens after I submit a request?",
+      "a": "Your details come straight to us, you get a text and email confirmation, and we follow up to set a time to look at it."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
