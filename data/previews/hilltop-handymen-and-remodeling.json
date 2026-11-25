@@ -1,0 +1,214 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-26): 'Hilltop Handymen and Remodeling', 4.8 stars, 16 reviews, category 'Contractor', 1412 Birch Ave, North Apollo, PA 15673, phone +1 724-448-9854, 'Identifies as veteran-owned', website button = hilltophandymenandremodeling.godaddysites.com, no hours listed.",
+    "website": "https://hilltophandymenandremodeling.godaddysites.com/ (2026-11-26): header 'CALL FOR A FREE QUOTE TODAY! (724) 236-4493' (a different number from Google), brand name 'Hilltop Contracting and Remodeling', leftover template text 'Home Contractor MP Template' repeated across the hero, no estimate form. Services page: Kitchen and Bathroom Builds and Remodels; Flooring and Carpet Installation; Drywall; Painting; Plumbing and Electrical. About page: Michael Garlick, founder and co-owner, seven years of contracting work, veteran of the Pennsylvania Army National Guard.",
+    "phone": "Page uses the Google listing number (724) 448-9854, the same as the outreach sheet. Their website shows (724) 236-4493: confirm which one they want on the page.",
+    "services": "Website services page plus Google review topics: communication 5, punctuality 5, quick work 3, deck repair 2, solid work 2, polite staff 2, pricing 2, kindness 2, remodeling 2.",
+    "brand": "From their own website: dark red rgb(102,15,2) #660f02 on black/near-black #1b1b1b with a blush tint #d7c4c3. Primary brightened to #a3261a (white 7.4:1) so buttons read on the dark hero; accent = their blush (10.3:1 on dark).",
+    "reviews": "Google Reviews tab, same session: 3 complete 5-star reviews copied verbatim (Kimberly Held, Alex Cupec, Durrell Waters), stars checked via each review's rating label. One 1-star review (CeRia Thompson) not used.",
+    "serviceArea": "No service-area outline on the listing (storefront address only): page says North Apollo and the surrounding area."
+  },
+  "gap": "The Google website button opens a free GoDaddy page whose hero still shows the placeholder text 'Home Contractor MP Template' over and over, lists a different phone number from Google, and has no way to request an estimate or book a visit online.",
+  "market": "US",
+  "company": {
+    "name": "Hilltop Handymen and Remodeling",
+    "trade": "Remodeling and handyman services",
+    "city": "North Apollo, PA",
+    "phone": "(724) 448-9854"
+  },
+  "logo": {
+    "initials": "HH",
+    "tagline": "Handyman & Remodeling · North Apollo",
+    "svg": "/assets/logos/hilltop-handymen-and-remodeling.svg"
+  },
+  "brand": {
+    "primary": "#a3261a",
+    "dark": "#1b1b1b",
+    "accent": "#d7c4c3"
+  },
+  "assetFolder": "remodeling",
+  "assistantName": "Hilltop",
+  "google": {
+    "rating": 4.8,
+    "reviewCount": 16,
+    "profileUrl": "https://www.google.com/maps/place/Hilltop+Handymen+and+Remodeling/@40.5892597,-79.5528524,17z/data=!4m6!3m5!1s0x6f2a67a6839c4091:0x94c4fe517c0a0359!8m2!3d40.5892597!4d-79.5528524!16s%2Fg%2F11qb033ngq"
+  },
+  "hero": {
+    "eyebrow": "Remodeling & handyman services in North Apollo",
+    "headline": "Remodeling and home repairs in North Apollo, done right the first time.",
+    "subhead": "Kitchen and bathroom remodels, flooring, drywall, painting and the plumbing and electrical fixes other contractors don't have time for. Tell us about the job and get a free quote.",
+    "primaryCta": "Get a free quote",
+    "trustLine": [
+      "Free quotes",
+      "Veteran-owned",
+      "On time, clear communication"
+    ],
+    "photo": "kitchen"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "Kitchen or bathroom remodel",
+      "Flooring or carpet",
+      "Drywall or painting",
+      "Plumbing or electrical repair",
+      "Something else"
+    ]
+  },
+  "skyeGreeting": "Hi, I'm the Hilltop Handymen and Remodeling assistant. Got a remodel in mind or a repair that can't wait? Tell me about it and I'll help you get a free quote or book a time.",
+  "about": {
+    "headline": "Big remodel or small fix, it gets the same care.",
+    "body": "Most homeowners want the same things from a contractor: someone who actually shows up, explains what's going on, and gives a price before the work starts. That goes for a full bathroom remodel and for a leaking pipe or a broken step that can't wait a week.",
+    "cards": [
+      {
+        "title": "Rooms ready for a remodel",
+        "body": "Kitchens and bathrooms rebuilt from the floor up, with flooring, drywall and paint to finish."
+      },
+      {
+        "title": "Repairs that can't wait",
+        "body": "Leaks, broken steps and electrical problems handled fast, often the same or next day."
+      },
+      {
+        "title": "Small jobs others turn down",
+        "body": "A new hose bib, a light fixture or an outlet. Small jobs done properly, not put off."
+      }
+    ],
+    "closing": "Not sure if it's a big job or a small one? Tell us what's going on and we'll talk it through."
+  },
+  "problems": {
+    "headline": "Getting a contractor in North Apollo to call back shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow quotes",
+        "body": "You call around and get told it'll be a week, or nobody calls back at all."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "No price up front, then a bill that's bigger than you expected."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "A start date that keeps moving while the bathroom sits half-finished."
+      },
+      {
+        "title": "Messy job sites",
+        "body": "Drywall dust and offcuts left through the house after every visit."
+      }
+    ],
+    "bridge": "You shouldn't have to chase a contractor just to get a clear answer and a quote."
+  },
+  "solutions": {
+    "headline": "Straightforward remodeling and repairs with clear communication.",
+    "services": [
+      {
+        "title": "Kitchen & bathroom remodels",
+        "body": "Kitchen and bathroom builds and remodels, planned with you and finished properly.",
+        "photo": "bathroom"
+      },
+      {
+        "title": "Flooring, drywall & painting",
+        "body": "Flooring and carpet installation, drywall and painting to finish a room or refresh the house.",
+        "photo": "tile"
+      },
+      {
+        "title": "Plumbing & electrical repairs",
+        "body": "Leaks, fixtures, hose bibs, lights and outlets fixed promptly, with a clear explanation of what was wrong.",
+        "photo": "plumbing"
+      }
+    ]
+  },
+  "process": {
+    "headline": "We listen to what you need. Quote it clearly. Do it right.",
+    "steps": [
+      {
+        "title": "Request your free quote",
+        "body": "Send a few details with the form or give us a call. A rough idea of the job is plenty."
+      },
+      {
+        "title": "Visit & clear scope",
+        "body": "We take a look, explain what's needed and put the scope and price in writing."
+      },
+      {
+        "title": "On-time, tidy work",
+        "body": "We show up when we say we will and keep the work area clean."
+      },
+      {
+        "title": "Final walkthrough",
+        "body": "We walk the finished job with you and sort anything on the list before we call it done."
+      }
+    ]
+  },
+  "why": {
+    "headline": "A veteran-owned crew that shows up and does it right.",
+    "themes": [
+      {
+        "title": "Veteran-owned",
+        "body": "Founded by Michael Garlick, a Pennsylvania Army National Guard veteran."
+      },
+      {
+        "title": "Free quotes",
+        "body": "A clear price before any work starts."
+      },
+      {
+        "title": "On time",
+        "body": "Punctual, with quick turnarounds when something can't wait."
+      },
+      {
+        "title": "Clear communication",
+        "body": "Honest explanations of what's wrong and what it takes to fix it."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Kimberly Held",
+      "rating": 5,
+      "date": "3 years ago",
+      "text": "I called them due to not being able to get someone through a plumbing services. They said I would have to wait about a week and I couldn't wait that long due to water dripping down into my other bathroom. Hilltop Handyman and Remodeling came to my house that day and came back to finish next morning. They gave me great ideas for other projects that I would like them to do also. They were on time, convenient, very helpful, great service. I would call them again for any project. Thank you so much for your service, I was very pleased. Until next time!!!"
+    },
+    {
+      "author": "Alex Cupec",
+      "rating": 5,
+      "date": "2 years ago",
+      "text": "We reached out to Hilltop Contracting and Remodeling to handle the installation of a hose bib outside. It seemed like plumbers didn’t have the time to do a relatively small job but Hilltop was more than willing to take this on. Communication was easy and they were super timely and efficient. Honest guys and quality work. 100% would recommend them to anyone."
+    },
+    {
+      "author": "Durrell Waters",
+      "rating": 5,
+      "date": "2 years ago",
+      "text": "I called hilltop contracting and was treated with such kindness and professionalism it couldn’t be matched . My steps need repaired the day before Christmas Eve and I thought surely I would have to wait for service and at the very best after new years . Instead Michael Garlick not only assessed the situation and gave me an estimate but he repaired the stairs inside of 24 hours of my call! Hilltop contracting and Michael Garlick saved my family Christmas and I couldn’t be more appreciative. I wish I could give hilltop contracting 10 stars ! ⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️  I will be calling for all my remodeling needs in the future and tell all my friends !"
+    }
+  ],
+  "finalCta": {
+    "headline": "Ready to get your project or repair sorted?",
+    "body": "Send a few details or pick a time that suits you. You'll get a free quote before any work is booked.",
+    "cta": "Get a free quote",
+    "microcopy": "No pressure. Just a straightforward conversation about the job."
+  },
+  "faq": [
+    {
+      "q": "Are quotes really free?",
+      "a": "Yes. Send the job through the form or give us a call, and we'll take a look and give you a price before any work starts."
+    },
+    {
+      "q": "Do you take small jobs?",
+      "a": "Yes. Hose bibs, light fixtures, outlets, steps and leaks all get the same care as a full remodel."
+    },
+    {
+      "q": "Which areas do you cover?",
+      "a": "North Apollo and the surrounding area. Tell us where the job is when you get in touch and we'll let you know."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your quote and we'll send the license and insurance details for your project."
+    },
+    {
+      "q": "What happens after I submit a request?",
+      "a": "Your details come straight to us, you get a text and email confirmation, and we follow up to talk through the job and set a time."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
