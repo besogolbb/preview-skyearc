@@ -1,0 +1,221 @@
+{
+  "_sources": {
+    "google": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-25): 4.4 stars, 19 reviews, category Roofing contractor, 115 Carriage Dr, Birdsboro, PA 19508, phone +1 484-686-8092. Review topics: projects 8, siding 6, future 4, quick work 3, fair 3, honest contractor 2, timely completion 2, reliable 2, punctuality 2, roof repair 2.",
+    "phone": "(484) 686-8092 on their website contact page (tel link) and the Google listing.",
+    "services": "dipauloshomeremodelingllc.godaddysites.com/services (2026-11-25): Roofing, Siding, Custom Decks, Interior Remodeling, Gutters, Doors, Windows, Bathroom Remodeling, Custom Kitchens, Flooring, 'Permits Simplified'.",
+    "about": "Website /about-us: 'We are family owned and operated'; 'Joe, Owner: I have 20 years of experience in home remodeling and been in business for 13 years'; 'My son Joey has 3 years of experience working with me'. Home page: 'We are accredited, licensed, and insured'.",
+    "freeEstimate": "Website banner 'Call for a FREE Quote Today!' and button 'GET YOUR FREE ESTIMATE NOW'.",
+    "serviceArea": "Only the Birdsboro address is published; no service-area list.",
+    "brand": "Their own logo (website header): tan house-and-wordmark on dark navy, sampled at about #282a3c / #a8968c; website theme-color #6d82ad (slate blue). Primary #4f6596 is their slate blue deepened so white button text passes 4.5:1; dark #23283b from the logo navy; accent #d9c3a5 is the logo tan brightened for contrast on dark.",
+    "reviews": "Google Business Profile Reviews tab, same session: 3 complete 5-star reviews copied verbatim (michelle fetter, PATRICIA LAYMAN, Earl Garman). Author names shown in title case; review text unedited.",
+    "photos": "Added 'siding' (Fiber cement siding, Wikideas1, CC0, Wikimedia Commons) for the hero and siding card.",
+    "notUsed": "'Spring Special! Save $500 off on any service over $2000' (seasonal, may be out of date). The site text 'Trust Joseph's Home Remodeling' looks like a template leftover. 1-star kitchen review noted, not quoted."
+  },
+  "gap": "Their 'GET YOUR FREE ESTIMATE NOW' button just reloads the homepage and 'CONTACT US' links nowhere ('#'). The homepage has no phone link and its only form is a newsletter sign-up, so the estimate form is buried on a separate contact page.",
+  "market": "US",
+  "company": {
+    "name": "DiPaulo's Home Remodeling LLC",
+    "trade": "Roofing, siding and home remodeling",
+    "city": "Birdsboro, PA",
+    "serviceArea": [
+      "Birdsboro"
+    ],
+    "phone": "(484) 686-8092",
+    "credential": "Accredited, licensed and insured"
+  },
+  "logo": {
+    "initials": "DH",
+    "tagline": "Home Remodeling · Birdsboro, PA",
+    "svg": "/assets/logos/dipaulos-home-remodeling-llc.svg"
+  },
+  "brand": {
+    "primary": "#4f6596",
+    "dark": "#23283b",
+    "accent": "#d9c3a5",
+    "primaryInk": "#ffffff"
+  },
+  "assetFolder": "remodeling",
+  "google": {
+    "rating": 4.4,
+    "reviewCount": 19,
+    "profileUrl": "https://www.google.com/maps/place/DiPaulo%27s+Home+Remodeling+LLC/@40.2612928,-75.81417,17z/data=!4m6!3m5!1s0x89c67b5db89da635:0x1dd0ade53f5f9cf9!8m2!3d40.2612928!4d-75.81417!16s%2Fg%2F1yf_9mbrf"
+  },
+  "hero": {
+    "eyebrow": "Family-owned remodeling in Birdsboro",
+    "headline": "Roofing, siding and home remodeling in Birdsboro, done honestly.",
+    "subhead": "Roofs, siding, gutters, windows, doors, kitchens and bathrooms from a family-owned remodeler with 20 years in the trade. Tell us about the project and get a free estimate.",
+    "primaryCta": "Get a free estimate",
+    "trustLine": [
+      "Licensed & insured",
+      "Family owned & operated",
+      "Free estimates"
+    ],
+    "photo": "siding"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "Roofing or roof repair",
+      "Siding or gutters",
+      "Windows or doors",
+      "Kitchen or bathroom",
+      "Decks, flooring or something else"
+    ]
+  },
+  "skyeGreeting": "Hi, I'm the DiPaulo's Home Remodeling assistant. Need a roof looked at, new siding or a kitchen or bathroom remodel? Tell me about it and I'll help you get a free estimate or book a time.",
+  "about": {
+    "headline": "A family business that treats your house like our own.",
+    "body": "Joe has spent 20 years in home remodeling and runs the business with his son Joey. You get honest advice on what your house actually needs, a fair price, and a family team that stays in touch from the first visit to the final walkthrough.",
+    "cards": [
+      {
+        "title": "Roofs that leak or are wearing out",
+        "body": "Repairs when a repair will do, a new roof when it won't, and a straight answer either way."
+      },
+      {
+        "title": "Older homes that need a refresh",
+        "body": "New siding, gutters, windows and doors that keep the character of the house."
+      },
+      {
+        "title": "Rooms you want to update",
+        "body": "Kitchens, bathrooms, flooring, interiors and custom decks."
+      }
+    ],
+    "closing": "Not sure what the house needs? Tell us what you're seeing and we'll come take a look."
+  },
+  "problems": {
+    "headline": "Finding an honest contractor around Birdsboro shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow estimates",
+        "body": "You call around for a quote and wait weeks for anyone to come out."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "A price that climbs once the old roof or siding comes off."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "Crews that don't show when they said and a job that drags on."
+      },
+      {
+        "title": "Messy job sites",
+        "body": "Old shingles, nails and siding scraps left in your yard."
+      }
+    ],
+    "bridge": "You shouldn't have to chase a contractor just to get a straight answer about your house."
+  },
+  "solutions": {
+    "headline": "Outside and in, done properly by a family crew.",
+    "services": [
+      {
+        "title": "Roofing & roof repair",
+        "body": "Roof repairs, leak fixes, coatings and full replacements, including porch and shed roofs.",
+        "photo": "roofing"
+      },
+      {
+        "title": "Siding, gutters, windows & doors",
+        "body": "New siding and shutters, siding repair, gutters, windows and doors, with samples brought to you so you can choose.",
+        "photo": "siding"
+      },
+      {
+        "title": "Kitchens, baths & interiors",
+        "body": "Custom kitchens, bathroom remodeling, flooring, interior remodeling and custom decks.",
+        "photo": "kitchen"
+      }
+    ]
+  },
+  "process": {
+    "headline": "We look. Tell you honestly. Do it right.",
+    "steps": [
+      {
+        "title": "Request your free estimate",
+        "body": "Send a few details with the form or give us a call. A ZIP code and a rough idea of the job is plenty."
+      },
+      {
+        "title": "Visit & honest assessment",
+        "body": "We get up on the ladder, look at what's really going on, and put the scope and price in writing."
+      },
+      {
+        "title": "On time, kept informed",
+        "body": "We show up when we said we would, keep you posted on the work and the paperwork, and keep the job moving."
+      },
+      {
+        "title": "Final walkthrough",
+        "body": "We walk the finished work with you and clean up before we call it done."
+      }
+    ]
+  },
+  "why": {
+    "headline": "We're not here to upsell you. We're here to do it right.",
+    "themes": [
+      {
+        "title": "20 years in the trade",
+        "body": "Joe has 20 years of home remodeling experience and 13 years running the business."
+      },
+      {
+        "title": "Family owned & operated",
+        "body": "Joe and his son Joey do the work themselves."
+      },
+      {
+        "title": "Accredited, licensed & insured",
+        "body": "Covered while we're working on your home."
+      },
+      {
+        "title": "Honest recommendations",
+        "body": "If you only need a repair, we'll tell you. Fair is one of the words our reviewers use most."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Michelle Fetter",
+      "rating": 5,
+      "text": "Joe was a pleasure to work with.   He did the sliding on our home, along with installing double doors and replaced the roof on our screened in porch.  We have an older home, Joe did a fantastic job at preserving the charm and characteristics.  He was aware of the details and listened to what we wanted.  Out of the 3 estimates we got, he was the most reasonable and the only one who actually brought samples for us.  He also took the time to explain the different styles and types of sliding.  We will definitely be using him for future projects.   We also appreciate his honesty and respect for us and our home.",
+      "date": "4 years ago"
+    },
+    {
+      "author": "Patricia Layman",
+      "rating": 5,
+      "text": "It's so rare to find an honest contractor. I was a pleasant working with DePaulo Roofing. Joe is a down to earth guy who was the only one that gave me an estimate telling me I did not need a new roof, saving me $17-21,000. He was the only one to physically climb a ladder and walk around looking under the tiles to see what needed to be done. Not just stand on the patio holding a clipboard. And, his estimate was around $5000 less than another quote I got. I highly recommend him for your Roofing needs. I already have!!",
+      "date": "4 years ago"
+    },
+    {
+      "author": "Earl Garman",
+      "rating": 5,
+      "text": "Joe and his son were great to work with; they came when they said they would and the jobs were completed on time. They installed siding and shutters, and we are very happy with the results. Joe's price is reasonable and I will call him for future projects. We highly recommend him based on our experience.\nEarl and Tarry",
+      "date": "3 years ago"
+    }
+  ],
+  "finalCta": {
+    "headline": "Ready to talk about your roof, siding or remodel?",
+    "body": "Send a few details or pick a time that suits you. You'll get a free written estimate before anything is booked in.",
+    "cta": "Get a free estimate",
+    "microcopy": "No pressure. Just a straightforward conversation about your project."
+  },
+  "faq": [
+    {
+      "q": "Are estimates really free?",
+      "a": "Yes. Send the project through the form or give us a call. We'll come out, take a proper look, and give you a written estimate with the scope and price."
+    },
+    {
+      "q": "Do I need a new roof, or can it be repaired?",
+      "a": "Often a repair is enough. We get up on the roof and check before we recommend anything, and we'll tell you honestly if a repair will do."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Yes, we're accredited, licensed and insured. Ask when you request your estimate and we'll send the details for your project."
+    },
+    {
+      "q": "Which areas do you cover?",
+      "a": "We're based in Birdsboro and work in the surrounding area. Tell us where the house is and we'll let you know."
+    },
+    {
+      "q": "What happens after I submit a request?",
+      "a": "Your details come straight to us, you get a text and email confirmation, and we follow up to set up a visit at a time that suits you."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
