@@ -1,0 +1,221 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-26): 'JGL Remodeling LLC', 5.0 stars, 7 reviews, category 'Kitchen remodeler', phone +1 636-297-5463, open until 5 PM, no website on the listing ('Add website' shown).",
+    "serviceArea": "Google service-area outline on the same listing: St. Charles County, MO, including O'Fallon, St. Peters, St. Charles, Wentzville, Lake St. Louis, Dardenne Prairie, Cottleville and Weldon Spring. The outreach sheet only says 'Missouri'.",
+    "website": "https://jglremodelingllc4.wixsite.com/jgl-remodeling-llc (2026-11-26, not linked from Google): free Wix site, '©2023'. 'JGL Remodeling LLC specializes in kitchen and bathroom remodeling along with basement finishes, decks, tiles, painting, custom carpentry, foundation crack repairs and more.' Quote form near the bottom, email jglremodelingllc@gmail.com. Logo: circular badge in black and copper with 'Basements · Kitchens · Baths'.",
+    "services": "Website services plus Google reviews: kitchen remodel (Brenda Firkus), two bathroom remodels (quinton young), ceramic tile replacement and a small exterior project (Lynn York).",
+    "brand": "From their own logo: copper brown and black. Primary = copper #8a5a3c (white 5.8:1), dark = #1a1816, accent = light copper #d29a6e (7.2:1 on dark).",
+    "reviews": "Google Reviews tab, same session: 3 complete 5-star reviews copied verbatim (Brenda Firkus, quinton young, Lynn York), stars checked via each review's rating label. Owners named John and Jason. Website testimonials not used (not Google reviews)."
+  },
+  "gap": "No website on the Google listing: it shows 'Add website', so their Wix site and its quote form never reach the homeowners who find them on Google; those people can only call before 5 PM.",
+  "market": "US",
+  "company": {
+    "name": "JGL Remodeling LLC",
+    "trade": "Kitchen, bathroom and basement remodeling",
+    "city": "St. Charles County, MO",
+    "serviceArea": [
+      "O'Fallon",
+      "St. Peters",
+      "St. Charles",
+      "Wentzville",
+      "Lake St. Louis",
+      "Dardenne Prairie",
+      "Cottleville",
+      "Weldon Spring"
+    ],
+    "phone": "(636) 297-5463"
+  },
+  "logo": {
+    "initials": "JGL",
+    "tagline": "Kitchens, Baths & Basements · St. Charles County",
+    "svg": "/assets/logos/jgl-remodeling-llc.svg"
+  },
+  "brand": {
+    "primary": "#8a5a3c",
+    "dark": "#1a1816",
+    "accent": "#d29a6e"
+  },
+  "assetFolder": "remodeling",
+  "assistantName": "JGL Remodeling",
+  "google": {
+    "rating": 5,
+    "reviewCount": 7,
+    "profileUrl": "https://www.google.com/maps/place/JGL+Remodeling+LLC/@38.8124555,-90.772794,11z/data=!4m6!3m5!1s0x87ded0c7b3900d7b:0xb70ba4860707520b!8m2!3d38.8124555!4d-90.772794!16s%2Fg%2F11dfh4bkw2"
+  },
+  "hero": {
+    "eyebrow": "Kitchen, bath & basement remodeling in St. Charles County",
+    "headline": "Kitchens, bathrooms and basements in St. Charles County, finished right.",
+    "subhead": "Kitchen and bathroom remodels, basement finishes, tile, decks and custom carpentry across O'Fallon, St. Peters and St. Charles. Tell us about the project and get a clear written estimate.",
+    "trustLine": [
+      "Clear written estimates",
+      "Local St. Charles County crew",
+      "On schedule"
+    ],
+    "photo": "kitchen"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "Kitchen remodel",
+      "Bathroom remodel",
+      "Basement finish",
+      "Tile, deck or carpentry",
+      "Something else"
+    ]
+  },
+  "skyeGreeting": "Hi, I'm the JGL Remodeling assistant. Planning a new kitchen, bathroom or finished basement? Tell me a bit about it and I'll help you get an estimate or book a time.",
+  "about": {
+    "headline": "You picture the room. We build it with the details you asked for.",
+    "body": "Most homeowners want the same things from a remodel: a contractor who listens, a clear price before work starts, and a crew that finishes on schedule and leaves it neat and clean. Every job is run that way, from a tile floor to a full basement.",
+    "cards": [
+      {
+        "title": "Kitchens that need a refresh",
+        "body": "Kitchen remodels with the added touches you ask for, not a one-size-fits-all plan."
+      },
+      {
+        "title": "Dated bathrooms",
+        "body": "Bathroom remodels, one or two at a time, finished on schedule."
+      },
+      {
+        "title": "Basements that need finishing",
+        "body": "Main areas, half baths and closets that turn the lower level into real living space."
+      }
+    ],
+    "closing": "Not sure where to start? Tell us about the room and we'll talk it through."
+  },
+  "problems": {
+    "headline": "Getting a remodeler in St. Charles County to call back shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow estimates",
+        "body": "You call contractor after contractor and nobody gets back to you."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "A rough number that grows as soon as the walls are open."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "The bathroom stays torn out for weeks longer than anyone said."
+      },
+      {
+        "title": "Sloppy finishing",
+        "body": "Uneven tile and trim that never quite gets finished."
+      }
+    ],
+    "bridge": "You shouldn't have to chase a contractor just to get a clear estimate."
+  },
+  "solutions": {
+    "headline": "Straightforward remodeling built around clear communication.",
+    "services": [
+      {
+        "title": "Kitchens & bathrooms",
+        "body": "Kitchen and bathroom remodels planned around what you want, with the details done properly.",
+        "photo": "bathroom"
+      },
+      {
+        "title": "Basement finishes",
+        "body": "Finished basements with main areas, half baths and walk-in closets, ready to live in.",
+        "photo": "framing"
+      },
+      {
+        "title": "Tile, decks & custom carpentry",
+        "body": "Ceramic tile, decks, painting, custom carpentry and foundation crack repairs.",
+        "photo": "tile"
+      }
+    ]
+  },
+  "process": {
+    "headline": "We listen to what you need. Estimate it clearly. Build it right.",
+    "steps": [
+      {
+        "title": "Request your estimate",
+        "body": "Send a few details with the form or give John a call."
+      },
+      {
+        "title": "Site visit & clear scope",
+        "body": "We measure up, talk through what you want and put the scope and price in writing."
+      },
+      {
+        "title": "Neat, on-schedule work",
+        "body": "A crew that does what it says it will do, with the work area kept clean."
+      },
+      {
+        "title": "Final walkthrough",
+        "body": "We walk the finished room with you and sort anything on the list before we call it done."
+      }
+    ]
+  },
+  "why": {
+    "headline": "We're not here to rush the job. We're here to do it right.",
+    "themes": [
+      {
+        "title": "We listen",
+        "body": "Your ideas and added touches built in, not ignored."
+      },
+      {
+        "title": "Written estimates",
+        "body": "Scope and price in writing, so you can plan around it."
+      },
+      {
+        "title": "Excellent craftsmen",
+        "body": "Neat, clean work and real pride in getting it perfect."
+      },
+      {
+        "title": "On schedule",
+        "body": "Timely work, even when you make changes along the way."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Brenda Firkus",
+      "rating": 5,
+      "date": "4 years ago",
+      "text": "John and Jason did an amazing job on my kitchen remodel. I couldn’t be happier. They listened to my desires and did the added touches that I requested. They are kind, courteous, and professional. Beautiful kitchen and a happy homeowner!  Don’t hesitate to use them, I already am planning my bathroom remodel for 2023/2024!"
+    },
+    {
+      "author": "quinton young",
+      "rating": 5,
+      "date": "7 years ago",
+      "text": "Hired JGL Remodeling to do 2 bathroom remodels. The did a fantastic job. they were very personable, timely, and more important, the did everything they said they would do. Great experience and are already planning to use them again."
+    },
+    {
+      "author": "Lynn York",
+      "rating": 5,
+      "date": "8 years ago",
+      "text": "We have had John and Jason tackle a large ceramic tile replace and install project as well as a small exterior project. We were VERY happy with the results. They are excellent craftsmen. They're work is neat and clean and they take great pride in making it look perfect. We highly recommend them."
+    }
+  ],
+  "finalCta": {
+    "headline": "Ready to talk about your kitchen, bath or basement?",
+    "body": "Send a few details or pick a time that suits you. You'll get a written estimate before anything is booked in.",
+    "microcopy": "No pressure. Just a straightforward conversation about your project."
+  },
+  "faq": [
+    {
+      "q": "How do estimates work?",
+      "a": "Send the project through the form or give us a call. We'll come out to measure and send a written estimate that lists the scope and price."
+    },
+    {
+      "q": "Which areas do you cover?",
+      "a": "St. Charles County, including O'Fallon, St. Peters, St. Charles, Wentzville, Lake St. Louis, Dardenne Prairie, Cottleville and Weldon Spring. Close by but not on the list? Ask anyway."
+    },
+    {
+      "q": "Can you finish my basement?",
+      "a": "Yes. Main living areas, half baths and walk-in closets, framed and finished so the lower level is ready to use."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your estimate and we'll send the license and insurance details for your project."
+    },
+    {
+      "q": "What happens after I submit a request?",
+      "a": "Your details come straight to us, you get a text and email confirmation, and we follow up to talk through the project and book a visit."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
