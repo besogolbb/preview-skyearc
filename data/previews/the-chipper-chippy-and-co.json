@@ -1,0 +1,223 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-26): 'The Chipper Chippy & Co', 5.0 stars, 9 reviews, category 'Handyman/Handywoman/Handyperson', phone +61 410 467 660, opens 8 AM, 'Identifies as women-owned', website button = sites.google.com/view/the-chipper-chippy.",
+    "serviceArea": "Google service-area outline on the same listing: Ballarat and surrounds, including Wendouree, Sebastopol, Delacombe, Mount Helen, Buninyong, Creswick, Learmonth and Haddon.",
+    "website": "https://sites.google.com/view/the-chipper-chippy (2026-11-26): free Google Sites page, Home and Contact only, no form. 'Hi, I'm Becca - the face behind The Chipper Chippy - and I'm a qualified Carpenter, based in Ballarat.' 'Carpentry services and DIY assistance - done your way.' 'Whether you need expert repairs, new installs or DIY advice'. 'Friendly service, transparent pricing and access to a trusted network of local tradie mates.'",
+    "services": "Website plus Google reviews: locks, custom blinds, drawer and vanity handles, TV wall-mounting (Rianna G); stair stringers and bathroom grab rails (Harry Rand); walk-in robe (ria santos); two pocket doors and an ensuite reframe (Adrian Sargent). Review topics: easy to work with 2, punctuality 2, finished result 2, bathroom 2.",
+    "brand": "From their own site: bold yellow wordmark (sampled ~#f5c400 from the hero) on charcoal rgb(31,32,32) #1f2020. Primary = yellow with charcoal text (9.9:1), dark = charcoal, accent = lighter yellow #ffd84d (11.8:1 on dark).",
+    "reviews": "Google Reviews tab, same session: 3 complete 5-star reviews copied verbatim (Rianna G, Harry Rand, ria santos), stars checked via each review's rating label. Adrian Sargent's skipped: text still truncated. Owner: Becca."
+  },
+  "gap": "The Google website button opens a free Google Sites page with a headline and a 'Get in touch' link but no form, so people can't send job details or photos for a quote without ringing during work hours.",
+  "market": "AU",
+  "company": {
+    "name": "The Chipper Chippy & Co",
+    "trade": "Carpentry, repairs and DIY help",
+    "city": "Ballarat, VIC",
+    "serviceArea": [
+      "Ballarat",
+      "Wendouree",
+      "Sebastopol",
+      "Delacombe",
+      "Mount Helen",
+      "Buninyong",
+      "Creswick",
+      "Learmonth"
+    ],
+    "phone": "0410 467 660",
+    "credential": "Qualified carpenter"
+  },
+  "logo": {
+    "initials": "CC",
+    "tagline": "Carpentry & Repairs · Ballarat",
+    "svg": "/assets/logos/the-chipper-chippy-and-co.svg"
+  },
+  "brand": {
+    "primary": "#f5c400",
+    "dark": "#1f2020",
+    "accent": "#ffd84d",
+    "primaryInk": "#1f2020"
+  },
+  "assetFolder": "carpentry",
+  "assistantName": "Chipper Chippy",
+  "google": {
+    "rating": 5,
+    "reviewCount": 9,
+    "profileUrl": "https://www.google.com/maps/place/The+Chipper+Chippy+%26+Co/@-37.5266697,143.7393794,11z/data=!4m6!3m5!1s0x14a83766b10371b:0x3addbe6dc9fa3f82!8m2!3d-37.5266697!4d143.7393794!16s%2Fg%2F11yb4c8m26"
+  },
+  "hero": {
+    "eyebrow": "Carpentry & repairs in Ballarat",
+    "headline": "Carpentry and repairs in Ballarat, done your way by a qualified chippy.",
+    "subhead": "Repairs, new installs, robes, pocket doors and DIY help from Becca, a qualified carpenter across Ballarat and surrounds. Send through the job and get a clear quote.",
+    "trustLine": [
+      "Qualified carpenter",
+      "Women-owned",
+      "Transparent pricing"
+    ],
+    "photo": "framing"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "Repairs & odd jobs",
+      "Robes, doors or shelving",
+      "Stairs, rails or grab rails",
+      "DIY advice",
+      "Something else"
+    ]
+  },
+  "skyeGreeting": "G'day, I'm the Chipper Chippy assistant. Got a repair, an install or a DIY project you need a hand with? Tell me about it and I'll help you get a quote or book a time with Becca.",
+  "about": {
+    "headline": "No job too big or too small. Done your way.",
+    "body": "Most people want the same things from a tradie: someone who turns up, listens to what you actually want, and gives you a fair price before starting. Whether it's a list of jobs in a new house, a robe fit-out or advice so you can do it yourself, every job gets the same care.",
+    "cards": [
+      {
+        "title": "The list of jobs in a new house",
+        "body": "Locks, handles, blinds, a TV on the wall. The whole list ticked off in one go."
+      },
+      {
+        "title": "New installs and fit-outs",
+        "body": "Walk-in robes, pocket doors and reframing done with real precision."
+      },
+      {
+        "title": "DIYers who want a hand",
+        "body": "Advice and help so you can tackle the project yourself, done your way."
+      }
+    ],
+    "closing": "Not sure if it's worth a call? Send it through and Becca will let you know."
+  },
+  "problems": {
+    "headline": "Finding a chippy in Ballarat for the small jobs shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow quotes",
+        "body": "Nobody rings back about the small jobs, and the list keeps growing."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "No idea what it'll cost until the bill turns up."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "Tradies who don't show up on the day they said."
+      },
+      {
+        "title": "Sloppy finishing",
+        "body": "Doors that stick, handles not lined up and gaps around the trim."
+      }
+    ],
+    "bridge": "You shouldn't have to chase a tradie just to get the small stuff done properly."
+  },
+  "solutions": {
+    "headline": "Friendly carpentry with transparent pricing.",
+    "services": [
+      {
+        "title": "Repairs & installs",
+        "body": "Locks, handles, blinds, TV mounting and the repairs that pile up around the house.",
+        "photo": "door"
+      },
+      {
+        "title": "Robes, pocket doors & framing",
+        "body": "Walk-in robes, pocket doors and reframing, fitted precisely and finished cleanly.",
+        "photo": "framing"
+      },
+      {
+        "title": "Stairs & grab rails",
+        "body": "Unstable stairs made solid and grab rails installed where you need them.",
+        "photo": "stairs"
+      }
+    ]
+  },
+  "process": {
+    "headline": "We listen to what you need. Price it clearly. Do it right.",
+    "steps": [
+      {
+        "title": "Request your quote",
+        "body": "Send the job or your list with the form, or give Becca a ring."
+      },
+      {
+        "title": "Chat & clear price",
+        "body": "We talk through what you want and you get a transparent price before anything starts."
+      },
+      {
+        "title": "Tidy, on-time work",
+        "body": "Turning up when promised and keeping the area clean as we go."
+      },
+      {
+        "title": "Final check",
+        "body": "We go over the finished job with you and sort anything on the list before we call it done."
+      }
+    ]
+  },
+  "why": {
+    "headline": "A qualified chippy with a smile.",
+    "themes": [
+      {
+        "title": "Qualified carpenter",
+        "body": "Trade-qualified carpentry, not just a handyman."
+      },
+      {
+        "title": "Transparent pricing",
+        "body": "Clear prices up front, so there are no surprises."
+      },
+      {
+        "title": "Trusted tradie network",
+        "body": "Local tradie mates on call when a job needs more than carpentry."
+      },
+      {
+        "title": "Done your way",
+        "body": "We listen first, with practical suggestions and DIY advice when you want it."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Rianna G",
+      "rating": 5,
+      "date": "a year ago",
+      "text": "Having just moved into a new house, we had an array of handyman/woman jobs we needed doing, and Becca was the perfect person to call on. No job is too big or too small for her, and her professionalism combined with her positive attitude makes hiring her a no-brainer. She replaced rusted locks, installed blinds that she custom-made, selected and installed handles on drawers and vanities, and perfectly wall-mounted our large tv. We couldn’t speak more highly of her or her service, thank you Becca!"
+    },
+    {
+      "author": "Harry Rand",
+      "rating": 5,
+      "date": "a year ago",
+      "text": "Our stairs were unstable and Becca did a great job of tightening the stringers. We asked her to come back and install grab rails in our bathroom and she is now our regular handy woman. Alex was easy to deal with and the price was very reasonable. Service with a cheeky smile!"
+    },
+    {
+      "author": "ria santos",
+      "rating": 5,
+      "date": "7 months ago",
+      "text": "We had our walk‑in robe done and Becca was absolutely fantastic. She listened to what we wanted, offered practical suggestions, and the finished result is even better than we pictured. Friendly, reliable, and genuinely great at what she does. We’re so happy with the outcome and would definitely recommend her."
+    }
+  ],
+  "finalCta": {
+    "headline": "Got a job or a list that needs doing?",
+    "body": "Send a few details or pick a time that suits you. You'll get a clear price before anything is booked in.",
+    "microcopy": "No pressure. Just a friendly chat about the job."
+  },
+  "faq": [
+    {
+      "q": "How do quotes work?",
+      "a": "Send the job or your whole list through the form, or give Becca a ring. We'll ask a few questions, come and have a look if needed, and give you a transparent price."
+    },
+    {
+      "q": "Do you take small jobs?",
+      "a": "Yes. Locks, handles, blinds and a TV on the wall are all part of the work. No job is too small."
+    },
+    {
+      "q": "Can you help me do it myself?",
+      "a": "Yes. DIY advice and assistance is part of what we do, so you can tackle the project your way with a qualified carpenter in your corner."
+    },
+    {
+      "q": "Which areas do you cover?",
+      "a": "Ballarat and surrounds, including Wendouree, Sebastopol, Delacombe, Mount Helen, Buninyong, Creswick and Learmonth. Close by but not on the list? Ask anyway."
+    },
+    {
+      "q": "What happens after I submit a request?",
+      "a": "Your details come straight to Becca, you get a text and email confirmation, and we follow up to talk through the job and set a time."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
