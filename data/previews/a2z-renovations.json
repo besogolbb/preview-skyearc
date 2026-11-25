@@ -1,0 +1,222 @@
+{
+  "_sources": {
+    "google": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-25): 5.0 stars, 30 reviews, category Kitchen remodeler, phone +1 254-227-1737. Review topics: kitchen countertops 3, fast completion 3, excellent work 3, remodeled bathrooms 2, room addition 2, exterior painting 2, polite staff 2, budget-friendly 2, quality products 2, project management 2.",
+    "phone": "(254) 227-1737 on their website (header 'GET IN TOUCH' tel link and footer) and the Google listing.",
+    "services": "a2zrenovations.godaddysites.com (2026-11-25): 'Residential & Commercial', 'We Do All Types of Remodeling and Construction': Room Additions, Flooring, Kitchens, Bathrooms, Patios, Window Replacement. Logo banner also lists fencing, sheetrock, framing, windows. Gallery: patio with fireplace, outdoor kitchen, kitchen and bathroom remodels.",
+    "about": "Website: 'Family Owned & Operated', 'small family business', 'Insured For Your Protection', 'Proudly Serving Central Texas'.",
+    "serviceArea": "Website: 'Proudly Serving Central Texas'; website testimonials signed from Bellmead, Lorena and China Spring; business in Waco.",
+    "address": "Website footer says 5601 Edmond Avenue Suite P, Waco; Google listing says 706 La Clede St, Waco. Conflicting, so no street address is used.",
+    "brand": "Their own logo (website header image): black lettering with a red brush-stroke '2', red outline, sampled at #e8003a; deepened to #d40038 so white button text passes 4.5:1. Dark #161a15 is the site's meta theme-color. Accent #ff4d6d is a lighter tint of the logo red for contrast on dark sections.",
+    "reviews": "Google Business Profile Reviews tab, same session: 3 complete 5-star reviews copied verbatim (David E Schwartzenburg, Johannes Kempees, Joe Summers).",
+    "notUsed": "Owner name (Zee Perez) appears only in reviews. No 'free estimate' offered on the site (it says 'Call today to schedule an appointment'), so CTAs say 'Get an estimate'. No licence number published."
+  },
+  "gap": "The only way to send a project is a name/email/message box at the very bottom of the homepage. The 'Get in touch' button at the top just dials the phone, so there's no way to request an estimate or book a visit with project details from the top of the page.",
+  "market": "US",
+  "company": {
+    "name": "A2Z Renovations",
+    "trade": "Bathroom and home remodeling",
+    "city": "Waco, TX",
+    "serviceArea": [
+      "Waco",
+      "Bellmead",
+      "Lorena",
+      "China Spring",
+      "Central Texas"
+    ],
+    "phone": "(254) 227-1737",
+    "credential": "Insured"
+  },
+  "logo": {
+    "initials": "AZ",
+    "tagline": "Bathroom & Home Remodeling · Waco",
+    "svg": "/assets/logos/a2z-renovations.svg"
+  },
+  "brand": {
+    "primary": "#d40038",
+    "dark": "#161a15",
+    "accent": "#ff4d6d",
+    "primaryInk": "#ffffff"
+  },
+  "assetFolder": "remodeling",
+  "google": {
+    "rating": 5,
+    "reviewCount": 30,
+    "profileUrl": "https://www.google.com/maps/place/A2Z+Renovations/@31.5878865,-97.1022311,17z/data=!4m6!3m5!1s0x864f83cbe33e1b9b:0xc8882d272a7657b5!8m2!3d31.5878865!4d-97.1022311!16s%2Fg%2F11p74f5b31"
+  },
+  "hero": {
+    "eyebrow": "Bathroom & home remodeling in Waco",
+    "headline": "Bathroom and home remodeling in Waco from a family-run crew.",
+    "subhead": "Bathrooms, kitchens, flooring, patios and room additions for homeowners across Waco and Central Texas. Tell us about the project and get a clear written estimate.",
+    "trustLine": [
+      "Family owned & operated",
+      "Insured for your protection",
+      "Clear written estimates"
+    ],
+    "photo": "kitchen"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "Bathroom remodel",
+      "Kitchen remodel",
+      "Flooring",
+      "Room addition or patio",
+      "Something else"
+    ]
+  },
+  "skyeGreeting": "Hi, I'm the A2Z Renovations assistant. Planning a new bathroom, a kitchen update or an addition? Tell me about it and I'll help you get an estimate or book a time.",
+  "about": {
+    "headline": "A small family business that treats your home like ours.",
+    "body": "We know how much your home matters to your family, so we take pride in every detail. Whether it's one dated bathroom or the whole house, you get a clear plan, a fair price and a crew that keeps you in the loop.",
+    "cards": [
+      {
+        "title": "Dated bathrooms",
+        "body": "A 1970s bathroom brought up to date: new shower, tile floors, vanity and finishes."
+      },
+      {
+        "title": "Kitchens that need a refresh",
+        "body": "Cabinets, countertops and flooring, or a full remodel when the layout isn't working."
+      },
+      {
+        "title": "Homes that need more room",
+        "body": "Room additions, covered patios and outdoor kitchens built to match the house."
+      }
+    ],
+    "closing": "Not sure where to start? Tell us about the room and we'll talk it through."
+  },
+  "problems": {
+    "headline": "Finding a remodeler you can trust in Waco shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow estimates",
+        "body": "You leave messages, wait a week, and still don't have a number to plan around."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "A price that changes halfway through, with nobody explaining why."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "Crews that don't show and a bathroom that stays torn out for months."
+      },
+      {
+        "title": "Messy job sites",
+        "body": "Debris left in the house and the yard for you to clean up."
+      }
+    ],
+    "bridge": "You shouldn't have to chase a contractor just to get your project finished."
+  },
+  "solutions": {
+    "headline": "Remodeling done start to finish, with you in the loop.",
+    "services": [
+      {
+        "title": "Bathroom remodels",
+        "body": "Full bathroom remodels: showers, tile floors and walls, vanities and finishes, planned with you from the first sketch.",
+        "photo": "bathroom"
+      },
+      {
+        "title": "Kitchen remodels",
+        "body": "Kitchen remodels with new cabinets, countertops and flooring, from design through installation.",
+        "photo": "kitchen"
+      },
+      {
+        "title": "Additions, flooring & patios",
+        "body": "Room additions, flooring, covered patios, outdoor kitchens and window replacement, residential and commercial.",
+        "photo": "framing"
+      }
+    ]
+  },
+  "process": {
+    "headline": "We listen. Plan it with you. Build it right.",
+    "steps": [
+      {
+        "title": "Request your estimate",
+        "body": "Send a few details with the form or give us a call. A ZIP code and a rough idea of the project is plenty."
+      },
+      {
+        "title": "Visit & clear plan",
+        "body": "We look at the space, talk through layout and materials, and put the scope and price in writing."
+      },
+      {
+        "title": "Clean, on-time work",
+        "body": "A start date you can plan around, regular updates, and the work area left clean at the end of each day."
+      },
+      {
+        "title": "Final walkthrough",
+        "body": "We walk the finished project with you and make sure you're happy before we call it done."
+      }
+    ]
+  },
+  "why": {
+    "headline": "We're not here to rush the job. We're here to do it right.",
+    "themes": [
+      {
+        "title": "Family owned & operated",
+        "body": "A small family business that takes pride in every detail of your home."
+      },
+      {
+        "title": "Insured for your protection",
+        "body": "Residential and commercial work, covered while we're on your property."
+      },
+      {
+        "title": "Regular communication",
+        "body": "You hear from us as the job goes, and any change is talked through before it happens."
+      },
+      {
+        "title": "One crew, start to finish",
+        "body": "Bathrooms, kitchens, flooring and additions handled by the same team."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "David E Schwartzenburg",
+      "rating": 5,
+      "text": "Zee, Jonathan, and his team were wonderful to work with and transformed our 1960s kitchen into a beautiful, clean, modern kitchen. They were reliable, courteous, did quality workmanship, and left the area in great condition at the end of each day! It was a pleasure to work with them. They consulted with us on each step, from design through installation and on to the final steps of the project.",
+      "date": "a week ago"
+    },
+    {
+      "author": "Johannes Kempees",
+      "rating": 5,
+      "text": "Zee and his crew were very professional and helpful during the entire project. The quality of work was excellent and the price was more than fair. He walked through all aspects of the project and provided very good quality products. The shower and floor install was done on time and both look beautiful. We had  other quotes to compare and this beat them all by far. We  will recommend this company to any one looking for excellent work at a fair price.",
+      "date": "4 years ago"
+    },
+    {
+      "author": "Joe Summers",
+      "rating": 5,
+      "text": "We are well pleased with the work done.  Everyone was polite and did good work.  We are so proud of our remodeled bathrooms.  They brought our 1972 bathroom up to current.  We will contact Zee in the future if we need additional work done.",
+      "date": "a year ago"
+    }
+  ],
+  "finalCta": {
+    "headline": "Ready to talk about your bathroom or remodel?",
+    "body": "Send a few details or pick a time that suits you. You'll get a written estimate before anything is booked in.",
+    "microcopy": "No pressure. Just a straightforward conversation about your project."
+  },
+  "faq": [
+    {
+      "q": "How do estimates work?",
+      "a": "Send the project through the form or give us a call. We'll ask a few questions, come out to look at the space if the job needs it, and send a written estimate that lists the scope and price."
+    },
+    {
+      "q": "Which areas do you cover?",
+      "a": "Waco and Central Texas, including Bellmead, Lorena and China Spring. Close by but not on the list? Ask anyway."
+    },
+    {
+      "q": "Are you insured?",
+      "a": "Yes, we're insured for your protection. Ask when you request your estimate and we'll send the insurance details for your project."
+    },
+    {
+      "q": "Do you take on bigger projects than bathrooms?",
+      "a": "Yes. Kitchens, flooring, room additions, patios and window replacement, for homes and commercial properties. Tell us what you have in mind."
+    },
+    {
+      "q": "What happens after I submit a request?",
+      "a": "Your details come straight to us, you get a text and email confirmation, and we follow up to talk through the project and book a visit if it needs one."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
