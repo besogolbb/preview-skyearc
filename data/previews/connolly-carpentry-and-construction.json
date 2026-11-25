@@ -1,0 +1,220 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-26): 'Connolly Carpentry and Construction', 5.0 stars, 28 reviews, category 'Carpenter', phone +61 417 190 180, opens 7 AM, no website ('Add website' shown).",
+    "serviceArea": "Google service-area outline: Beenleigh and Ormeau down through Pimpama, Helensvale, the Gold Coast, Broadbeach, Robina and Burleigh Heads to Tweed Heads, inland to Tamborine Mountain.",
+    "services": "Google review topics: punctuality 9, cleanliness 7, small jobs 6, workmanship 5, bathroom renovation 4, reasonable quote 4, attention to detail 3, tradie coordination 2, deck repair 2, thoroughness 2. Reviews: full bathroom renovation with trades organised (Jeremy Wagstaff), front and back decking replacement (Magus), timber and stainless wire deck handrail (Carol Bell), bathroom, laundry and toilet reno with a wall moved (Mikaela Vu), garage mezzanine at Biggera Waters (Jerry Naly).",
+    "brand": "No website, socials or logo found. Sampled from their own Google listing cover photo (a new hardwood deck with white posts among tropical plants): primary = sage green #4f5a4b (white 7.3:1), dark = deep green #1e2b25, accent = the new timber #d0ae84 (7.1:1 on dark). Not an official brand; confirm with the owner.",
+    "reviews": "Google Reviews tab, same session: 3 complete 5-star reviews copied verbatim (Jeremy Wagstaff, Carol Bell, Jerry Naly), stars checked via each review's rating label. Owner named Tom."
+  },
+  "gap": "No website: the Google listing shows 'Add website', so people planning a bathroom reno or a new deck can only ring Tom while he's on the tools; there's no way to send plans, photos or a quote request.",
+  "market": "AU",
+  "company": {
+    "name": "Connolly Carpentry and Construction",
+    "trade": "Carpentry, decks and renovations",
+    "city": "Gold Coast, QLD",
+    "serviceArea": [
+      "Ormeau",
+      "Pimpama",
+      "Helensvale",
+      "Broadbeach",
+      "Robina",
+      "Burleigh Heads",
+      "Tweed Heads",
+      "Tamborine Mountain"
+    ],
+    "phone": "0417 190 180"
+  },
+  "logo": {
+    "initials": "CC",
+    "tagline": "Carpentry & Construction · Gold Coast",
+    "svg": "/assets/logos/connolly-carpentry-and-construction.svg"
+  },
+  "brand": {
+    "primary": "#4f5a4b",
+    "dark": "#1e2b25",
+    "accent": "#d0ae84"
+  },
+  "assetFolder": "carpentry",
+  "assistantName": "Connolly Carpentry",
+  "google": {
+    "rating": 5,
+    "reviewCount": 28,
+    "profileUrl": "https://www.google.com/maps/place/Connolly+Carpentry+and+Construction/@-28.0333101,153.280038,10z/data=!4m6!3m5!1s0x6df9f3ae947005d9:0x9b4d0353cd74761f!8m2!3d-28.03331!4d153.280038!16s%2Fg%2F11qbtx7j04"
+  },
+  "hero": {
+    "eyebrow": "Carpentry & renovations on the Gold Coast",
+    "headline": "Decks, bathrooms and carpentry on the Gold Coast, built clean and on time.",
+    "subhead": "Bathroom renovations with every trade organised, decks and handrails, mezzanines and small jobs from Ormeau to Tweed Heads. Send through the job and get a clear written quote.",
+    "trustLine": [
+      "Clear written quotes",
+      "Trades organised for you",
+      "Clean job sites"
+    ],
+    "photo": "stairs"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "Bathroom or laundry reno",
+      "Deck or handrail",
+      "Mezzanine or framing",
+      "Small job or repair",
+      "Something else"
+    ]
+  },
+  "skyeGreeting": "G'day, I'm the Connolly Carpentry assistant. Planning a reno, a new deck or a small job? Tell me a bit about it and I'll help you get a quote or book a time with Tom.",
+  "about": {
+    "headline": "One chippy who handles the whole job, and cleans up after.",
+    "body": "Most people want the same things from a renovation: a fair quote, someone who organises the trades in the right order, and a site that's left clean every day. Every job runs that way, from a handrail to a full bathroom.",
+    "cards": [
+      {
+        "title": "Bathrooms that need a full reno",
+        "body": "Demolition to handover, with every trade booked in the right order."
+      },
+      {
+        "title": "Decks that have had it",
+        "body": "Front and back decking replaced, and handrails designed with you."
+      },
+      {
+        "title": "Small jobs and extra space",
+        "body": "Garage mezzanines, repairs and the jobs that keep getting put off."
+      }
+    ],
+    "closing": "Not sure where to start? Send a few photos and we'll talk it through."
+  },
+  "problems": {
+    "headline": "Getting a reno done on the Gold Coast shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow quotes",
+        "body": "You contact a few tradies and only one bothers to come out."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "A rough figure that grows once demolition starts."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "Trades that don't line up, leaving the bathroom gutted for weeks."
+      },
+      {
+        "title": "Messy job sites",
+        "body": "Dust and offcuts left through the house at the end of each day."
+      }
+    ],
+    "bridge": "You shouldn't have to project-manage your own renovation."
+  },
+  "solutions": {
+    "headline": "Straightforward carpentry and renovations with clear communication.",
+    "services": [
+      {
+        "title": "Bathroom & laundry renovations",
+        "body": "Full renovations, walls moved if needed, with every trade organised in the order it's needed.",
+        "photo": "bathroom"
+      },
+      {
+        "title": "Decks & handrails",
+        "body": "Decking replacements and repairs, plus timber and stainless wire handrails designed with you.",
+        "photo": "deck"
+      },
+      {
+        "title": "Mezzanines & small jobs",
+        "body": "Garage mezzanines, framing and small carpentry jobs, done properly and cleaned up.",
+        "photo": "framing"
+      }
+    ]
+  },
+  "process": {
+    "headline": "We listen to what you need. Quote it clearly. Build it right.",
+    "steps": [
+      {
+        "title": "Request your quote",
+        "body": "Send a few details and photos with the form or give Tom a ring."
+      },
+      {
+        "title": "Site visit & clear scope",
+        "body": "We have a look, talk through the design and put the scope and price in writing."
+      },
+      {
+        "title": "Trades organised, site kept clean",
+        "body": "Each trade booked in order, with the site cleaned up every day."
+      },
+      {
+        "title": "Handover",
+        "body": "We walk the finished job with you and sort anything on the list before we call it done."
+      }
+    ]
+  },
+  "why": {
+    "headline": "Punctual, tidy and organised from start to finish.",
+    "themes": [
+      {
+        "title": "Trades coordinated",
+        "body": "One point of contact who books every trade in the right order."
+      },
+      {
+        "title": "Clean job sites",
+        "body": "Cleaned up after every day, not just at the end."
+      },
+      {
+        "title": "Reasonable quotes",
+        "body": "Fair prices in writing, with no surprises."
+      },
+      {
+        "title": "Punctual",
+        "body": "Turns up when promised and keeps you informed."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Jeremy Wagstaff",
+      "rating": 5,
+      "date": "a year ago",
+      "text": "Tom and his team did an outstanding job completing a full bathroom renovation for me recently and the end result speaks for itself. Tom handled the entire project and was able to organise each trade in the order they were needed. A surprising quick turnaround between demolition and handover, I was very impressed.\nAs a tradesman myself, I can now recommend his services to my clients knowing that they're in good hands.\nHappy days."
+    },
+    {
+      "author": "Carol Bell",
+      "rating": 5,
+      "date": "a year ago",
+      "text": "We employed Tommy  to build a timber and stainless wire handrail onto our existing deck. His design suggestions were taken onboard and the result is amazing. We are very pleased with his work. He is professional and punctual and  kept us informed during the whole process. We have no hesitation in recommending Conolly Carpentry and Construction."
+    },
+    {
+      "author": "Jerry Naly",
+      "rating": 5,
+      "date": "2 years ago",
+      "text": "Just had Tom build a mezzanine in my garage at Biggera Waters and he did a great job. I would not hesitate to recommend him to anyone. Great young man to deal with."
+    }
+  ],
+  "finalCta": {
+    "headline": "Ready to talk about your reno or deck?",
+    "body": "Send a few details or pick a time that suits you. You'll get a written quote before anything is booked in.",
+    "microcopy": "No pressure. Just a straightforward chat about the job."
+  },
+  "faq": [
+    {
+      "q": "How do quotes work?",
+      "a": "Send the job through the form or give Tom a ring. We'll come and have a look and send a written quote with the scope and price."
+    },
+    {
+      "q": "Do you organise the other trades for a bathroom reno?",
+      "a": "Yes. Each trade is organised in the order it's needed, so you only deal with one person from demolition to handover."
+    },
+    {
+      "q": "Which areas do you cover?",
+      "a": "The Gold Coast from Ormeau and Pimpama down to Tweed Heads, including Helensvale, Broadbeach, Robina, Burleigh and Tamborine Mountain."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your quote and we'll send the licence and insurance details for your job."
+    },
+    {
+      "q": "What happens after I submit a request?",
+      "a": "Your details come straight to us, you get a text and email confirmation, and we follow up to book a time to look at the job."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
