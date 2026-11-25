@@ -1,0 +1,220 @@
+{
+  "_sources": {
+    "google": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-25): 5.0 stars, 27 reviews, category Contractor, 36858 Wes Oberry Rd, Pearl River, LA 70452, phone +1 985-768-9257, website godaddysites.com. Review topics: quality of work 8, future projects 5, polite crew 4, fair pricing 4, promptness 4, attention to detail 4, professional crew 3, porch repair 2, roof repair 2, professional workers 2.",
+    "website": "renovationsbyjasonllc.godaddysites.com (2026-11-25): 'specializes in general home repairs and renovations, serving St Tammany Parish and surrounding areas', 'From kitchen and bathroom remodels to roofing, electrical, and plumbing upgrades'; 'GET A FREE ESTIMATE' and 'Get a Free Quote!'; hours Mon-Fri 9am-5pm. No phone number anywhere on the site; free GoDaddy plan with an ad banner; copyright 2024.",
+    "phone": "(985) 768-9257 on the Google listing only (not on their website).",
+    "services": "Website: kitchen and bathroom remodels, roofing, electrical and plumbing upgrades, general home repairs. Google reviews: rotten deck replaced, pool deck, porch built, patio roof, wood platform and pergola, staircase and landing, siding repairs, exterior painting, garage addition, roof and porch-roof repairs after Hurricane Ida. Listing cover photo: a tiled walk-in shower.",
+    "brand": "Their logo (website header) is a black-and-white round saw-blade badge and the site template is grey (#969696), so no usable colour. Sampled from their Google listing cover photo (marble shower, matte black fixtures) with sample-brand.mjs: low-colour photo, hidden hue 26° gives copper #d07a39 (dark text #1d1c18), accent #e19860, dark #27272a matching the black fixtures and their black logo. Not an official brand; confirm with the owner.",
+    "reviews": "Google Business Profile Reviews tab, same session: 3 complete 5-star reviews copied verbatim (Ashley Williamson, Digan, Donna Bailey).",
+    "notUsed": "No licence or insurance published, so none claimed. Website electrical/plumbing claims kept to a mention (no reviews cover them). Newsletter '10% off' offer not used. Owner first name Jason only appears via the company name and reviews."
+  },
+  "gap": "Their website has no phone number anywhere, the 'GET A FREE ESTIMATE' button just reloads the homepage, and the 'Read Our Rave Reviews' section is empty even though they have 5.0 from 27 Google reviews. It's on GoDaddy's free plan, so a 'Start for free' ad runs across the top.",
+  "market": "US",
+  "company": {
+    "name": "Renovations by Jason LLC",
+    "trade": "Kitchen, bathroom remodeling and home repair",
+    "city": "Pearl River, LA",
+    "serviceArea": [
+      "Pearl River",
+      "St. Tammany Parish"
+    ],
+    "phone": "(985) 768-9257"
+  },
+  "assistantName": "Renovations by Jason",
+  "logo": {
+    "initials": "RJ",
+    "tagline": "Remodeling & Home Repair · Pearl River",
+    "svg": "/assets/logos/renovations-by-jason-llc.svg"
+  },
+  "brand": {
+    "primary": "#d07a39",
+    "dark": "#27272a",
+    "accent": "#e19860",
+    "primaryInk": "#1d1c18"
+  },
+  "assetFolder": "remodeling",
+  "google": {
+    "rating": 5,
+    "reviewCount": 27,
+    "profileUrl": "https://www.google.com/maps/place/Renovations+by+Jason+LLC/@30.4257345,-89.7900599,17z/data=!4m6!3m5!1s0x889defd90c3c1e97:0x97ceb9098abfbbb1!8m2!3d30.4257345!4d-89.7900599!16s%2Fg%2F11s0hx5hkq"
+  },
+  "hero": {
+    "eyebrow": "Remodeling & home repair in Pearl River",
+    "headline": "Kitchen, bathroom and home repairs in Pearl River, done with care.",
+    "subhead": "Kitchen and bathroom remodels, decks, porches, roof and storm repairs for homeowners across St. Tammany Parish. Tell us about the project and get a free estimate.",
+    "primaryCta": "Get a free estimate",
+    "trustLine": [
+      "Free estimates",
+      "Polite, professional crew",
+      "Fair pricing"
+    ],
+    "photo": "kitchen"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "Kitchen remodel",
+      "Bathroom remodel",
+      "Deck or porch",
+      "Roof or storm repair",
+      "Siding or painting",
+      "Something else"
+    ]
+  },
+  "skyeGreeting": "Hi, I'm the Renovations by Jason assistant. Planning a kitchen or bathroom remodel, a new deck or a repair around the house? Tell me about it and I'll help you get a free estimate or book a time.",
+  "about": {
+    "headline": "Your home, renovated and repaired with real care.",
+    "body": "Whether it's a bathroom that's overdue for an update, a rotten deck or storm damage on the roof, you want someone who shows up, explains the work clearly and doesn't cut corners. That's how every job is handled, from the first visit to the clean-up.",
+    "cards": [
+      {
+        "title": "Kitchens & bathrooms",
+        "body": "Remodels that update the rooms you use most, finished with attention to detail."
+      },
+      {
+        "title": "Outdoor living",
+        "body": "Decks, porches, patio roofs and staircases built solid for Louisiana weather."
+      },
+      {
+        "title": "Repairs after storms",
+        "body": "Roof, porch and siding damage fixed properly, with the details explained."
+      }
+    ],
+    "closing": "Not sure where to start? Tell us about the project and we'll talk it through."
+  },
+  "problems": {
+    "headline": "Finding a contractor you can trust in St. Tammany shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow estimates",
+        "body": "After a storm, you call around and nobody gets back to you about a small job."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "A rough number that grows once the work starts."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "Start dates that slip and a project that drags on for weeks."
+      },
+      {
+        "title": "Messy job sites",
+        "body": "Old boards, shingles and trash left in the yard when the crew leaves."
+      }
+    ],
+    "bridge": "You shouldn't have to chase a contractor just to get your home fixed."
+  },
+  "solutions": {
+    "headline": "Renovations and repairs, done right the first time.",
+    "services": [
+      {
+        "title": "Kitchen & bathroom remodels",
+        "body": "Kitchen and bathroom remodels, from showers and tile to fixtures and finishes, plus plumbing and electrical upgrades.",
+        "photo": "bathroom"
+      },
+      {
+        "title": "Decks, porches & patio roofs",
+        "body": "Rotten decks replaced, new porches, pool decks, patio roofs, pergolas and staircases built to last.",
+        "photo": "deck"
+      },
+      {
+        "title": "Roof, siding & storm repairs",
+        "body": "Roof and porch-roof repairs after storms, siding repairs, exterior painting and home additions.",
+        "photo": "siding"
+      }
+    ]
+  },
+  "process": {
+    "headline": "We listen. Estimate it clearly. Build it right.",
+    "steps": [
+      {
+        "title": "Request your free estimate",
+        "body": "Send a few details and photos with the form or give us a call. A ZIP code and a rough idea of the job is plenty."
+      },
+      {
+        "title": "Visit & clear explanation",
+        "body": "We take detailed measurements, explain what we're seeing, and give you a clear price."
+      },
+      {
+        "title": "On time, kept informed",
+        "body": "We show up when we say, keep you updated, and work around your schedule."
+      },
+      {
+        "title": "Clean finish",
+        "body": "The job's done properly and the site is cleaned up, with no debris left behind."
+      }
+    ]
+  },
+  "why": {
+    "headline": "We're not here to cut corners. We're here to do it right.",
+    "themes": [
+      {
+        "title": "Quality you can see",
+        "body": "Quality of work is what our Google reviewers mention most."
+      },
+      {
+        "title": "Polite, professional crew",
+        "body": "A respectful team that treats your home with care."
+      },
+      {
+        "title": "Fair pricing",
+        "body": "Clear estimates and a fair price for the work."
+      },
+      {
+        "title": "Local to St. Tammany",
+        "body": "Based in Pearl River, serving the parish and surrounding areas."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Ashley Williamson",
+      "rating": 5,
+      "text": "I would absolutely recommend Jason for any home renovation or remodeling project. He’s professional, dependable, knowledgeable, and takes a lot of pride in the quality of his work. He pays attention to the details and genuinely cares about making sure things are done the right way. If you’re looking for someone you can trust with your home, he’s definitely worth calling!",
+      "date": "2 months ago"
+    },
+    {
+      "author": "Digan",
+      "rating": 5,
+      "text": "Had some holes in my roof from Hurricane Ida as well as damage from the trees sitting on my roof and my porch's roof. Jason was very responsive on coming out and taking detailed measurements. Thoroughly explained what all he was looking at. Day they came out to do the work was met with a very professional and experienced crew. Awesome work done, didn't skip on any small details",
+      "date": "4 years ago"
+    },
+    {
+      "author": "Donna Bailey",
+      "rating": 5,
+      "text": "100% Satisfaction on the siding repairs, exterior painting and garage addition to my home! The quality of work far exceeded my expectations, pricing was excellent, and delivery of service was outstanding.\n\nThe Owner, Jason was very knowledgeable of his trade, always immediately accessible, and accomodating on scheduling.  His crew was very polite,  trustworthy and professional.  Would definitely recommend this company and use again for any future renovations or projects.",
+      "date": "3 years ago"
+    }
+  ],
+  "finalCta": {
+    "headline": "Ready to talk about your remodel or repair?",
+    "body": "Send a few details or pick a time that suits you. You'll get a free written estimate before anything is booked in.",
+    "cta": "Get a free estimate",
+    "microcopy": "No pressure. Just a straightforward conversation about your project."
+  },
+  "faq": [
+    {
+      "q": "Are estimates really free?",
+      "a": "Yes. Send the project through the form or give us a call. We'll come out, take detailed measurements and give you a clear written estimate."
+    },
+    {
+      "q": "Which areas do you cover?",
+      "a": "We're based in Pearl River and serve St. Tammany Parish and surrounding areas. Not sure if you're in range? Ask anyway."
+    },
+    {
+      "q": "Do you handle storm damage repairs?",
+      "a": "Yes. Roof, porch-roof and siding damage from storms, assessed carefully and repaired properly."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your estimate and we'll send the licence and insurance details for your project."
+    },
+    {
+      "q": "Can I send photos first?",
+      "a": "Yes. Attach photos with the form and we can often give you a rough idea of the job before we come out."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
