@@ -1,0 +1,209 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-26): 'Bigs Roofing & Repair', 4.3 stars, 54 reviews, category 'Roofing contractor', 2204 Fillmore St, Fort Wayne, IN 46802, phone +1 260-432-3715, open until 5 PM, no website ('Add website' shown).",
+    "services": "Google review topics: quick work 12, estimate 6, siding installation 5, shingle repair 4, hail damage repair 4, flashing repair 2, thorough repair 2, professional crews 2, helpful explanations 2. Reviews also describe full roof replacement with insurance help (Rachel Sheets), same-day storm repair (Ting Kellerman) and fascia/soffit repair (Angela S).",
+    "serviceArea": "No service-area outline on the listing (storefront address only): page names Fort Wayne only.",
+    "brand": "No website, socials or logo found. Sampled from their own Google listing cover photo (red lava rock in a stone planter): primary = the lava-rock red-brown (#8c4a36, white 6.7:1), dark = the deepest shadow (#1a1714), accent = the sandstone (#c9a684, 7.9:1 on dark). Not an official brand; confirm with the owner.",
+    "reviews": "Google Reviews tab, same session: 3 complete 5-star reviews copied verbatim (Rachel Sheets, Ting Kellerman, Angela S), stars checked via each review's rating label. 1-star reviews exist (Cristy Keiser, Samanthalynn Bennett) and were not used. Owner/lead named James; office contact Angie (Rachel's review)."
+  },
+  "gap": "No website: the Google listing shows 'Add website', so homeowners with a leak or storm damage can only call before 5 PM; there is no way to send an address and photos or request an estimate after hours.",
+  "market": "US",
+  "company": {
+    "name": "Bigs Roofing & Repair",
+    "trade": "Roofing, roof repair and siding",
+    "city": "Fort Wayne, IN",
+    "phone": "(260) 432-3715"
+  },
+  "logo": {
+    "initials": "BR",
+    "tagline": "Roofing & Repair · Fort Wayne",
+    "svg": "/assets/logos/bigs-roofing-and-repair.svg"
+  },
+  "brand": {
+    "primary": "#8c4a36",
+    "dark": "#1a1714",
+    "accent": "#c9a684"
+  },
+  "assetFolder": "roofing",
+  "google": {
+    "rating": 4.3,
+    "reviewCount": 54,
+    "profileUrl": "https://www.google.com/maps/place/Bigs+Roofing+%26+Repair/@41.0650606,-85.185604,17z/data=!4m6!3m5!1s0x8815e4296046c557:0xc1894ff6bd0ff3b2!8m2!3d41.0650606!4d-85.185604!16s%2Fg%2F1wcxdq23"
+  },
+  "hero": {
+    "eyebrow": "Roofing & roof repair in Fort Wayne",
+    "headline": "Roof repairs and replacements in Fort Wayne, handled fast and done right.",
+    "subhead": "Storm and hail damage, shingle and flashing repairs, full roof replacements and siding for Fort Wayne homeowners. Send your address and a few photos and get a clear written estimate.",
+    "trustLine": [
+      "Clear written estimates",
+      "Local Fort Wayne roofer",
+      "Fast storm response"
+    ],
+    "photo": "siding"
+  },
+  "quoteField": {
+    "label": "Roof need",
+    "options": [
+      "Leak or shingle repair",
+      "Storm or hail damage",
+      "Roof replacement",
+      "Siding",
+      "Inspection"
+    ]
+  },
+  "skyeGreeting": "Hi, I'm the Bigs Roofing assistant. Got a leak, storm damage or a roof that's due for replacement? Tell me what's going on and I'll help you get an estimate or book an inspection.",
+  "about": {
+    "headline": "You keep the house running. We keep the roof over it.",
+    "body": "When something's wrong with a roof, homeowners want the same things: someone who picks up the phone, a straight answer about what needs fixing, and a price in writing before any shingles come off. Every job is handled around that, from the first look to the last nail swept up.",
+    "cards": [
+      {
+        "title": "Storm and hail damage",
+        "body": "Missing shingles, lifted flashing or fascia hanging off after high winds. Fast assessment and repair so it doesn't get worse."
+      },
+      {
+        "title": "Roofs that are done",
+        "body": "Full replacements explained step by step, with help understanding the process when insurance is involved."
+      },
+      {
+        "title": "Leaks and small repairs",
+        "body": "Shingle, flashing, fascia and soffit repairs handled properly, without turning a small job into a big one."
+      }
+    ],
+    "closing": "Not sure how bad it is? Send a few photos and we'll tell you straight."
+  },
+  "problems": {
+    "headline": "Getting a roofer in Fort Wayne to show up shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow estimates",
+        "body": "Water's coming in and nobody calls back for days."
+      },
+      {
+        "title": "Pushy pricing & surprise costs",
+        "body": "High-pressure pitches and a number that changes once the old roof is off."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "A tarp on the roof for weeks while you wait for a start date."
+      },
+      {
+        "title": "Messy job sites",
+        "body": "Nails in the driveway and shingles in the flower beds after the crew leaves."
+      }
+    ],
+    "bridge": "You shouldn't have to chase a roofer just to get a clear answer and a written estimate."
+  },
+  "solutions": {
+    "headline": "Straightforward roofing with clear communication.",
+    "services": [
+      {
+        "title": "Roof replacement",
+        "body": "Full roof replacements with the process explained up front, including help understanding your insurance claim.",
+        "photo": "roofing"
+      },
+      {
+        "title": "Storm, hail & leak repairs",
+        "body": "Shingle, flashing, fascia and soffit repairs, with fast response when wind or hail has done damage.",
+        "photo": "brokentiles"
+      },
+      {
+        "title": "Siding",
+        "body": "Siding installation and repairs to finish the outside of the house and keep the weather out.",
+        "photo": "siding"
+      }
+    ]
+  },
+  "process": {
+    "headline": "We look at the roof. Explain it clearly. Fix it right.",
+    "steps": [
+      {
+        "title": "Request your estimate",
+        "body": "Send your address and a few photos with the form, or give us a call."
+      },
+      {
+        "title": "Inspection & clear scope",
+        "body": "We check the roof, explain what we found, and put the scope and price in writing."
+      },
+      {
+        "title": "Fast, tidy work",
+        "body": "Tarps down around the house, the work done quickly, and nails and debris cleaned up."
+      },
+      {
+        "title": "Final check",
+        "body": "We walk you through the finished work and sort anything on the list before we call it done."
+      }
+    ]
+  },
+  "why": {
+    "headline": "No pressure. Just honest roofing.",
+    "themes": [
+      {
+        "title": "Quick work",
+        "body": "Same-day assessments when storms hit and repairs done fast."
+      },
+      {
+        "title": "Written estimates",
+        "body": "Scope and price in writing, so you can compare without the sales pitch."
+      },
+      {
+        "title": "Help with insurance",
+        "body": "The claim process explained in plain English when storm damage is involved."
+      },
+      {
+        "title": "Clean job sites",
+        "body": "Tarps down, nails picked up and the yard left the way we found it."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Rachel Sheets",
+      "rating": 5,
+      "date": "3 months ago",
+      "text": "This company was the most honest and standup people we've ever come across. We had several companies approach us about redoing our roof. Most of them were extremely pushy and to be honest unprofessional. James came out and helped us understand the whole process and answered all our questions. Angie was amazing to work with. Helped me understand the whole process and dealing with insurance companies. You don't find this kind of honesty and professionalism anymore. Thank you for making this process stress free as possible. We will definitely be using this company for future projects!!!"
+    },
+    {
+      "author": "Ting Kellerman",
+      "rating": 5,
+      "date": "8 months ago",
+      "text": "Our roof took on some damage from the recent wind storm. Bigs/James was very responsive and got our roof repaired quickly. He had someone out the same day to do an assessment and repair was complete the next day. I’m very thankful for the quick turnaround as the missing shingles were causing me to panic on any unforeseen issues if left unresolved.  Before and after pictures attached. Highly recommend Bigs for your roofing needs."
+    },
+    {
+      "author": "Angela S",
+      "rating": 5,
+      "date": "8 months ago",
+      "text": "Due to the high winds, some of my fascia fell off the roof and I was about to lose the soffit.  My neighbor called about her roof shingles and told them about my roof issue too. They called back within the hour on a Sunday! They arrived a few hours later and fixed the issues on the spot! Thank you so much!"
+    }
+  ],
+  "finalCta": {
+    "headline": "Got a leak, storm damage or an old roof?",
+    "body": "Send your address and a few photos or pick a time for an inspection. You'll get a written estimate before any work is booked.",
+    "microcopy": "No pressure. Just a straight answer about your roof."
+  },
+  "faq": [
+    {
+      "q": "How do estimates work?",
+      "a": "Send your address and a few photos through the form or give us a call. We'll inspect the roof and send a written estimate that lists the scope and price."
+    },
+    {
+      "q": "Can you help with an insurance claim for storm or hail damage?",
+      "a": "We'll inspect the damage, document it and walk you through how the process works, so you know what to expect when you deal with your insurance company."
+    },
+    {
+      "q": "Do I need a repair or a full replacement?",
+      "a": "It depends on the age of the roof and how widespread the damage is. We'll tell you what we see and give you the options that make sense, not just the biggest job."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your estimate and we'll send the license and insurance details for your project."
+    },
+    {
+      "q": "What happens after I submit a request?",
+      "a": "Your details come straight to us, you get a text and email confirmation, and we follow up to book an inspection."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
