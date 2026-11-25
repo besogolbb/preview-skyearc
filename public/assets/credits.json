@@ -254,6 +254,22 @@
    "licenceUrl": "https://commons.wikimedia.org/wiki/File:Moss_on_a_cement_tile.jpg",
    "page": "https://commons.wikimedia.org/wiki/File:Moss_on_a_cement_tile.jpg",
    "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-stairs.webp",
+   "files": [
+    "photo-stairs-500.webp",
+    "photo-stairs-960.webp",
+    "photo-stairs.webp",
+    "photo-stairs-hero.webp"
+   ],
+   "id": "stairs-vastateparks",
+   "alt": "Douthat Lakeview Restaurant deck stairs",
+   "by": "vastateparksstaff",
+   "licence": "CC BY 2.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Douthat_Lakeview_Restaurant-deck-stairs_(17200060383).jpg",
+   "source": "Wikimedia Commons"
   }
  ]
 }

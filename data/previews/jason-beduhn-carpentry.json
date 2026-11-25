@@ -1,0 +1,219 @@
+{
+  "_sources": {
+    "google": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-25): 4.9 stars, 30 reviews, category Carpenter, Ipswich QLD 4305, phone +61 408 967 925, no website ('Add website' prompt). Review topics: punctuality 6, workmanship 5, value 4, door repair 3, quote 3, quick response 3, meticulousness 3, concrete step installation 2, balcony repair 2, handrailings 2.",
+    "phone": "0408 967 925 on the Google listing.",
+    "services": "service.com.au listing (2026-11-25): Carpenters, Joinery, Patio & Outdoor Shelters, Verandahs; service radius within 50 km of Ipswich QLD 4305. Google reviews describe deck rebuilds, pool deck and gate, front stairs and timber steps, balustrade and handrail repairs, a balcony column, fascia repairs, doors, skirting boards and a concrete step.",
+    "serviceArea": "service.com.au: 'Within 50 km' of Ipswich QLD 4305.",
+    "brand": "No website, socials or logo online. Sampled from their Google listing cover photo (white timber stairs and balustrade against foliage) with sample-brand.mjs: suggested #3e4230 / #151715 / #989993 was too low-colour, so primary is a stronger leaf green #4f6b2f from the foliage (white text 6.0:1), dark #151715 from the photo, accent pale leaf #b6c98a. Not an official brand; confirm with the owner.",
+    "reviews": "Google Business Profile Reviews tab, same session: 3 complete 5-star reviews copied verbatim (T S, Paul Attenborough, Pierre Bonavia).",
+    "photos": "Added 'stairs' (Douthat Lakeview Restaurant deck stairs, vastateparksstaff, CC BY 2.0, Wikimedia Commons) for the hero and stairs card.",
+    "notUsed": "No licence or insurance published (service.com.au: 'No business credentials have been published yet'), so none claimed. No 'free' quotes stated. A shade-sail installer directory lists the business, but the service isn't confirmed elsewhere."
+  },
+  "gap": "No website at all: the Google listing shows 'Add website', and his only other online presence is a couple of directory listings with no contact form. Anyone who finds him has to ring, with no way to send photos or job details first.",
+  "market": "AU",
+  "company": {
+    "name": "Jason Beduhn Carpentry",
+    "trade": "Carpentry",
+    "city": "Ipswich, QLD",
+    "serviceArea": [
+      "Ipswich",
+      "Within 50 km of Ipswich"
+    ],
+    "phone": "0408 967 925"
+  },
+  "assistantName": "Jason Beduhn Carpentry",
+  "logo": {
+    "initials": "JB",
+    "tagline": "Carpentry · Ipswich",
+    "svg": "/assets/logos/jason-beduhn-carpentry.svg"
+  },
+  "brand": {
+    "primary": "#4f6b2f",
+    "dark": "#151715",
+    "accent": "#b6c98a",
+    "primaryInk": "#ffffff"
+  },
+  "assetFolder": "carpentry",
+  "google": {
+    "rating": 4.9,
+    "reviewCount": 30,
+    "profileUrl": "https://www.google.com/maps/place/Jason+Beduhn+Carpentry/@-27.6229286,152.7599122,17z/data=!4m6!3m5!1s0x6b93f106807539a5:0x7a563e9dc7786dd5!8m2!3d-27.6229286!4d152.7599122!16s%2Fg%2F11h5s2gbs8"
+  },
+  "hero": {
+    "eyebrow": "Carpentry in Ipswich",
+    "headline": "Stairs, decks and verandah carpentry in Ipswich, built to last.",
+    "subhead": "Timber stairs, balustrades, decks, verandahs and repairs around the house, for homes within 50 km of Ipswich. Tell us about the job and get a clear quote.",
+    "trustLine": [
+      "Turns up on time",
+      "Quick quotes & site visits",
+      "Cleans up before leaving"
+    ],
+    "photo": "stairs"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "Stairs or steps",
+      "Balustrade or handrails",
+      "Deck or pool deck",
+      "Verandah or patio",
+      "Doors & repairs",
+      "Something else"
+    ]
+  },
+  "skyeGreeting": "G'day, I'm the Jason Beduhn Carpentry assistant. Stairs, a deck, balustrades or a few jobs around the house? Tell me what you need and I'll help you get a quote or book a time.",
+  "about": {
+    "headline": "Carpentry around the house, done properly.",
+    "body": "Most jobs start with something that's worn out: stairs gone soft, a deck that's had its day, a balustrade that wobbles, or a door that won't shut. Jason and his team fix it properly, rebuild it better than it was, and leave the place clean.",
+    "cards": [
+      {
+        "title": "Tired stairs & balustrades",
+        "body": "Front stairs, timber steps, handrails and balustrades replaced or repaired."
+      },
+      {
+        "title": "Decks that have had their day",
+        "body": "Deck rebuilds and pool decks, built to a better standard than before."
+      },
+      {
+        "title": "Odd jobs on the list",
+        "body": "Doors, skirting boards, fascia, verandah columns and the bits you've been putting off."
+      }
+    ],
+    "closing": "Not sure what the job needs? Send a photo and we'll talk it through."
+  },
+  "problems": {
+    "headline": "Finding a carpenter who turns up in Ipswich shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow quotes",
+        "body": "You ring around for a quote and half of them never call back."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "A rough number on the day, then extras once the old timber comes off."
+      },
+      {
+        "title": "No-shows & missed timelines",
+        "body": "You take the morning off and nobody turns up. The deck stays half done."
+      },
+      {
+        "title": "Messy job sites",
+        "body": "Offcuts, nails and sawdust left in the yard after they've gone."
+      }
+    ],
+    "bridge": "You shouldn't have to chase a tradie just to get your stairs fixed."
+  },
+  "solutions": {
+    "headline": "Timber work around the house, done right the first time.",
+    "services": [
+      {
+        "title": "Stairs, balustrades & handrails",
+        "body": "Front stairs and timber steps replaced, balustrades and handrails repaired or rebuilt, and balcony columns swapped out.",
+        "photo": "stairs"
+      },
+      {
+        "title": "Decks & pool decks",
+        "body": "Deck rebuilds, new decks and pool decks and gates, built solid and finished properly.",
+        "photo": "deck"
+      },
+      {
+        "title": "Verandahs, patios & repairs",
+        "body": "Verandahs, patios and outdoor shelters, plus doors, skirting boards, fascia and general carpentry repairs.",
+        "photo": "pergola"
+      }
+    ]
+  },
+  "process": {
+    "headline": "We look at the job. Quote it straight. Build it right.",
+    "steps": [
+      {
+        "title": "Ask for a quote",
+        "body": "Send a few details and a photo with the form, or give Jason a ring. Your suburb and a rough idea of the job is plenty."
+      },
+      {
+        "title": "Quick site visit",
+        "body": "Jason comes out, has a proper look, and gives you a clear quote."
+      },
+      {
+        "title": "Booked in & on time",
+        "body": "Once you're happy, you're booked in. We turn up when we say and tell you if anything needs to change."
+      },
+      {
+        "title": "Clean finish",
+        "body": "The job's done in the time frame we gave you and the site's cleaned up before we leave."
+      }
+    ]
+  },
+  "why": {
+    "headline": "No rushing. Just carpentry done properly.",
+    "themes": [
+      {
+        "title": "Turns up on time",
+        "body": "Punctuality is the thing our Google reviewers mention most."
+      },
+      {
+        "title": "Quick quotes",
+        "body": "Fast site visits and a clear price, so you can plan around it."
+      },
+      {
+        "title": "Built better than before",
+        "body": "Repairs and rebuilds done to a higher standard than what was there."
+      },
+      {
+        "title": "Leaves it clean",
+        "body": "Offcuts and mess cleaned up before we go."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "T S",
+      "rating": 5,
+      "text": "Jason recently completed a deck rebuild for me and did a great job. Jason was always professional and respectful towards myself and my young family and he was more than happy to answer any questions I had along the way. The deck was rebuilt to a much greater standard than it was previously which is a credit to Jason and his team.",
+      "date": "8 months ago"
+    },
+    {
+      "author": "Paul Attenborough",
+      "rating": 5,
+      "text": "We had our front stairs replaced.  Jason and his team delivered exceptional quality and were very professional.  He exceeded my expectations.  It is rare these days to have a tradesman turn up on time if at all but Jason is very reliable.  I highly recommend and we will be using Jason again for any other work we may require in the future.",
+      "date": "3 years ago"
+    },
+    {
+      "author": "Pierre Bonavia",
+      "rating": 5,
+      "text": "We had such a great experience from Jason. His customer service and workmanship was fantastic. He responded quickly for a quote request with a fast site visit. He supplied the quote and fit in the work just as quickly. On top of that he finished the work in the advised time frame and provided a high quality finished product. Thank you Jason. We will keep you in mind for future work we have that needs to be done.",
+      "date": "3 months ago"
+    }
+  ],
+  "finalCta": {
+    "headline": "Ready to get that job sorted?",
+    "body": "Send a few details or pick a time that suits. You'll get a clear quote before anything's booked in.",
+    "microcopy": "No pressure. Just a straight chat about the job."
+  },
+  "faq": [
+    {
+      "q": "How do quotes work?",
+      "a": "Send the job through the form, with a photo if you've got one, or give Jason a ring. He'll come out for a quick look and give you a clear quote."
+    },
+    {
+      "q": "Which areas do you cover?",
+      "a": "Ipswich and suburbs within about 50 km. Not sure if you're in range? Ask anyway."
+    },
+    {
+      "q": "Can you repair my stairs or do they need replacing?",
+      "a": "Sometimes a few treads or a handrail is all it needs. Jason will tell you straight whether it's a repair or a rebuild."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your quote and we'll send the licence and insurance details for your job."
+    },
+    {
+      "q": "Do you take on small jobs?",
+      "a": "Yes. Doors, skirting boards, fascia repairs and the odd jobs on your list. Ask about bundling a few together."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}

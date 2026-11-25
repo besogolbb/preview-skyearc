@@ -95,6 +95,7 @@ Use the installed `logo-design` skill (`~/.claude/skills/logo-design`, run its s
 | `pergola` | `public/assets/carpentry/photo-pergola{-500,-960,}.webp` | White timber pergola rafters on a column | CC BY-SA 4.0 |
 | `tile` | `public/assets/remodeling/photo-tile{-500,-960,}.webp` | Hand bedding floor tile, spacers in the joints | CC BY 2.0 |
 | `gate` | `public/assets/carpentry/photo-gate{-500,-960,}.webp` | Braced timber farm gate on a post, strap hinges | CC BY-SA 4.0 |
+| `stairs` | `public/assets/carpentry/photo-stairs{-500,-960,,-hero}.webp` | New timber deck stairs with handrails and balusters, among trees | CC BY 2.0 |
 | `siding` | `public/assets/remodeling/photo-siding{-500,-960,,-hero}.webp` | House with new blue fiber-cement siding and a dark shingle roof (aerial) | CC0 |
 | `driveway` | `public/assets/concrete/photo-driveway{-500,-960,,-hero}.webp` | Driveway formed up with reinforcing mesh, ready to pour | CC BY-SA 4.0 |
 | `sidewalk` | `public/assets/concrete/photo-sidewalk{-500,-960,}.webp` | Sidewalk forms and rebar, crew preparing the pour (gritty urban setting) | CC BY 2.0 |
@@ -103,11 +104,11 @@ Use the installed `logo-design` skill (`~/.claude/skills/logo-design`, run its s
 | `brokentiles` | `public/assets/roofing/photo-brokentiles{-500,-960,}.webp` | Pile of broken grey concrete roof tiles with moss | CC0 |
 | `tilemoss` | `public/assets/roofing/photo-moss{-500,-960,}.webp` | Moss and lichen on a weathered cement tile (a "before" shot) | Public domain |
 
-`{-500,-960,}` means three files: `…-500.webp`, `…-960.webp` and `….webp` (1280w). Only keys with a `-hero` file are sharp enough for the full-width hero: **`kitchen`, `plumbing`, `framing`, `siding`, `driveway`, `rooftiles`**. Use one of those for `hero.photo`.
+`{-500,-960,}` means three files: `…-500.webp`, `…-960.webp` and `….webp` (1280w). Only keys with a `-hero` file are sharp enough for the full-width hero: **`kitchen`, `plumbing`, `framing`, `stairs`, `siding`, `driveway`, `rooftiles`**. Use one of those for `hero.photo`.
 
 Note: the key and the file stem don't always match (`rooftiles` → `photo-tiles`, `tilemoss` → `photo-moss`). Always reference the **key** in JSON.
 
-Fit by trade: metal roofs → `roofing`; concrete/terracotta tile roofs → `rooftiles`, `brokentiles`, `tilemoss`; roofing + siding or exterior remodeling → `siding`; concrete, paving, driveways → `driveway`, `sidewalk`, `asphalt`.
+Fit by trade: metal roofs → `roofing`; concrete/terracotta tile roofs → `rooftiles`, `brokentiles`, `tilemoss`; roofing + siding or exterior remodeling → `siding`; concrete, paving, driveways → `driveway`, `sidewalk`, `asphalt`; stairs, balustrades, handrails → `stairs`. When the company name starts with the owner's first name ("Jason Beduhn Carpentry"), the default chat label is "Ask Jason": set `assistantName` to the business name.
 
 `assetFolder` sets (used when a service has no `photo`, in order):
 
