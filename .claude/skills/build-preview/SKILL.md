@@ -71,7 +71,7 @@ Use the installed `logo-design` skill (`~/.claude/skills/logo-design`, run its s
 ## Step 4: Verify, Commit & Output Outreach Assets
 1. Run `npm run check:preview -- <slug>` and fix every `error` (and read every `warn`).
 2. Run `npm run build` to confirm zero TypeScript or layout errors.
-3. Stage and commit `data/previews/<slug>.json` (`git add data/previews/<slug>.json && git commit -m "Add preview: <slug>"`) and push if a git remote is configured. If you added photos, also `git add public/assets lib/stock.ts`.
+3. Stage and commit `data/previews/<slug>.json` (`git add data/previews/<slug>.json && git commit -m "Add preview: <slug>"`) and push if a git remote is configured. Do this immediately once check + build pass: never hold the commit/push for the outreach mockup (Step 4.4), a background job or other prospects. Later fixes go in a follow-up commit. If you added photos, also `git add public/assets lib/stock.ts`.
 4. **Outreach mockups (mandatory, every prospect):** with the fresh build running locally (`npx next start -p 3123`), run
    ```bash
    node scripts/outreach-shots.mjs <slug>            # several slugs at once is fine; --base https://preview.skyearc.tech shoots live
