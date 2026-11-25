@@ -1,0 +1,220 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-26): 'Green Coast Carpentry', 5.0 stars, 16 reviews, category 'Carpenter', phone +61 431 241 778, opens 7 AM, no website ('Add website' shown).",
+    "serviceArea": "Google service-area outline on the same listing: Cairns from Palm Cove and Clifton Beach through Trinity Beach, Smithfield and Redlynch, south to Woree, Mount Sheridan, Bentley Park and Edmonton.",
+    "services": "Google reviews: deck refurbishment with new merbau and structural checks (Sarah Christopher), back deck, front porch and pergola (Kate St Clair), replacement deck with recycled hardwood (Greg Thompson), cabinetry removal, internal doors, skirting after the Cyclone Jasper floods (Heather Alexander). Review topics: communication 5, attention to detail 4, punctuality 4, quality of work 4, skill 3, friendly tradesman 2, cleanliness 2, efficient 2, reliability 2, fence 2.",
+    "brand": "No website, socials or logo found. Built from their own Google listing cover photo (a merbau deck with black railings in rainforest) and the business name: primary = rainforest green #3f6b3a (white 6.2:1), dark = the railing black #1f1c16, accent = the merbau #ce9a77 (6.9:1 on dark). Concept leaf in a light green #a9c98a. Not an official brand; confirm with the owner.",
+    "reviews": "Google Reviews tab, same session: 3 complete 5-star reviews copied verbatim (Sarah Christopher, Kate St Clair, Heather Alexander), stars checked via each review's rating label. Owner named Tom."
+  },
+  "gap": "No website: the Google listing shows 'Add website', so people who find Tom on Google can only ring during work hours; there is no way to send deck or job details and photos for a quote after hours.",
+  "market": "AU",
+  "company": {
+    "name": "Green Coast Carpentry",
+    "trade": "Carpentry, decks and pergolas",
+    "city": "Cairns, QLD",
+    "serviceArea": [
+      "Cairns",
+      "Palm Cove",
+      "Trinity Beach",
+      "Smithfield",
+      "Redlynch",
+      "Mount Sheridan",
+      "Bentley Park",
+      "Edmonton"
+    ],
+    "phone": "0431 241 778"
+  },
+  "logo": {
+    "initials": "GC",
+    "tagline": "Carpentry, Decks & Pergolas · Cairns",
+    "svg": "/assets/logos/green-coast-carpentry.svg"
+  },
+  "brand": {
+    "primary": "#3f6b3a",
+    "dark": "#1f1c16",
+    "accent": "#ce9a77"
+  },
+  "assetFolder": "carpentry",
+  "assistantName": "Green Coast",
+  "google": {
+    "rating": 5,
+    "reviewCount": 16,
+    "profileUrl": "https://www.google.com/maps/place/Green+Coast+Carpentry/@-16.8805264,145.7169443,11z/data=!4m6!3m5!1s0xaab0b0fb4190614f:0x16b50a87fd673eaf!8m2!3d-16.8805264!4d145.7169443!16s%2Fg%2F11xyjtbrr6"
+  },
+  "hero": {
+    "eyebrow": "Carpentry, decks & pergolas in Cairns",
+    "headline": "Decks, pergolas and carpentry in Cairns, built properly from the joists up.",
+    "subhead": "New decks, deck refurbishments, porches, pergolas and internal carpentry across Cairns and the Northern Beaches. Send a few details and get a clear written quote.",
+    "trustLine": [
+      "Clear written quotes",
+      "Local Cairns chippy",
+      "Turns up when he says"
+    ],
+    "photo": "stairs"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "New deck",
+      "Deck refurbishment",
+      "Porch or pergola",
+      "Internal carpentry or repairs",
+      "Something else"
+    ]
+  },
+  "skyeGreeting": "G'day, I'm the Green Coast Carpentry assistant. Got a deck, pergola or carpentry job in mind? Tell me a bit about it and I'll help you get a quote or book a time.",
+  "about": {
+    "headline": "You picture the outdoor space. We build it to handle the tropics.",
+    "body": "Most people want the same things from a carpentry job: a fair price in writing before it starts, a chippy who turns up when he says he will, and a structure that's sound underneath, not just good-looking on top. Every job is built that way, from checking the joists to the final clean-up.",
+    "cards": [
+      {
+        "title": "Decks that have seen better days",
+        "body": "Old decking stripped, joists and supports checked and fixed, then a new hardwood top."
+      },
+      {
+        "title": "Outdoor spaces you'll use",
+        "body": "Back decks, front porches and pergolas that turn the yard into somewhere to live."
+      },
+      {
+        "title": "Inside jobs and repairs",
+        "body": "Doors rehung, cabinetry out, skirting in. Internal carpentry and repairs after storms and floods."
+      }
+    ],
+    "closing": "Not sure what the job needs? Send a few photos and we'll talk it through."
+  },
+  "problems": {
+    "headline": "Getting a chippy in Cairns to turn up shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow quotes",
+        "body": "You ring around and wait weeks for anyone to come and look."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "A rough figure that grows once the old boards come up and the joists are rotten."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "The deck's half pulled apart and the tradie stops showing up."
+      },
+      {
+        "title": "Messy job sites",
+        "body": "Offcuts and old boards left in the yard for weeks."
+      }
+    ],
+    "bridge": "You shouldn't have to chase a tradie just to get a clear quote."
+  },
+  "solutions": {
+    "headline": "Straightforward carpentry with clear communication.",
+    "services": [
+      {
+        "title": "Decks & deck refurbishment",
+        "body": "New decks and refurbishments, with joists and supports made sound before new merbau or hardwood goes down.",
+        "photo": "deck"
+      },
+      {
+        "title": "Porches & pergolas",
+        "body": "Front porches and outdoor pergolas built to a high standard and finished cleanly.",
+        "photo": "pergola"
+      },
+      {
+        "title": "Internal carpentry & repairs",
+        "body": "Doors hung, skirting fitted, cabinetry removed and carpentry repairs, including after storm and flood damage.",
+        "photo": "door"
+      }
+    ]
+  },
+  "process": {
+    "headline": "We listen to what you need. Quote it clearly. Build it right.",
+    "steps": [
+      {
+        "title": "Request your quote",
+        "body": "Send a few details and photos with the form or give Tom a call."
+      },
+      {
+        "title": "Site visit & clear scope",
+        "body": "We have a look at what's there, explain what needs doing and put the price in writing."
+      },
+      {
+        "title": "Tidy, on-time work",
+        "body": "Turning up when we say we will, with the site kept neat throughout."
+      },
+      {
+        "title": "Final walkthrough",
+        "body": "We walk the finished job with you and sort anything on the list before we call it done."
+      }
+    ]
+  },
+  "why": {
+    "headline": "We're not here to rush the job. We're here to build it right.",
+    "themes": [
+      {
+        "title": "Sound underneath",
+        "body": "Joists and supports checked and fixed, not just covered over."
+      },
+      {
+        "title": "Written quotes",
+        "body": "Scope and price in writing, so you know what you're paying for."
+      },
+      {
+        "title": "Punctual & reliable",
+        "body": "Turns up when he says and keeps you in the loop."
+      },
+      {
+        "title": "Attention to detail",
+        "body": "Clean, careful finishing on every board and post."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Sarah Christopher",
+      "rating": 5,
+      "date": "3 months ago",
+      "text": "Tom from Green Coast carpentry just completed a refurbishment of my deck and I could not be happier! He stripped the old deck, undertook works to make sure the joists and supporting structure were sound, and refinished the top with new merbau. The whole area is now safe and looks just amazing!\nHe was communicative, identified the things that needed to be done and went through them thoroughly with me, was super friendly, professional and always came to do the works when he said he would, his pricing was really reasonable, and the finished product is absolutely perfect!\nContact Tom for his services! You will be as thrilled as I am A++++"
+    },
+    {
+      "author": "Kate St Clair",
+      "rating": 5,
+      "date": "7 months ago",
+      "text": "We couldn’t be happier with the incredible work Tom did for us. He built our back deck, front porch, and outdoor pergola to an exceptionally high standard, and the finished result has completely transformed our outdoor spaces.\nFrom start to finish, Tom was always punctual, reliable, and professional. He arrived when he said he would, kept everything neat and tidy throughout the project, and showed real pride in his work. His workmanship is absolutely excellent, with great attention to detail and a beautiful finish on every aspect of the build.\nOn top of his skill and professionalism, Tom was an absolute pleasure to deal with.\nHe is friendly, pleasant, and easy to communicate with at all times.\nWe would highly recommend Tom’s services to anyone looking for a quality builder and wouldn’t hesitate to use him again in the future.\nKate & Chris"
+    },
+    {
+      "author": "Heather Alexander",
+      "rating": 5,
+      "date": "7 months ago",
+      "text": "Tom was able to excellently complete a full range of different carpentry from removing kitchen and bathroom cabinetry, all internal doors and rehanging new ones. Tom also installed skirting boards to the entire unit. Tom was the main onsite carpenter after Cyclone Jasper floods, he is an extremely competent tradesman, polite and trustworthy. I highly recommend Tom."
+    }
+  ],
+  "finalCta": {
+    "headline": "Ready to talk about your deck or carpentry job?",
+    "body": "Send a few details or pick a time that suits you. You'll get a written quote before anything is booked in.",
+    "microcopy": "No pressure. Just a straightforward chat about the job."
+  },
+  "faq": [
+    {
+      "q": "How do quotes work?",
+      "a": "Send the job through the form or give Tom a call. We'll come and have a look, and send a written quote that lists the scope, materials and price."
+    },
+    {
+      "q": "Which areas do you cover?",
+      "a": "Cairns and the Northern Beaches up to Palm Cove, plus the southern suburbs to Edmonton, including Smithfield, Redlynch, Mount Sheridan and Bentley Park. Close by but not on the list? Ask anyway."
+    },
+    {
+      "q": "Can my old deck be refurbished instead of replaced?",
+      "a": "Often, yes. If the joists and supports are sound or can be fixed, a new top is all it needs. We'll check it properly and tell you straight."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your quote and we'll send the licence and insurance details for your job."
+    },
+    {
+      "q": "What happens after I submit a request?",
+      "a": "Your details come straight to us, you get a text and email confirmation, and we follow up to book a time to look at the job."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
