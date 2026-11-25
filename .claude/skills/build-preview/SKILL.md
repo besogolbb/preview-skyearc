@@ -77,10 +77,11 @@ Use the installed `logo-design` skill (`~/.claude/skills/logo-design`, run its s
    node scripts/outreach-shots.mjs <slug>            # several slugs at once is fine; --base https://preview.skyearc.tech shoots live
    ```
    It writes ONE file, `../outreach/<slug>/desktop-and-phone.jpg` (the `outreach` folder next to this project, not in git): a 1920×1080 browser + phone mockup of the hero on white, the image to send with DM message #2. The user only wants this combined mockup: never add separate desktop, phone or full-page files. LOOK at `desktop-and-phone.jpg` before reporting: hero headline complete, arc underline fully drawn (raise `--wait` if it is caught mid-animation), no stray elements at the top of the phone screen. Stop the server afterwards.
+   **Then upload it to Google Drive (mandatory):** with the user's Google connector (Drive tools, found with ToolSearch), upload `../outreach/<slug>/desktop-and-phone.jpg` to the Drive folder **`Outreach Mockups`** (create it once in My Drive if it doesn't exist; never make it public or change sharing) as `<slug>.jpg`, replacing any older file with that name. Keep the local copy too. If no Drive tools load in the session, say so in the report and leave the local file; don't upload through the browser.
 5. **Update the outreach sheet (mandatory, every prospect):** in the user's "Contractor Outreach List" Google Sheet (link kept in Claude's memory, not in this repo), set the prospect's **Live Preview Link** (column I) to `https://preview.skyearc.tech/<slug>` and **Status** (column L) to `Preview Built - Ready to DM`. Use the user's Google connector (Sheets/Drive tools, found with ToolSearch) to write the cells directly; only if no Google tools load, fall back to Claude in Chrome. Find the row from the sheet's TSV export, write with the Name Box, then re-read to verify. If the prospect has no row, tell the user.
 6. Print to the terminal:
    - **Live URL:** `https://preview.skyearc.tech/<slug>`
-   - **Outreach mockup:** the path to `../outreach/<slug>/desktop-and-phone.jpg`
+   - **Outreach mockup:** the Google Drive link to `Outreach Mockups/<slug>.jpg` (and the local path `../outreach/<slug>/desktop-and-phone.jpg`)
    - **Identified Gap:** The exact lead-capture leak found.
    - **Permission-First DM (3 lines, no raw link in Message #1, no hype, never promising "more leads" or revenue):** Ready to copy-paste into LinkedIn or Facebook Messenger.
 
