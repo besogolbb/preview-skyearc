@@ -1,0 +1,224 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-26): 'Nixon Roofing Repairs and Restorations', 5.0 stars, 22 reviews, category 'Roofing contractor', phone +61 434 220 034, 'Open 24 hours', website button = nixonroofing3.wixsite.com.",
+    "serviceArea": "Google service-area outline on the same listing: Mooroolbark, Lilydale, Croydon, Mount Evelyn, Ringwood, Yarra Glen, Healesville and Yarra Junction (eastern Melbourne / Yarra Ranges).",
+    "website": "https://nixonroofing3.wixsite.com/nixresto (2026-11-26): free Wix site with the Wix ad banner, '© 2018', 'Call Now Brent 0434220034', 'Call for free Quote', no quote form. Services: Rebedding & Pointing; Demossing/Pressure cleaning; Roof Painting/Restoration; Valley Iron Replacement & storm seal fitting; gutter cleaning & leak detection. Hours: Mon - Fri 7am - 10pm. 'We are a small local business that specialise in all aspects of roofing any size or condition'.",
+    "services": "Website services plus Google review topics: roof restoration 8, job quality 6, leaking roof repair 3, fair pricing 3, efficiency 3, tiles 3, easy to talk to 2, polite staff 2, advice 2, quote 2.",
+    "brand": "From their own website and logo: orange band #ed8600, yellow logo #ffd400, charcoal #2f2e2e header. Primary = orange with dark text (#1b1a1a on orange 6.6:1; white fails), dark = charcoal #2a2929, accent = logo yellow (10.1:1 on dark).",
+    "reviews": "Google Reviews tab, same session: 3 complete 5-star reviews copied verbatim (Chelsea Speedie, Simon Catterall, Jaffer Tambuwala), stars checked via each review's rating label. Owner named Brent."
+  },
+  "gap": "The Google website button opens a free 2018 Wix page with a Wix ad banner and no quote form, so homeowners with a leak can only ring Brent; there is no way to send photos of the roof or request a quote online.",
+  "market": "AU",
+  "company": {
+    "name": "Nixon Roofing Repairs and Restorations",
+    "trade": "Roof repairs and restorations",
+    "city": "Mooroolbark, VIC",
+    "serviceArea": [
+      "Mooroolbark",
+      "Lilydale",
+      "Croydon",
+      "Mount Evelyn",
+      "Ringwood",
+      "Yarra Glen",
+      "Healesville",
+      "Yarra Junction"
+    ],
+    "phone": "0434 220 034"
+  },
+  "logo": {
+    "initials": "NR",
+    "tagline": "Roof Repairs & Restorations · Mooroolbark",
+    "svg": "/assets/logos/nixon-roofing-repairs-and-restorations.svg"
+  },
+  "brand": {
+    "primary": "#ed8600",
+    "dark": "#2a2929",
+    "accent": "#ffd400",
+    "primaryInk": "#1b1a1a"
+  },
+  "assetFolder": "roofing",
+  "assistantName": "Nixon Roofing",
+  "google": {
+    "rating": 5,
+    "reviewCount": 22,
+    "profileUrl": "https://www.google.com/maps/place/Nixon+Roofing+Repairs+and+Restorations/@-37.7611471,145.3883321,10z/data=!4m6!3m5!1s0xab387ece639f1455:0xebad55f462b9067b!8m2!3d-37.7611471!4d145.3883321!16s%2Fg%2F11v43xfsz5"
+  },
+  "hero": {
+    "eyebrow": "Roof repairs & restorations in Mooroolbark",
+    "headline": "Roof restorations and leak repairs in Mooroolbark, done properly.",
+    "subhead": "Restorations, respraying, rebedding and pointing, valley irons and leak repairs for homes across Mooroolbark and the Yarra Ranges. Send a few photos and get a free quote.",
+    "primaryCta": "Get a free quote",
+    "trustLine": [
+      "Free quotes",
+      "Small local business",
+      "Fair pricing"
+    ],
+    "photo": "rooftiles"
+  },
+  "quoteField": {
+    "label": "Roof need",
+    "options": [
+      "Leak repair",
+      "Roof restoration or respray",
+      "Rebedding & pointing",
+      "Valley irons or gutters",
+      "Inspection"
+    ]
+  },
+  "skyeGreeting": "G'day, I'm the Nixon Roofing assistant. Got a leak, a tired-looking roof or some cracked pointing? Tell me what's going on and I'll help you get a free quote or book a time.",
+  "about": {
+    "headline": "You keep the family dry. We keep the roof over them.",
+    "body": "When a roof needs work, most people want the same things: a tradie who picks up the phone, a straight answer about what actually needs doing, and a price before anything starts. Every job is handled that way, from a single cracked ridge cap to a full restoration.",
+    "cards": [
+      {
+        "title": "Roofs that are leaking",
+        "body": "Leak detection and repairs before winter turns a drip into a ceiling stain."
+      },
+      {
+        "title": "Tired, mossy tile roofs",
+        "body": "Demossing, pressure cleaning, rebedding and a fresh respray to bring an old roof back."
+      },
+      {
+        "title": "Small jobs that matter",
+        "body": "Pointing, valley irons, storm seal and gutter cleans, done right the first time."
+      }
+    ],
+    "closing": "Not sure what your roof needs? Send a few photos and we'll give you honest advice."
+  },
+  "problems": {
+    "headline": "Getting a roofer out in the eastern suburbs shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow quotes",
+        "body": "You ring around and wait days for anyone to come and look."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "A quote that grows once the tradie is up on the roof."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "The job keeps getting pushed back while the leak gets worse."
+      },
+      {
+        "title": "Sloppy finishing",
+        "body": "Patchy paint, messy pointing and cracked tiles left behind."
+      }
+    ],
+    "bridge": "You shouldn't have to chase a roofer just to get a clear answer and a quote."
+  },
+  "solutions": {
+    "headline": "Straightforward roofing from a small local business.",
+    "services": [
+      {
+        "title": "Roof restoration & painting",
+        "body": "Demossing, pressure cleaning and a full respray to make an old tile roof look new again.",
+        "photo": "rooftiles"
+      },
+      {
+        "title": "Rebedding & pointing",
+        "body": "Ridge caps rebedded and repointed so they stay put and keep the water out.",
+        "photo": "brokentiles"
+      },
+      {
+        "title": "Leaks, valley irons & gutters",
+        "body": "Leak detection, valley iron replacement, storm seal fitting and gutter cleaning.",
+        "photo": "tilemoss"
+      }
+    ]
+  },
+  "process": {
+    "headline": "We look at the roof. Quote it clearly. Fix it properly.",
+    "steps": [
+      {
+        "title": "Request your free quote",
+        "body": "Send a few details and photos with the form, or give Brent a ring."
+      },
+      {
+        "title": "Roof check & clear quote",
+        "body": "We get up and have a proper look, explain what we found and put the price in writing."
+      },
+      {
+        "title": "Quality work",
+        "body": "Quality products and efficient workmanship, with the site cleaned up after."
+      },
+      {
+        "title": "Final check",
+        "body": "We walk you through the finished job and sort anything on the list before we call it done."
+      }
+    ]
+  },
+  "why": {
+    "headline": "A small local business that takes pride in every roof.",
+    "themes": [
+      {
+        "title": "Free quotes",
+        "body": "A clear price before any work starts."
+      },
+      {
+        "title": "Honest advice",
+        "body": "Straight answers about what your roof needs, and what it doesn't."
+      },
+      {
+        "title": "Quality products",
+        "body": "Good materials and careful workmanship that last through winter."
+      },
+      {
+        "title": "Fair pricing",
+        "body": "Reasonable prices from a local operator, not a big sales team."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Chelsea Speedie",
+      "rating": 5,
+      "date": "3 months ago",
+      "text": "Highly recommend Brent from Nixon Roofing Repairs & Restorations! We recently had our old roof repaired and resprayed, and we couldn’t be happier with the result. Our roof was quite difficult and in need of some serious TLC, but Brent did an amazing job and made it look brand new again!\nHe was professional, reliable and took the time to do the job properly. We’re absolutely wrapped with how it turned out and couldn’t recommend Brent and Nixon Roofing highly enough!"
+    },
+    {
+      "author": "Simon Catterall",
+      "rating": 5,
+      "date": "a year ago",
+      "text": "Brenten did an amazing job. He made an effort to go above an beyond in the service he quoted for and provided.\nHe was responsive, friendly, and provided me excellent advice for my roof. Plus, just look at the quality of his work. I cannot recommend him enough.\nThanks again!"
+    },
+    {
+      "author": "Jaffer Tambuwala",
+      "rating": 5,
+      "date": "9 months ago",
+      "text": "Brent just did complete restoration of our 24 years old home roof. We found him highly professional & perfect in his job. Soft spoken & easy to talk to. Our best wishes are to him & his business. Well done."
+    }
+  ],
+  "finalCta": {
+    "headline": "Got a leak or a roof that's seen better days?",
+    "body": "Send a few photos or pick a time that suits you. You'll get a free quote before any work is booked.",
+    "cta": "Get a free quote",
+    "microcopy": "No pressure. Just honest advice about your roof."
+  },
+  "faq": [
+    {
+      "q": "Are quotes really free?",
+      "a": "Yes. Send a few details and photos through the form or give Brent a ring, and you'll get a price before any work starts."
+    },
+    {
+      "q": "Which areas do you cover?",
+      "a": "Mooroolbark and the eastern suburbs and Yarra Ranges, including Lilydale, Croydon, Mount Evelyn, Ringwood, Yarra Glen, Healesville and Yarra Junction. Close by but not on the list? Ask anyway."
+    },
+    {
+      "q": "Do I need a full restoration or just repairs?",
+      "a": "Not always a restoration. Sometimes rebedding, pointing or a few new tiles is all it needs. We'll have a proper look and tell you honestly."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your quote and we'll send the licence and insurance details for your job."
+    },
+    {
+      "q": "What happens after I submit a request?",
+      "a": "Your details come straight to us, you get a text and email confirmation, and we follow up to book a roof check."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
