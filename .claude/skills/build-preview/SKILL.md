@@ -101,6 +101,7 @@ Use the installed `logo-design` skill (`~/.claude/skills/logo-design`, run its s
 | `pergola` | `public/assets/carpentry/photo-pergola{-500,-960,}.webp` | White timber pergola rafters on a column | CC BY-SA 4.0 |
 | `tile` | `public/assets/remodeling/photo-tile{-500,-960,}.webp` | Hand bedding floor tile, spacers in the joints | CC BY 2.0 |
 | `gate` | `public/assets/carpentry/photo-gate{-500,-960,}.webp` | Braced timber farm gate on a post, strap hinges | CC BY-SA 4.0 |
+| `door` | `public/assets/carpentry/photo-door{-500,-960,}.webp` | Front door with glass panel and a keypad smart lock (doors, locks, handyman) | CC BY-SA 4.0 |
 | `stairs` | `public/assets/carpentry/photo-stairs{-500,-960,,-hero}.webp` | New timber deck stairs with handrails and balusters, among trees | CC BY 2.0 |
 | `siding` | `public/assets/remodeling/photo-siding{-500,-960,,-hero}.webp` | House with new blue fiber-cement siding and a dark shingle roof (aerial) | CC0 |
 | `driveway` | `public/assets/concrete/photo-driveway{-500,-960,,-hero}.webp` | Driveway formed up with reinforcing mesh, ready to pour | CC BY-SA 4.0 |
