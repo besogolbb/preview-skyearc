@@ -1,0 +1,220 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-26): 'Gold Coast Carpentry Services', 5.0 stars, 78 reviews, category 'Carpenter', phone +61 455 993 490, opens 6:30 AM, no website ('Add website' shown).",
+    "serviceArea": "Google service-area outline (headless render, same day): the whole Gold Coast from Coomera, Helensvale and Pimpama through Southport/Arundel, Surfers Paradise, Broadbeach, Robina, Burleigh Heads and Palm Beach to Coolangatta.",
+    "services": "Google review topics: small jobs 11, punctuality 11, reasonable rates 5, feature wall 4, door repairs 3, building barn doors 2, wood replacement 2, lock replacement 2, minor repairs 2, fencing 2. Reviews: apartment renovation in Broadbeach with associated trades (L T), fridge cavity, pantry and manhole (Victoria Van der Meer), builders (The Barefoot Folk).",
+    "brand": "No website, socials or logo found. Sampled from their own Google listing cover photo (a merbau deck beside a glass pool fence): primary = merbau #8e5c3c (white 5.6:1), dark = the deepest timber shade #2a211b, accent = the lit merbau #d89d70 (6.7:1 on dark). Not an official brand; confirm with the owner.",
+    "reviews": "Google Reviews tab, same session: 3 complete 5-star reviews copied verbatim (L T, Ken Salale, The Barefoot Folk), stars checked via each review's rating label. Victoria Van der Meer's skipped: text ends in '…'. Owner named Darren."
+  },
+  "gap": "No website: 78 five-star reviews, but the Google listing shows 'Add website', so homeowners can only ring Darren while he's on the tools; there's no way to send job details and photos for a quote.",
+  "market": "AU",
+  "company": {
+    "name": "Gold Coast Carpentry Services",
+    "trade": "Carpentry, repairs and renovations",
+    "city": "Gold Coast, QLD",
+    "serviceArea": [
+      "Coomera",
+      "Helensvale",
+      "Southport",
+      "Surfers Paradise",
+      "Broadbeach",
+      "Robina",
+      "Burleigh Heads",
+      "Coolangatta"
+    ],
+    "phone": "0455 993 490"
+  },
+  "logo": {
+    "initials": "GC",
+    "tagline": "Carpentry & Renovations · Gold Coast",
+    "svg": "/assets/logos/gold-coast-carpentry-services.svg"
+  },
+  "brand": {
+    "primary": "#8e5c3c",
+    "dark": "#2a211b",
+    "accent": "#d89d70"
+  },
+  "assetFolder": "carpentry",
+  "assistantName": "Gold Coast Carpentry",
+  "google": {
+    "rating": 5,
+    "reviewCount": 78,
+    "profileUrl": "https://www.google.com/maps/place/Gold+Coast+Carpentry+Services/@-27.9542216,153.3693614,11z/data=!4m6!3m5!1s0x6b9111d02ff19d9d:0x5be6003b817a8af4!8m2!3d-27.9542216!4d153.3693614!16s%2Fg%2F11qrgbfl_h"
+  },
+  "hero": {
+    "eyebrow": "Carpentry & renovations on the Gold Coast",
+    "headline": "Carpentry, repairs and renos on the Gold Coast, done to a high standard.",
+    "subhead": "Small jobs, door and lock repairs, feature walls, barn doors, decks, fencing and renovations from Coomera to Coolangatta. Send through the job and get a clear written quote.",
+    "trustLine": [
+      "Clear written quotes",
+      "Small jobs welcome",
+      "Known for punctuality"
+    ],
+    "photo": "stairs"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "Small job or repair",
+      "Doors, locks or barn doors",
+      "Feature wall or joinery",
+      "Deck, fencing or timber replacement",
+      "Renovation"
+    ]
+  },
+  "skyeGreeting": "G'day, I'm the Gold Coast Carpentry assistant. Got a small job, a repair or a reno in mind? Tell me a bit about it and I'll help you get a quote or book a time with Darren.",
+  "about": {
+    "headline": "Small job or full reno, it's done properly.",
+    "body": "Most people want the same things from a chippy: someone who turns up on time, prices it fairly and finishes it to a high standard, even on the small stuff. Every job runs that way, from a sticking door to an apartment renovation.",
+    "cards": [
+      {
+        "title": "The small jobs nobody wants",
+        "body": "Door repairs, lock replacement, rotten timber and the minor repairs that pile up."
+      },
+      {
+        "title": "Rooms that need a lift",
+        "body": "Feature walls, barn doors, pantries and joinery that change how a room feels."
+      },
+      {
+        "title": "Bigger projects",
+        "body": "Decks, fencing and renovations, with the associated trades organised for you."
+      }
+    ],
+    "closing": "Not sure if it's worth a call? Send it through and Darren will let you know."
+  },
+  "problems": {
+    "headline": "Getting a chippy on the Gold Coast to turn up shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow quotes",
+        "body": "Nobody rings back about the small jobs, and the big ones take weeks to quote."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "A number that keeps climbing once the work starts."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "Tradies who don't show on the day and jobs that drag on."
+      },
+      {
+        "title": "Sloppy finishing",
+        "body": "Gaps, rough edges and fittings that don't sit right."
+      }
+    ],
+    "bridge": "You shouldn't have to chase a tradie just to get a clear quote."
+  },
+  "solutions": {
+    "headline": "Straightforward carpentry with clear communication.",
+    "services": [
+      {
+        "title": "Small jobs & repairs",
+        "body": "Door repairs, lock replacement, timber replacement and the minor repairs around the house.",
+        "photo": "door"
+      },
+      {
+        "title": "Feature walls, barn doors & joinery",
+        "body": "Feature walls, barn doors, pantries and fridge cavities, finished precisely.",
+        "photo": "kitchen"
+      },
+      {
+        "title": "Decks, fencing & renovations",
+        "body": "Decks, fencing and renovation work, with quality finishes and associated trades organised.",
+        "photo": "deck"
+      }
+    ]
+  },
+  "process": {
+    "headline": "We listen to what you need. Quote it clearly. Build it right.",
+    "steps": [
+      {
+        "title": "Request your quote",
+        "body": "Send a few details and photos with the form or give Darren a ring."
+      },
+      {
+        "title": "Look & clear quote",
+        "body": "We have a look, talk through the options and put the price in writing."
+      },
+      {
+        "title": "Punctual, tidy work",
+        "body": "On time, respectful of your home or building rules, and cleaned up after."
+      },
+      {
+        "title": "Final walkthrough",
+        "body": "We walk the finished job with you and sort anything on the list before we call it done."
+      }
+    ]
+  },
+  "why": {
+    "headline": "78 five-star reviews, built one job at a time.",
+    "themes": [
+      {
+        "title": "Punctual",
+        "body": "Turns up when promised, job after job."
+      },
+      {
+        "title": "Reasonable rates",
+        "body": "Fair prices, written down before work starts."
+      },
+      {
+        "title": "Attention to detail",
+        "body": "Quality finishes and fittings on every job."
+      },
+      {
+        "title": "Small jobs welcome",
+        "body": "No job too small, from a door repair to a full reno."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "L T",
+      "rating": 5,
+      "date": "6 months ago",
+      "text": "Darren and his team did a job at our apartment in Broadbeach. From quote to finished product I couldn’t fault them. Our building has quite a few rules & regulations. These guys abided by all of them and were respectful in the way they went about the job. Building manager was also impressed. I’ve had trades for a few Reno type jobs and these guys are the best I’ve used. Quality finishes & fittings, attention to detail and associated trades they engaged were all of a similar high standard. Very impressed with the whole process and speed they worked at. Easily the best team on the coast, highly recommend"
+    },
+    {
+      "author": "Ken Salale",
+      "rating": 5,
+      "date": "4 months ago",
+      "text": "Darren and his team are highly skilled craftsmen who display their skills and expertise through their work. Very easy to deal with, reliable and professional. I would not hesitate to recommend their work. Thank you again."
+    },
+    {
+      "author": "The Barefoot Folk",
+      "rating": 5,
+      "date": "2 weeks ago",
+      "text": "The absolute best builders you’ll find.\nThey went above and beyond with everything they did, and really heard our concerns. We had absolutely 0 issues and would highly recommend them to everyone who needs quality, punctual and friendly builders."
+    }
+  ],
+  "finalCta": {
+    "headline": "Got a job that needs a good chippy?",
+    "body": "Send a few details or pick a time that suits you. You'll get a written quote before anything is booked in.",
+    "microcopy": "No pressure. Just a straightforward chat about the job."
+  },
+  "faq": [
+    {
+      "q": "How do quotes work?",
+      "a": "Send the job through the form or give Darren a ring. We'll come and have a look if needed, and send a written quote with the scope and price."
+    },
+    {
+      "q": "Do you take small jobs?",
+      "a": "Yes. Door repairs, locks, timber replacement and minor repairs are a big part of the work."
+    },
+    {
+      "q": "Which areas do you cover?",
+      "a": "The whole Gold Coast, from Coomera and Helensvale through Southport, Surfers Paradise, Broadbeach and Robina down to Burleigh and Coolangatta."
+    },
+    {
+      "q": "Can you work in apartment buildings?",
+      "a": "Yes. We work within body corporate rules and building requirements, and keep the building manager in the loop."
+    },
+    {
+      "q": "What happens after I submit a request?",
+      "a": "Your details come straight to us, you get a text and email confirmation, and we follow up to book a time to look at the job."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
