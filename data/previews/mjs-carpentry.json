@@ -1,0 +1,225 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-26): 'MJS Carpentry', 5.0 stars, 3 reviews, category 'Deck builder', phone +61 490 423 224, opens 7 AM, website button = mjscarpentry2024.wixsite.com.",
+    "serviceArea": "Google service-area outline: greater Brisbane, from Caboolture, North Lakes and Redcliffe through Samford Valley, Chermside and Brisbane to Ipswich, Capalaba, Cleveland and Beenleigh.",
+    "website": "https://mjscarpentry2024.wixsite.com/mjs-carpentry-1 (2026-11-26): free Wix site with the Wix ad banner. 'MJS Carpentry focuses on renovations and outdoor entertainment areas ... We specialize in decks, pergolas, cladding, bathroom renovations and so much more, delivering well built solutions backed by QBCC licensing and full insurance.' Footer: 'QBCC- 15512539', ABN, Samford Valley, QLD. 'Get a Free Quote' form. Leftover template content: a '357 REVIEWS' counter, a 'Customer Feedback' block about 'T. Ibrahim Construction and Repair Services' with a testimonial from 'Samantha Johnson', and '© 2035 by T. IBrahim'.",
+    "services": "Website services plus Google reviews: carpentry with changes added on request (Jodie Murray), lattice and door on a Queenslander front verandah (Caroline Jones), deck work (Sarah Webb). Review topic: communication 2.",
+    "brand": "From their own logo and site: orange MJS logo on black, cream background #faf3e9. Primary = the logo orange #ef8a1a with black text (7.3:1; white fails), dark = #141414, accent = lighter orange #f7a440 (9.1:1 on dark).",
+    "reviews": "Google Reviews tab, same session: all 3 reviews are 5-star and complete, copied verbatim (Jodie Murray, Caroline Jones, Sarah Webb), stars checked via each review's rating label. Owner named Morgan. Website testimonials not used (template text for another company)."
+  },
+  "gap": "The Google website button opens a free Wix page that still shows template content from another business: a '357 reviews' counter, a testimonial for 'T. Ibrahim Construction' and a '© 2035 by T. IBrahim' footer, which undercuts their 3 real five-star reviews and QBCC licence.",
+  "market": "AU",
+  "company": {
+    "name": "MJS Carpentry",
+    "trade": "Decks, pergolas and renovations",
+    "city": "Samford Valley, QLD",
+    "serviceArea": [
+      "Samford Valley",
+      "Brisbane",
+      "Chermside",
+      "North Lakes",
+      "Redcliffe",
+      "Caboolture",
+      "Ipswich",
+      "Cleveland"
+    ],
+    "phone": "0490 423 224",
+    "credential": "QBCC Licence 15512539 · Fully insured"
+  },
+  "logo": {
+    "initials": "MJS",
+    "tagline": "Decks, Pergolas & Renovations · Samford Valley",
+    "svg": "/assets/logos/mjs-carpentry.svg"
+  },
+  "brand": {
+    "primary": "#ef8a1a",
+    "dark": "#141414",
+    "accent": "#f7a440",
+    "primaryInk": "#141414"
+  },
+  "assetFolder": "carpentry",
+  "assistantName": "MJS Carpentry",
+  "google": {
+    "rating": 5,
+    "reviewCount": 3,
+    "profileUrl": "https://www.google.com/maps/place/MJS+Carpentry/@-27.3821429,152.9931964,10z/data=!4m6!3m5!1s0x410db08b6b1eeb83:0x2d40dcd11ae320fa!8m2!3d-27.3821429!4d152.9931964!16s%2Fg%2F11msqb352x"
+  },
+  "hero": {
+    "eyebrow": "Decks, pergolas & renovations from Samford Valley",
+    "headline": "Decks, pergolas and renos from Samford Valley, QBCC licensed and built to last.",
+    "subhead": "Decks, pergolas, cladding, verandahs and bathroom renovations across Samford Valley and greater Brisbane. Send through the job and get a free quote.",
+    "primaryCta": "Get a free quote",
+    "trustLine": [
+      "QBCC licensed & fully insured",
+      "Free quotes",
+      "Great communication"
+    ],
+    "photo": "stairs"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "Deck",
+      "Pergola or outdoor area",
+      "Cladding, lattice or verandah",
+      "Bathroom renovation",
+      "Something else"
+    ]
+  },
+  "skyeGreeting": "G'day, I'm the MJS Carpentry assistant. Planning a deck, pergola or reno? Tell me a bit about it and I'll help you get a free quote or book a time with Morgan.",
+  "about": {
+    "headline": "Outdoor living and renos, built properly.",
+    "body": "Most people want the same things from a builder: someone licensed, a clear price before work starts, good communication and a site left spotless. Every job runs that way, from verandah lattice to a full outdoor entertaining area.",
+    "cards": [
+      {
+        "title": "Backyards made for entertaining",
+        "body": "Decks and pergolas that add usable space and value to the home."
+      },
+      {
+        "title": "Queenslanders that need care",
+        "body": "Verandah lattice, doors and cladding fitted with real attention to detail."
+      },
+      {
+        "title": "Bathrooms ready for a reno",
+        "body": "Bathroom renovations built properly by a licensed builder."
+      }
+    ],
+    "closing": "Not sure where to start? Send a few photos and we'll talk it through."
+  },
+  "problems": {
+    "headline": "Getting a deck or reno done around Brisbane shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow quotes",
+        "body": "You contact a few builders and wait weeks for a number."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "A rough figure that keeps growing once the job starts."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "The deck you wanted for summer still isn't finished."
+      },
+      {
+        "title": "Messy job sites",
+        "body": "Offcuts and dust left around the house and yard."
+      }
+    ],
+    "bridge": "You shouldn't have to chase a builder just to get a clear quote."
+  },
+  "solutions": {
+    "headline": "Straightforward building with great communication.",
+    "services": [
+      {
+        "title": "Decks & pergolas",
+        "body": "Decks and pergolas for outdoor entertaining, built solid and finished cleanly.",
+        "photo": "deck"
+      },
+      {
+        "title": "Cladding, lattice & verandahs",
+        "body": "Cladding, verandah lattice and doors, including work on Queenslanders.",
+        "photo": "pergola"
+      },
+      {
+        "title": "Bathroom renovations",
+        "body": "Bathroom renovations from a QBCC licensed, fully insured builder.",
+        "photo": "bathroom"
+      }
+    ]
+  },
+  "process": {
+    "headline": "We listen to what you need. Quote it clearly. Build it right.",
+    "steps": [
+      {
+        "title": "Request your free quote",
+        "body": "Send a few details and photos with the form or give Morgan a ring."
+      },
+      {
+        "title": "Site visit & clear scope",
+        "body": "We look at the space, talk through the design and put the scope and price in writing."
+      },
+      {
+        "title": "Timely, tidy work",
+        "body": "Changes handled as they come up, and the site left spotless."
+      },
+      {
+        "title": "Handover",
+        "body": "We walk the finished job with you and sort anything on the list before we call it done."
+      }
+    ]
+  },
+  "why": {
+    "headline": "Licensed, insured and easy to deal with.",
+    "themes": [
+      {
+        "title": "QBCC licensed",
+        "body": "Licence 15512539, with full insurance on every job."
+      },
+      {
+        "title": "Free quotes",
+        "body": "A clear price before any work starts."
+      },
+      {
+        "title": "Great communication",
+        "body": "Kept informed every step, with changes handled on request."
+      },
+      {
+        "title": "Respectful of your home",
+        "body": "Careful work and a spotless site at the end."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Jodie Murray",
+      "rating": 5,
+      "date": "a week ago",
+      "text": "Morgan and his team are very professional, timely delivery, excellent products, great communication, and respectful of our home.\nWe were thrilled with the service and final product. Morgan was able to adapt and add on changes at our request.\nWe highly recommend Morgan for any Carpentary jobs/building"
+    },
+    {
+      "author": "Caroline Jones",
+      "rating": 5,
+      "date": "5 months ago",
+      "text": "Morgan and his team at MJS Carpentry did an absolutely fantastic job at installing the lattice and door on our Queenslander front verandah. His attention to detail was excellent. He communicated well along the way and left the verandah spotless! We are so impressed we’d like to offer him future work on our ‘never-ending restoration project’ :)) I highly recommend his services! You won’t be disappointed!"
+    },
+    {
+      "author": "Sarah Webb",
+      "rating": 5,
+      "date": "8 months ago",
+      "text": "Highly recommend MJS Carpentry! They were incredibly helpful, kind, and professional throughout the process. The work on my deck was amazing, everything was done efficiently, and communication was excellent. Really respectful, informative, and easy to deal with… couldn’t be happier with the results!"
+    }
+  ],
+  "finalCta": {
+    "headline": "Ready to talk about your deck, pergola or reno?",
+    "body": "Send a few details or pick a time that suits you. You'll get a free quote before anything is booked in.",
+    "cta": "Get a free quote",
+    "microcopy": "No pressure. Just a straightforward chat about the job."
+  },
+  "faq": [
+    {
+      "q": "Are quotes really free?",
+      "a": "Yes. Send the job through the form or give Morgan a ring, and you'll get a written quote before any work starts."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Yes. MJS Carpentry holds QBCC licence 15512539 and is fully insured."
+    },
+    {
+      "q": "Which areas do you cover?",
+      "a": "Samford Valley and greater Brisbane, including Chermside, North Lakes, Redcliffe, Caboolture, Ipswich and Cleveland. Close by but not on the list? Ask anyway."
+    },
+    {
+      "q": "Can I make changes once the job starts?",
+      "a": "Yes. Changes are talked through and added on request, so the finished job matches what you want."
+    },
+    {
+      "q": "What happens after I submit a request?",
+      "a": "Your details come straight to us, you get a text and email confirmation, and we follow up to book a site visit."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
