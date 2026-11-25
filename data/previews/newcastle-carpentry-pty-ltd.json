@@ -1,0 +1,220 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-26): 'Newcastle Carpentry Pty Ltd', 5.0 stars, 4 reviews, category 'Carpenter', phone +61 413 337 821, open until 5 PM, no website ('Add website' shown).",
+    "serviceArea": "Google service-area outline: Newcastle and the Hunter, including Charlestown/Lake Macquarie, Maitland, Raymond Terrace, Port Stephens (Nelson Bay, Anna Bay), Cessnock, Singleton, Muswellbrook, Dungog and up the coast to Forster.",
+    "services": "Google reviews: new decks (Raf Fitzpatrick, Nicky Morriss, Hugh Cooper), awnings, window trims and rotted weatherboard replacement, with painters engaged on the client's behalf (Alexandra Evans). Review topics: deck 3, quality work 2, tidiness 2, communication 2, deck construction 2.",
+    "brand": "No website, socials or logo found. Sampled from their own Google listing cover photo (a merbau deck and spa beside a dark timber fence): primary = deep merbau #7a3f26 (white 8.2:1), dark = the fence shadow #15121b, accent = the lit decking #e2ad7c (9.3:1 on dark). Not an official brand; confirm with the owner.",
+    "reviews": "Google Reviews tab, same session: all 4 reviews are 5-star and complete; 3 copied verbatim (Raf Fitzpatrick, Nicky Morriss, Alexandra Evans), stars checked via each review's rating label. Team: Caleb and Liam."
+  },
+  "gap": "No website: the Google listing shows 'Add website', so homeowners planning a deck can only ring before 5 PM; there's no way to send plans, photos or a quote request.",
+  "market": "AU",
+  "company": {
+    "name": "Newcastle Carpentry Pty Ltd",
+    "trade": "Decks and carpentry",
+    "city": "Newcastle, NSW",
+    "serviceArea": [
+      "Newcastle",
+      "Lake Macquarie",
+      "Maitland",
+      "Port Stephens",
+      "Cessnock",
+      "Singleton",
+      "Raymond Terrace",
+      "Forster"
+    ],
+    "phone": "0413 337 821"
+  },
+  "logo": {
+    "initials": "NC",
+    "tagline": "Decks & Carpentry · Newcastle",
+    "svg": "/assets/logos/newcastle-carpentry-pty-ltd.svg"
+  },
+  "brand": {
+    "primary": "#7a3f26",
+    "dark": "#15121b",
+    "accent": "#e2ad7c"
+  },
+  "assetFolder": "carpentry",
+  "assistantName": "Newcastle Carpentry",
+  "google": {
+    "rating": 5,
+    "reviewCount": 4,
+    "profileUrl": "https://www.google.com/maps/place/Newcastle+Carpentry+Pty+Ltd/@-32.3783008,151.1813865,9z/data=!4m6!3m5!1s0xa0fe1ebe1ed588ab:0x3ada10e600ad30ff!8m2!3d-32.3783008!4d151.1813865!16s%2Fg%2F11ld7whtnh"
+  },
+  "hero": {
+    "eyebrow": "Decks & carpentry in Newcastle and the Hunter",
+    "headline": "Decks and carpentry in Newcastle, built to a high standard and left tidy.",
+    "subhead": "New decks, awnings, window trims, weatherboard repairs and carpentry across Newcastle, Lake Macquarie, Maitland and Port Stephens. Send through the job and get a clear written quote.",
+    "trustLine": [
+      "Clear written quotes",
+      "Tidy work sites",
+      "Prompt communication"
+    ],
+    "photo": "stairs"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "New deck",
+      "Deck repair or rebuild",
+      "Awnings, trims or weatherboards",
+      "Other carpentry",
+      "Something else"
+    ]
+  },
+  "skyeGreeting": "G'day, I'm the Newcastle Carpentry assistant. Planning a new deck or got some carpentry that needs doing? Tell me a bit about it and I'll help you get a quote or book a time.",
+  "about": {
+    "headline": "You picture the deck. We build it properly.",
+    "body": "Most people want the same things from a carpenter: clear communication, honest advice about what's worth doing, and a site that's tidy at the end of the day. Every job runs that way, from a weatherboard repair to a full deck.",
+    "cards": [
+      {
+        "title": "Backyards made for summer",
+        "body": "New decks built precisely, finished cleanly and done quickly."
+      },
+      {
+        "title": "Exteriors that need attention",
+        "body": "Rotted weatherboards replaced, new awnings and window trims fitted."
+      },
+      {
+        "title": "Renovations in progress",
+        "body": "Carpentry that fits your reno, with painters and other trades lined up for the next step."
+      }
+    ],
+    "closing": "Not sure where to start? Send a few photos and we'll talk it through."
+  },
+  "problems": {
+    "headline": "Getting a deck built in the Hunter shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow quotes",
+        "body": "You contact a few tradies and wait weeks to hear back."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "A rough number that grows once the job starts."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "The deck you wanted for summer still isn't finished by autumn."
+      },
+      {
+        "title": "Messy job sites",
+        "body": "Offcuts and screws left in the yard at the end of each day."
+      }
+    ],
+    "bridge": "You shouldn't have to chase a tradie just to get a clear quote."
+  },
+  "solutions": {
+    "headline": "Straightforward carpentry with clear communication.",
+    "services": [
+      {
+        "title": "New decks",
+        "body": "Decks built with precision and skill, from the first consultation to the final board.",
+        "photo": "deck"
+      },
+      {
+        "title": "Awnings, trims & weatherboards",
+        "body": "New awnings and window trims, and rotted weatherboards replaced with a clean finish.",
+        "photo": "framing"
+      },
+      {
+        "title": "Carpentry around the house",
+        "body": "Odd jobs and carpentry for renovations, with honest advice on where to save.",
+        "photo": "door"
+      }
+    ]
+  },
+  "process": {
+    "headline": "We listen to what you need. Quote it clearly. Build it right.",
+    "steps": [
+      {
+        "title": "Request your quote",
+        "body": "Send a few details and photos with the form or give us a ring."
+      },
+      {
+        "title": "Consultation & clear scope",
+        "body": "We talk through the design and options and put the scope and price in writing."
+      },
+      {
+        "title": "Punctual, tidy work",
+        "body": "On time and efficient, with the work area kept tidy throughout."
+      },
+      {
+        "title": "Final walkthrough",
+        "body": "We walk the finished job with you and sort anything on the list before we call it done."
+      }
+    ]
+  },
+  "why": {
+    "headline": "Precise work, honest advice, tidy site.",
+    "themes": [
+      {
+        "title": "Quality work",
+        "body": "Precision and skill in every board and trim."
+      },
+      {
+        "title": "Honest advice",
+        "body": "What needs doing properly, and where you can save."
+      },
+      {
+        "title": "Tidy sites",
+        "body": "Cleaned up throughout the job, not just at the end."
+      },
+      {
+        "title": "Clear communication",
+        "body": "Prompt answers and updates from start to finish."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Raf Fitzpatrick",
+      "rating": 5,
+      "date": "2 years ago",
+      "text": "I had an exceptional experience with Newcastle Carpentry recently when they built our new deck. From the initial consultation to the project's completion, Caleb and Liam demonstrated professionalism, expertise, and an unwavering commitment to delivering top-notch craftsmanship.\n\nTheir communication was clear and responsive, addressing all my questions about the deck construction. The carpenters exhibited precision and skill, ensuring the deck met high standards. Punctual and efficient, they maintained a tidy work environment throughout the process (What a bonus!).\n\nThe finished deck not only surpassed my expectations but also reflected their dedication to quality work. I highly recommend Newcastle Carpentry for deck projects and other carpentry needs, as their reliability and commitment to customer satisfaction truly set them apart.\n\nI'll definitely turn to them for future projects and I confidently recommend them and their service to anyone needing work done to their house."
+    },
+    {
+      "author": "Nicky Morriss",
+      "rating": 5,
+      "date": "2 years ago",
+      "text": "I am very happy with the stunning deck that Newcastle Carpentry built for me. They were professional, fast, and tidy. Caleb is a master carpenter who delivered a flawless result. He did an excellent job and I highly recommend them."
+    },
+    {
+      "author": "Alexandra Evans",
+      "rating": 5,
+      "date": "2 years ago",
+      "text": "We hired Newcastle Carpentry for some odd jobs outside around our home - putting on new awnings, window trims & replacing rotted weatherboards and had an excellent experience. Not only was the work completed to a high quality, but the communication along the way was prompt and easy (after dealing with a lot of tradies renovating our entire home, this was very appreciated as it’s not always the case!). The boys gave honest opinions about what to do properly and where we could take some short cuts and cut costs, while still getting an excellent finish. They also engaged further trades (eg painters) on our behalf for next steps. They tidied after themselves and were a pleasure to have around. I would highly recommend them for any carpentry work you need done, and would have them back to do anything else around our place that needed doing."
+    }
+  ],
+  "finalCta": {
+    "headline": "Ready to talk about your deck or carpentry job?",
+    "body": "Send a few details or pick a time that suits you. You'll get a written quote before anything is booked in.",
+    "microcopy": "No pressure. Just a straightforward chat about the job."
+  },
+  "faq": [
+    {
+      "q": "How do quotes work?",
+      "a": "Send the job through the form or give us a ring. We'll talk it through, come and measure if needed, and send a written quote with the scope and price."
+    },
+    {
+      "q": "Which areas do you cover?",
+      "a": "Newcastle and the Hunter, including Lake Macquarie, Maitland, Raymond Terrace, Port Stephens, Cessnock and Singleton, up the coast to Forster. Close by but not on the list? Ask anyway."
+    },
+    {
+      "q": "Can you organise other trades?",
+      "a": "Yes. When a job needs painters or other trades for the next step, we can line them up on your behalf."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your quote and we'll send the licence and insurance details for your job."
+    },
+    {
+      "q": "What happens after I submit a request?",
+      "a": "Your details come straight to us, you get a text and email confirmation, and we follow up to book a time to look at the job."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
