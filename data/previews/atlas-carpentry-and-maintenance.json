@@ -1,0 +1,222 @@
+{
+  "_sources": {
+    "google": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-25): 5.0 stars, 18 reviews, category Carpenter, phone +61 492 923 535, no website link. Service-area business; drawn area covers Moreton Bay and Brisbane's north side, from Caboolture through North Lakes and Redcliffe to Chermside (pin -27.2688, 152.9758). Review topics: quality work 6, thoroughness 4, punctuality 4, door installation 3, problem-solving 3, prompt work 2, professional attitude 2, carpentry 2, reliable 2, communication 2.",
+    "location": "The brief said 'Sunshine Coast, QLD'. Only two older reviews (about 3 years ago) mention the Sunshine Coast/Caloundra, under a previous name ('Handyman Make Safe Sunshine Coast'); the current Google service area is Moreton Bay / north Brisbane, and calso.com.au lists the business under Brisbane. The page uses the current service area.",
+    "phone": "0492 923 535 on Google, calso.com.au and carpentersau.one.",
+    "services": "Google reviews: hanging new doors bought from Bunnings (referred through Bunnings), rear and front entrance doors, a kicked-in external door replaced, a smart lock installed, fixing doors that wouldn't close or lock after another trade, 'niche carpentry problems', commercial work, praise from a reviewer with 10 years in real estate.",
+    "domain": "carpentersau.one names atlascarpentrymaintenance.com.au as the official website; on 2026-11-25 that domain showed a GoDaddy 'parked free' page. carpentersau.one's other text (licence, free quotes, emergency service) reads as generic auto-generated copy and was not used.",
+    "brand": "No live website, socials or logo. Sampled from their Google listing cover photo (pool, white house, black umbrella) with sample-brand.mjs: suggested charcoal #3b413b / #1c211f / pool blue #21a4db. Charcoal buttons would vanish on the dark sections, so primary is the pool blue deepened to #136f9e (white text 5.5:1), dark #1c211f, accent #21a4db (5.7:1 on dark). Not an official brand; confirm with the owner.",
+    "reviews": "Google Business Profile Reviews tab, same session: 3 complete 5-star reviews copied verbatim (Jo Lovell, Eboni Monro, Adam Murphy). Marie Oakley-Cogan's review skipped: text ends in '…'.",
+    "photos": "Added 'door' (Front door of house with staging for sale, Daniel Case, CC BY-SA 4.0, Wikimedia Commons), cropped to the door and keypad lock so the house-name plaque is out of frame.",
+    "notUsed": "No licence or insurance published, so none claimed. No 'free' quotes verified. Owner first name Andy kept to reviews and FAQ. Old business name not used."
+  },
+  "gap": "No working website: the Google listing has no website link, and the domain directories list for them (atlascarpentrymaintenance.com.au) shows a GoDaddy parking page. Anyone wanting a door hung or a repair quoted has to ring.",
+  "market": "AU",
+  "company": {
+    "name": "Atlas Carpentry & Maintenance",
+    "trade": "Carpentry and maintenance",
+    "city": "Moreton Bay, QLD",
+    "serviceArea": [
+      "Moreton Bay",
+      "Caboolture",
+      "North Lakes",
+      "Redcliffe",
+      "Brisbane's north side"
+    ],
+    "phone": "0492 923 535"
+  },
+  "logo": {
+    "initials": "A",
+    "tagline": "Carpentry & Maintenance · Moreton Bay",
+    "svg": "/assets/logos/atlas-carpentry-and-maintenance.svg"
+  },
+  "brand": {
+    "primary": "#136f9e",
+    "dark": "#1c211f",
+    "accent": "#21a4db",
+    "primaryInk": "#ffffff"
+  },
+  "assetFolder": "carpentry",
+  "google": {
+    "rating": 5,
+    "reviewCount": 18,
+    "profileUrl": "https://www.google.com/maps/place/Atlas+Carpentry+%26+Maintenance/@-27.2688412,152.9757542,10z/data=!4m6!3m5!1s0x66abdc239276e5b:0x9a0f2e179101dac9!8m2!3d-27.2688412!4d152.9757542!16s%2Fg%2F11t6sjc7w1"
+  },
+  "hero": {
+    "eyebrow": "Carpentry & maintenance in Moreton Bay",
+    "headline": "Doors, carpentry and repairs in Moreton Bay, done properly.",
+    "subhead": "New doors hung, smart locks fitted, tricky carpentry fixed and maintenance sorted, for homes and businesses from Caboolture to Brisbane's north side. Tell us about the job and get a clear quote.",
+    "trustLine": [
+      "5.0 from 18 Google reviews",
+      "Door installation specialist",
+      "On time, every time"
+    ],
+    "photo": "siding"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "Hang a new door",
+      "Door repair or replacement",
+      "Smart lock fitting",
+      "Carpentry repair",
+      "Property maintenance",
+      "Something else"
+    ]
+  },
+  "skyeGreeting": "G'day, I'm the Atlas Carpentry & Maintenance assistant. Got a new door to hang, a door that won't close, or a carpentry fix? Tell me about it and I'll help you get a quote or book a time.",
+  "about": {
+    "headline": "The carpenter you call when it has to be done right.",
+    "body": "A lot of our jobs start with someone else's mistake: a door that won't close or lock, a frame that's out of square, a repair that didn't hold. We work out what's actually wrong, fix it properly, and leave a finish you don't have to think about again.",
+    "cards": [
+      {
+        "title": "New doors",
+        "body": "Bought a new door? We'll hang it, fit the hardware and make sure it closes and locks properly."
+      },
+      {
+        "title": "Doors that won't behave",
+        "body": "Sticking, dropped or kicked-in doors repaired or replaced, and smart locks fitted."
+      },
+      {
+        "title": "Tricky carpentry & maintenance",
+        "body": "The odd problems other trades leave behind, for homes, rentals and commercial sites."
+      }
+    ],
+    "closing": "Not sure what the job needs? Send a photo and we'll talk it through."
+  },
+  "problems": {
+    "headline": "Finding a carpenter who gets it right in Moreton Bay shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow quotes",
+        "body": "You ring around to get a door hung and nobody calls back."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "A cheap price on the phone that grows once they're on site."
+      },
+      {
+        "title": "No-shows & missed timelines",
+        "body": "You wait in all morning and the tradie never turns up."
+      },
+      {
+        "title": "Sloppy finishing",
+        "body": "Doors that rub, won't latch or won't lock after the last tradie left."
+      }
+    ],
+    "bridge": "You shouldn't have to pay twice to get one door working properly."
+  },
+  "solutions": {
+    "headline": "Carpentry and repairs, done right the first time.",
+    "services": [
+      {
+        "title": "Door installation & hanging",
+        "body": "New front, back and internal doors hung and fitted, external doors replaced, and smart locks installed.",
+        "photo": "door"
+      },
+      {
+        "title": "Carpentry repairs & tricky fixes",
+        "body": "Doors that won't close or lock, damaged frames and the niche carpentry problems other trades couldn't solve.",
+        "photo": "deck"
+      },
+      {
+        "title": "Property & commercial maintenance",
+        "body": "Ongoing carpentry and maintenance for homeowners, rentals and commercial properties.",
+        "photo": "kitchen"
+      }
+    ]
+  },
+  "process": {
+    "headline": "We look. Quote it straight. Fix it properly.",
+    "steps": [
+      {
+        "title": "Ask for a quote",
+        "body": "Send a few details and a photo with the form, or give Andy a ring. Your suburb and the job is plenty."
+      },
+      {
+        "title": "Clear quote",
+        "body": "You get a fair price and a straight answer about what's actually wrong."
+      },
+      {
+        "title": "On time, kept informed",
+        "body": "We turn up when we say and keep you in the loop as the job goes."
+      },
+      {
+        "title": "Done properly",
+        "body": "A neat, thorough finish, checked with you before we leave."
+      }
+    ]
+  },
+  "why": {
+    "headline": "No shortcuts. Just carpentry done properly.",
+    "themes": [
+      {
+        "title": "Doors done right",
+        "body": "Door installation is what our Google reviewers mention most, alongside quality and thoroughness."
+      },
+      {
+        "title": "Problem-solvers",
+        "body": "The fixes other trades couldn't work out, solved and finished neatly."
+      },
+      {
+        "title": "Punctual & reliable",
+        "body": "We turn up when we say, every time."
+      },
+      {
+        "title": "Fair pricing",
+        "body": "A clear, fair quote up front, before any work starts."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Jo Lovell",
+      "rating": 5,
+      "text": "HIGHLY RECOMMEND I recently purchased a door from Bunnings and arranged to have it hung through them. Atlas Carpentry arrived on time and did a beautiful job, they also fixed a number of issues I had after an experience with a very dodgy painter who left me with doors that would not close or lock. I will definitely use there service again. Pleasant professional and price friendly. Thanks for a great job.",
+      "date": "2 years ago"
+    },
+    {
+      "author": "Eboni Monro",
+      "rating": 5,
+      "text": "Having dealt with dodgy trades and spent 10 years in the real estate industry, I can confidently say after just one encounter with Andy—that he’s the right person for the job. Stop scrolling through Google reviews and just make the call or send the email!\n\nHis knowledge and old-school trade acumen are second to none. He knows his stuff.",
+      "date": "a year ago"
+    },
+    {
+      "author": "Adam Murphy",
+      "rating": 5,
+      "text": "Fantastic service. I had some really niche carpentry problems and Atlas had no trouble in finding a solution. They knew exactly how to fix it and the finish is fantastic! Thank you!",
+      "date": "a year ago"
+    }
+  ],
+  "finalCta": {
+    "headline": "Ready to get that door or repair sorted?",
+    "body": "Send a few details or pick a time that suits. You'll get a clear quote before anything's booked in.",
+    "microcopy": "No pressure. Just a straight chat about the job."
+  },
+  "faq": [
+    {
+      "q": "How do quotes work?",
+      "a": "Send the job through the form with a photo, or give Andy a ring. You'll get a clear quote and a straight answer about what the job needs."
+    },
+    {
+      "q": "I've bought a door already. Can you hang it?",
+      "a": "Yes. We hang new doors, fit the hardware and make sure they close and lock properly."
+    },
+    {
+      "q": "Which areas do you cover?",
+      "a": "Moreton Bay and Brisbane's north side, from Caboolture through North Lakes and Redcliffe. Not sure if you're in range? Ask anyway."
+    },
+    {
+      "q": "Do you do commercial work?",
+      "a": "Yes. Carpentry and maintenance for commercial properties and rentals as well as homes."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your quote and we'll send the licence and insurance details for your job."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}

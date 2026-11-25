@@ -270,6 +270,21 @@
    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
    "page": "https://commons.wikimedia.org/wiki/File:Douthat_Lakeview_Restaurant-deck-stairs_(17200060383).jpg",
    "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-door.webp",
+   "files": [
+    "photo-door-500.webp",
+    "photo-door-960.webp",
+    "photo-door.webp"
+   ],
+   "id": "door-danielcase",
+   "alt": "Front door of house with staging for sale (cropped to the door)",
+   "by": "Daniel Case",
+   "licence": "CC BY-SA 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Front_door_of_house_with_staging_for_sale.jpg",
+   "source": "Wikimedia Commons"
   }
  ]
 }

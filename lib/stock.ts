@@ -143,6 +143,18 @@ export const STOCK = {
     licenceUrl: "https://creativecommons.org/licenses/by/2.0",
     page: "https://commons.wikimedia.org/wiki/File:Using_a_trowel_to_lay_floor_tiles.jpg",
   },
+  door: {
+    id: "door-danielcase",
+    base: "carpentry/photo-door",
+    w: 1280,
+    h: 960,
+    large: true,
+    alt: "Front door with a full glass panel, brass strike plate and a keypad smart lock",
+    by: "Daniel Case",
+    licence: "CC BY-SA 4.0",
+    licenceUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+    page: "https://commons.wikimedia.org/wiki/File:Front_door_of_house_with_staging_for_sale.jpg",
+  },
   stairs: {
     id: "stairs-vastateparks",
     base: "carpentry/photo-stairs",
