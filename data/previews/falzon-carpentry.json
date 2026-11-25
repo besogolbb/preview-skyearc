@@ -1,0 +1,221 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-26): 'Falzon Carpentry', 5.0 stars, 6 reviews, category 'Carpenter', phone +61 405 096 427, opens 7 AM, website button = falzoncarpentry1.wixsite.com.",
+    "serviceArea": "Google service-area outline: Kiama south through the Shoalhaven (Berry, Kangaroo Valley, Nowra, Bomaderry, Culburra Beach, Huskisson, Sussex Inlet, Milton, Ulladulla) to South Durras. The outreach sheet says Albion Park Rail; no street address is shown on the listing.",
+    "website": "https://falzoncarpentry1.wixsite.com/falzon-carpentry (2026-11-26): free Wix site with the Wix ad banner, no form. Headline 'Turing Visions Into Reality' (typo). 'a premier carpentry service in the Illawarra and Shoalhaven regions'. Services: Decks & Pergolas; Renovations; Custom Home Improvements; Maintenance & Repairs.",
+    "services": "Website services plus Google reviews: bathroom and kitchen renovations (Cass Musso), shelf and drawer repair (Calum Harvie-McKay). Review topic: workmanship 2.",
+    "brand": "From their own logo: black F|C with a red roof line on grey. Primary = the logo red #c42e28 (white 5.6:1), dark = near-black #1f1f1f, accent = a lighter red #f0675d (5.3:1 on dark).",
+    "reviews": "Google Reviews tab, same session: 3 complete 5-star reviews copied verbatim (Cass Musso, Calum Harvie-McKay, Simon Booth), stars checked via each review's rating label. Two other 5-star ratings have no text. Owner named Declan."
+  },
+  "gap": "The Google website button opens a free Wix page with a Wix ad banner, a typo in the main headline ('Turing Visions Into Reality') and no quote form, so homeowners can't send deck or reno details without ringing.",
+  "market": "AU",
+  "company": {
+    "name": "Falzon Carpentry",
+    "trade": "Carpentry, decks and renovations",
+    "city": "Shoalhaven, NSW",
+    "serviceArea": [
+      "Kiama",
+      "Berry",
+      "Nowra",
+      "Bomaderry",
+      "Huskisson",
+      "Sussex Inlet",
+      "Milton",
+      "Ulladulla"
+    ],
+    "phone": "0405 096 427"
+  },
+  "logo": {
+    "initials": "FC",
+    "tagline": "Carpentry & Renovations · Shoalhaven",
+    "svg": "/assets/logos/falzon-carpentry.svg"
+  },
+  "brand": {
+    "primary": "#c42e28",
+    "dark": "#1f1f1f",
+    "accent": "#f0675d"
+  },
+  "assetFolder": "carpentry",
+  "assistantName": "Falzon Carpentry",
+  "google": {
+    "rating": 5,
+    "reviewCount": 6,
+    "profileUrl": "https://www.google.com/maps/place/Falzon+Carpentry/@-35.0618203,150.4272601,9z/data=!4m6!3m5!1s0x3f5707a64c0979b:0xddb7c2257cccb15!8m2!3d-35.0618203!4d150.4272602!16s%2Fg%2F11w9cw08m3"
+  },
+  "hero": {
+    "eyebrow": "Carpentry & renovations in the Shoalhaven",
+    "headline": "Decks, pergolas and renovations across the Shoalhaven, built to a high standard.",
+    "subhead": "Decks and pergolas, kitchen and bathroom renovations, home improvements and repairs from Kiama to Ulladulla. Send through the job and get a clear written quote.",
+    "trustLine": [
+      "Clear written quotes",
+      "Local Illawarra & Shoalhaven chippy",
+      "Quality workmanship"
+    ],
+    "photo": "stairs"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "Deck or pergola",
+      "Renovation",
+      "Home improvement",
+      "Maintenance or repair",
+      "Something else"
+    ]
+  },
+  "skyeGreeting": "G'day, I'm the Falzon Carpentry assistant. Got a deck, pergola, reno or repair in mind? Tell me a bit about it and I'll help you get a quote or book a time with Declan.",
+  "about": {
+    "headline": "You picture it. We build it properly.",
+    "body": "Most people want the same things from a carpenter: a clear price before work starts, someone who explains the process as they go, and workmanship that still looks right years later. Every job is run that way, from a drawer repair to a full renovation.",
+    "cards": [
+      {
+        "title": "Outdoor spaces",
+        "body": "Decks and pergolas built for the coast, ready for summer on the South Coast."
+      },
+      {
+        "title": "Rooms ready for a reno",
+        "body": "Kitchen and bathroom renovations with the process explained at every step."
+      },
+      {
+        "title": "Jobs around the house",
+        "body": "Custom home improvements, maintenance and repairs, big or small."
+      }
+    ],
+    "closing": "Not sure where to start? Send a few photos and we'll talk it through."
+  },
+  "problems": {
+    "headline": "Finding a good chippy on the South Coast shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow quotes",
+        "body": "You ring around and wait weeks for anyone to come and quote."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "A rough number that keeps growing once the job starts."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "The deck that was meant to be done for summer still isn't finished."
+      },
+      {
+        "title": "Sloppy finishing",
+        "body": "Uneven boards, gaps in the trim and corners cut where you can see them."
+      }
+    ],
+    "bridge": "You shouldn't have to chase a tradie just to get a clear quote."
+  },
+  "solutions": {
+    "headline": "Straightforward carpentry with clear communication.",
+    "services": [
+      {
+        "title": "Decks & pergolas",
+        "body": "New decks and pergolas built to a high standard, designed around how you'll use the space.",
+        "photo": "deck"
+      },
+      {
+        "title": "Renovations & home improvements",
+        "body": "Kitchen and bathroom renovations and custom improvements, with each step explained.",
+        "photo": "kitchen"
+      },
+      {
+        "title": "Maintenance & repairs",
+        "body": "Repairs and maintenance around the house, from doors and shelves to drawers and trim.",
+        "photo": "door"
+      }
+    ]
+  },
+  "process": {
+    "headline": "We listen to what you need. Quote it clearly. Build it right.",
+    "steps": [
+      {
+        "title": "Request your quote",
+        "body": "Send a few details and photos with the form or give Declan a ring."
+      },
+      {
+        "title": "Site visit & clear scope",
+        "body": "We have a look, talk through the options and put the scope and price in writing."
+      },
+      {
+        "title": "Quality work",
+        "body": "The process explained as we go, with the site kept tidy."
+      },
+      {
+        "title": "Final walkthrough",
+        "body": "We walk the finished job with you and sort anything on the list before we call it done."
+      }
+    ]
+  },
+  "why": {
+    "headline": "We're not here to rush the job. We're here to build it right.",
+    "themes": [
+      {
+        "title": "Quality workmanship",
+        "body": "High-quality carpentry with real attention to detail."
+      },
+      {
+        "title": "Written quotes",
+        "body": "Scope and price in writing, so you know what you're paying for."
+      },
+      {
+        "title": "Explained every step",
+        "body": "You understand the process, from the first visit to the finish."
+      },
+      {
+        "title": "Big or small",
+        "body": "Full renovations and quick repairs get the same care."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Cass Musso",
+      "rating": 5,
+      "date": "2 years ago",
+      "text": "Extremely professional business, Declan did multiple renovations in my home including my bathroom and kitchen and did a great job. Helped me understand the process each step of the way and I was so pleased with the end result. Highly recommend this service"
+    },
+    {
+      "author": "Calum Harvie-McKay",
+      "rating": 5,
+      "date": "2 years ago",
+      "text": "Got a shelf and draw repair done quick and easy no hassles. Would definitely use next time"
+    },
+    {
+      "author": "Simon Booth",
+      "rating": 5,
+      "date": "2 years ago",
+      "text": "Exceptional quality of workmanship, no complaints"
+    }
+  ],
+  "finalCta": {
+    "headline": "Ready to talk about your deck, reno or repair?",
+    "body": "Send a few details or pick a time that suits you. You'll get a written quote before anything is booked in.",
+    "microcopy": "No pressure. Just a straightforward chat about the job."
+  },
+  "faq": [
+    {
+      "q": "How do quotes work?",
+      "a": "Send the job through the form or give Declan a ring. We'll come and have a look and send a written quote that lists the scope and price."
+    },
+    {
+      "q": "Which areas do you cover?",
+      "a": "The Illawarra and Shoalhaven, from Kiama and Berry through Nowra, Huskisson and Sussex Inlet down to Milton and Ulladulla. Close by but not on the list? Ask anyway."
+    },
+    {
+      "q": "Do you take small jobs?",
+      "a": "Yes. Shelf, drawer and door repairs get the same care as a full renovation."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your quote and we'll send the licence and insurance details for your job."
+    },
+    {
+      "q": "What happens after I submit a request?",
+      "a": "Your details come straight to us, you get a text and email confirmation, and we follow up to book a time to look at the job."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
