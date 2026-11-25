@@ -1,0 +1,220 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-26): 'Graham Brothers Home Services', 5.0 stars, 31 reviews, category 'Deck builder', phone +1 256-808-4274, open until 5 PM, website button = instagram.com.",
+    "serviceArea": "Google service-area outline on the same listing: Huntsville, Madison, Harvest, Meridianville, Hazel Green, New Market, Gurley and New Hope.",
+    "services": "Instagram bio (@grahambrothersllc, 2026-11-26): 'Text or call: 256.808.4274 for an estimate: Outdoor Spaces, Decks & Patios, Fences, Remodeling & Custom Carpentry'. Google review topics: hand rails 3, patio enclosure construction 3, quick response 4, fence installation 2, paver laying 2, shelf installation 2, prompt estimate 2, debris removal 2, timely completion 2, easy to work with 2. Composite decking: their Instagram post caption \"Just finished up this Timbertech composite deck & railing\"; aluminum balusters: Rhet Turnbull review.",
+    "brand": "From their own logo (Instagram profile image): green and blue circular arrows around a house on black. Dark = the logo black (#141816), accent = the logo green (#8cc63f), primary = the logo blue darkened for white text (#1d74a8, 5.1:1). Concept mark is original (a G), not their logo.",
+    "reviews": "Google Reviews tab, same session: 3 complete 5-star reviews copied verbatim (Rhet Turnbull, Lawrence Wilde, marcus wilborn), stars checked via each review's rating label. Bette Goodman's skipped: text ends in '…'. Owner/lead named Daniel in Rhet's review."
+  },
+  "gap": "No website: the Google listing's website button sends homeowners to Instagram, so there is no way to request an estimate, send deck or fence details, or book a visit outside a DM or a call before 5 PM.",
+  "market": "US",
+  "company": {
+    "name": "Graham Brothers Home Services",
+    "trade": "Decks, fences and outdoor spaces",
+    "city": "Huntsville, AL",
+    "serviceArea": [
+      "Huntsville",
+      "Madison",
+      "Harvest",
+      "Meridianville",
+      "Hazel Green",
+      "New Market",
+      "Gurley",
+      "New Hope"
+    ],
+    "phone": "(256) 808-4274"
+  },
+  "logo": {
+    "initials": "GB",
+    "tagline": "Decks, Fences & Outdoor Spaces · Huntsville",
+    "svg": "/assets/logos/graham-brothers-home-services.svg"
+  },
+  "brand": {
+    "primary": "#1d74a8",
+    "dark": "#141816",
+    "accent": "#8cc63f"
+  },
+  "assetFolder": "carpentry",
+  "assistantName": "Graham Brothers",
+  "google": {
+    "rating": 5,
+    "reviewCount": 31,
+    "profileUrl": "https://www.google.com/maps/place/Graham+Brothers+Home+Services/@34.733986,-86.6062714,10z/data=!4m6!3m5!1s0x461a9bce10c02e57:0xc12fac43fb3de422!8m2!3d34.733986!4d-86.6062714!16s%2Fg%2F11sztx89qz"
+  },
+  "hero": {
+    "eyebrow": "Decks, fences & outdoor spaces in Huntsville",
+    "headline": "Decks, railings and fences in Huntsville, built solid and finished right.",
+    "subhead": "New decks, rebuilds, railings, fences and patio spaces for homeowners across Huntsville, Madison and Meridianville. Send us the details and get a clear written estimate.",
+    "trustLine": [
+      "Clear written estimates",
+      "Local Huntsville crew",
+      "Quick response"
+    ],
+    "photo": "stairs"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "New deck or rebuild",
+      "Railings or stairs",
+      "Fence",
+      "Patio or porch",
+      "Remodeling or carpentry"
+    ]
+  },
+  "skyeGreeting": "Hi, I'm the Graham Brothers assistant. Thinking about a new deck, railing, fence or patio? Tell me a bit about the project and I'll help you get an estimate or book a time.",
+  "about": {
+    "headline": "You picture the backyard. We build it to last.",
+    "body": "Most homeowners want the same things from an outdoor project: a fair price in writing before work starts, a crew that shows up when they said they would, and boards, rails and posts that stay solid for years. Every job is planned around that, from the first measure to hauling off the debris.",
+    "cards": [
+      {
+        "title": "Decks that have seen better days",
+        "body": "Soft boards, wobbly rails or worn steps. We repair what's worth keeping or rebuild it from the frame up."
+      },
+      {
+        "title": "Yards that need a fence",
+        "body": "New fences and repairs that keep kids and dogs in and stand up straight season after season."
+      },
+      {
+        "title": "Outdoor space you'll actually use",
+        "body": "Porches, patios and enclosures that turn the back of the house into somewhere you want to spend the evening."
+      }
+    ],
+    "closing": "Not sure what the project needs? Send a few photos and we'll talk it through."
+  },
+  "problems": {
+    "headline": "Getting a deck or fence built in Huntsville shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow estimates",
+        "body": "You message three contractors and wait a week to hear back from one."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "A number on a napkin that grows once the old boards come up."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "Start dates slip and the backyard sits half-torn-up for weeks."
+      },
+      {
+        "title": "Messy job sites",
+        "body": "Old lumber, screws and offcuts left in the grass after the crew leaves."
+      }
+    ],
+    "bridge": "You shouldn't have to chase a contractor just to get a clear estimate."
+  },
+  "solutions": {
+    "headline": "Straightforward outdoor builds with clear communication.",
+    "services": [
+      {
+        "title": "Decks & railings",
+        "body": "New decks, full rebuilds, stairs and custom railings, including composite decking and aluminum balusters.",
+        "photo": "deck"
+      },
+      {
+        "title": "Fences & gates",
+        "body": "Fence installation and repairs built sturdy and neat, with gates that close properly.",
+        "photo": "gate"
+      },
+      {
+        "title": "Patios, porches & custom carpentry",
+        "body": "Porches, patio enclosures and pavers, plus remodeling and custom carpentry around the house.",
+        "photo": "pergola"
+      }
+    ]
+  },
+  "process": {
+    "headline": "We listen to what you need. Estimate it clearly. Build it right.",
+    "steps": [
+      {
+        "title": "Request your estimate",
+        "body": "Send a few details and a photo or two with the form, or give us a call or text."
+      },
+      {
+        "title": "Site visit & clear scope",
+        "body": "We measure up, talk through materials and design, and put the scope and price in writing."
+      },
+      {
+        "title": "Clean, on-time work",
+        "body": "A start date you can plan around, steady work until it's done, and the debris hauled away."
+      },
+      {
+        "title": "Final walkthrough",
+        "body": "We walk the finished project with you and sort anything on the list before we call it done."
+      }
+    ]
+  },
+  "why": {
+    "headline": "We're not here to rush the job. We're here to build it right.",
+    "themes": [
+      {
+        "title": "Outdoor builds focused",
+        "body": "Decks, rails, fences and patios are the core of the work."
+      },
+      {
+        "title": "Written estimates",
+        "body": "Scope and price in writing, so you know what you're paying for."
+      },
+      {
+        "title": "Quick response",
+        "body": "Questions answered fast and a crew that shows up when it says it will."
+      },
+      {
+        "title": "Clean finish",
+        "body": "Straight rails, tight boards and the old material cleared off your property."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Rhet Turnbull",
+      "rating": 5,
+      "date": "a month ago",
+      "text": "Graham Brothers did a great job replacing the railing on our deck. Daniel worked with us to custom design the railing we wanted (moulded hand rails, aluminum balusters) at a fair price. They also installed low-voltage lighting on the stairs. Definitely recommend and would use them again."
+    },
+    {
+      "author": "Lawrence Wilde",
+      "rating": 5,
+      "date": "a year ago",
+      "text": "I can highly recommend Graham brothers. They recently completely rebuilt my deck. They were easy to work with, communicated well, and worked on the job consistently from start to finish. They clearly took pride in their work, used quality, materials, and had the technical expertise do the job right.  I would not hesitate to hire them again."
+    },
+    {
+      "author": "marcus wilborn",
+      "rating": 5,
+      "date": "a year ago",
+      "text": "I recently hired Graham Brothers, to repair my fence, and I couldn’t be more pleased with the results. They were reliable, showed up on time, and handled the job professionally from start to finish. The quality of the work was excellent — sturdy, neat, and just what I needed. On top of that, his pricing was  reasonable."
+    }
+  ],
+  "finalCta": {
+    "headline": "Ready to talk about your deck, fence or patio?",
+    "body": "Send a few details or pick a time that suits you. You'll get a written estimate before anything is booked in.",
+    "microcopy": "No pressure. Just a straightforward conversation about your project."
+  },
+  "faq": [
+    {
+      "q": "How do estimates work?",
+      "a": "Send the project through the form, or call or text. We'll ask a few questions, come out to measure, and send a written estimate that lists the scope, materials and price."
+    },
+    {
+      "q": "Which areas around Huntsville do you cover?",
+      "a": "Huntsville and the surrounding area, including Madison, Harvest, Meridianville, Hazel Green, New Market, Gurley and New Hope. Close by but not on the list? Ask anyway."
+    },
+    {
+      "q": "Can you repair my deck, or does it need a rebuild?",
+      "a": "It depends on the frame. If the posts and joists are sound, new boards, stairs or railings may be enough. We'll check it on the site visit and give you both options where they make sense."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your estimate and we'll send the license and insurance details for your project."
+    },
+    {
+      "q": "What happens after I submit a request?",
+      "a": "Your details come straight to us, you get a text and email confirmation, and we follow up to talk through the project and book a site visit."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
