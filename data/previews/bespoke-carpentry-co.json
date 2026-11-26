@@ -1,0 +1,215 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-26): 'Bespoke Carpentry Co', 5.0 stars, 52 reviews, category 'Carpenter', phone +61 413 192 993, closes 6 PM, service-area business (no street address), no website ('Add website' shown). Owner named in reviews: Nathan (Nath).",
+    "serviceArea": "Google service-area outline (headless render, same day): metropolitan Adelaide from Salisbury and Craigmore in the north down to Aldinga Beach and Sellicks Beach in the south.",
+    "services": "Google review topic chips: attention to detail 20, timeliness 9, new doors 8, cupboard space 5, wainscoting 3, shelf installation 3, custom cupboard 3, bookcase design 2, skirting board job 2, smooth finish 2. Reviews describe custom cabinetry, built-in TV units, fitted wardrobes, pantry cupboards, bookcases and a secret bookcase door, floating shelves, drawers, an entryway cabinet, a Murphy bed wall unit, wainscoting, feature walls, skirting boards, new doors and frames, fitting old doors, termite-damaged door frame repair, a new wall and door frame, levelling a platform on sloping floors.",
+    "brand": "No website or logo found. Sampled from their own Google listing cover photo (new built-in timber shelving against slate-blue curtains and carpet): sample-brand suggested #7e634e / #252933 / #a78c76; set by eye to timber primary #7e5f45 (white 5.82:1), slate dark #232833, light timber accent #d2b79c (7.73:1 on dark). Not an official brand; confirm with the owner.",
+    "reviews": "Google Reviews tab, same session, 'More' expanded; all ratings shown are 5 stars. Three complete reviews copied verbatim (Gavin Withey, Jaimi Nielsen, Leisha Williams)."
+  },
+  "gap": "No website: the Google listing shows 'Add website', so people who read 52 five-star reviews can only ring Nathan; there's nowhere to send photos and measurements of a space for a quote.",
+  "market": "AU",
+  "company": {
+    "name": "Bespoke Carpentry Co",
+    "trade": "Custom carpentry and cabinetry",
+    "city": "Adelaide, SA",
+    "serviceArea": [
+      "Adelaide",
+      "Northern suburbs to Salisbury",
+      "Southern suburbs to Aldinga Beach"
+    ],
+    "phone": "0413 192 993"
+  },
+  "logo": {
+    "initials": "BC",
+    "tagline": "Custom Carpentry · Adelaide",
+    "svg": "/assets/logos/bespoke-carpentry-co.svg"
+  },
+  "brand": {
+    "primary": "#7e5f45",
+    "dark": "#232833",
+    "accent": "#d2b79c"
+  },
+  "assetFolder": "carpentry",
+  "assistantName": "Bespoke Carpentry",
+  "google": {
+    "rating": 5,
+    "reviewCount": 52,
+    "profileUrl": "https://www.google.com/maps/place/Bespoke+Carpentry+Co/@-35.000767,138.6111598,10z/data=!4m6!3m5!1s0x22824bb791eb5e29:0xcafcae87d75c592d!8m2!3d-35.000767!4d138.6111598!16s%2Fg%2F11vsd3zd7x"
+  },
+  "hero": {
+    "eyebrow": "Custom carpentry & cabinetry in Adelaide",
+    "headline": "Custom carpentry and built-ins in Adelaide, made to fit your home.",
+    "subhead": "Built-in cabinetry, wardrobes, TV units, wainscoting and doors across metro Adelaide. Send a few photos and measurements and get a clear quote.",
+    "trustLine": [
+      "5.0★ from 52 Google reviews",
+      "Designed with you",
+      "Clear quotes before work starts"
+    ],
+    "photo": "kitchen"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "Built-in cabinetry or TV unit",
+      "Wardrobes or storage",
+      "Wainscoting or feature wall",
+      "Doors, frames or skirting",
+      "Something else"
+    ]
+  },
+  "skyeGreeting": "G'day, I'm the Bespoke Carpentry assistant. Got a built-in, a wardrobe or a carpentry job in mind? Tell me a bit about it and I'll help you get a quote.",
+  "about": {
+    "headline": "Carpentry designed around your space, not a catalogue.",
+    "body": "Old homes with walls that aren't straight, new builds that need storage, a room that just needs character. You want a carpenter who listens to the idea, solves the tricky bits and finishes every joint properly.",
+    "cards": [
+      {
+        "title": "Storage that actually fits",
+        "body": "Built-in cabinets, pantries, wardrobes and bookcases made to the exact space."
+      },
+      {
+        "title": "Character for your rooms",
+        "body": "Wainscoting, feature walls and skirting that change the feel of a home."
+      },
+      {
+        "title": "Older homes and tricky spaces",
+        "body": "Sloping floors, crooked walls and termite damage worked around with care."
+      }
+    ],
+    "closing": "Got an idea but no plan yet? Send a photo and talk it through."
+  },
+  "problems": {
+    "headline": "Getting custom carpentry done in Adelaide shouldn't be a gamble.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow quotes",
+        "body": "Messages that go nowhere and quotes that never turn up."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "No clear idea of materials or time before the job starts."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "Projects that drag on with no update on where things are at."
+      },
+      {
+        "title": "Uneven finishing",
+        "body": "Visible joins and gaps that spoil the whole piece."
+      }
+    ],
+    "bridge": "Custom work should come out exactly the way you pictured it."
+  },
+  "solutions": {
+    "headline": "Bespoke carpentry, measured and built by hand.",
+    "services": [
+      {
+        "title": "Built-ins & cabinetry",
+        "body": "TV units, pantries, entryway cabinets, bookcases, drawers and floating shelves, designed with you.",
+        "photo": "kitchen"
+      },
+      {
+        "title": "Wardrobes & storage",
+        "body": "Fitted wardrobes and wall units, including Murphy bed walls, made to suit the room.",
+        "photo": "pergola"
+      },
+      {
+        "title": "Wainscoting, doors & trim",
+        "body": "Wainscoting, feature walls, skirting boards, new doors and frames, and repairs to damaged frames.",
+        "photo": "door"
+      }
+    ]
+  },
+  "process": {
+    "headline": "Share the idea. Get a clear quote. See it built.",
+    "steps": [
+      {
+        "title": "Send your idea",
+        "body": "Use the form with a few photos and rough measurements, or give Nathan a ring."
+      },
+      {
+        "title": "Design & quote",
+        "body": "We talk through the design, materials and timeframe, then send a clear quote."
+      },
+      {
+        "title": "Build & install",
+        "body": "Your piece is built and fitted, with updates at each stage."
+      },
+      {
+        "title": "Final check & clean-up",
+        "body": "We go over every detail with you and leave the room as clean as we found it."
+      }
+    ]
+  },
+  "why": {
+    "headline": "Meticulous work and great communication.",
+    "themes": [
+      {
+        "title": "Attention to detail",
+        "body": "The most mentioned thing in the reviews: precise joins and a smooth finish."
+      },
+      {
+        "title": "Designed with you",
+        "body": "Your ideas shape the design, with practical suggestions along the way."
+      },
+      {
+        "title": "Kept in the loop",
+        "body": "Regular updates on where the job is at, and honest timeframes."
+      },
+      {
+        "title": "Clean and respectful",
+        "body": "Tidy on site, and the area left as clean as it was found."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Gavin Withey",
+      "rating": 5,
+      "date": "2 years ago",
+      "text": "We recently had the pleasure of working with Nathan @ Bespoke Carpentry to make, build and install new fitted wardrobes in our 100 year old home and we couldn't be happier with the results.\n\nFrom start to finish Nathan demonstrated an incredible attention to detail and a meticulous approach to every aspect of the project. Nathan was able to understand and bring our vision to life. He was able to provide valuable suggestions which enhanced the final design.\n\nHis passion for carpentry truly shines through in the quality of his work with each wardrobe being crafted with precision, ensuring that every measurement was perfect and every joint seamless. The quality of the materials used and the craftmanship were top notch!\n\nThe wardrobes look as though they belong in the house and we cant wait to get these painted up.\n\nIf you want a great job done at a a great price then you would be mad not to give Nathan @ Bespoke Carpentry a call! You will not be disappointed."
+    },
+    {
+      "author": "Jaimi Nielsen",
+      "rating": 5,
+      "date": "5 months ago",
+      "text": "We recently had Nathan from Bespoke Carpentry Co complete wainscoting throughout our home, and we couldn't be happier with the result.\n\nFrom start to finish, Nathan was professional, reliable, and communicated exceptionally well. He always kept us up to date on the progress of the project and was happy to answer any questions along the way.\n\nThe quality of his workmanship is outstanding. The wainscoting has completely transformed the feel and appearance of our home, adding character, elegance, and a real sense of craftsmanship. The attention to detail was second to none, and the finished product exceeded our expectations.\n\nWe highly recommend Nathan and Bespoke Carpentry Co to anyone looking for quality carpentry work. We wouldn't hesitate to use his services again in the future"
+    },
+    {
+      "author": "Leisha Williams",
+      "rating": 5,
+      "date": "a year ago",
+      "text": "Nathan is an exceptional cabinet maker. He was consistently prompt with communication during the project, letting us know where he was at during each stage. He took great care in listening to my idea for our entryway in an old 1950s brick home with walls that are not straight and problem-solved down to the smallest details ensuring an outcome that exceeded our expectations! He was able to source a giant piece from Polytec so that we didn’t have any unsightly joins in the finished cabinet. He gladly liaised with our electrician to ensure that all the lights and switches in the cabinets were appropriately placed to our specifications. There were no unnecessary delays and the work was done to exceptional standard. I’ve already told Nathan he’ll have to come back to help me on my next project!"
+    }
+  ],
+  "finalCta": {
+    "headline": "Got a space that needs something made for it?",
+    "body": "Send a few details or pick a time that suits you. You'll get a written quote before anything is booked in.",
+    "microcopy": "No pressure. Just a straightforward chat about the job."
+  },
+  "faq": [
+    {
+      "q": "How do quotes work?",
+      "a": "Send photos and rough measurements through the form, or give us a ring. We'll talk through materials, timeframes and availability, then send a written quote."
+    },
+    {
+      "q": "Which areas do you cover?",
+      "a": "Metro Adelaide, from the northern suburbs around Salisbury down to Aldinga and Sellicks Beach. Not sure if you're in range? Just ask."
+    },
+    {
+      "q": "Can you work with an older home?",
+      "a": "Yes. Walls that aren't straight and floors that slope are measured and built around, so the finished piece still sits perfectly."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your quote and we'll send the licence and insurance details for your job."
+    },
+    {
+      "q": "What happens after I submit a request?",
+      "a": "Your details come straight to us, you get a text and email confirmation, and we follow up to book a time to look at the job."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
