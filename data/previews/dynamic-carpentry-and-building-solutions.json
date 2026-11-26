@@ -1,0 +1,216 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-26): 'Dynamic Carpentry and Building Solutions', 4.9 stars, 7 reviews, category 'Carpenter', phone +61 412 787 045, closes 4:30 PM, no address shown; the website button links to facebook.com. Owner named in reviews: Ben. A review says 'Local business in Uranquinty'.",
+    "facebook": "facebook.com/dynamiccarpentrybuildingsolutions (same session): 445 followers, category Carpenter, Instagram dynamic_carpentry_building, phone +61 412 787 045. Bio: 'Experienced carpenter operating in Wagga and surrounds'; services listed: kitchen, bathroom, laundry renos; decks and pergolas; doors and windows; home maintenance and renos; fix outs, fit offs, joinery install; sub-contracting. Service areas: Wagga Wagga, Uranquinty, The Rock. Credentials: 'NSW Contractor License Number: 462445C (Carpenter / Kitchen, Bathroom, Laundry Renovator)'.",
+    "services": "Facebook services list (above). Google reviews: carpentry work, home renovation work, restoring pine tables, replacing polycarbonate sheeting on a back verandah.",
+    "brand": "Their own Facebook logo: a teal roofline over 'DYNAMIC' in slate grey. Teal darkened for contrast: primary #1f7280 (white 5.56:1), slate dark #17252b, light teal accent #6fc7d1 (8.06:1 on dark). Hexes read by eye from the logo; confirm with the owner.",
+    "reviews": "Google Reviews tab, same session, 'More' expanded: 6 five-star and 1 four-star (Christine Stewart, not used). Three complete 5-star reviews copied verbatim (Emily, Brett Hancock, Kim Spring)."
+  },
+  "gap": "The Google website button goes to a Facebook page, so locals looking for a reno or deck quote after 4:30 PM have to message on Facebook; there's no simple quote form or way to book a time.",
+  "market": "AU",
+  "company": {
+    "name": "Dynamic Carpentry and Building Solutions",
+    "trade": "Carpentry, renovations and building",
+    "city": "Wagga Wagga, NSW",
+    "serviceArea": [
+      "Wagga Wagga",
+      "Uranquinty",
+      "The Rock"
+    ],
+    "phone": "0412 787 045",
+    "credential": "NSW Licence 462445C"
+  },
+  "logo": {
+    "initials": "D",
+    "tagline": "Carpentry & Building · Wagga Wagga",
+    "svg": "/assets/logos/dynamic-carpentry-and-building-solutions.svg"
+  },
+  "brand": {
+    "primary": "#1f7280",
+    "dark": "#17252b",
+    "accent": "#6fc7d1"
+  },
+  "assetFolder": "carpentry",
+  "assistantName": "Dynamic Carpentry",
+  "google": {
+    "rating": 4.9,
+    "reviewCount": 7,
+    "profileUrl": "https://www.google.com/maps/place/Dynamic+Carpentry+and+Building+Solutions/@-35.0909521,147.2056314,10z/data=!4m6!3m5!1s0x2e03655ccf8be50b:0xdf82b5185d5638ea!8m2!3d-35.0909522!4d147.2056314!16s%2Fg%2F11y3v917kc"
+  },
+  "hero": {
+    "eyebrow": "Carpentry & renovations in Wagga Wagga",
+    "headline": "Carpentry and renovations in Wagga Wagga, done right and on time.",
+    "subhead": "Kitchen, bathroom and laundry renos, decks, pergolas, doors and windows across Wagga Wagga, Uranquinty and The Rock. Send a few details and get a clear written quote.",
+    "trustLine": [
+      "NSW Licence 462445C",
+      "4.9★ on Google",
+      "Clear written quotes"
+    ],
+    "photo": "stairs"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "Kitchen, bathroom or laundry reno",
+      "Deck or pergola",
+      "Doors or windows",
+      "Maintenance or repairs",
+      "Something else"
+    ]
+  },
+  "skyeGreeting": "G'day, I'm the Dynamic Carpentry assistant. Got a reno, a deck or a carpentry job in mind? Tell me a bit about it and I'll help you get a quote or book a time.",
+  "about": {
+    "headline": "A local carpenter who answers the phone and finishes the job.",
+    "body": "Whether it's a full bathroom reno, a new deck out the back or a verandah roof that needs replacing, you want someone licensed, honest about what the job needs, and on site when he says he'll be.",
+    "cards": [
+      {
+        "title": "Renovating a room",
+        "body": "Kitchen, bathroom and laundry renos, from the frame to the fit-off."
+      },
+      {
+        "title": "Outdoor living",
+        "body": "Decks, pergolas and verandah roofing built for Riverina summers."
+      },
+      {
+        "title": "Jobs around the house",
+        "body": "Doors, windows, maintenance and repairs handled properly."
+      }
+    ],
+    "closing": "Not sure what the job involves? Send a photo and ask."
+  },
+  "problems": {
+    "headline": "Finding a reliable carpenter around Wagga shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow quotes",
+        "body": "Tradies who don't answer the phone or never send the quote."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "Jobs that end up well over what was quoted."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "Schedules that slip and no-shows on the day."
+      },
+      {
+        "title": "Messy job sites",
+        "body": "Offcuts and dust left behind for you to clean up."
+      }
+    ],
+    "bridge": "You should get the job done right, on time and on budget."
+  },
+  "solutions": {
+    "headline": "Licensed carpentry and renovations, start to finish.",
+    "services": [
+      {
+        "title": "Kitchen, bathroom & laundry renos",
+        "body": "Full renovations by a licensed kitchen, bathroom and laundry renovator, including fix-outs, fit-offs and joinery installs.",
+        "photo": "bathroom"
+      },
+      {
+        "title": "Decks, pergolas & verandahs",
+        "body": "New decks and pergolas, plus verandah roofing replaced and repaired.",
+        "photo": "deck"
+      },
+      {
+        "title": "Doors, windows & maintenance",
+        "body": "Doors and windows installed, home maintenance and repairs, and sub-contract carpentry.",
+        "photo": "door"
+      }
+    ]
+  },
+  "process": {
+    "headline": "Tell us the job. Get a clear quote. Get it done.",
+    "steps": [
+      {
+        "title": "Send your project",
+        "body": "Use the form with a few photos, or give Ben a ring."
+      },
+      {
+        "title": "Look & quote",
+        "body": "We look at the job, explain what's needed to meet standards and send a written quote."
+      },
+      {
+        "title": "The work",
+        "body": "On site when scheduled, with clear updates from start to finish."
+      },
+      {
+        "title": "Final check & clean-up",
+        "body": "We go over the finished job with you and leave the work area tidy."
+      }
+    ]
+  },
+  "why": {
+    "headline": "Reliable, honest and easy to deal with.",
+    "themes": [
+      {
+        "title": "Licensed",
+        "body": "NSW Contractor Licence 462445C: carpenter and kitchen, bathroom and laundry renovator."
+      },
+      {
+        "title": "Answers the phone",
+        "body": "Reviewers mention clear communication from start to finish."
+      },
+      {
+        "title": "On schedule",
+        "body": "On time, kept to schedule and finished as agreed."
+      },
+      {
+        "title": "Quality finish",
+        "body": "Great attention to detail and a high standard of finish."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Emily",
+      "rating": 5,
+      "date": "5 months ago",
+      "text": "Ben recently completed some carpentry work for me and I couldn’t be happier with the result. His workmanship was outstanding, with great attention to detail and a high standard of finish throughout. He was reliable, professional, and communicated clearly from start to finish. The job was completed on time, the work area was kept tidy, and the finished product exceeded my expectations. I would highly recommend Ben to anyone looking for quality carpentry work and will definitely be using his services again in the future."
+    },
+    {
+      "author": "Brett Hancock",
+      "rating": 5,
+      "date": "5 months ago",
+      "text": "Highly recommend Ben. He was always on time, kept to his schedule, did exactly what he said he would, and completed the job on budget. He always answered the phone when I called and was easy to communicate with throughout the project. The work was thorough and completed to a high standard. He was also incredibly courteous and respectful, which was greatly appreciated. Reliable, professional, and a pleasure to deal with."
+    },
+    {
+      "author": "Kim Spring",
+      "rating": 5,
+      "date": "5 months ago",
+      "text": "I engaged with Ben from Dynamic Carpentry and Building Solution's to replace some old polycarbonate sheeting on my back verandah. He was reliable, honest and swift with completing the job. Highly recommended !"
+    }
+  ],
+  "finalCta": {
+    "headline": "Ready to talk about your reno or carpentry job?",
+    "body": "Send a few details or pick a time that suits you. You'll get a written quote before anything is booked in.",
+    "microcopy": "No pressure. Just a straightforward chat about the job."
+  },
+  "faq": [
+    {
+      "q": "How do quotes work?",
+      "a": "Send photos and a few details through the form, or give us a ring. We'll look at the job and send a written quote before any work starts."
+    },
+    {
+      "q": "Which areas do you cover?",
+      "a": "Wagga Wagga and surrounds, including Uranquinty and The Rock. Not sure if you're in range? Just ask."
+    },
+    {
+      "q": "Do you do full bathroom and kitchen renos?",
+      "a": "Yes. Ben holds a NSW contractor licence as a kitchen, bathroom and laundry renovator, so the whole reno can be handled in one go."
+    },
+    {
+      "q": "Are you licensed?",
+      "a": "Yes: NSW Contractor Licence 462445C (Carpenter / Kitchen, Bathroom, Laundry Renovator)."
+    },
+    {
+      "q": "What happens after I submit a request?",
+      "a": "Your details come straight to us, you get a text and email confirmation, and we follow up to book a time to look at the job."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
