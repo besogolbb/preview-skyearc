@@ -1,0 +1,212 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-26): 'GSB Carpentry', 5.0 stars, 4 reviews, category 'Carpenter', phone +61 470 517 623, opens 9 AM, address in Kialla VIC 3631 (residential street, not shown on the page), no website ('Add website' shown). Cover photo: a two-storey timber house frame under construction.",
+    "services": "Only timber framing and general carpentry are verified: category 'Carpenter', cover photo of a two-storey frame, one review mentions 'wood framing'. Reviews praise quality, attention to detail, on-time and professional work. No other sub-services claimed.",
+    "brand": "No brand online (no website, no logo). Sampled from their Google listing cover photo (timber frame in blue house wrap against blue sky) with scripts/sample-brand.mjs, adjusted by eye: primary = deep wrap blue #17689a (white 6.0:1), dark = charcoal #15171a (white 18.0:1), accent = pine timber #d9bb8b (9.8:1 on dark). Sampled from their listing photo, not an official brand; confirm with the owner. Concept mark (roof truss) is original.",
+    "reviews": "Google Reviews tab, same session: all 4 reviews are 5 stars; 3 complete ones copied verbatim (Deepak Chauhan, Paramveer Singh dhaliwal, Lovekesh Paul). Skipped one that reads like it's from a worker ('good learning environment')."
+  },
+  "gap": "No website: 5.0 stars on Google, but 'Add website' on the listing, so builders and homeowners around Kialla and Shepparton can only ring; there's no way to send plans or job details for a written quote.",
+  "market": "AU",
+  "company": {
+    "name": "GSB Carpentry",
+    "trade": "Timber framing and carpentry",
+    "city": "Kialla, VIC",
+    "serviceArea": [
+      "Kialla",
+      "Shepparton"
+    ],
+    "phone": "0470 517 623"
+  },
+  "logo": {
+    "initials": "GSB",
+    "tagline": "Carpentry · Kialla",
+    "svg": "/assets/logos/gsb-carpentry.svg"
+  },
+  "brand": {
+    "primary": "#17689a",
+    "dark": "#15171a",
+    "accent": "#d9bb8b"
+  },
+  "assetFolder": "carpentry",
+  "assistantName": "GSB Carpentry",
+  "google": {
+    "rating": 5.0,
+    "reviewCount": 4,
+    "profileUrl": "https://www.google.com/maps/place/GSB+Carpentry/@-36.4214946,145.4043778,17z/data=!4m6!3m5!1s0x6ad881fb43e454f3:0xf2d9b3c51678b407!8m2!3d-36.4214946!4d145.4043778!16s%2Fg%2F11nvvkhn24"
+  },
+  "hero": {
+    "eyebrow": "Carpentry around Kialla & Shepparton",
+    "headline": "Timber framing and carpentry in Kialla.",
+    "subhead": "House framing and carpentry for homes around Kialla and Shepparton, done with care and on time. Send your plans or a few photos and get a clear written quote.",
+    "trustLine": [
+      "Attention to detail",
+      "Finished on time",
+      "Friendly, reliable team"
+    ],
+    "photo": "framing"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "House framing",
+      "Extension or renovation",
+      "General carpentry",
+      "Something else"
+    ]
+  },
+  "skyeGreeting": "Hi, I'm the GSB Carpentry assistant. Got a framing or carpentry job coming up? Tell me about it and I'll help you get a quote.",
+  "about": {
+    "headline": "Carpentry done properly, from the frame up.",
+    "body": "Most people want the same thing from a carpenter: quality work, attention to detail and a team that turns up and finishes on time. Every job runs that way, whether it's a full house frame or a smaller carpentry job.",
+    "cards": [
+      {
+        "title": "New homes",
+        "body": "Timber framing for new builds, square, straight and ready for the next trade."
+      },
+      {
+        "title": "Building or renovating",
+        "body": "Carpentry for homeowners adding to or updating their house."
+      },
+      {
+        "title": "Carpentry jobs",
+        "body": "Smaller carpentry work done with the same care as a full frame."
+      }
+    ],
+    "closing": "Got plans or a few photos? Send them through for a quote."
+  },
+  "problems": {
+    "headline": "Finding a reliable carpenter around Shepparton shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow quotes",
+        "body": "Waiting weeks just to get a price back."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "Extras added once the job's underway."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "The frame runs late and every trade after it slips."
+      },
+      {
+        "title": "Sloppy, uneven finishing",
+        "body": "Work that's out of square and has to be fixed later."
+      }
+    ],
+    "bridge": "You need a carpenter who gets it right and keeps the job moving."
+  },
+  "solutions": {
+    "headline": "Quality carpentry, on time.",
+    "services": [
+      {
+        "title": "House framing",
+        "body": "Wall and roof framing for new homes, built square and finished on schedule.",
+        "photo": "framing"
+      },
+      {
+        "title": "Extensions & renovations",
+        "body": "Carpentry for adding on or reworking part of your home. Ask about your project.",
+        "photo": "pergola"
+      },
+      {
+        "title": "General carpentry",
+        "body": "Carpentry jobs around the house, done professionally and with care.",
+        "photo": "door"
+      }
+    ]
+  },
+  "process": {
+    "headline": "We look at it. Quote it clearly. Build it right.",
+    "steps": [
+      {
+        "title": "Send your job",
+        "body": "Share your plans or a few photos with the form or give us a ring."
+      },
+      {
+        "title": "Quote",
+        "body": "We go through the job and send a clear written quote."
+      },
+      {
+        "title": "Quality work",
+        "body": "Careful, detailed carpentry, finished on time."
+      },
+      {
+        "title": "Final check",
+        "body": "We go over the finished work with you."
+      }
+    ]
+  },
+  "why": {
+    "headline": "Five-star reviews from customers around Kialla.",
+    "themes": [
+      {
+        "title": "Attention to detail",
+        "body": "Careful, precise work customers are happy with."
+      },
+      {
+        "title": "On time",
+        "body": "Jobs completed when promised."
+      },
+      {
+        "title": "Friendly and reliable",
+        "body": "A team that's helpful and easy to deal with."
+      },
+      {
+        "title": "Professional",
+        "body": "Skilled carpentry from start to finish."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Deepak Chauhan",
+      "rating": 5,
+      "date": "2 months ago",
+      "text": "Excellent service! I’m very happy with the quality of work and the attention to detail. The work was completed professionally, on time, and with great care. The team was friendly, reliable, and easy to deal with. The finished result looks fantastic and exceeded my expectations.\n\nHighly recommended for anyone looking for a skilled and trustworthy carpentry service."
+    },
+    {
+      "author": "Paramveer Singh dhaliwal",
+      "rating": 5,
+      "date": "2 months ago",
+      "text": "Great quality work and very helpful staff. Everything was done professionally and on time."
+    },
+    {
+      "author": "Lovekesh Paul",
+      "rating": 5,
+      "date": "2 months ago",
+      "text": "Simply, professionals"
+    }
+  ],
+  "finalCta": {
+    "headline": "Got a framing or carpentry job coming up?",
+    "body": "Send your plans or a few photos, or pick a time to talk it through. You'll get a written quote before any work is booked.",
+    "microcopy": "No pressure. Just a clear price."
+  },
+  "faq": [
+    {
+      "q": "Do you frame new homes?",
+      "a": "Yes. Timber house framing is a core part of the work. Send your plans for a quote."
+    },
+    {
+      "q": "Which areas do you cover?",
+      "a": "Kialla, Shepparton and the surrounding area. Ask if you're further out."
+    },
+    {
+      "q": "Do you take on smaller carpentry jobs?",
+      "a": "Send the details and a few photos and we'll let you know if it's a fit."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your quote and we'll send the licence and insurance details for your job."
+    },
+    {
+      "q": "What happens after I send a request?",
+      "a": "Your details come straight to us, you get a text and email confirmation, and we follow up to talk through the job."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
