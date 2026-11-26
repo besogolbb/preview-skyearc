@@ -1,0 +1,215 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-26): 'Nick'z Renovation & Home Repairs', 4.5 stars, 110 reviews, category 'Painter', 292 W Evans St, Florence, SC 29501, phone +1 843-618-4545, opens 8 AM, no website ('Add website' shown). Attributes: identifies as Black-owned, identifies as veteran-owned.",
+    "serviceArea": "Listing address in Florence, SC. Reviews mention 'the Florence and Darlington area' (Joyce Johnson) and 'the Pee Dee/Florence area' (ELITE MOVERS).",
+    "services": "Google review topic chips: remodeling 11, home repairs 5, quick start 4, tv mounting 3, fast work 3, wallpaper removal 3, home painting 2, popcorn ceiling removal 2, troubleshooting 2. Reviews describe interior/exterior painting and staining, drywall and ceiling repair, popcorn ceiling removal, bathroom and shower work, tile, floors, cabinets, vinyl siding, window replacement, faucet, fixture and water heater repairs, TV mounting.",
+    "brand": "No website, socials or logo found. Sampled from their own Google listing cover photo (a new tub against warm marble tile; low-colour): sample-brand suggested #7f6f5b / #51493e / #d7c09d; warmed by eye to bronze primary #8a6538 (white 5.25:1), espresso dark #2a241d, sand accent #d9bf94 (8.64:1 on dark). Not an official brand; confirm with the owner.",
+    "reviews": "Google Reviews tab, same session, 'More' expanded; three complete 5-star reviews copied verbatim (Audrey Wilson, Jennifer Jacobsen, Chiquita Pratt), stars confirmed from each review's rating label."
+  },
+  "gap": "No website: the Google listing shows 'Add website', so 110 reviews' worth of searchers can only call; there's no way to send photos of a repair or remodel and ask for an estimate after hours.",
+  "market": "US",
+  "company": {
+    "name": "Nick'z Renovation & Home Repairs",
+    "trade": "Home renovations, repairs and painting",
+    "city": "Florence, SC",
+    "serviceArea": [
+      "Florence",
+      "Darlington",
+      "The Pee Dee area"
+    ],
+    "phone": "(843) 618-4545"
+  },
+  "logo": {
+    "initials": "N",
+    "tagline": "Renovation & Home Repairs · Florence",
+    "svg": "/assets/logos/nickz-renovation-and-home-repairs.svg"
+  },
+  "brand": {
+    "primary": "#8a6538",
+    "dark": "#2a241d",
+    "accent": "#d9bf94"
+  },
+  "assetFolder": "remodeling",
+  "assistantName": "Nick'z",
+  "google": {
+    "rating": 4.5,
+    "reviewCount": 110,
+    "profileUrl": "https://www.google.com/maps/place/Nick%27z+Renovation+%26+Home+Repairs/@34.196984,-79.7702515,17z/data=!4m6!3m5!1s0x8855676f6d403553:0xac1d81d3f97f4f93!8m2!3d34.196984!4d-79.7702515!16s%2Fg%2F11j614yjx8"
+  },
+  "hero": {
+    "eyebrow": "Renovations & home repairs in Florence",
+    "headline": "Home renovations and repairs in Florence, done by a crew that shows up.",
+    "subhead": "Painting, drywall, bathrooms, floors and the repairs that have been piling up, across Florence, Darlington and the Pee Dee. Send the job with a few photos and get a clear estimate.",
+    "trustLine": [
+      "4.5★ from 110 Google reviews",
+      "Veteran-owned",
+      "Clear estimates before work starts"
+    ],
+    "photo": "kitchen"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "Painting or staining",
+      "Drywall or ceiling repair",
+      "Bathroom or remodel",
+      "Repair or install",
+      "Something else"
+    ]
+  },
+  "skyeGreeting": "Hi, I'm the Nick'z Renovation & Home Repairs assistant. Got a repair, a paint job or a remodel in mind? Tell me about it and I'll help you get an estimate.",
+  "about": {
+    "headline": "One crew for the big remodel and the small fix.",
+    "body": "Some jobs are a whole-house renovation on a deadline. Others are a ceiling patch you've been putting off for two years. Either way you want the same things: someone who comes out, gives you a fair price and finishes the work properly.",
+    "cards": [
+      {
+        "title": "Homeowners with a repair list",
+        "body": "Drywall, ceilings, fixtures and the small jobs that have been waiting too long."
+      },
+      {
+        "title": "Families planning a remodel",
+        "body": "Bathrooms, floors, cabinets and open-plan changes, planned with you and built the way you pictured it."
+      },
+      {
+        "title": "Landlords and churches",
+        "body": "Rental turnovers and building repairs handled by one dependable crew."
+      }
+    ],
+    "closing": "Not sure where to start? Send a few photos and we'll talk it through."
+  },
+  "problems": {
+    "headline": "Getting a contractor in Florence to show up shouldn't be the hard part.",
+    "points": [
+      {
+        "title": "Unreturned calls & no-show estimates",
+        "body": "People come out to look, then you never hear back."
+      },
+      {
+        "title": "Unreasonable quotes & surprise costs",
+        "body": "Prices that make a small repair feel like a remodel."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "A project that should take days drags on for months."
+      },
+      {
+        "title": "Messy job sites",
+        "body": "Paint on the floors and debris left for you to clean."
+      }
+    ],
+    "bridge": "You shouldn't have to chase anyone to get your home fixed."
+  },
+  "solutions": {
+    "headline": "Renovations, repairs and painting from one local crew.",
+    "services": [
+      {
+        "title": "Painting & staining",
+        "body": "Interior rooms, exteriors, doors, fences and wallpaper removal, with clean lines and tidy cleanup.",
+        "photo": "door"
+      },
+      {
+        "title": "Remodels, bathrooms & floors",
+        "body": "Showers and bathrooms, flooring, cabinets, siding and open-plan changes, from plan to finish.",
+        "photo": "bathroom"
+      },
+      {
+        "title": "Drywall, ceilings & repairs",
+        "body": "Drywall and ceiling patches, popcorn removal, fixtures, faucets, water heaters and TV mounting.",
+        "photo": "tile"
+      }
+    ]
+  },
+  "process": {
+    "headline": "Tell us the job. Get a clear price. Watch it get done.",
+    "steps": [
+      {
+        "title": "Send your project",
+        "body": "Use the form with a few photos, or give Nick a call."
+      },
+      {
+        "title": "Look & estimate",
+        "body": "We come out, talk through your ideas and give you the price and time frame up front."
+      },
+      {
+        "title": "The work",
+        "body": "The crew gets to work on the agreed date and keeps you updated as it goes."
+      },
+      {
+        "title": "Walkthrough & cleanup",
+        "body": "We check the finished work with you and clean up before we call it done."
+      }
+    ]
+  },
+  "why": {
+    "headline": "Quick to respond, fair on price, careful with the finish.",
+    "themes": [
+      {
+        "title": "Quick start",
+        "body": "Homeowners mention fast replies and crews out sooner than expected."
+      },
+      {
+        "title": "Fair pricing",
+        "body": "Reasonable, up-front prices are one of the things reviewers mention most."
+      },
+      {
+        "title": "Detail work",
+        "body": "Matched stain colors, invisible ceiling patches and cut-in lines without tape."
+      },
+      {
+        "title": "Cleans up",
+        "body": "Work areas left tidy at the end of each day."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Audrey Wilson",
+      "rating": 5,
+      "date": "a year ago",
+      "text": "I’ve searched for someone to fix my drywall and FINALLY it’s done. The toilet ran over upstairs, and the water restoration guy cut a hole in my ceiling to dry it out. After almost two long years of trying to find someone to fix it, several repair specialist came by to give estimates. Some never showed back up to do the work and some prices were so unreasonable. One phone call to Nick’s repair, not only was he was here to give an estimate, but jumped on the project almost immediately. His prices were very reasonable and as you can see in the photos, his work was immeasurable. I cannot even tell a hole was in the ceiling! There was hardly any clean up afterwards. I have a rental property and I’m hiring this company for all of my needs. Thanks Mr. Nick. You have a very satisfied customer!"
+    },
+    {
+      "author": "Jennifer Jacobsen",
+      "rating": 5,
+      "date": "a year ago",
+      "text": "Nick and his crew made our remodel dream come true. We imagined it and they were able to complete it just as we were thinking. They gave us great ideas to enhance our plans. They worked through all the \"hickups\" do to structure issues professionally. His crew was able to complete our outside vinyl siding and interior remodel as we invisioned It was an honor to work with them. His sub contractor electrician Kevin Grahamm was also fantastic. Thank You Nick and crew we are so happy with your work."
+    },
+    {
+      "author": "Chiquita Pratt",
+      "rating": 5,
+      "date": "4 months ago",
+      "text": "Based on Google Reviews, my husband and I hired Nick to repaint our front door and to re-stain our privacy fence. Nick was prompt, professional and his services were reasonably priced. He and his staff did AMAZING work. Nick color matched our fence stain perfectly! We highly recommend him!"
+    }
+  ],
+  "finalCta": {
+    "headline": "Got a repair or project that's been waiting?",
+    "body": "Send a few details and photos, or pick a time that suits you. You'll get a clear estimate before any work is booked.",
+    "microcopy": "No pressure. Just a straight conversation about the job."
+  },
+  "faq": [
+    {
+      "q": "How do estimates work?",
+      "a": "Send the job through the form with a few photos, or call. Nick comes out to look and gives you the price and time frame before any work starts."
+    },
+    {
+      "q": "Which areas do you cover?",
+      "a": "Florence and the surrounding Pee Dee area, including Darlington. Close by but not sure? Ask anyway."
+    },
+    {
+      "q": "Do you take on small jobs?",
+      "a": "Yes. A ceiling patch, a new faucet or a TV mount gets the same care as a full remodel."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your estimate and we'll send the license and insurance details for your job."
+    },
+    {
+      "q": "What happens after I submit a request?",
+      "a": "Your details come straight to us, you get a text and email confirmation, and we follow up to set a time to look at the job."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
