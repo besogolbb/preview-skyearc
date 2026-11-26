@@ -1,0 +1,219 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-26): 'Roofing Renovations', 4.9 stars, 93 reviews, category 'Roofing contractor', phone +1 615-556-0457, open until 8 PM, no website ('Add website' shown).",
+    "serviceArea": "Google service-area outline (headless render, same day): Murfreesboro, Smyrna, La Vergne, Lascassas, Christiana, Woodbury, down to Shelbyville and Normandy.",
+    "services": "Google review topics: insurance handling 10, gutter replacement 9, screened in patio 3, smooth process 3, courteous staff 3, gable repair 2, storm damage repair 2, photo updates 2, water damage 2, install team 2. Reviews: roof and new siding (Erica Montgomery), storm damage roof with insurance and warranty registered (Russ McGill), screened porch roof and carport after storm damage (Ethel Williamson), concrete and a new patio (Cece Davis), covered patio, walk-in shower and closet (Lana Hurt).",
+    "brand": "From their own logo on the cap in their Google cover photo: red 'R' with 'Roofing Renovations' on khaki. Primary = the logo red #a3232a (white 7.4:1), dark = near-black #1c1a17, accent = khaki #d8c9ae (10.7:1 on dark). Concept mark is original, not their logo.",
+    "reviews": "Google Reviews tab, same session: 3 complete 5-star reviews copied verbatim (Russ McGill, Ethel Williamson, Erica Montgomery), stars checked via each review's rating label. Rep named Shane (Shane Barber); Shaun and Ed also named. The sheet's DM greets 'Nick' (not seen on the listing)."
+  },
+  "gap": "No website: 93 reviews at 4.9, but the Google listing shows 'Add website', so homeowners with storm damage can only call; there's no way to send photos, an address or an insurance claim question online.",
+  "market": "US",
+  "company": {
+    "name": "Roofing Renovations",
+    "trade": "Roofing, storm damage repair and renovations",
+    "city": "Murfreesboro, TN",
+    "serviceArea": [
+      "Murfreesboro",
+      "Smyrna",
+      "La Vergne",
+      "Lascassas",
+      "Christiana",
+      "Woodbury",
+      "Shelbyville"
+    ],
+    "phone": "(615) 556-0457"
+  },
+  "logo": {
+    "initials": "RR",
+    "tagline": "Roofing & Renovations · Murfreesboro",
+    "svg": "/assets/logos/roofing-renovations.svg"
+  },
+  "brand": {
+    "primary": "#a3232a",
+    "dark": "#1c1a17",
+    "accent": "#d8c9ae"
+  },
+  "assetFolder": "roofing",
+  "assistantName": "Roofing Renovations",
+  "google": {
+    "rating": 4.9,
+    "reviewCount": 93,
+    "profileUrl": "https://www.google.com/maps/place/Roofing+Renovations/@35.7363614,-86.336043,10z/data=!4m6!3m5!1s0x886407d69ce1ca09:0x24b106cc89e00359!8m2!3d35.7363614!4d-86.336043!16s%2Fg%2F11bt_gknfs"
+  },
+  "hero": {
+    "eyebrow": "Roofing & storm repair in Murfreesboro",
+    "headline": "Storm damage, new roofs and gutters in Murfreesboro, with insurance help.",
+    "subhead": "Roof replacements and storm damage repairs, gutters, siding and patio projects across Murfreesboro, Smyrna and Rutherford County. Send your address and a few photos and get a clear written estimate.",
+    "trustLine": [
+      "Help with insurance claims",
+      "Photo updates as we work",
+      "Roof warranty registered for you"
+    ],
+    "photo": "siding"
+  },
+  "quoteField": {
+    "label": "Roof need",
+    "options": [
+      "Storm or hail damage",
+      "Roof replacement",
+      "Leak or repair",
+      "Gutters or siding",
+      "Patio or porch"
+    ]
+  },
+  "skyeGreeting": "Hi, I'm the Roofing Renovations assistant. Storm damage, an old roof or new gutters? Tell me what's going on and I'll help you get an estimate or book an inspection.",
+  "about": {
+    "headline": "When a storm hits, you need someone in your corner.",
+    "body": "Most homeowners want the same things after storm damage: someone who answers, explains the insurance process in plain English, and a crew that installs it right. Every job runs that way, from gutters to a full roof and siding.",
+    "cards": [
+      {
+        "title": "Storm-damaged roofs",
+        "body": "Inspection, insurance help and a new roof, with the warranty registered for you."
+      },
+      {
+        "title": "Gutters and siding",
+        "body": "New gutters and siding that finish the outside of the house properly."
+      },
+      {
+        "title": "Patios and porches",
+        "body": "Covered patios and screened porches rebuilt or built new."
+      }
+    ],
+    "closing": "Not sure if it's covered? Send a few photos and we'll walk you through it."
+  },
+  "problems": {
+    "headline": "Dealing with storm damage in Murfreesboro shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow estimates",
+        "body": "After a storm, every roofer is busy and nobody calls back."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "No idea what insurance will cover or what you'll owe."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "A tarp on the roof for weeks while you wait for a crew."
+      },
+      {
+        "title": "Messy job sites",
+        "body": "Shingles and nails left in the yard after the install."
+      }
+    ],
+    "bridge": "You shouldn't have to fight your insurance company alone."
+  },
+  "solutions": {
+    "headline": "Straightforward roofing with clear communication.",
+    "services": [
+      {
+        "title": "Roof replacement & storm damage",
+        "body": "Storm damage inspections, insurance help and full roof replacements, with your warranty registered.",
+        "photo": "roofing"
+      },
+      {
+        "title": "Gutters & siding",
+        "body": "Gutter replacement and new siding to protect and finish the outside of your home.",
+        "photo": "siding"
+      },
+      {
+        "title": "Patios, porches & renovations",
+        "body": "Screened porches, covered patios and renovation work, built with the same care.",
+        "photo": "pergola"
+      }
+    ]
+  },
+  "process": {
+    "headline": "We inspect it. Explain it clearly. Install it right.",
+    "steps": [
+      {
+        "title": "Request your inspection",
+        "body": "Send your address and a few photos with the form or call Shane."
+      },
+      {
+        "title": "Inspection & insurance help",
+        "body": "We document the damage and walk you through the insurance process."
+      },
+      {
+        "title": "Quality install",
+        "body": "A careful install team, with photo updates while we work."
+      },
+      {
+        "title": "Warranty & final check",
+        "body": "We register your roof warranty and walk the finished job with you."
+      }
+    ]
+  },
+  "why": {
+    "headline": "93 reviews from homeowners across Rutherford County.",
+    "themes": [
+      {
+        "title": "Insurance handled",
+        "body": "Help getting storm claims resolved, start to finish."
+      },
+      {
+        "title": "Photo updates",
+        "body": "See the progress while you're at work."
+      },
+      {
+        "title": "Organized and responsive",
+        "body": "Questions answered fast, by one point of contact."
+      },
+      {
+        "title": "Quality install team",
+        "body": "A crew that cares about doing it right."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Russ McGill",
+      "rating": 5,
+      "date": "4 months ago",
+      "text": "Shane and Roofing Renovations were great to work with. We had storm damage and they went well above and beyond to work with us to get things resolved with the insurance company. Could not have asked for a more responsive, organized, knowledgable and supportive representative. The installation was great and even as a last step measure, they registered the roof warranty for us. 1000% would recommend them to anyone. Shane was likely the most supportive and attentive person we have ever worked with on a home repair."
+    },
+    {
+      "author": "Ethel Williamson",
+      "rating": 5,
+      "date": "2 months ago",
+      "text": "Shane Barber and his crew did a great job after storm damage blew the roof off our screened in porch and damaged the attached carport. Shane was a great help with the insurance company. The finished job is first class and the installation crew really cared about doing a quality job. It’s better than I imagined. I would use them again if I ever need any repairs or replacement."
+    },
+    {
+      "author": "Erica Montgomery",
+      "rating": 5,
+      "date": "2 weeks ago",
+      "text": "Has been great working with Shaun, Ed, & the everyone I've spoken with along the way. The roof was done very quickly & the install team was awesome! We also had new siding & everything replaced. It was a great experience from start to finish!\nWould definitely use RR again if needed!! 🤩"
+    }
+  ],
+  "finalCta": {
+    "headline": "Got storm damage or an old roof?",
+    "body": "Send your address and a few photos or pick a time for an inspection. You'll get a written estimate before any work is booked.",
+    "microcopy": "No pressure. Just a straight answer about your roof."
+  },
+  "faq": [
+    {
+      "q": "Can you help with my insurance claim?",
+      "a": "Yes. We inspect and document the damage and work with you and your insurance company to get the claim resolved."
+    },
+    {
+      "q": "Which areas do you cover?",
+      "a": "Murfreesboro and the surrounding area, including Smyrna, La Vergne, Lascassas, Christiana, Woodbury and Shelbyville."
+    },
+    {
+      "q": "Do you do gutters and siding too?",
+      "a": "Yes. Gutter replacement and siding are a big part of the work, often alongside a new roof."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your estimate and we'll send the license and insurance details for your project."
+    },
+    {
+      "q": "What happens after I submit a request?",
+      "a": "Your details come straight to us, you get a text and email confirmation, and we follow up to book an inspection."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
