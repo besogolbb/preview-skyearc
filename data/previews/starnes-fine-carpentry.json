@@ -1,0 +1,212 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-26): 'Starnes Fine Carpentry', 5.0 stars, 26 reviews, category 'Carpenter', phone +1 850-545-1556, opens 8 AM, service-area business around Tallahassee (no street address shown), no website ('Add website' shown).",
+    "services": "Google reviews (same session): framing/trim project (Zach Melby), breadboard kitchen backsplash fitted piece by piece (Lawton Segler), custom garage closet and open shelf unit with lumber options to keep cost down (Michelle Ubben), several projects in an apartment (Kay Smith). Review topics: attention to detail 10, projects 4, honesty 3, kitchen 3, job 3, finished product 2, communication 2, craftsmanship 2, shelves 2, closet 2. Owner: Luke Starnes; one review mentions 'Luke and his team'.",
+    "brand": "No brand online (no website, no logo). Sampled from their Google listing cover photo (stained tongue-and-groove wood ceiling) with scripts/sample-brand.mjs, adjusted by eye to the wood tones instead of the window blue: primary = stained wood #8a5528 (white 6.2:1), dark = deep walnut #2a1c11 (white 16.5:1), accent = honey wood #dcae74 (8.1:1 on dark). Sampled from their listing photo, not an official brand; confirm with the owner. Concept mark (mitred trim frame) is original.",
+    "reviews": "Google Reviews tab, same session: 3 complete 5-star reviews copied verbatim (Lawton Segler, Michelle Ubben, Zach Melby), stars read from each review's rating label."
+  },
+  "gap": "No website: 26 five-star reviews, but the Google listing shows 'Add website', so homeowners can only call; there's no way to send photos and measurements of a trim, shelving or kitchen job for an estimate.",
+  "market": "US",
+  "company": {
+    "name": "Starnes Fine Carpentry",
+    "trade": "Finish carpentry, trim and custom built-ins",
+    "city": "Tallahassee, FL",
+    "serviceArea": [
+      "Tallahassee"
+    ],
+    "phone": "(850) 545-1556"
+  },
+  "logo": {
+    "initials": "SF",
+    "tagline": "Fine Carpentry · Tallahassee",
+    "svg": "/assets/logos/starnes-fine-carpentry.svg"
+  },
+  "brand": {
+    "primary": "#8a5528",
+    "dark": "#2a1c11",
+    "accent": "#dcae74"
+  },
+  "assetFolder": "carpentry",
+  "assistantName": "Starnes Fine Carpentry",
+  "google": {
+    "rating": 5.0,
+    "reviewCount": 26,
+    "profileUrl": "https://www.google.com/maps/place/Starnes+Fine+Carpentry/@30.1192724,-84.1418114,9z/data=!4m6!3m5!1s0x625d4b146cf9175:0x6f832ba3187335e!8m2!3d30.1192724!4d-84.1418114!16s%2Fg%2F11zch5sjmf"
+  },
+  "hero": {
+    "eyebrow": "Fine carpentry in Tallahassee",
+    "headline": "Trim, built-ins and finish carpentry in Tallahassee.",
+    "subhead": "Trim and framing, kitchen backsplashes, custom closets and shelving, fitted piece by piece. Send a few photos and rough measurements and get a clear written estimate.",
+    "trustLine": [
+      "Fitted piece by piece",
+      "Lumber options to fit your budget",
+      "Small jobs welcome"
+    ],
+    "photo": "kitchen"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "Trim or molding",
+      "Kitchen carpentry",
+      "Closet or shelving",
+      "Framing",
+      "Something else"
+    ]
+  },
+  "skyeGreeting": "Hi, I'm the Starnes Fine Carpentry assistant. Got a trim, shelving or kitchen project in mind? Tell me about it and I'll help you get an estimate.",
+  "about": {
+    "headline": "For the jobs that need to be done just right.",
+    "body": "Most homeowners want the same thing from a carpenter: someone who shows up, does careful work with no gaps, and charges a fair price. Every job runs that way, from one shelf to a whole room of trim.",
+    "cards": [
+      {
+        "title": "Trim and framing",
+        "body": "Framing and trim work finished cleanly, with tight joints and straight lines."
+      },
+      {
+        "title": "Kitchens",
+        "body": "Backsplashes and kitchen carpentry, each piece fitted one at a time."
+      },
+      {
+        "title": "Closets and storage",
+        "body": "Custom closets and open shelving that clear the clutter out of garages and rooms."
+      }
+    ],
+    "closing": "Not sure it's worth a call? Small jobs are welcome. Send a photo."
+  },
+  "problems": {
+    "headline": "Finding a careful carpenter in Tallahassee shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow quotes",
+        "body": "Small jobs get ignored and the call never comes back."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "No idea what the job costs until the bill shows up."
+      },
+      {
+        "title": "Sloppy, uneven finishing",
+        "body": "Gaps in the trim and joints that don't line up."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "A quick job that sits half-finished for weeks."
+      }
+    ],
+    "bridge": "Good carpentry should look perfect and be easy to book."
+  },
+  "solutions": {
+    "headline": "Careful carpentry, done right.",
+    "services": [
+      {
+        "title": "Trim & finish carpentry",
+        "body": "Trim, molding and framing projects, finished with no gaps and clean lines.",
+        "photo": "door"
+      },
+      {
+        "title": "Kitchen carpentry & backsplashes",
+        "body": "Wood backsplashes and kitchen details, each piece fitted one at a time.",
+        "photo": "kitchen"
+      },
+      {
+        "title": "Custom closets & shelving",
+        "body": "Built-in closets and open shelf units, with lumber options to keep the cost down.",
+        "photo": "framing"
+      }
+    ]
+  },
+  "process": {
+    "headline": "We plan it. Price it fairly. Fit it perfectly.",
+    "steps": [
+      {
+        "title": "Send your project",
+        "body": "Share photos and rough measurements with the form or call Luke."
+      },
+      {
+        "title": "Plan & estimate",
+        "body": "We talk through the design and lumber options and give you a clear price."
+      },
+      {
+        "title": "Careful build",
+        "body": "Each piece is measured, cut and fitted on site."
+      },
+      {
+        "title": "Final walkthrough",
+        "body": "We check the finished work together and clean up."
+      }
+    ]
+  },
+  "why": {
+    "headline": "26 five-star reviews from Tallahassee homeowners.",
+    "themes": [
+      {
+        "title": "Attention to detail",
+        "body": "The thing customers mention most: meticulous, precise work."
+      },
+      {
+        "title": "Honest and fair",
+        "body": "Reasonable pricing and straight answers."
+      },
+      {
+        "title": "Reliable and quick",
+        "body": "Easy scheduling and jobs done when promised."
+      },
+      {
+        "title": "Clear communication",
+        "body": "You know the plan and the price from the start."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Lawton Segler",
+      "rating": 5,
+      "date": "5 months ago",
+      "text": "Meticulous.   If it needs to be perfect, hire Luke Starnes. He’s a REAL carpenter, and a pleasure to work with. He installed this breadboard backsplash in our new kitchen. Each piece was fitted one at a time. No gaps. Absolutely perfect!"
+    },
+    {
+      "author": "Michelle Ubben",
+      "rating": 5,
+      "date": "2 months ago",
+      "text": "Luke worked with us to cure the chronic mess in our garage by building a custom closet across the back and an open shelf unit. He worked with us on lumber options to keep the cost down. And he was reliable, quick, and a pleasure to work with. Highly recommend!"
+    },
+    {
+      "author": "Zach Melby",
+      "rating": 5,
+      "date": "5 months ago",
+      "text": "I was really impressed with Luke’s craftsmanship and the pride he takes in his work. He helped us with a framing/trim project and I wouldn’t hesitate to call him again in the future. 10/10 would recommend Starnes Fine Carpentry!"
+    }
+  ],
+  "finalCta": {
+    "headline": "Have a carpentry project in mind?",
+    "body": "Send a few photos and rough measurements or pick a time to talk it through. You'll get a written estimate before any work is booked.",
+    "microcopy": "No pressure. Small jobs welcome."
+  },
+  "faq": [
+    {
+      "q": "Do you take on small jobs?",
+      "a": "Yes. A single shelf, a bit of trim or a small repair is welcome. Send a photo and we'll let you know."
+    },
+    {
+      "q": "Can you help keep the cost down?",
+      "a": "Yes. We'll go through lumber and material options with you so the project fits your budget."
+    },
+    {
+      "q": "What kind of projects do you do?",
+      "a": "Trim and framing, kitchen backsplashes and carpentry, custom closets, shelving and other interior woodwork."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your estimate and we'll send the license and insurance details for your project."
+    },
+    {
+      "q": "What happens after I submit a request?",
+      "a": "Your details come straight to us, you get a text and email confirmation, and we follow up to talk through the project."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
