@@ -1,0 +1,216 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-26): 'Pueblo Remodeling Company LLC', 5.0 stars, 6 reviews, category 'Remodeler', phone +1 719-994-6008, opens 8 AM, service-area business around Pueblo, CO, website link = instagram.com.",
+    "instagram": "Their own Instagram @puebloremodelingcompanyllc (same day): bio 'Your Vision, Our Craftsmanship', 'Free estimates - 719-994-6008', 'Licensed & Insured', 'Local Handyman/Remodeling services'. Post grid shows kitchen remodels (new countertops, cabinets) and new flooring.",
+    "services": "Reviews: drywall repairs (Laurie Q), bathroom and den with new cabinets (Jordan Ortiz), fence repair after a traffic accident (Louis Stull), house repair (Manuel Gonzales). Review topics: punctuality 2, quick 2. Owner named in reviews: Brayan (also spelled Brian).",
+    "brand": "From their own logo (Instagram profile picture): navy house, red 'PUEBLO' wordmark, Colorado-flag style red/gold 'C'. Primary = logo red #b8202f (white 6.4:1), dark = logo navy #14274d (white 14.7:1), accent = flag gold #f2c230 (8.8:1 on dark). Colours read by eye from the logo; concept mark is original, not their logo.",
+    "reviews": "Google Reviews tab, same session: all 6 reviews are 5 stars; 3 complete ones copied verbatim (Laurie Q, Jordan Ortiz, Louis Stull)."
+  },
+  "gap": "Instagram-only: 6 five-star reviews and 'Free estimates' in their bio, but the Google website button goes to Instagram, so homeowners have to DM or call; there's no form to send job photos and details for that free estimate.",
+  "market": "US",
+  "company": {
+    "name": "Pueblo Remodeling Company LLC",
+    "trade": "Remodeling and handyman services",
+    "city": "Pueblo, CO",
+    "serviceArea": [
+      "Pueblo"
+    ],
+    "phone": "(719) 994-6008",
+    "credential": "Licensed & Insured"
+  },
+  "logo": {
+    "initials": "PR",
+    "tagline": "Remodeling · Pueblo, CO",
+    "svg": "/assets/logos/pueblo-remodeling-company-llc.svg"
+  },
+  "brand": {
+    "primary": "#b8202f",
+    "dark": "#14274d",
+    "accent": "#f2c230"
+  },
+  "assetFolder": "remodeling",
+  "assistantName": "Pueblo Remodeling",
+  "google": {
+    "rating": 5.0,
+    "reviewCount": 6,
+    "profileUrl": "https://www.google.com/maps/place/Pueblo+Remodeling+Company+LLC/@38.597367,-104.631862,9z/data=!4m6!3m5!1s0x8fd5d3407b043d3:0x7398564b4dd9eeb6!8m2!3d38.597367!4d-104.631862!16s%2Fg%2F11xssrs3ds"
+  },
+  "hero": {
+    "eyebrow": "Remodeling & repairs in Pueblo",
+    "headline": "Kitchens, bathrooms and home repairs in Pueblo.",
+    "subhead": "Kitchen and bathroom remodels, cabinets, countertops, flooring, drywall and handyman repairs. Send a few photos and get a free, easy-to-understand estimate.",
+    "primaryCta": "Get a free estimate",
+    "trustLine": [
+      "Free estimates",
+      "Licensed & insured",
+      "On time, every time"
+    ],
+    "photo": "kitchen"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "Kitchen remodel",
+      "Bathroom remodel",
+      "Flooring or drywall",
+      "Repair or handyman job",
+      "Fence repair"
+    ]
+  },
+  "skyeGreeting": "Hi, I'm the Pueblo Remodeling assistant. Planning a remodel or need something fixed? Tell me about the project and I'll help you get a free estimate.",
+  "about": {
+    "headline": "Your vision, our craftsmanship.",
+    "body": "Most homeowners want the same things from a remodeler: a quick visit, an estimate that's easy to understand, and a crew that shows up on time and leaves the place tidy. Every job runs that way, from a drywall patch to a full kitchen.",
+    "cards": [
+      {
+        "title": "Outdated kitchens and baths",
+        "body": "Worn cabinets, countertops and floors replaced with clean, modern finishes."
+      },
+      {
+        "title": "Repairs around the house",
+        "body": "Drywall, doors, trim and the jobs on your list that keep getting put off."
+      },
+      {
+        "title": "Damage that needs fixing fast",
+        "body": "Fences and walls repaired quickly after an accident or storm."
+      }
+    ],
+    "closing": "Not sure what it'll take? Send a few photos and we'll tell you."
+  },
+  "problems": {
+    "headline": "Remodeling in Pueblo shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow estimates",
+        "body": "Waiting a week just to get someone to look at the job."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "Estimates that are hard to read and change halfway through."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "Crews that show up late, or not at all."
+      },
+      {
+        "title": "Messy job sites",
+        "body": "Drywall dust and debris left all over the house."
+      }
+    ],
+    "bridge": "You should get a clear estimate fast and a crew you can count on."
+  },
+  "solutions": {
+    "headline": "Quality remodeling and repairs, done right.",
+    "services": [
+      {
+        "title": "Kitchen & bathroom remodeling",
+        "body": "New cabinets, countertops and fixtures that transform outdated kitchens, bathrooms and dens.",
+        "photo": "kitchen"
+      },
+      {
+        "title": "Flooring & drywall",
+        "body": "New floors laid and drywall repaired so it looks flawless when we're done.",
+        "photo": "tile"
+      },
+      {
+        "title": "Handyman & fence repairs",
+        "body": "Home repairs and fence fixes handled quickly, at a fair price.",
+        "photo": "gate"
+      }
+    ]
+  },
+  "process": {
+    "headline": "We look at it. Estimate it fast. Do it right.",
+    "steps": [
+      {
+        "title": "Request your free estimate",
+        "body": "Send a few photos with the form or call Brayan."
+      },
+      {
+        "title": "Visit & clear estimate",
+        "body": "We review the scope, take photos and send an easy-to-understand price."
+      },
+      {
+        "title": "Scheduled work",
+        "body": "The crew shows up on time and keeps the job tidy."
+      },
+      {
+        "title": "Final walkthrough",
+        "body": "We check the finished work with you before we call it done."
+      }
+    ]
+  },
+  "why": {
+    "headline": "Five-star reviews from Pueblo homeowners.",
+    "themes": [
+      {
+        "title": "Fast estimates",
+        "body": "Quick visits and clear, written pricing."
+      },
+      {
+        "title": "Punctual crew",
+        "body": "On time, every time, and easy to work with."
+      },
+      {
+        "title": "Competitive pricing",
+        "body": "Quality work and materials at a fair price."
+      },
+      {
+        "title": "Licensed & insured",
+        "body": "A local company that stands behind its work."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Laurie Q",
+      "rating": 5,
+      "date": "7 months ago",
+      "text": "I had a great experience with Pueblo Remodeling Co.  They came out quickly after contact to review the work scope. They listed, took photos and explained what they would be doing to complete the job. The estimate was provided within 24 hours and easy to understand.  We agreed on the price and scheduled the work.  They were always on time, every time. Friendly and Tidy.  The drywall repairs are flawless.\nI highly recommend Brayan and his crew.  Don't think twice, book with them now - you are getting a quality team."
+    },
+    {
+      "author": "Jordan Ortiz",
+      "rating": 5,
+      "date": "8 months ago",
+      "text": "Pueblo Remodeling Company delivered an outstanding transformation of my bathroom and den, replacing worn, outdated cabinets with sleek new ones. The craftsmanship was top-notch and the results exceeded expectations—100% recommend!"
+    },
+    {
+      "author": "Louis Stull",
+      "rating": 5,
+      "date": "7 months ago",
+      "text": "Pueblo Remodeling repaired our fence after it was seriously damaged by a traffic accident. Great work, fast and a good price. Good guys and very easy to work with."
+    }
+  ],
+  "finalCta": {
+    "headline": "Ready to start your project?",
+    "body": "Send a few photos or pick a time for a visit. You'll get a free, written estimate before any work is booked.",
+    "cta": "Get a free estimate",
+    "microcopy": "No pressure. Free estimates, licensed and insured."
+  },
+  "faq": [
+    {
+      "q": "Are your estimates free?",
+      "a": "Yes. Estimates are free. We look at the job, explain what's needed and send a clear written price."
+    },
+    {
+      "q": "How fast will I get my estimate?",
+      "a": "Usually soon after we visit. One customer had theirs within 24 hours of the walkthrough."
+    },
+    {
+      "q": "Do you take on small repair jobs?",
+      "a": "Yes. Along with full remodels we do handyman work: drywall, fences and repairs around the house."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Yes, we're licensed and insured. Ask for the details with your estimate."
+    },
+    {
+      "q": "What happens after I submit a request?",
+      "a": "Your details come straight to us, you get a text and email confirmation, and we follow up to set up a visit."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
