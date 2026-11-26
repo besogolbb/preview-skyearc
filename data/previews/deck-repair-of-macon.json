@@ -1,0 +1,203 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-26): 'Deck Repair of Macon', 5.0 stars, 4 reviews, category 'Deck builder', 344 Pond View Rd, Macon, GA 31206, phone +1 470-571-9504, opens 9 AM, no website ('Add website' shown). Owner named in a review: Phillip.",
+    "services": "Category 'Deck builder' and business name (deck repair). Reviews: finishing and correcting a deck left incomplete by a previous contractor, expanding it and adding to it (Sa'de Davis); a full deck project done thoroughly and on time (Kimberly Williamson). Review chips: timely completion 2. No other services claimed.",
+    "brand": "No website, socials or logo found. Sampled from their own Google listing cover photo (a grey deck at night with warm step lights around a tree): sample-brand suggested near-black #292f2d / #111812 / #af743b; set by eye to the warm deck-light amber as primary #9e5a22 (white 5.33:1), night green-black dark #141a16, light amber accent #f2b56b (9.75:1 on dark). Not an official brand; confirm with the owner.",
+    "reviews": "Google Reviews tab, same session, 'More' expanded: 4 five-star ratings, 2 with text; both copied verbatim (Sa'de Davis, Kimberly Williamson)."
+  },
+  "gap": "No website: the Google listing shows 'Add website', so homeowners with a soft or unfinished deck can only call; there's no place to send measurements or photos of the damage for an estimate.",
+  "market": "US",
+  "company": {
+    "name": "Deck Repair of Macon",
+    "trade": "Deck repair and deck building",
+    "city": "Macon, GA",
+    "phone": "(470) 571-9504"
+  },
+  "logo": {
+    "initials": "DM",
+    "tagline": "Deck Repair & Decks · Macon",
+    "svg": "/assets/logos/deck-repair-of-macon.svg"
+  },
+  "brand": {
+    "primary": "#9e5a22",
+    "dark": "#141a16",
+    "accent": "#f2b56b"
+  },
+  "assetFolder": "carpentry",
+  "assistantName": "Deck Repair of Macon",
+  "google": {
+    "rating": 5,
+    "reviewCount": 4,
+    "profileUrl": "https://www.google.com/maps/place/Deck+Repair+of+Macon/@32.8143133,-83.74734,17z/data=!4m6!3m5!1s0x88f3fb49937768f9:0xd791de70cfd953b2!8m2!3d32.8143133!4d-83.74734!16s%2Fg%2F11rbfbd3m1"
+  },
+  "hero": {
+    "eyebrow": "Deck repair & deck building in Macon",
+    "headline": "Deck repair and new decks in Macon, finished properly this time.",
+    "subhead": "Rotten boards, loose railings, half-finished decks and new builds across Macon. Send a few photos or measurements and get a clear estimate.",
+    "trustLine": [
+      "5.0★ on Google",
+      "Clear estimates before work starts",
+      "Unfinished jobs taken over"
+    ],
+    "photo": "stairs"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "Deck repair",
+      "Finish or fix another contractor's deck",
+      "New deck or expansion",
+      "Steps or railings",
+      "Something else"
+    ]
+  },
+  "skyeGreeting": "Hi, I'm the Deck Repair of Macon assistant. Got a deck that needs fixing, finishing or building? Tell me about it and I'll help you get an estimate.",
+  "about": {
+    "headline": "Decks done right, even when someone else started them.",
+    "body": "Maybe your deck is going soft after a few Georgia summers, or the last contractor left it half done. Either way you want someone who keeps his word, fixes it properly and finishes on time.",
+    "cards": [
+      {
+        "title": "Decks that need repair",
+        "body": "Worn boards, loose railings and weak steps fixed before they become a hazard."
+      },
+      {
+        "title": "Jobs left unfinished",
+        "body": "Decks another contractor didn't complete, corrected and finished properly."
+      },
+      {
+        "title": "More outdoor space",
+        "body": "New decks and expansions built for how you actually use the yard."
+      }
+    ],
+    "closing": "Not sure if it's a repair or a rebuild? Send a photo and ask."
+  },
+  "problems": {
+    "headline": "Getting a deck fixed in Macon shouldn't mean starting over.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow quotes",
+        "body": "Nobody gets back to you about a deck job."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "Contractors who start, then never come back to finish."
+      },
+      {
+        "title": "Sloppy finishing",
+        "body": "Messy work you're left paying someone else to fix."
+      },
+      {
+        "title": "Messy job sites",
+        "body": "Offcuts and old boards left all over the yard."
+      }
+    ],
+    "bridge": "Your deck should be finished, safe and done when promised."
+  },
+  "solutions": {
+    "headline": "Deck repairs and builds, start to finish.",
+    "services": [
+      {
+        "title": "Deck repair",
+        "body": "Replacing worn or rotten boards, tightening up railings and steps, and fixing structural problems.",
+        "photo": "deck"
+      },
+      {
+        "title": "New decks & expansions",
+        "body": "New decks built from the frame up, and existing decks made bigger.",
+        "photo": "framing"
+      },
+      {
+        "title": "Finishing others' work",
+        "body": "Decks left incomplete by another contractor, corrected and completed.",
+        "photo": "pergola"
+      }
+    ]
+  },
+  "process": {
+    "headline": "Show us the deck. Get a clear price. Enjoy it again.",
+    "steps": [
+      {
+        "title": "Send your project",
+        "body": "Use the form with a few photos or measurements, or give Phillip a call."
+      },
+      {
+        "title": "Inspect & estimate",
+        "body": "We look at the deck, explain what it needs and give you a clear price."
+      },
+      {
+        "title": "The work",
+        "body": "Repairs or the build done on schedule, with updates as it goes."
+      },
+      {
+        "title": "Walkthrough & cleanup",
+        "body": "We go over the finished deck with you and clear the yard."
+      }
+    ]
+  },
+  "why": {
+    "headline": "Thorough, professional and on time.",
+    "themes": [
+      {
+        "title": "Keeps his word",
+        "body": "Reviewers mention promises kept and work finished as agreed."
+      },
+      {
+        "title": "Timely completion",
+        "body": "Projects completed in a timely manner, not dragged out."
+      },
+      {
+        "title": "Fixes bad work",
+        "body": "Messy jobs from previous contractors corrected properly."
+      },
+      {
+        "title": "Extra care",
+        "body": "Small touches, like putting the furniture back on the deck."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Sa'de Davis",
+      "rating": 5,
+      "date": "4 years ago",
+      "text": "Great company! Phillip, the owner, kept his promised to finish my deck that wasn't completed by previous contractor. Not only did he correct messy job from previous contractor, but he completed it in a timely manner,  expanded it without question and added more to it. He even set my furniture on my deck without me asking him to do so. It's beautiful! and I truly recommend him to anyone who wants quality work. Great reputable company."
+    },
+    {
+      "author": "Kimberly Williamson",
+      "rating": 5,
+      "date": "2 years ago",
+      "text": "This company did an AMAZING job on our deck! They were so thorough and professional and got the project done in a very timely manner! Would 100% recommend them to anyone!"
+    }
+  ],
+  "finalCta": {
+    "headline": "Got a deck that needs some work?",
+    "body": "Send a few details and photos, or pick a time that suits you. You'll get a clear estimate before any work is booked.",
+    "microcopy": "No pressure. Just a straight answer about your deck."
+  },
+  "faq": [
+    {
+      "q": "How do estimates work?",
+      "a": "Send photos and rough measurements through the form, or call. We look at the deck and give you a clear price before any work starts."
+    },
+    {
+      "q": "Which areas do you cover?",
+      "a": "Macon and the surrounding area. Not sure if you're in range? Ask and we'll let you know."
+    },
+    {
+      "q": "Can you finish a deck another contractor started?",
+      "a": "Yes. We look at what's been done, correct anything that isn't right and finish the job."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your estimate and we'll send the license and insurance details for your job."
+    },
+    {
+      "q": "What happens after I submit a request?",
+      "a": "Your details come straight to us, you get a text and email confirmation, and we follow up to set a time to look at the deck."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
