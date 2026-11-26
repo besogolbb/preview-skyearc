@@ -1,0 +1,216 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-26). Two listings for the same business: 'All-in-1 Remodeling LLC' (4.7 stars, 36 reviews, category 'Contractor', opens 7 AM, website = all-in-1-llc.wixsite.com, NO phone number: Google shows 'Add place's phone number') and 'All-In-1 Remodeling LLC' (5.0 stars, 1 review, phone +1 251-654-2211, website = ai1rllc.com). The page uses the 36-review listing.",
+    "website": "https://www.ai1rllc.com/ (the Wix subdomain on the sheet redirects here, 2026-11-26): 'ALL-IN-1 Remodeling - Daphne, Fairhope & Spanish Fort', '©2018 ... created with Wix.com'. Services: Bathroom Remodeling; Exterior & Interior Painting; Fence and Railing Installations; Flooring Installations; Hardwood Installations; Carpet, Backsplash and Custom Shower installations. The Carpet, Backsplash and Custom Shower cards still show Wix placeholder text ('I’m a paragraph. Double click me or click Edit Text, it's easy.'). Footer: (251)654-2211, P.O. Box 7736, Spanish Fort, AL 36577, 'Owner: Ryan Michael'. Logo: navy and lime-green house badge.",
+    "services": "Website services plus Google review topics: small projects 11, punctuality 6, bathroom remodel 4, drywall repair 3, detailed work 3, attention to detail 3, courtesy of crew 2, on-time completion 2, daily cleanup 2, dependable staff 2. Reviews: primary bathroom remodel with a line-by-line quote (April Amburgy), carpet to hardwood (Natalie West), multiple projects (Anne Schnatter, Lisa Turner), renovated bathrooms (Jolee Havard).",
+    "serviceArea": "Website title: Daphne, Fairhope & Spanish Fort (Baldwin County).",
+    "brand": "From their own logo: navy and lime green. Primary = navy #1f3f73 (white 10.4:1), dark = #111a2c, accent = the logo lime #8bd13f (9.4:1 on dark). Concept mark is original (a numeral 1), not their logo.",
+    "reviews": "Google Reviews tab of the 36-review listing, same session: 3 complete 5-star reviews copied verbatim (April Amburgy, Natalie West, Anne Schnatter), stars checked via each review's rating label. Owner Ryan Michael."
+  },
+  "gap": "Their main Google listing (36 reviews) has no phone number at all, the number sits on a duplicate 1-review listing, and their website still shows Wix placeholder text ('I’m a paragraph. Double click me…') on three service cards, so homeowners who find the reviews have no quick way to call or request an estimate.",
+  "market": "US",
+  "company": {
+    "name": "ALL-IN-1 Remodeling LLC",
+    "trade": "Bathroom remodeling, flooring and home improvement",
+    "city": "Daphne, AL",
+    "serviceArea": [
+      "Daphne",
+      "Fairhope",
+      "Spanish Fort"
+    ],
+    "phone": "(251) 654-2211"
+  },
+  "logo": {
+    "initials": "A1",
+    "tagline": "Remodeling · Daphne, Fairhope & Spanish Fort",
+    "svg": "/assets/logos/all-in-1-remodeling-llc.svg"
+  },
+  "brand": {
+    "primary": "#1f3f73",
+    "dark": "#111a2c",
+    "accent": "#8bd13f"
+  },
+  "assetFolder": "remodeling",
+  "assistantName": "ALL-IN-1",
+  "google": {
+    "rating": 4.7,
+    "reviewCount": 36,
+    "profileUrl": "https://www.google.com/maps/place/All-in-1+Remodeling+LLC/@30.5912615,-87.7862249,11z/data=!4m6!3m5!1s0x889a41a199a465b3:0x8ebc3b8edd07c2f0!8m2!3d30.5912615!4d-87.7862249!16s%2Fg%2F11h1dzk1qj"
+  },
+  "hero": {
+    "eyebrow": "Remodeling in Daphne, Fairhope & Spanish Fort",
+    "headline": "Bathrooms, floors and remodeling in Daphne, quoted line by line.",
+    "subhead": "Bathroom remodels, hardwood and flooring, painting, fences and railings, and the small projects in between, across Daphne, Fairhope and Spanish Fort. Get a detailed written estimate.",
+    "trustLine": [
+      "Line-by-line estimates",
+      "Owner-led: Ryan Michael",
+      "Daily cleanup"
+    ],
+    "photo": "kitchen"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "Bathroom remodel",
+      "Flooring or hardwood",
+      "Painting",
+      "Fence or railing",
+      "Small project or repair"
+    ]
+  },
+  "skyeGreeting": "Hi, I'm the ALL-IN-1 Remodeling assistant. Planning a bathroom remodel, new floors or a few projects around the house? Tell me about it and I'll help you get an estimate or book a time.",
+  "about": {
+    "headline": "One crew for the big remodel and the small projects.",
+    "body": "Most homeowners want the same things from a remodeler: a detailed quote they can actually compare, an owner who answers questions, and a crew that's on time and cleans up every day. Every job runs that way, from a drywall patch to a full bathroom.",
+    "cards": [
+      {
+        "title": "Bathrooms that need a redo",
+        "body": "Primary bathroom remodels, custom showers and backsplashes, planned with you."
+      },
+      {
+        "title": "Floors that have had it",
+        "body": "Carpet out, hardwood in, matched to the flooring you already have."
+      },
+      {
+        "title": "The list of small projects",
+        "body": "Drywall, painting, fences and railings handled by one dependable crew."
+      }
+    ],
+    "closing": "Not sure where to start? Tell us about the job and we'll talk it through."
+  },
+  "problems": {
+    "headline": "Getting a remodel done in Baldwin County shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow estimates",
+        "body": "You call around and wait weeks for anyone to come out."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "One-line quotes you can't compare and costs that climb later."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "Crews that don't show up and jobs that drag on."
+      },
+      {
+        "title": "Messy job sites",
+        "body": "Dust and debris left through the house every day."
+      }
+    ],
+    "bridge": "You shouldn't have to chase a contractor just to get a detailed estimate."
+  },
+  "solutions": {
+    "headline": "Straightforward remodeling with clear communication.",
+    "services": [
+      {
+        "title": "Bathroom remodels",
+        "body": "Primary bathroom remodels, custom showers and backsplashes, with a line-by-line quote.",
+        "photo": "bathroom"
+      },
+      {
+        "title": "Flooring & hardwood",
+        "body": "Hardwood, flooring and carpet installation, matched carefully to what's already there.",
+        "photo": "tile"
+      },
+      {
+        "title": "Painting, fences & small projects",
+        "body": "Interior and exterior painting, fences and railings, drywall repair and small projects.",
+        "photo": "gate"
+      }
+    ]
+  },
+  "process": {
+    "headline": "We listen to what you need. Estimate it line by line. Build it right.",
+    "steps": [
+      {
+        "title": "Request your estimate",
+        "body": "Send a few details with the form or call Ryan."
+      },
+      {
+        "title": "Line-by-line quote",
+        "body": "We look at the job and send a detailed quote you can compare item by item."
+      },
+      {
+        "title": "On-time, tidy work",
+        "body": "A courteous crew that shows up on time and cleans up daily."
+      },
+      {
+        "title": "Final walkthrough",
+        "body": "We walk the finished job with you and sort anything on the list before we call it done."
+      }
+    ]
+  },
+  "why": {
+    "headline": "Detailed quotes and a crew that takes pride in the work.",
+    "themes": [
+      {
+        "title": "Line-by-line estimates",
+        "body": "Every item spelled out, so you know exactly what you're paying for."
+      },
+      {
+        "title": "Owner-led",
+        "body": "Ryan Michael communicates with you throughout the job."
+      },
+      {
+        "title": "Punctual crew",
+        "body": "On time, courteous and dependable."
+      },
+      {
+        "title": "Daily cleanup",
+        "body": "The house left tidy at the end of every work day."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "April Amburgy",
+      "rating": 5,
+      "date": "a year ago",
+      "text": "All-in-1 did an outstanding job with our primary bathroom remodel! I received quotes from multiple companies, but they were the only company to provide us with a detailed line by line quote. The owner, Ryan Michael, communicated with me throughout the entire renovation and went above and beyond to answer all of my crazy questions! All of the employees were extremely knowledgeable, detailed, and respectful. You can tell they definitely take pride in their work! I’d recommend them to anyone needing home renovations done!"
+    },
+    {
+      "author": "Natalie West",
+      "rating": 5,
+      "date": "a year ago",
+      "text": "All-in-1did an amazing job replacing carpet with hardwood floors in our home! Ryan Michael was a pleasure to work with and showed great attention to detail. He was able to match almost perfectly with the existing flooring. He communicated constantly throughout the process. I would recommend them without a doubt!"
+    },
+    {
+      "author": "Anne Schnatter",
+      "rating": 5,
+      "date": "a month ago",
+      "text": "They did multiple projects for us, and they do beautiful work! They are very knowledgeable, professional, and reliable! They worked hard every day and have a team of people that all were very polite and competent. I'm so glad to know a great contractor I can call for all of our remodeling needs! You won't be disappointed!"
+    }
+  ],
+  "finalCta": {
+    "headline": "Ready to talk about your bathroom, floors or project list?",
+    "body": "Send a few details or pick a time that suits you. You'll get a detailed estimate before anything is booked in.",
+    "microcopy": "No pressure. Just a straightforward conversation about your project."
+  },
+  "faq": [
+    {
+      "q": "How do estimates work?",
+      "a": "Send the project through the form or call Ryan. We'll look at the job and send a line-by-line estimate, so you can see exactly what's included."
+    },
+    {
+      "q": "Which areas do you cover?",
+      "a": "Daphne, Fairhope and Spanish Fort. Close by but not on the list? Ask anyway."
+    },
+    {
+      "q": "Do you take small projects?",
+      "a": "Yes. Small projects are a big part of the work: drywall repair, painting, railings and more."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your estimate and we'll send the license and insurance details for your project."
+    },
+    {
+      "q": "What happens after I submit a request?",
+      "a": "Your details come straight to us, you get a text and email confirmation, and we follow up to set a time to look at the job."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
