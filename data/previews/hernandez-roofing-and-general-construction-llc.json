@@ -1,0 +1,211 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-26): 'Hernandez Roofing and General Construction LLC', 5.0 stars, 7 reviews, category 'Construction company', phone +1 903-490-2025, address on Buchanan Rd, Texarkana, TX 75501, opens 6 AM, 'Identifies as Latino-owned', 'Appointment required', no website ('Add website' shown). Cover photo shows a large crew in front of a finished stucco building.",
+    "services": "Only the business name (roofing + general construction) and category are verified; reviews praise reliability, responsiveness, speed and quality ('turned our House into Showroom'), review topic 'workmanship 2'. Service copy kept general on purpose; no specific sub-services claimed.",
+    "brand": "No brand online (no website, no logo). Sampled from their Google listing cover photo (crew in front of a lit stucco building at night) with scripts/sample-brand.mjs, adjusted by eye: primary = night-sky blue #34405c (white 10.3:1), dark = near-black #12141b (white 18.4:1), accent = lit stucco gold #e0b878 (9.9:1 on dark). Sampled from their listing photo, not an official brand; confirm with the owner. Concept mark is original.",
+    "reviews": "Google Reviews tab, same session: all 7 reviews are 5 stars; 3 complete ones copied verbatim (Kevin Wallace, Gerald Soper, The Dardens). Skipped a review by 'Isaac Hernandez' (same surname as the business, possibly family)."
+  },
+  "gap": "No website: 7 five-star reviews and 'Appointment required' on the listing, but no website ('Add website' shown), so homeowners can only call to book; there's no way to send roof photos or project details or request an estimate online.",
+  "market": "US",
+  "company": {
+    "name": "Hernandez Roofing and General Construction LLC",
+    "trade": "Roofing and general construction",
+    "city": "Texarkana, TX",
+    "serviceArea": [
+      "Texarkana"
+    ],
+    "phone": "(903) 490-2025"
+  },
+  "logo": {
+    "initials": "HR",
+    "tagline": "Roofing & Construction · Texarkana",
+    "svg": "/assets/logos/hernandez-roofing-and-general-construction-llc.svg"
+  },
+  "brand": {
+    "primary": "#34405c",
+    "dark": "#12141b",
+    "accent": "#e0b878"
+  },
+  "assetFolder": "roofing",
+  "assistantName": "Hernandez Roofing",
+  "google": {
+    "rating": 5.0,
+    "reviewCount": 7,
+    "profileUrl": "https://www.google.com/maps/place/Hernandez+Roofing+and+General+Construction+LLC/@33.3690006,-94.0673327,17z/data=!4m6!3m5!1s0x2fbe5c41ed20d5d7:0x1d457dbdfcfa2781!8m2!3d33.3690006!4d-94.0673327!16s%2Fg%2F11lcn0sgkv"
+  },
+  "hero": {
+    "eyebrow": "Roofing & construction in Texarkana",
+    "headline": "Roofing and construction done right in Texarkana.",
+    "subhead": "Roof work and general construction for Texarkana homes, from a full crew that works fast and finishes clean. Send your address and a few photos and get a clear written estimate.",
+    "trustLine": [
+      "Full crew, fast turnaround",
+      "Reliable and responsive",
+      "Latino-owned, local"
+    ],
+    "photo": "siding"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "Roof repair",
+      "Roof replacement",
+      "Construction project",
+      "Something else"
+    ]
+  },
+  "skyeGreeting": "Hi, I'm the Hernandez Roofing assistant. Need roof work or have a construction project? Tell me what's going on and I'll help you get an estimate or book a visit.",
+  "about": {
+    "headline": "One crew for your roof and your project.",
+    "body": "Most homeowners want the same things from a contractor: someone who answers, shows up when they said, and does quality work fast. Every job runs that way, whether it's the roof or a bigger construction project.",
+    "cards": [
+      {
+        "title": "Roof problems",
+        "body": "Leaks, worn shingles or storm wear looked at and fixed properly."
+      },
+      {
+        "title": "New roofs",
+        "body": "Full roof replacements handled by an experienced crew."
+      },
+      {
+        "title": "Construction projects",
+        "body": "General construction work for homes around Texarkana."
+      }
+    ],
+    "closing": "Not sure what you need? Send a few photos and we'll take a look."
+  },
+  "problems": {
+    "headline": "Getting roof work done in Texarkana shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow estimates",
+        "body": "You call around and nobody gets back to you."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "No clear number until the job is already started."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "A job that should take days drags on for weeks."
+      },
+      {
+        "title": "Messy job sites",
+        "body": "Debris and nails left behind when the crew leaves."
+      }
+    ],
+    "bridge": "You deserve a contractor who's reliable from the first call."
+  },
+  "solutions": {
+    "headline": "Quality roofing and construction, done fast.",
+    "services": [
+      {
+        "title": "Roof repair",
+        "body": "Leaks and damaged areas inspected and repaired before they get worse.",
+        "photo": "roofing"
+      },
+      {
+        "title": "Roof replacement",
+        "body": "Old roofs torn off and replaced by a full, experienced crew.",
+        "photo": "siding"
+      },
+      {
+        "title": "General construction",
+        "body": "Construction and home projects built with the same care as the roof.",
+        "photo": "framing"
+      }
+    ]
+  },
+  "process": {
+    "headline": "We look at it. Price it clearly. Build it right.",
+    "steps": [
+      {
+        "title": "Request your visit",
+        "body": "Send your address and a few photos with the form or call."
+      },
+      {
+        "title": "Inspection & estimate",
+        "body": "We check the job and give you a clear written price."
+      },
+      {
+        "title": "Fast, quality work",
+        "body": "The crew gets it done quickly and keeps you updated."
+      },
+      {
+        "title": "Clean-up & final check",
+        "body": "Debris cleared and the finished job walked with you."
+      }
+    ]
+  },
+  "why": {
+    "headline": "Five-star reviews from homeowners around Texarkana.",
+    "themes": [
+      {
+        "title": "Reliable and responsive",
+        "body": "Calls answered and appointments kept."
+      },
+      {
+        "title": "Fast and consistent",
+        "body": "Work done quickly without cutting corners."
+      },
+      {
+        "title": "Quality workmanship",
+        "body": "Finished work homeowners are proud to show off."
+      },
+      {
+        "title": "Local crew",
+        "body": "A Latino-owned Texarkana company with a full team."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Kevin Wallace",
+      "rating": 5,
+      "date": "a month ago",
+      "text": "Hernandez Roofing and General Construction LLC provided a smooth and professional experience. The team was reliable, responsive, and committed to quality work."
+    },
+    {
+      "author": "Gerald Soper",
+      "rating": 5,
+      "date": "2 years ago",
+      "text": "The Crew did a Outstanding Job  they turned our House into  Showroom  absolutely Beautiful"
+    },
+    {
+      "author": "The Dardens",
+      "rating": 5,
+      "date": "2 years ago",
+      "text": "Does great work! Very fast and consistent! Best in town"
+    }
+  ],
+  "finalCta": {
+    "headline": "Need roof work or a construction project done?",
+    "body": "Send your address and a few photos or pick a time for a visit. You'll get a written estimate before any work is booked.",
+    "microcopy": "No pressure. Just a straight answer."
+  },
+  "faq": [
+    {
+      "q": "Do I need an appointment?",
+      "a": "Yes. Send your details with the form or pick a time, and we'll set up a visit to look at the job."
+    },
+    {
+      "q": "Do you only do roofing?",
+      "a": "No. We handle roofing and general construction, so one crew can take care of the roof and other work on your home."
+    },
+    {
+      "q": "How fast can you get the job done?",
+      "a": "Customers often mention how fast the crew works. We'll give you a timeline with your estimate."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your estimate and we'll send the license and insurance details for your project."
+    },
+    {
+      "q": "What happens after I submit a request?",
+      "a": "Your details come straight to us, you get a text and email confirmation, and we follow up to book a visit."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
