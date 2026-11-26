@@ -1,0 +1,221 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-26): 'Ready Roof Restorations', 5.0 stars, 18 reviews, category 'Roofing contractor', 'Open 24 hours', phone +61 426 010 188, website = readyroofrestorati.wixsite.com.",
+    "serviceArea": "Google service-area outline (headless render, same day): greater Sydney from Richmond, Penrith and Blacktown through Parramatta, Hornsby and the city to Liverpool, Campbelltown, Hurstville and Cronulla.",
+    "website": "https://readyroofrestorati.wixsite.com/nearme (2026-11-26): free Wix site with the Wix ad banner, page title 'Home | Nearme', 'Ready Roof Restorations Available 24/7', 'We Never Back Down When It Comes To Quality Products And Customer Service, And We Give Competitive Pricing.', services Valley Replacement, Roof Painting, Roof Cleaning; a quote form.",
+    "services": "Website services plus Google review topics: roof restoration 13, paints 5, roof painting 3, roof cleaning 3, workmanship 3, attention to detail 2, home appearance 2, tiles 2. Reviews: full restoration by a husband and wife team (Nicole Athans), clean, re-point and paint with broken ridge caps fixed and a 10 year workmanship warranty (Tabesh Doss), clean and paint (John Mclean).",
+    "brand": "No logo or brand colours found (site is black and white). Sampled from their own Google listing cover photo (freshly coated slate-blue roof tiles): primary = slate #4a5461 (white 7.7:1), dark = navy #1a293e, accent = warm sand #ccac7f (6.8:1 on dark). Not an official brand; confirm with the owner.",
+    "reviews": "Google Reviews tab, same session: 3 complete 5-star reviews copied verbatim (Nicole Athans, Tabesh Doss, John Mclean), stars checked via each review's rating label."
+  },
+  "gap": "The Google website button opens a free Wix page titled 'Nearme' with a Wix ad banner and stock-looking photos, so the 18 five-star reviews and their own restoration work aren't what homeowners see when they click through.",
+  "market": "AU",
+  "company": {
+    "name": "Ready Roof Restorations",
+    "trade": "Roof restorations and repairs",
+    "city": "Sydney, NSW",
+    "serviceArea": [
+      "Penrith",
+      "Blacktown",
+      "Parramatta",
+      "Hornsby",
+      "Liverpool",
+      "Campbelltown",
+      "Hurstville",
+      "Cronulla"
+    ],
+    "phone": "0426 010 188"
+  },
+  "logo": {
+    "initials": "RR",
+    "tagline": "Roof Restorations · Sydney",
+    "svg": "/assets/logos/ready-roof-restorations.svg"
+  },
+  "brand": {
+    "primary": "#4a5461",
+    "dark": "#1a293e",
+    "accent": "#ccac7f"
+  },
+  "assetFolder": "roofing",
+  "assistantName": "Ready Roof",
+  "google": {
+    "rating": 5,
+    "reviewCount": 18,
+    "profileUrl": "https://www.google.com/maps/place/Ready+Roof+Restorations/@-33.8482439,150.8018964,10z/data=!4m6!3m5!1s0x6ac6afa2fb1122b9:0x4e25714818d933f1!8m2!3d-33.8482439!4d150.8018964!16s%2Fg%2F11w9psp1kk"
+  },
+  "hero": {
+    "eyebrow": "Roof restorations across Sydney",
+    "headline": "Roof restorations in Sydney that make your house look brand new.",
+    "subhead": "Roof cleaning, re-pointing, painting and valley replacement across greater Sydney. Send a few photos of your roof and get a clear written quote.",
+    "trustLine": [
+      "Available 24/7",
+      "Husband and wife team",
+      "Competitive pricing"
+    ],
+    "photo": "rooftiles"
+  },
+  "quoteField": {
+    "label": "Roof need",
+    "options": [
+      "Full roof restoration",
+      "Roof painting",
+      "Roof cleaning",
+      "Re-pointing or ridge caps",
+      "Valley replacement"
+    ]
+  },
+  "skyeGreeting": "G'day, I'm the Ready Roof assistant. Roof looking tired, leaking or in need of a fresh coat? Tell me what's going on and I'll help you get a quote or book a time.",
+  "about": {
+    "headline": "Your roof, looked after like it's our own.",
+    "body": "Most people want the same things from a roofer: someone who turns up, explains what the roof needs, and does the job with care and quality products at a fair price. As a husband and wife team, every restoration is done that way, from the first clean to the final coat.",
+    "cards": [
+      {
+        "title": "Tired, faded tile roofs",
+        "body": "A full clean, repairs and a fresh coat so the house looks brand new again."
+      },
+      {
+        "title": "Broken ridge caps and pointing",
+        "body": "Ridge caps fixed and re-pointed so they stay put and keep the water out."
+      },
+      {
+        "title": "Rusty valleys",
+        "body": "Old valleys replaced before a heavy downpour turns into a ceiling problem."
+      }
+    ],
+    "closing": "Not sure what your roof needs? Send a few photos and we'll tell you straight."
+  },
+  "problems": {
+    "headline": "Getting a roofer out in Sydney shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow quotes",
+        "body": "You ring around and wait weeks for anyone to come and look."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "A quote that grows once the tradie is up on the roof."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "The job keeps getting pushed back while the leak gets worse."
+      },
+      {
+        "title": "Sloppy finishing",
+        "body": "Patchy paint and pointing that cracks again in a year."
+      }
+    ],
+    "bridge": "You shouldn't have to chase a roofer just to get a clear quote."
+  },
+  "solutions": {
+    "headline": "Straightforward roof restoration with quality products.",
+    "services": [
+      {
+        "title": "Roof restoration & painting",
+        "body": "A full restoration: clean, repairs, re-pointing and a fresh coat with quality products.",
+        "photo": "rooftiles"
+      },
+      {
+        "title": "Roof cleaning & re-pointing",
+        "body": "A proper clean before painting, plus broken ridge caps fixed and re-pointed.",
+        "photo": "tilemoss"
+      },
+      {
+        "title": "Valley replacement",
+        "body": "Rusty valleys replaced before they let water into the ceiling.",
+        "photo": "brokentiles"
+      }
+    ]
+  },
+  "process": {
+    "headline": "We look at the roof. Quote it clearly. Restore it properly.",
+    "steps": [
+      {
+        "title": "Request your quote",
+        "body": "Send a few photos with the form or give us a ring, any time."
+      },
+      {
+        "title": "Roof check & clear quote",
+        "body": "We have a proper look, explain what it needs and put the price in writing."
+      },
+      {
+        "title": "Careful restoration",
+        "body": "Cleaned, repaired and coated with quality products and real attention to detail."
+      },
+      {
+        "title": "Final check",
+        "body": "We walk you through the finished roof before we call it done."
+      }
+    ]
+  },
+  "why": {
+    "headline": "18 five-star reviews across Sydney.",
+    "themes": [
+      {
+        "title": "Husband and wife team",
+        "body": "A small local business that takes pride in every roof."
+      },
+      {
+        "title": "Quality products",
+        "body": "Good paints and materials that protect against the Australian weather."
+      },
+      {
+        "title": "Attention to detail",
+        "body": "Careful work from the first clean to the final coat."
+      },
+      {
+        "title": "Competitive pricing",
+        "body": "Fair prices, written down before work starts."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Nicole Athans",
+      "rating": 5,
+      "date": "5 months ago",
+      "text": "Ready Roof - Husband and wife team\nI recently had my roof restored, and I couldn't be happier with the results. The entire process was completed with exceptional care, attention to detail, and dedication from start to finish.\n\nThey took great pride in their workmanship. The quality of the restoration has exceeded my expectations. My roof not only looks fantastic but also gives me confidence that it is well protected for years to come.\n\nI highly recommend their services to anyone looking for a professional roof restoration completed with skill, care, and dedication. Thank you for a job very well done."
+    },
+    {
+      "author": "Tabesh Doss",
+      "rating": 5,
+      "date": "a year ago",
+      "text": "Ready Roof restorations did an amazing job on my roof. The paint was peeling off and Ridge caps broken. They cleaned the roof, re-pointed and painted it and it looks brand spanking new.\nComes withn10 year workmanship warranty."
+    },
+    {
+      "author": "John Mclean",
+      "rating": 5,
+      "date": "2 years ago",
+      "text": "Ready Roof Restorations did an awesome job on our roof.\nThe tiles were looking old and dirty but after a thorough clean and new paint job, our house looked brand new.\nHighly recommend these guys for looking after your roof repairs and restoration."
+    }
+  ],
+  "finalCta": {
+    "headline": "Is your roof due for some attention?",
+    "body": "Send a few photos or pick a time that suits you. You'll get a written quote before any work is booked.",
+    "microcopy": "No pressure. Just honest advice about your roof."
+  },
+  "faq": [
+    {
+      "q": "How do quotes work?",
+      "a": "Send a few photos through the form or give us a ring. We'll have a proper look at the roof and send a written quote with the scope and price."
+    },
+    {
+      "q": "Which areas do you cover?",
+      "a": "Greater Sydney, from Penrith and Blacktown through Parramatta and Hornsby to Liverpool, Campbelltown and Cronulla. Close by but not on the list? Ask anyway."
+    },
+    {
+      "q": "Does my roof need a full restoration?",
+      "a": "Not always. Sometimes re-pointing, a few new tiles or a valley replacement is all it needs. We'll tell you honestly."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your quote and we'll send the licence and insurance details for your job."
+    },
+    {
+      "q": "What happens after I submit a request?",
+      "a": "Your details come straight to us, you get a text and email confirmation, and we follow up to book a roof check."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
