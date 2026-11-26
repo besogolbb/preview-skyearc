@@ -1,0 +1,214 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-26): 'Clear Cut Construction Group Pty Ltd', 5.0 stars, 8 reviews, category 'Construction company', phone +61 461 309 750, closes 5 PM, no address shown, no photos; the website button links to facebook.com. Owner named in reviews: Robbie.",
+    "facebook": "facebook.com/clearcutcms (same session): 'Clear Cut Construction Group Pty Ltd', 217 followers, category Construction Company, location Mount Lofty QLD 4350 (Toowoomba). About: 'residential and commercial construction projects across the Darling Downs, specialising in fit-outs, renovations, new builds, maintenance, insurance repairs, granny flats, and tiny homes'. Cover tagline 'A cut above the rest'. Latest post: launching their own range of tiny homes in Toowoomba.",
+    "services": "Facebook about (above). Google review service tags and text: pergolas, decks, stairs and handrails, general carpentry and cabinetry, cabinets, closets, shelving and storage, trim carpentry, fencing, exterior painting, plumbing fixtures, drywall, storm make-safe, repairs and maintenance, major home constructions and renovations.",
+    "brand": "Their own Facebook logo: 'Clear Cut' white script with a hand saw on a charcoal circle; the saw handle is timber. Brand = charcoal + timber: timber primary #8a6033 (white 5.52:1), charcoal dark #1c1a1a, light timber accent #d8b27a (8.72:1 on dark). Hexes read by eye from the logo; confirm with the owner.",
+    "reviews": "Google Reviews tab, same session, 'More' expanded: all 8 reviews are 5 stars. Three complete reviews copied verbatim (Janice Mouatt, Billie Barron, Kaye Lindsay)."
+  },
+  "gap": "The Google website button goes to a Facebook page, so homeowners looking for a quote on a reno, pergola or granny flat have to message on Facebook or ring; there's no simple place to send plans or photos for a written quote.",
+  "market": "AU",
+  "company": {
+    "name": "Clear Cut Construction Group Pty Ltd",
+    "trade": "Construction, renovations and carpentry",
+    "city": "Toowoomba, QLD",
+    "serviceArea": [
+      "Toowoomba",
+      "The Darling Downs"
+    ],
+    "phone": "0461 309 750"
+  },
+  "logo": {
+    "initials": "CC",
+    "tagline": "Construction Group · Toowoomba",
+    "svg": "/assets/logos/clear-cut-construction-group-pty-ltd.svg"
+  },
+  "brand": {
+    "primary": "#8a6033",
+    "dark": "#1c1a1a",
+    "accent": "#d8b27a"
+  },
+  "assetFolder": "builders",
+  "assistantName": "Clear Cut",
+  "google": {
+    "rating": 5,
+    "reviewCount": 8,
+    "profileUrl": "https://www.google.com/maps/place/Clear+Cut+Construction+Group+Pty+Ltd/@-27.5443783,151.9387137,12z/data=!4m6!3m5!1s0x4d1ce884de7f612f:0x714e6e67b48ee515!8m2!3d-27.5443782!4d151.9387136!16s%2Fg%2F11pdy5yf_t"
+  },
+  "hero": {
+    "eyebrow": "Construction & carpentry in Toowoomba",
+    "headline": "Renovations, pergolas and new builds in Toowoomba, done a cut above.",
+    "subhead": "Fit-outs, renovations, decks, pergolas, granny flats, tiny homes and insurance repairs across Toowoomba and the Darling Downs. Send a few details and get a clear written quote.",
+    "trustLine": [
+      "5.0★ on Google",
+      "Detailed written quotes",
+      "Regular, open communication"
+    ],
+    "photo": "framing"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "Renovation or fit-out",
+      "Deck, pergola or stairs",
+      "Granny flat, tiny home or new build",
+      "Repairs, maintenance or insurance work",
+      "Something else"
+    ]
+  },
+  "skyeGreeting": "G'day, I'm the Clear Cut assistant. Got a reno, a pergola or a build in mind? Tell me a bit about it and I'll help you get a quote or book a time.",
+  "about": {
+    "headline": "One team for the small fix and the big build.",
+    "body": "A pergola for the backyard, a reno on a house you've just bought, storm damage that needs making safe, or a granny flat out the back. You want honest advice, a detailed quote and a team that turns up when they said.",
+    "cards": [
+      {
+        "title": "Renovating a home",
+        "body": "Renovations, fit-outs, cabinetry and storage done properly from the frame up."
+      },
+      {
+        "title": "Outdoor living",
+        "body": "Decks, pergolas, stairs and handrails designed with you and built to last."
+      },
+      {
+        "title": "Building something new",
+        "body": "Granny flats, tiny homes and new builds across the Darling Downs."
+      }
+    ],
+    "closing": "Not sure what the job involves? Send a photo and ask."
+  },
+  "problems": {
+    "headline": "Getting a builder in Toowoomba to quote properly shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow quotes",
+        "body": "Builders who never get back to you with a price."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "One-line quotes that leave you guessing about the cost."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "Jobs that run weeks past the date you were given."
+      },
+      {
+        "title": "Messy job sites",
+        "body": "Offcuts and rubbish left around your property."
+      }
+    ],
+    "bridge": "You should know what you're getting, what it costs and when it's done."
+  },
+  "solutions": {
+    "headline": "Construction and carpentry, a cut above the rest.",
+    "services": [
+      {
+        "title": "Renovations & fit-outs",
+        "body": "Home renovations, fit-outs, cabinetry, shelving, storage and trim carpentry.",
+        "photo": "kitchen"
+      },
+      {
+        "title": "Decks, pergolas & stairs",
+        "body": "Pergolas designed with you, decks, staircases and handrails, built to suit the block.",
+        "photo": "pergola"
+      },
+      {
+        "title": "New builds, granny flats & repairs",
+        "body": "New builds, granny flats and tiny homes, plus maintenance, storm make-safes and insurance repairs.",
+        "photo": "siding"
+      }
+    ]
+  },
+  "process": {
+    "headline": "Tell us the job. Get a detailed quote. See it built.",
+    "steps": [
+      {
+        "title": "Send your project",
+        "body": "Use the form with a few photos or plans, or give Robbie a ring."
+      },
+      {
+        "title": "Advice & quote",
+        "body": "We talk through the design and options, then send a detailed written quote."
+      },
+      {
+        "title": "Build",
+        "body": "The team gets to work on the agreed dates and keeps you informed along the way."
+      },
+      {
+        "title": "Handover & clean-up",
+        "body": "We walk through the finished job with you and leave the site neat and tidy."
+      }
+    ]
+  },
+  "why": {
+    "headline": "Quality workmanship and open communication.",
+    "themes": [
+      {
+        "title": "Attention to detail",
+        "body": "Reviewers mention meticulous workmanship and a clean finish."
+      },
+      {
+        "title": "Detailed quotes",
+        "body": "Prompt, detailed quotes with honest advice on design and construction."
+      },
+      {
+        "title": "Kept informed",
+        "body": "Regular updates on when the team will be on site."
+      },
+      {
+        "title": "Respect for your place",
+        "body": "Courteous tradies who keep the site neat and tidy."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Janice Mouatt",
+      "rating": 5,
+      "date": "3 years ago",
+      "text": "Robbie contacted me promptly to give us a quote for construction of two pergolas and general repairs to our recently purchased home .His advice about design and construction of the pergolas followed by and extensive detailed  quote was prompt  and professional. The two tradesmen who undertook the work were courteous, professional and respected our property and privacy .We are delighted with the  finished product which was delivered on time and within budget  . We highly recommend  Robbie and his team for any similar projects,  Jan & Warwick ."
+    },
+    {
+      "author": "Billie Barron",
+      "rating": 5,
+      "date": "3 years ago",
+      "text": "Robbie attended to perform a \"Make-Safe\" after a storm left a hay shed mostly roofless and leaning over. Can't fault his professional and positive attitude. Willing to answer any queries as he worked away on what was left of the shed. He kept me informed of when he would be on-site and he was punctual. I will definitely be getting Robbie and his team to complete repairs once the insurance decides what they are doing."
+    },
+    {
+      "author": "Kaye Lindsay",
+      "rating": 5,
+      "date": "3 years ago",
+      "text": "Highly recommend Robbie and his team at Clear Cut Carpentry & Maintenance Solutions for their quality workmanship, attention to detail and regular and open communication.\nGreat value for money service with an excellent outcome!"
+    }
+  ],
+  "finalCta": {
+    "headline": "Ready to talk about your project?",
+    "body": "Send a few details or pick a time that suits you. You'll get a written quote before anything is booked in.",
+    "microcopy": "No pressure. Just a straightforward chat about the job."
+  },
+  "faq": [
+    {
+      "q": "How do quotes work?",
+      "a": "Send photos, plans or a description through the form, or give us a ring. We'll talk through the options and send a detailed written quote."
+    },
+    {
+      "q": "Which areas do you cover?",
+      "a": "Toowoomba and across the Darling Downs. Not sure if you're in range? Just ask."
+    },
+    {
+      "q": "Do you handle insurance and storm repairs?",
+      "a": "Yes. We can make the site safe after a storm and complete the repairs once your insurer has approved the work."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your quote and we'll send the licence and insurance details for your job."
+    },
+    {
+      "q": "What happens after I submit a request?",
+      "a": "Your details come straight to us, you get a text and email confirmation, and we follow up to book a time to look at the job."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
