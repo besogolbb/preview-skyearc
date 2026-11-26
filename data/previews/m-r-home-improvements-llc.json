@@ -1,0 +1,201 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-26): 'M.R. Home Improvements LLC', 4.0 stars, 4 reviews, category 'General contractor', 8413 Cypress St, Laurel, MD 20707, opens 8 AM, phone +1 301-538-9202, website = mrhomeimprovementsllc.godaddysites.com.",
+    "website": "http://mrhomeimprovementsllc.godaddysites.com/ (2026-11-26): free GoDaddy site with the 'Start for free' banner, 'Call/text for a FREE Quote Today!', 'Home renovations from concept to creation', 'We are accredited, licensed, bonded, and insured', 'MHIC #150682', 'We are a small family owned business. Small enough to listen, and big enough to deliver.' A leftover template heading 'Generate excitement' sits above an empty 'Reviews' section; no form on the home page. Services page: Honey do list, Bathroom remodeling, Kitchen remodeling, Roofing, Gutters/cleaning, Windows and Doors, Garage Doors, Plumbing, Electrical, Siding, Landscaping, Flooring, Fencing, Outdoor Fireplaces/Pits, Concrete patio/driveway and more. Royal blue banner.",
+    "brand": "From their own website: royal blue banner. Primary = that blue #0b47c9 (white 7.6:1), dark = deep navy #0e1729, accent = light blue #8fb4ff (8.6:1 on dark).",
+    "reviews": "Google Reviews tab, same session: only 1 review has its own text (Carter Pusateri, 5 stars, mold remediation), copied verbatim. Other entries: one 5-star with no text, one showing only the owner's reply, and one 1-star with no text.",
+    "serviceArea": "Storefront address in Laurel, MD; no service-area outline. The page says Laurel and the surrounding area."
+  },
+  "gap": "The Google website button opens a free GoDaddy page with a leftover 'Generate excitement' placeholder heading over an empty Reviews section and no quote form, so homeowners can only call or text, even though the site advertises free quotes and a state licence.",
+  "market": "US",
+  "company": {
+    "name": "M.R. Home Improvements LLC",
+    "trade": "Home remodeling, roofing and repairs",
+    "city": "Laurel, MD",
+    "phone": "(301) 538-9202",
+    "credential": "MHIC #150682 · Licensed, bonded & insured"
+  },
+  "logo": {
+    "initials": "MR",
+    "tagline": "Home Improvements · Laurel, MD",
+    "svg": "/assets/logos/m-r-home-improvements-llc.svg"
+  },
+  "brand": {
+    "primary": "#0b47c9",
+    "dark": "#0e1729",
+    "accent": "#8fb4ff"
+  },
+  "assetFolder": "remodeling",
+  "assistantName": "M.R. Home Improvements",
+  "google": {
+    "rating": 4,
+    "reviewCount": 4,
+    "profileUrl": "https://www.google.com/maps/place/M.R.+Home+Improvements+LLC/@39.0802371,-76.859146,17z/data=!4m6!3m5!1s0x89b7dd5ca6250c91:0x6e1029684f011610!8m2!3d39.0802371!4d-76.859146!16s%2Fg%2F11v068n1jp"
+  },
+  "hero": {
+    "eyebrow": "Home improvements in Laurel, MD",
+    "headline": "Kitchens, baths, roofing and repairs in Laurel, from a licensed family business.",
+    "subhead": "Kitchen and bathroom remodels, roofing, gutters, siding, windows, doors and the honey-do list, from concept to creation. Tell us about the job and get a free quote.",
+    "primaryCta": "Get a free quote",
+    "trustLine": [
+      "MHIC #150682",
+      "Licensed, bonded & insured",
+      "Family owned"
+    ],
+    "photo": "kitchen"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "Kitchen or bathroom remodel",
+      "Roofing, gutters or siding",
+      "Windows or doors",
+      "Honey-do list or repairs",
+      "Something else"
+    ]
+  },
+  "skyeGreeting": "Hi, I'm the M.R. Home Improvements assistant. Planning a remodel, a roof job or a list of repairs? Tell me about it and I'll help you get a free quote or book a time.",
+  "about": {
+    "headline": "Small enough to listen. Big enough to deliver.",
+    "body": "Most homeowners want the same things from a contractor: someone licensed, a clear price before work starts, and a crew that finishes when it says it will and cleans up after itself. As a small family business, every job is run that way, from a honey-do list to a full kitchen.",
+    "cards": [
+      {
+        "title": "Rooms ready for a remodel",
+        "body": "Kitchen and bathroom remodels, from concept to creation."
+      },
+      {
+        "title": "The outside of the house",
+        "body": "Roofing, gutters, siding, windows, doors and fencing."
+      },
+      {
+        "title": "The honey-do list",
+        "body": "Repairs, flooring and the jobs that keep getting put off."
+      }
+    ],
+    "closing": "Not sure where to start? Call, text or send the details and we'll talk it through."
+  },
+  "problems": {
+    "headline": "Finding a reliable contractor in Laurel shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow quotes",
+        "body": "You call around and wait days for anyone to call back."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "A rough number that grows once the work starts."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "Jobs that drag on past the date you were given."
+      },
+      {
+        "title": "Messy job sites",
+        "body": "Debris left behind when the crew leaves."
+      }
+    ],
+    "bridge": "You shouldn't have to chase a contractor just to get a clear quote."
+  },
+  "solutions": {
+    "headline": "Straightforward home improvement with open communication.",
+    "services": [
+      {
+        "title": "Kitchen & bathroom remodeling",
+        "body": "Kitchen and bathroom remodels planned with you and built from concept to creation.",
+        "photo": "bathroom"
+      },
+      {
+        "title": "Roofing, gutters & siding",
+        "body": "Roofing, gutter work and cleaning, siding, windows and doors for the outside of your home.",
+        "photo": "siding"
+      },
+      {
+        "title": "Repairs & the honey-do list",
+        "body": "Flooring, fencing, repairs and remediation work, done promptly and cleaned up after.",
+        "photo": "door"
+      }
+    ]
+  },
+  "process": {
+    "headline": "We listen to what you need. Quote it clearly. Build it right.",
+    "steps": [
+      {
+        "title": "Request your free quote",
+        "body": "Send a few details with the form, or call or text."
+      },
+      {
+        "title": "Clear scope & price",
+        "body": "We look at the job and put the scope and price in writing."
+      },
+      {
+        "title": "On-time completion",
+        "body": "We work to your deadlines and keep you updated on the status of your job."
+      },
+      {
+        "title": "Final walkthrough",
+        "body": "We walk the finished job with you and sort anything on the list before we call it done."
+      }
+    ]
+  },
+  "why": {
+    "headline": "Licensed, bonded, insured and family owned.",
+    "themes": [
+      {
+        "title": "MHIC licensed",
+        "body": "Maryland Home Improvement Commission #150682, bonded and insured."
+      },
+      {
+        "title": "Free quotes",
+        "body": "A clear price before any work starts."
+      },
+      {
+        "title": "Open communication",
+        "body": "Kept up to date on the status of your job."
+      },
+      {
+        "title": "Family owned",
+        "body": "A small business that listens and delivers."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Carter Pusateri",
+      "rating": 5,
+      "date": "a year ago",
+      "text": "This company was contracted for us in our home for mold remediation. The whole team was very friendly, communicative, and they were very thorough and prompt with their work. Completed the whole job within 3 days, as they stated they would. They did a great job as well and cleaned up after themselves."
+    }
+  ],
+  "finalCta": {
+    "headline": "Ready to talk about your project?",
+    "body": "Send a few details or pick a time that suits you. You'll get a free quote before anything is booked in.",
+    "cta": "Get a free quote",
+    "microcopy": "No pressure. Just a straightforward conversation about the job."
+  },
+  "faq": [
+    {
+      "q": "Are quotes really free?",
+      "a": "Yes. Send the job through the form, or call or text, and you'll get a price before any work starts."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Yes. M.R. Home Improvements holds Maryland Home Improvement Commission license #150682 and is licensed, bonded and insured."
+    },
+    {
+      "q": "Which areas do you cover?",
+      "a": "Laurel and the surrounding area. Tell us where the job is when you get in touch and we'll confirm."
+    },
+    {
+      "q": "Do you take small jobs?",
+      "a": "Yes. The honey-do list is part of the work, alongside full remodels and roofing."
+    },
+    {
+      "q": "What happens after I submit a request?",
+      "a": "Your details come straight to us, you get a text and email confirmation, and we follow up to set a time to look at the job."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
