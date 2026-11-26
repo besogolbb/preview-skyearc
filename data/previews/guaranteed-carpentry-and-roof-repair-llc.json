@@ -1,0 +1,215 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-26): 'Guaranteed carpentry and roof repair llc', 4.9 stars, 67 reviews, category 'Contractor', phone +1 603-264-8106, opens 8 AM, website = guaranteedcarpentry.com. Owner post (Nov 6, 2026): 'Servicing the bow and concord area.'",
+    "website": "https://www.guaranteedcarpentry.com/ (the Wix subdomain on the sheet redirects here, 2026-11-26): 'Providing exceptional roof repair and carpentry services to the granite state', stock-style house photo as hero, services 'Deck Services' (repair, rebuild, maintenance, cleaning), 'Roofing Services' (new roof, repair, chimney flashing, trim), 'Other Carpentry Services'; a quote form ('we will get back to you within 24 hours'). None of their Google reviews or project photos appear on the site.",
+    "services": "Website services plus Google review topics: beautiful deck 15, deck rebuild 8, attention to detail 7, quick execution 5, porch repair 4, shed roof replacement 4, exterior door replacement 2, beam replacement 2, water damage repair 2, garage work 2.",
+    "brand": "No logo or brand colours found (site is plain black and grey). Sampled from their own Google listing cover photo (cutting trim on a saw, leather tool belt): primary = the tool-belt leather #7a5528 (white 6.7:1), dark = #1f2223, accent = warm timber #d9a35a (7.1:1 on dark). The saw's yellow is the tool maker's brand and is not used. Not an official brand; confirm with the owner.",
+    "reviews": "Google Reviews tab, same session: 3 complete 5-star reviews copied verbatim (Marc Sexton, Maria Roy, Jason Williams), stars checked via each review's rating label. Owner Rodney Lauffer.",
+    "serviceArea": "Owner's own Google post: Bow and Concord area. The page names Bow and Concord only."
+  },
+  "gap": "67 reviews at 4.9, with 15 people calling their decks beautiful, but none of it appears on their website, which leads with a generic house photo instead of their own decks and roofs, so the proof that wins jobs isn't where homeowners decide.",
+  "market": "US",
+  "company": {
+    "name": "Guaranteed Carpentry & Roof Repair LLC",
+    "trade": "Decks, roof repair and carpentry",
+    "city": "Concord, NH",
+    "serviceArea": [
+      "Bow",
+      "Concord"
+    ],
+    "phone": "(603) 264-8106"
+  },
+  "logo": {
+    "initials": "GC",
+    "tagline": "Carpentry & Roof Repair · Bow & Concord",
+    "svg": "/assets/logos/guaranteed-carpentry-and-roof-repair-llc.svg"
+  },
+  "brand": {
+    "primary": "#7a5528",
+    "dark": "#1f2223",
+    "accent": "#d9a35a"
+  },
+  "assetFolder": "carpentry",
+  "assistantName": "Guaranteed Carpentry",
+  "google": {
+    "rating": 4.9,
+    "reviewCount": 67,
+    "profileUrl": "https://www.google.com/maps/place/Guaranteed+carpentry+and+roof+repair+llc/@44.0014099,-71.566109,8z/data=!4m6!3m5!1s0x62c96fa69bea15cb:0x107be294dcda5cde!8m2!3d44.0014099!4d-71.566109!16s%2Fg%2F11tx85yfws"
+  },
+  "hero": {
+    "eyebrow": "Decks, roofs & carpentry around Concord",
+    "headline": "Decks, roof repairs and carpentry around Concord, done right at a fair price.",
+    "subhead": "Deck builds and rebuilds, roof repairs and replacements, porches, sheds and carpentry for homeowners in Bow and Concord. Send through the job and get a clear written estimate.",
+    "trustLine": [
+      "Clear written estimates",
+      "Quote back within 24 hours",
+      "Fair, honest pricing"
+    ],
+    "photo": "stairs"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "Deck build or rebuild",
+      "Roof repair or replacement",
+      "Porch or shed",
+      "Doors, beams or water damage",
+      "Something else"
+    ]
+  },
+  "skyeGreeting": "Hi, I'm the Guaranteed Carpentry assistant. Planning a deck, a roof repair or some carpentry? Tell me about it and I'll help you get an estimate or book a time with Rodney.",
+  "about": {
+    "headline": "Big companies promise. We show up and do it right.",
+    "body": "Most homeowners want the same things from a contractor: honest advice, a fair price in writing, and a crew that's respectful and quick. Every job is handled that way, from a porch repair to a full deck rebuild or new roof.",
+    "cards": [
+      {
+        "title": "Decks that need rebuilding",
+        "body": "Repairs, rebuilds and new decks that people stop to look at."
+      },
+      {
+        "title": "Roofs taking damage",
+        "body": "Repairs after years of tree and water damage, or a full new roof."
+      },
+      {
+        "title": "Porches, sheds and doors",
+        "body": "Porch repairs, shed roofs, exterior doors and beams replaced properly."
+      }
+    ],
+    "closing": "Not sure what the job needs? Send a few photos and we'll talk it through."
+  },
+  "problems": {
+    "headline": "Getting a contractor out to Bow or Concord shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow estimates",
+        "body": "Big companies take weeks to call back about a deck or a leak."
+      },
+      {
+        "title": "Overpriced quotes & surprise costs",
+        "body": "Quotes padded for overhead, then extras once the work starts."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "The crew that never shows on the day they booked."
+      },
+      {
+        "title": "Messy job sites",
+        "body": "Old boards and shingles left in the yard after the job."
+      }
+    ],
+    "bridge": "You shouldn't have to chase a contractor just to get an honest estimate."
+  },
+  "solutions": {
+    "headline": "Straightforward carpentry and roofing with clear communication.",
+    "services": [
+      {
+        "title": "Decks",
+        "body": "Deck repairs, rebuilds, maintenance, cleaning and new decks, built with attention to detail.",
+        "photo": "deck"
+      },
+      {
+        "title": "Roof repair & replacement",
+        "body": "Roof repairs, new roofs, chimney flashing and trim replacement, explained step by step.",
+        "photo": "roofing"
+      },
+      {
+        "title": "Porches, sheds & carpentry",
+        "body": "Porch repairs, shed roofs, exterior doors, beam replacement and water damage repairs.",
+        "photo": "framing"
+      }
+    ]
+  },
+  "process": {
+    "headline": "We listen to what you need. Estimate it clearly. Build it right.",
+    "steps": [
+      {
+        "title": "Request your estimate",
+        "body": "Send a few details and photos with the form or call Rodney."
+      },
+      {
+        "title": "Walkthrough & clear price",
+        "body": "We look at the job, walk you through what we find and put the price in writing."
+      },
+      {
+        "title": "Quick, respectful work",
+        "body": "A friendly crew that works efficiently and respects your property."
+      },
+      {
+        "title": "Final walkthrough",
+        "body": "We walk the finished job with you and sort anything on the list before we call it done."
+      }
+    ]
+  },
+  "why": {
+    "headline": "67 reviews from neighbors in the Granite State.",
+    "themes": [
+      {
+        "title": "Beautiful decks",
+        "body": "The work customers mention most, rebuilt and built from scratch."
+      },
+      {
+        "title": "Honest pricing",
+        "body": "Fair prices and straight answers about what the job needs."
+      },
+      {
+        "title": "Quick turnaround",
+        "body": "Estimates back fast and work completed in a timely way."
+      },
+      {
+        "title": "Attention to detail",
+        "body": "Careful work from a friendly, respectful crew."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Marc Sexton",
+      "rating": 5,
+      "date": "a month ago",
+      "text": "Impressed with Guaranteed Construction!  Rodney, the owner, was easy to work with and schedule, and the pricing was very fair and reasonable. Rodney's crew were friendly, professional, and respectful throughout the whole process. They did an amazing job on my deck project, and I couldn't be happier with the outcome. Highly recommend!"
+    },
+    {
+      "author": "Maria Roy",
+      "rating": 5,
+      "date": "a month ago",
+      "text": "Recently I had the roof done by this young man Rodney Lauffer from Guaranteed carpentry  and roof repair LIC.  He did an excellent work and was completely honest with me. The price was fair taking in consideration everything is very expensive. It is hard to find such trustworthy service these days.\nI highly recommend him to anyone."
+    },
+    {
+      "author": "Jason Williams",
+      "rating": 5,
+      "date": "2 months ago",
+      "text": "Great quality and price.  I needed a bunch of repairs all over my roof from years of tree and water damage.  Rodney came and walked me through everything and made me feel at ease.  They completed the work very timely as well.  Very satisfied with the work.  Thank you"
+    }
+  ],
+  "finalCta": {
+    "headline": "Ready to talk about your deck or roof?",
+    "body": "Send a few details or pick a time that suits you. You'll get a written estimate before anything is booked in.",
+    "microcopy": "No pressure. Just a straightforward conversation about the job."
+  },
+  "faq": [
+    {
+      "q": "How do estimates work?",
+      "a": "Send the job through the form or call Rodney. We aim to get back to you within 24 hours, look at the job, and send a written estimate."
+    },
+    {
+      "q": "Which areas do you cover?",
+      "a": "Bow, Concord and the surrounding area. Tell us where the job is when you get in touch and we'll confirm."
+    },
+    {
+      "q": "Can my deck be repaired, or does it need a rebuild?",
+      "a": "It depends on the framing. We'll check it properly and tell you honestly whether a repair, a rebuild or a new deck makes sense."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your estimate and we'll send the license and insurance details for your project."
+    },
+    {
+      "q": "What happens after I submit a request?",
+      "a": "Your details come straight to us, you get a text and email confirmation, and we follow up to set a time to look at the job."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
