@@ -1,0 +1,210 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-26): 'J&B Home Remodeling', 5.0 stars, 15 reviews, category 'Contractor', phone +1 325-480-6745, opens 8 AM, service-area business (no street address), no website ('Add website' shown). Owner named in reviews: Jose, with Cesar.",
+    "serviceArea": "No address or readable service-area outline on the listing. City from the outreach sheet (Abilene, TX), consistent with the 325 (Abilene) area code. Copy says 'Abilene and the surrounding area' only; confirm exact areas with the owner.",
+    "services": "Google review topic chips: painting 4, drywall repair 3, project 3, paint matching 2, tv mounting 2, texturing 2, timeliness 2, work quality 2, communication 2. Reviews describe water-damage drywall, texture, paint, baseboards and crown molding; kitchen backsplash and vent hood; shower gut and rebuild, shower insert swap and valve replumb; porch columns, doors and screen doors, siding, gutters, security light; interior painting, pool and floor tile; TV mounting; fence repair; OTR microwave install.",
+    "brand": "No website, socials or logo found. Their Google listing cover photo is a black-and-white kitchen (mosaic backsplash, black granite, stainless), a low-colour photo; sample-brand found its hidden hue at 6° (red) and suggested #d04839 with dark ink, which failed contrast. Set by eye to red primary #b5382b (white 5.89:1), near-black dark #211e21 (the granite), coral accent #ea8a7c (6.62:1 on dark). Not an official brand; confirm with the owner.",
+    "reviews": "Google Reviews tab, same session, 'More' expanded; all 15 ratings are 5 stars. Three complete reviews copied verbatim (Tim Rak, Randy Toombs, Delia)."
+  },
+  "gap": "No website: the Google listing shows 'Add website', so 15 five-star reviews lead only to a phone number; homeowners searching after hours can't send photos of the damage or the room for an estimate.",
+  "market": "US",
+  "company": {
+    "name": "J&B Home Remodeling",
+    "trade": "Home and bathroom remodeling",
+    "city": "Abilene, TX",
+    "phone": "(325) 480-6745"
+  },
+  "logo": {
+    "initials": "JB",
+    "tagline": "Home Remodeling · Abilene",
+    "svg": "/assets/logos/jb-home-remodeling.svg"
+  },
+  "brand": {
+    "primary": "#b5382b",
+    "dark": "#211e21",
+    "accent": "#ea8a7c"
+  },
+  "assetFolder": "remodeling",
+  "assistantName": "J&B",
+  "google": {
+    "rating": 5,
+    "reviewCount": 15,
+    "profileUrl": "https://www.google.com/maps/place/J%26B+Home+Remodeling/@32.4820469,-99.366737,7z/data=!4m6!3m5!1s0x86568d75fea79d9f:0x47d1eb69024821fb!8m2!3d32.4820469!4d-99.366737!16s%2Fg%2F11j9d2py0p"
+  },
+  "hero": {
+    "eyebrow": "Home & bathroom remodeling in Abilene",
+    "headline": "Home and bathroom remodeling in Abilene, finished like nothing ever happened.",
+    "subhead": "Bathrooms, showers, backsplashes, drywall, paint and exterior repairs across Abilene. Send the job with a few photos and get a clear estimate.",
+    "trustLine": [
+      "5.0★ from 15 Google reviews",
+      "Clear estimates before work starts",
+      "Clean job site every day"
+    ],
+    "photo": "kitchen"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "Bathroom or shower",
+      "Kitchen or backsplash",
+      "Drywall, texture or paint",
+      "Doors, siding or exterior",
+      "Something else"
+    ]
+  },
+  "skyeGreeting": "Hi, I'm the J&B Home Remodeling assistant. Got a bathroom, a repair or a remodel in mind? Tell me about it and I'll help you get an estimate.",
+  "about": {
+    "headline": "Remodels and repairs, without the long gaps.",
+    "body": "Water damage behind a wall, a tired shower, a backsplash you've wanted for years. Whatever the job, you want someone who calls back, keeps you informed and gets it done without weeks of waiting in between.",
+    "cards": [
+      {
+        "title": "Water damage and drywall",
+        "body": "Drywall, texture, paint and trim put back so you can't tell anything happened."
+      },
+      {
+        "title": "Bathrooms and kitchens",
+        "body": "Showers gutted and rebuilt, inserts swapped, backsplashes and vent hoods updated."
+      },
+      {
+        "title": "Outside the house",
+        "body": "Doors, porch columns, siding, gutters, lights and fences repaired or replaced."
+      }
+    ],
+    "closing": "Not sure what the job needs? Send a photo and ask."
+  },
+  "problems": {
+    "headline": "Getting a remodeler in Abilene to call back shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & no-shows",
+        "body": "You call around and nobody calls back, or never turns up."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "Long gaps between visits drag a small project out for weeks."
+      },
+      {
+        "title": "Uneven finishing",
+        "body": "Texture and paint that never quite match the rest of the wall."
+      },
+      {
+        "title": "Messy job sites",
+        "body": "Dust and debris left behind when the crew leaves."
+      }
+    ],
+    "bridge": "You shouldn't have to chase anyone to get your home put right."
+  },
+  "solutions": {
+    "headline": "Remodeling and repairs from one dependable team.",
+    "services": [
+      {
+        "title": "Bathrooms & showers",
+        "body": "Full shower rebuilds, insert swaps, valve and shower head replumbing, drywall and texture around the work.",
+        "photo": "bathroom"
+      },
+      {
+        "title": "Kitchens, tile & backsplashes",
+        "body": "Backsplashes, vent hoods, floor and pool tile, and appliance installs like over-the-range microwaves.",
+        "photo": "tile"
+      },
+      {
+        "title": "Drywall, paint & exterior",
+        "body": "Drywall repair with texture and paint matched, interior painting, doors, siding, gutters and fences.",
+        "photo": "siding"
+      }
+    ]
+  },
+  "process": {
+    "headline": "Tell us the job. Get a clear price. See it finished.",
+    "steps": [
+      {
+        "title": "Send your project",
+        "body": "Use the form with a few photos, or give Jose a call."
+      },
+      {
+        "title": "Look & estimate",
+        "body": "We come out, look at the job and give you a clear price before any work starts."
+      },
+      {
+        "title": "The work",
+        "body": "The team works through it without long gaps and keeps you informed at every step."
+      },
+      {
+        "title": "Walkthrough & cleanup",
+        "body": "We check every detail with you and leave the room clean."
+      }
+    ]
+  },
+  "why": {
+    "headline": "Responsive, careful and easy to work with.",
+    "themes": [
+      {
+        "title": "Calls back",
+        "body": "Reviewers mention quick callbacks and same-day quotes."
+      },
+      {
+        "title": "Seamless repairs",
+        "body": "Texture and paint matched so the repair disappears into the wall."
+      },
+      {
+        "title": "No long gaps",
+        "body": "Work keeps moving from start to finish."
+      },
+      {
+        "title": "Leaves it clean",
+        "body": "Rooms cleaned up before the team leaves."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Tim Rak",
+      "rating": 5,
+      "date": "a month ago",
+      "text": "Outstanding work by Jose and his team. We had water damage from a leaking AC drain pipe within the wall of our primary bedroom. The walls had already been mitigated for mold/moisture but he took care of everything else. In just two days, drywall, texture, paint, base boards, and crown molding all taken care of and looking like no problem had every existed. Highly recommend!"
+    },
+    {
+      "author": "Randy Toombs",
+      "rating": 5,
+      "date": "3 months ago",
+      "text": "Jose owner of J&B remodeling personally did the update on my kitchen backsplash, and hung my vent hood. He was professional, and consistent with getting my project done. No long gaps of time from start to finish like many people deal with. Only gap was what was needed was for certain cements to dry, and cure! Once that was done he was right on it. I will have him do future remodeling projects I have planned!"
+    },
+    {
+      "author": "Delia",
+      "rating": 5,
+      "date": "2 years ago",
+      "text": "Jose and Cesar did a phenomenal job on our new shower! The shower was gutted and everything put back new. They installed new porch columns, replaced front and back doors along with screen doors. They replaced siding and installed gutters and security light. Great job and highly recommend Jose!!"
+    }
+  ],
+  "finalCta": {
+    "headline": "Got a remodel or repair that's been waiting?",
+    "body": "Send a few details and photos, or pick a time that suits you. You'll get a clear estimate before any work is booked.",
+    "microcopy": "No pressure. Just a straight conversation about the job."
+  },
+  "faq": [
+    {
+      "q": "How do estimates work?",
+      "a": "Send the job through the form with a few photos, or call. We look at it and give you a clear price before any work starts."
+    },
+    {
+      "q": "Which areas do you cover?",
+      "a": "Abilene and the surrounding area. Not sure if you're in range? Ask and we'll let you know."
+    },
+    {
+      "q": "Can you repair water-damaged drywall?",
+      "a": "Yes. Once the area has been dried out, we replace the drywall and match the texture, paint and trim to the rest of the room."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your estimate and we'll send the license and insurance details for your job."
+    },
+    {
+      "q": "What happens after I submit a request?",
+      "a": "Your details come straight to us, you get a text and email confirmation, and we follow up to set a time to look at the job."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
