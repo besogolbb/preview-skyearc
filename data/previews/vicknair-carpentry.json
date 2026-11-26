@@ -1,0 +1,214 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-26): 'Vicknair Carpentry', 5.0 stars, 4 reviews, category 'Carpenter', 127 1/2 Jim Jones Rd, Lumberton, MS 39455, phone +1 601-688-0726, opens 8 AM; the website button links to m.facebook.com. Owner named in a review: Thomas.",
+    "facebook": "facebook.com/VicknairCarpentry, same session: 'Vicknair Carpentry & Custom Furniture', 269 followers, category Carpenter, phone +1 601-688-0726. Service areas listed: Sumrall, Poplarville, Hattiesburg, Petal, Moselle, Columbia, Lumberton, Purvis (all MS). Recent post: custom cabinets.",
+    "services": "Facebook name and posts: carpentry, custom furniture and cabinets (cover photo shows knotty-pine kitchen cabinets). Google review: a ramp built onto a front deck for a walker and scooter. Kept to these; no other services claimed.",
+    "brand": "No website or logo (Facebook profile picture is a person). Colours taken from their own Facebook cover photo (knotty-pine cabinets, black iron pulls): amber wood primary #8a5a2c (white 5.87:1), iron black dark #1e1b18, pine accent #e6cfa4 (11.28:1 on dark). Not an official brand; confirm with the owner.",
+    "reviews": "Google Reviews tab, same session: 4 five-star ratings, only 2 with text; both copied verbatim (karen bates, Walker Evans)."
+  },
+  "gap": "The Google website button sends people to a Facebook page, so homeowners who want cabinets, furniture or carpentry have to message on Facebook or call; there's no simple place to send measurements and photos for an estimate.",
+  "market": "US",
+  "company": {
+    "name": "Vicknair Carpentry",
+    "trade": "Carpentry and custom furniture",
+    "city": "Lumberton, MS",
+    "serviceArea": [
+      "Lumberton",
+      "Purvis",
+      "Hattiesburg",
+      "Petal",
+      "Sumrall",
+      "Poplarville",
+      "Moselle",
+      "Columbia"
+    ],
+    "phone": "(601) 688-0726"
+  },
+  "logo": {
+    "initials": "V",
+    "tagline": "Carpentry & Custom Furniture · Lumberton",
+    "svg": "/assets/logos/vicknair-carpentry.svg"
+  },
+  "brand": {
+    "primary": "#8a5a2c",
+    "dark": "#1e1b18",
+    "accent": "#e6cfa4"
+  },
+  "assetFolder": "carpentry",
+  "assistantName": "Vicknair",
+  "google": {
+    "rating": 5,
+    "reviewCount": 4,
+    "profileUrl": "https://www.google.com/maps/place/Vicknair+Carpentry/@31.1988325,-89.6252129,17z/data=!4m6!3m5!1s0x889d115e8c8a7c43:0x4c57286ce2349227!8m2!3d31.1988325!4d-89.6252129!16s%2Fg%2F11fmf8c_70"
+  },
+  "hero": {
+    "eyebrow": "Carpentry & custom furniture in Lumberton",
+    "headline": "Custom carpentry and furniture in Lumberton, built exactly how you want it.",
+    "subhead": "Custom cabinets, furniture, decks and ramps across Lumberton, Purvis, Hattiesburg and the Pine Belt. Send your idea with a few photos or measurements and get a clear estimate.",
+    "trustLine": [
+      "5.0★ on Google",
+      "Built to your measurements",
+      "Clear estimates before work starts"
+    ],
+    "photo": "stairs"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "Custom cabinets",
+      "Custom furniture",
+      "Deck, ramp or steps",
+      "Other carpentry",
+      "Something else"
+    ]
+  },
+  "skyeGreeting": "Hi, I'm the Vicknair Carpentry assistant. Thinking about cabinets, a piece of furniture or a carpentry job? Tell me about it and I'll help you get an estimate.",
+  "about": {
+    "headline": "Woodwork made for your home, not off a shelf.",
+    "body": "Cabinets that fit the space you actually have, furniture built to last, a ramp that makes getting in and out of the house easy again. You want someone who listens to what you have in mind and builds exactly that.",
+    "cards": [
+      {
+        "title": "Kitchens and cabinets",
+        "body": "Custom cabinets built and fitted to your room, in the wood and finish you choose."
+      },
+      {
+        "title": "Furniture for your home",
+        "body": "Pieces made to your size and style, built to be used every day."
+      },
+      {
+        "title": "Easier access at home",
+        "body": "Ramps and steps added to decks and porches so getting around is safe again."
+      }
+    ],
+    "closing": "Got an idea but no drawings? Send a photo and a rough size."
+  },
+  "problems": {
+    "headline": "Getting custom woodwork made in the Pine Belt shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow quotes",
+        "body": "Messages left on social media that never get a proper answer."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "No clear price until the job's already underway."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "Projects that stall halfway with no update."
+      },
+      {
+        "title": "Uneven finishing",
+        "body": "Doors that don't line up and joints that don't close."
+      }
+    ],
+    "bridge": "You should get exactly what you asked for, built properly."
+  },
+  "solutions": {
+    "headline": "Custom carpentry, built by hand.",
+    "services": [
+      {
+        "title": "Custom cabinets",
+        "body": "Kitchen and bathroom cabinets designed for your space and built to fit.",
+        "photo": "kitchen"
+      },
+      {
+        "title": "Custom furniture",
+        "body": "Tables, shelving and pieces made to your measurements and style.",
+        "photo": "pergola"
+      },
+      {
+        "title": "Decks, ramps & carpentry",
+        "body": "Ramps onto decks and porches, steps and the carpentry jobs around the house.",
+        "photo": "deck"
+      }
+    ]
+  },
+  "process": {
+    "headline": "Share the idea. Get a clear price. Get it built.",
+    "steps": [
+      {
+        "title": "Send your idea",
+        "body": "Use the form with photos or rough measurements, or give Thomas a call."
+      },
+      {
+        "title": "Measure & estimate",
+        "body": "We talk through the design, measure up and give you a clear price."
+      },
+      {
+        "title": "Build",
+        "body": "Your piece is built to the agreed design, with updates along the way."
+      },
+      {
+        "title": "Install & check",
+        "body": "We fit it in place and go over every detail with you."
+      }
+    ]
+  },
+  "why": {
+    "headline": "Quality work, built the way you asked for it.",
+    "themes": [
+      {
+        "title": "Made to measure",
+        "body": "Every piece is built for your space, not adapted from stock."
+      },
+      {
+        "title": "Quality craftsmanship",
+        "body": "Solid joinery and careful finishing."
+      },
+      {
+        "title": "Fair pricing",
+        "body": "Customers mention the best price alongside top quality work."
+      },
+      {
+        "title": "Repeat customers",
+        "body": "People hire Vicknair Carpentry again for their next project."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "karen bates",
+      "rating": 5,
+      "date": "5 years ago",
+      "text": "He built a ramp onto my front deck so I can get in and out of my home now with my walker or motorized scooter. The quality of his work is BEYOND AWESOME!!!! If you want the best price and top quality work, HIRE HIM!!!!"
+    },
+    {
+      "author": "Walker Evans",
+      "rating": 5,
+      "date": "5 years ago",
+      "text": "Hired multiple times. Thomas always delivers exactly what you want."
+    }
+  ],
+  "finalCta": {
+    "headline": "Got a piece or a project in mind?",
+    "body": "Send a few details, photos or measurements, or pick a time that suits you. You'll get a clear estimate before anything is built.",
+    "microcopy": "No pressure. Just a conversation about what you'd like made."
+  },
+  "faq": [
+    {
+      "q": "How do estimates work?",
+      "a": "Send your idea through the form with photos or rough measurements, or call. We'll talk through the design and give you a clear price before any work starts."
+    },
+    {
+      "q": "Which areas do you cover?",
+      "a": "Lumberton and the surrounding area, including Purvis, Hattiesburg, Petal, Sumrall, Poplarville, Moselle and Columbia."
+    },
+    {
+      "q": "Do I need a drawing?",
+      "a": "No. A photo of the space, a rough size and a picture of something you like is plenty to start with."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your estimate and we'll send the license and insurance details for your job."
+    },
+    {
+      "q": "What happens after I submit a request?",
+      "a": "Your details come straight to us, you get a text and email confirmation, and we follow up to talk through the project."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
