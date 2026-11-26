@@ -1,0 +1,204 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome and a headless render (2026-11-26): 'TMC Carpentry', 4.8 stars, 5 reviews, category 'Home builder', Rockhampton City QLD 4700, phone +61 437 676 899, closes 4 PM; the website button links to facebook.com. Owner named in a review and on their sign: Tony.",
+    "facebook": "facebook.com/TMC-Carpentry-508865825919489 (same session): 'TMC Carpentry', 874 followers, category Carpenter, Rockhampton QLD 4701. Bio: 'Locally owned and operated family business. Give us a call for a quote for all of your Carpentry'. Cover photo is their own sign: 'TMC CARPENTRY - For all your Carpentry Needs - Call Tony for a Quote Today - 0437 676 899'.",
+    "services": "Facebook bio and sign ('all your carpentry needs'). Google review: improvements at Hedlow Retreat that improved the space's functionality and appearance. Google listing cover photo shows timber-framed glass French doors. Services kept general to these.",
+    "brand": "Their own sign on the Facebook cover: red 'TMC CARPENTRY' lettering on white with black script. Red primary #c42638 (white 5.70:1), near-black dark #1c1b1e, light red accent #f58a95 (7.31:1 on dark). Hexes read by eye from the sign; confirm with the owner.",
+    "reviews": "Google Reviews tab, same session, 'More' expanded: four 5-star and one 4-star rating; only 2 have text, both 5 stars, copied verbatim (Hedlow Retreat, Chris M)."
+  },
+  "gap": "The Google website button goes to Facebook, so anyone looking for a carpentry quote after 4 PM has to message on Facebook or wait to ring Tony; there's no quick quote form.",
+  "market": "AU",
+  "company": {
+    "name": "TMC Carpentry",
+    "trade": "Carpentry",
+    "city": "Rockhampton, QLD",
+    "phone": "0437 676 899"
+  },
+  "logo": {
+    "initials": "T",
+    "tagline": "Carpentry · Rockhampton",
+    "svg": "/assets/logos/tmc-carpentry.svg"
+  },
+  "brand": {
+    "primary": "#c42638",
+    "dark": "#1c1b1e",
+    "accent": "#f58a95"
+  },
+  "assetFolder": "carpentry",
+  "assistantName": "TMC Carpentry",
+  "google": {
+    "rating": 4.8,
+    "reviewCount": 5,
+    "profileUrl": "https://www.google.com/maps/place/TMC+Carpentry/@-23.3786203,150.5088889,17z/data=!4m6!3m5!1s0x6bc30155efc5f25d:0xa6f9e7a0ace97a19!8m2!3d-23.3786203!4d150.5088889!16s%2Fg%2F11t7c57d50"
+  },
+  "hero": {
+    "eyebrow": "Carpentry in Rockhampton",
+    "headline": "Carpentry in Rockhampton, from a local family business.",
+    "subhead": "Doors, improvements and all your carpentry needs across Rockhampton. Send a few photos and get a clear quote from Tony.",
+    "trustLine": [
+      "4.8★ on Google",
+      "Locally owned & family run",
+      "Clear quotes before work starts"
+    ],
+    "photo": "framing"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "Doors or windows",
+      "Renovation or improvement",
+      "Repairs",
+      "General carpentry",
+      "Something else"
+    ]
+  },
+  "skyeGreeting": "G'day, I'm the TMC Carpentry assistant. Got a carpentry job in mind? Tell me a bit about it and I'll help you get a quote from Tony.",
+  "about": {
+    "headline": "A local family business for all your carpentry.",
+    "body": "Whether it's new doors, an improvement that makes a space work better, or a repair that's been waiting, you want a local carpenter who answers, gives you a fair quote and finishes the job properly.",
+    "cards": [
+      {
+        "title": "Homeowners",
+        "body": "Doors, repairs and improvements around the house, done properly."
+      },
+      {
+        "title": "Accommodation and businesses",
+        "body": "Improvements that make a space work better and look better."
+      },
+      {
+        "title": "Anyone with a carpentry job",
+        "body": "Big or small, give Tony a call for a quote."
+      }
+    ],
+    "closing": "Not sure if it's a job for us? Send a photo and ask."
+  },
+  "problems": {
+    "headline": "Getting a carpenter in Rockhampton to quote shouldn't take weeks.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow quotes",
+        "body": "Messages that go nowhere and quotes that never arrive."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "No clear idea of the cost before work starts."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "Jobs that keep getting pushed back."
+      },
+      {
+        "title": "Sloppy finishing",
+        "body": "Work that looks rushed once the tools are packed up."
+      }
+    ],
+    "bridge": "You should get a clear quote and a job finished properly."
+  },
+  "solutions": {
+    "headline": "Carpentry, done properly by a local.",
+    "services": [
+      {
+        "title": "Doors & joinery",
+        "body": "Timber doors, including glass French doors, fitted and finished.",
+        "photo": "door"
+      },
+      {
+        "title": "Renovations & improvements",
+        "body": "Improvements that make a space more functional and better looking.",
+        "photo": "kitchen"
+      },
+      {
+        "title": "General carpentry & repairs",
+        "body": "All your carpentry needs, from repairs to new work.",
+        "photo": "deck"
+      }
+    ]
+  },
+  "process": {
+    "headline": "Tell Tony the job. Get a clear quote. Get it done.",
+    "steps": [
+      {
+        "title": "Send your project",
+        "body": "Use the form with a few photos, or give Tony a call."
+      },
+      {
+        "title": "Look & quote",
+        "body": "We look at the job and send a clear quote."
+      },
+      {
+        "title": "The work",
+        "body": "Done to a high standard, with good communication throughout."
+      },
+      {
+        "title": "Final check",
+        "body": "We go over the finished job with you before we call it done."
+      }
+    ]
+  },
+  "why": {
+    "headline": "Professional, reliable and local.",
+    "themes": [
+      {
+        "title": "Family run",
+        "body": "A locally owned and operated family business."
+      },
+      {
+        "title": "Quality finish",
+        "body": "Reviewers mention workmanship and attention to detail."
+      },
+      {
+        "title": "Good communication",
+        "body": "Kept in the loop throughout the project."
+      },
+      {
+        "title": "Reliable",
+        "body": "Professional and reliable from quote to finish."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Hedlow Retreat",
+      "rating": 5,
+      "date": "3 months ago",
+      "text": "We engaged Tony from TMC Carpentry to complete some improvements at Hedlow Retreat and we couldn't be happier with the result. Tony was professional, reliable, and delivered a high-quality finish that has significantly improved the functionality and appearance of the space. His workmanship, attention to detail, and communication throughout the project were excellent. We would highly recommend TMC Carpentry to anyone looking for quality carpentry work."
+    },
+    {
+      "author": "Chris M",
+      "rating": 5,
+      "date": "a year ago",
+      "text": "Legends!"
+    }
+  ],
+  "finalCta": {
+    "headline": "Got a carpentry job that needs doing?",
+    "body": "Send a few details or pick a time that suits you. You'll get a written quote before anything is booked in.",
+    "microcopy": "No pressure. Just a straightforward chat about the job."
+  },
+  "faq": [
+    {
+      "q": "How do quotes work?",
+      "a": "Send photos and a few details through the form, or give Tony a call. We'll look at the job and send a written quote."
+    },
+    {
+      "q": "Which areas do you cover?",
+      "a": "Rockhampton and the surrounding area. Not sure if you're in range? Just ask."
+    },
+    {
+      "q": "Do you take on small jobs?",
+      "a": "Yes. Give us a call for a quote for all of your carpentry, big or small."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your quote and we'll send the licence and insurance details for your job."
+    },
+    {
+      "q": "What happens after I submit a request?",
+      "a": "Your details come straight to us, you get a text and email confirmation, and we follow up to book a time to look at the job."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
