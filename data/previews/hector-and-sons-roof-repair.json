@@ -1,0 +1,211 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-26): 'Hector & Sons Roof Repair', 4.9 stars, 153 reviews, category 'Roofing contractor', phone +1 229-279-6931, 'Open 24 hours', address on Northwood Park Dr, Valdosta, GA 31602, no website ('Add website' shown). About tab lists only 'Onsite services'.",
+    "services": "Google review topics (same session): crew 19, skylight repair 17, weather 15, warranty 12, deck 10, nails 10, vents 8, tarps 7, landscaping 7, drainage 5. Reviews describe leak inspections, fast repairs, a full tear-off of six old shingle layers, asphalt shingle replacement, attic ventilation and exterior wood rot repair. Staff named in reviews: Bryson, Preston.",
+    "brand": "No brand online (no website, no logo found). Sampled from their listing cover photo (grey asphalt shingle roof among green trees) with scripts/sample-brand.mjs: primary olive #5d6732 (white 6.1:1), dark deepened to #262916, accent shingle grey #bfb6ab. Sampled from their listing photo, not an official brand; confirm with the owner. Concept mark is original.",
+    "reviews": "Google Reviews tab, same session: 3 complete 5-star reviews copied verbatim (Alondra Church, darius aguirre, Jameson Ibarra), stars read from each review's rating label."
+  },
+  "gap": "No website: 153 reviews at 4.9, but the Google listing shows 'Add website', so homeowners with a leak can only call; there's no way to send photos, an address or the roof problem online.",
+  "market": "US",
+  "company": {
+    "name": "Hector & Sons Roof Repair",
+    "trade": "Roof repair and roof replacement",
+    "city": "Valdosta, GA",
+    "serviceArea": [
+      "Valdosta"
+    ],
+    "phone": "(229) 279-6931"
+  },
+  "logo": {
+    "initials": "HS",
+    "tagline": "Roof Repair · Valdosta",
+    "svg": "/assets/logos/hector-and-sons-roof-repair.svg"
+  },
+  "brand": {
+    "primary": "#5d6732",
+    "dark": "#262916",
+    "accent": "#bfb6ab"
+  },
+  "assetFolder": "roofing",
+  "assistantName": "Hector & Sons",
+  "google": {
+    "rating": 4.9,
+    "reviewCount": 153,
+    "profileUrl": "https://www.google.com/maps/place/Hector+%26+Sons+Roof+Repair/@30.8792691,-83.3042314,17z/data=!4m6!3m5!1s0x88ee67493fd997f9:0x658d6f9d625c246e!8m2!3d30.8792691!4d-83.3042314!16s%2Fg%2F11jvgjbgdv"
+  },
+  "hero": {
+    "eyebrow": "Roof repair & replacement in Valdosta",
+    "headline": "Roof leaks fixed and new roofs installed in Valdosta.",
+    "subhead": "Leak repairs, skylights, vents and full shingle roof replacements for Valdosta homes. Send your address and a few photos and get a clear written estimate.",
+    "trustLine": [
+      "Detailed inspection report",
+      "Only the repairs you need",
+      "Site left clean"
+    ],
+    "photo": "siding"
+  },
+  "quoteField": {
+    "label": "Roof need",
+    "options": [
+      "Leak repair",
+      "Skylight or vents",
+      "Roof replacement",
+      "Inspection"
+    ]
+  },
+  "skyeGreeting": "Hi, I'm the Hector & Sons assistant. Got a leak, a skylight problem or an old roof? Tell me what's going on and I'll help you get an estimate or book an inspection.",
+  "about": {
+    "headline": "A roofer who tells you what your roof actually needs.",
+    "body": "Most homeowners want the same thing when the roof starts leaking: a fast answer, a clear inspection and a fair price for only the work that matters. Every job runs that way, from a single skylight to a full tear-off.",
+    "cards": [
+      {
+        "title": "Leaks and quick repairs",
+        "body": "Leaks, skylights, vents and storm wear fixed before heat and rain do more damage."
+      },
+      {
+        "title": "Older homes",
+        "body": "Inspection reports that line up with your home inspection, plus ventilation and wood rot repairs."
+      },
+      {
+        "title": "Full roof replacements",
+        "body": "Old layers torn off down to the deck and a new shingle roof installed properly."
+      }
+    ],
+    "closing": "Not sure what's wrong? Send a few photos and we'll tell you straight."
+  },
+  "problems": {
+    "headline": "Getting a roof fixed in Valdosta shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow estimates",
+        "body": "A leak can't wait a week for someone to call you back."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "No clear report, just a number and a push for a new roof."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "A tarp on the roof while you wait for a crew to show."
+      },
+      {
+        "title": "Messy job sites",
+        "body": "Nails and old shingles left in the yard and the beds."
+      }
+    ],
+    "bridge": "You should know exactly what's wrong before you pay for anything."
+  },
+  "solutions": {
+    "headline": "Straight answers and solid roofing work.",
+    "services": [
+      {
+        "title": "Leak & roof repairs",
+        "body": "Leak inspections and repairs, skylights, vents and drainage, with only the necessary work recommended.",
+        "photo": "roofing"
+      },
+      {
+        "title": "Shingle roof replacement",
+        "body": "Full tear-off to the deck, new asphalt shingles and a warranty on the finished roof.",
+        "photo": "siding"
+      },
+      {
+        "title": "Ventilation & wood rot repair",
+        "body": "Attic ventilation improvements and rotted decking or exterior trim replaced the right way.",
+        "photo": "framing"
+      }
+    ]
+  },
+  "process": {
+    "headline": "We inspect it. Explain it clearly. Fix it right.",
+    "steps": [
+      {
+        "title": "Request your inspection",
+        "body": "Send your address and a few photos with the form or call."
+      },
+      {
+        "title": "Inspection & clear report",
+        "body": "We check the whole roof and explain the problem, the options and the price."
+      },
+      {
+        "title": "Repair or replacement",
+        "body": "The crew comes out on schedule and does the work with care."
+      },
+      {
+        "title": "Clean-up & final check",
+        "body": "Nails and debris cleared, and the finished roof walked with you."
+      }
+    ]
+  },
+  "why": {
+    "headline": "153 reviews from homeowners around Valdosta.",
+    "themes": [
+      {
+        "title": "Honest recommendations",
+        "body": "Only the roofing work you actually need, no upselling."
+      },
+      {
+        "title": "Fast response",
+        "body": "Leaks inspected quickly and worked into the schedule."
+      },
+      {
+        "title": "Skilled crew",
+        "body": "Careful workmanship, on time, from repair to full tear-off."
+      },
+      {
+        "title": "Clean finish",
+        "body": "The site left neat when the job is done."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Jameson Ibarra",
+      "rating": 5,
+      "date": "a month ago",
+      "text": "Hector & Sons Roof Repair was great to work with. I reached out about a possible roof leak, and Bryson responded fast. He asked several helpful questions to narrow down the problem and worked us into the schedule for a roof inspection as soon as possible. He came out quickly, checked everything carefully, and explained the condition of the roofing system in simple detail.\n\nBryson answered all of my questions and concerns clearly and showed strong knowledge of roof repair. He was professional, honest, and easy to talk to, which made us feel confident that the pricing was fair and that only the needed roofing work was recommended. There was no pressure for extra repairs, just straightforward advice and solid service.\n\nThe crew also worked well with our schedule and got the repair done fast. The workmanship was clean, the area was left neat, and the final result looked great. It is good to have a reliable roofing company in Valdosta that understands the local weather and the importance of fixing leaks quickly before heat and rain cause more damage. I definitely recommend them if you want fair pricing, clear communication, and skilled roofers. If we ever need more roof repair or another inspection, we will gladly use them again."
+    },
+    {
+      "author": "Alondra Church",
+      "rating": 5,
+      "date": "2 months ago",
+      "text": "After buying an older home, we found roof shingle damage, poor attic ventilation, and a lot of wood rot around the exterior trim. Hector & Sons Roof Repair did an excellent job from start to finish. Bryson and the crew gave us a detailed inspection report that clearly explained the roofing issues, needed repairs, and pricing, and it lined up well with the home inspection we already had. The crew arrived on time, even got started sooner than expected, and handled the roof work with real skill and care. The shingle repair, ventilation improvements, and related exterior wood repairs were high quality, and the cost was very fair. My son was so impressed with the workmanship that he plans to use them for roofing work on his own home too. Overall, it was a smooth and very positive experience."
+    },
+    {
+      "author": "darius aguirre",
+      "rating": 5,
+      "date": "4 months ago",
+      "text": "I needed fast roof repairs to keep things secure for a while, and Hector & Sons Roof Repair quickly checked the roofing issue, explained what needed attention, and gave me a clear estimate. Bryson walked me through the repair options in simple terms and focused only on the work that was truly necessary. I approved the job, and the crew came out within a few days to take care of it. The workmanship was professional, the team was courteous, and the follow-up was excellent. They were honest and transparent the whole time, never trying to upsell extra roofing work I did not need. That kind of straightforward service really stood out. The repairs were done well, everything was left neat, and the roof is holding up great. I will definitely use them again when it is time for a full roof replacement."
+    }
+  ],
+  "finalCta": {
+    "headline": "Got a leak or an old roof?",
+    "body": "Send your address and a few photos or pick a time for an inspection. You'll get a written estimate before any work is booked.",
+    "microcopy": "No pressure. Just a straight answer about your roof."
+  },
+  "faq": [
+    {
+      "q": "How fast can you look at a leak?",
+      "a": "Send the details and a few photos and we'll work you into the schedule for an inspection as soon as we can."
+    },
+    {
+      "q": "Do I need a full new roof?",
+      "a": "Not always. We inspect first and recommend only the repairs your roof actually needs. If replacement makes more sense, we'll explain why."
+    },
+    {
+      "q": "Do you fix skylights and vents?",
+      "a": "Yes. Skylight leaks, vents and attic ventilation are common jobs, along with rotted decking and trim."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your estimate and we'll send the license and insurance details for your project."
+    },
+    {
+      "q": "What happens after I submit a request?",
+      "a": "Your details come straight to us, you get a text and email confirmation, and we follow up to book an inspection."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
