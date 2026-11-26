@@ -1,0 +1,212 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-26): 'The Roof Tiler & Sons Pty Ltd', 4.8 stars, 12 reviews (11 five-star), category 'Roofing contractor', phone +61 426 811 102, opens 7 AM, service-area business around Townsville (no street address shown), no website ('Add website' shown).",
+    "services": "Google review topics: tiled roof renewal 3, big jobs 3, roof repair 3, quality of work 2, honesty 2, reliability 2. Reviews: re-pointing a roof and checking roof and sarking (John), old tiled roof stripped down, repaired and ridges and valleys re-pointed (Mark Rickards), roof repairs, little jobs and roof cleaning (Mick Edwards). Owner Dave (David) and son Levi.",
+    "brand": "From their own branded cover graphic on Google (white 'THE ROOF TILER & SONS Pty Ltd' lettering over a dark navy tiled roof and blue sky), sampled with scripts/sample-brand.mjs: primary = roof-tile navy, lifted slightly to #2d4479 (white 9.5:1), dark = deep navy #161b2e (white 17.1:1), accent = sky blue #9fdaf5 (11.2:1 on dark). Concept mark is original, not their graphic.",
+    "reviews": "Google Reviews tab, same session: 3 complete 5-star reviews copied verbatim (John, Mark Rickards, Mick Edwards). Skipped a 5-star review that mostly recommends other roof tilers by name."
+  },
+  "gap": "No website: 12 reviews at 4.8, but the Google listing shows 'Add website', so homeowners can only ring; there's no way to send photos of cracked pointing or a leak for a quote while Dave and Levi are up on a roof.",
+  "market": "AU",
+  "company": {
+    "name": "The Roof Tiler & Sons Pty Ltd",
+    "trade": "Tiled roof repairs, repointing and restorations",
+    "city": "Townsville, QLD",
+    "serviceArea": [
+      "Townsville"
+    ],
+    "phone": "0426 811 102"
+  },
+  "logo": {
+    "initials": "RT",
+    "tagline": "Roof Tiling · Townsville",
+    "svg": "/assets/logos/the-roof-tiler-and-sons-pty-ltd.svg"
+  },
+  "brand": {
+    "primary": "#2d4479",
+    "dark": "#161b2e",
+    "accent": "#9fdaf5"
+  },
+  "assetFolder": "roofing",
+  "assistantName": "The Roof Tiler",
+  "google": {
+    "rating": 4.8,
+    "reviewCount": 12,
+    "profileUrl": "https://www.google.com/maps/place/The+Roof+Tiler+%26+Sons+Pty+Ltd/@-18.937367,147.4246782,7z/data=!4m6!3m5!1s0x6bd5f197b241a26f:0x48fdc2b4d34248d4!8m2!3d-18.937367!4d147.4246782!16s%2Fg%2F11h7n7gtpd"
+  },
+  "hero": {
+    "eyebrow": "Roof tiling in Townsville",
+    "headline": "Tiled roofs repaired, repointed and renewed in Townsville.",
+    "subhead": "Repointing ridges and valleys, roof repairs, full tiled roof renewals and roof cleaning, from a father-and-son team. Send a few photos and get a clear written quote.",
+    "trustLine": [
+      "Father-and-son team",
+      "Roof and sarking checked",
+      "No job too big or small"
+    ],
+    "photo": "rooftiles"
+  },
+  "quoteField": {
+    "label": "Roof need",
+    "options": [
+      "Repointing",
+      "Leak or roof repair",
+      "Tiled roof renewal",
+      "Roof cleaning",
+      "Inspection"
+    ]
+  },
+  "skyeGreeting": "Hi, I'm The Roof Tiler assistant. Cracked pointing, a leak or a tired tiled roof? Tell me what's going on and I'll help you get a quote.",
+  "about": {
+    "headline": "Tiled roofs are all we do.",
+    "body": "Most homeowners want the same thing from a roof tiler: someone honest who knows tiled roofs, checks what's underneath and does the job properly. Every roof gets that, from a few broken tiles to a full renewal.",
+    "cards": [
+      {
+        "title": "Cracked or broken pointing",
+        "body": "Ridges and valleys repointed so the roof is sealed and solid again."
+      },
+      {
+        "title": "Old tiled roofs",
+        "body": "Stripped back, repaired and renewed so they last for years to come."
+      },
+      {
+        "title": "Small repairs and cleaning",
+        "body": "Little jobs and roof cleans done just as carefully as the big ones."
+      }
+    ],
+    "closing": "Not sure what the roof needs? Send a few photos and Dave will take a look."
+  },
+  "problems": {
+    "headline": "Getting a tiled roof fixed in Townsville shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow quotes",
+        "body": "Roofers who never call back about a small job."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "No clear price until the scaffolding's already up."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "Waiting months for someone to fix a leak."
+      },
+      {
+        "title": "Messy job sites",
+        "body": "Old pointing and broken tiles left in the garden."
+      }
+    ],
+    "bridge": "Your roof should be checked properly and fixed by people who know tiles."
+  },
+  "solutions": {
+    "headline": "Tiled roof work done properly.",
+    "services": [
+      {
+        "title": "Repointing & ridge capping",
+        "body": "Ridges and valleys repointed, with the roof and sarking checked while we're up there.",
+        "photo": "rooftiles"
+      },
+      {
+        "title": "Roof repairs & renewals",
+        "body": "Leaks and broken tiles repaired, and old roofs stripped back and renewed.",
+        "photo": "brokentiles"
+      },
+      {
+        "title": "Roof cleaning",
+        "body": "Moss and grime cleaned off to keep the tiles in good shape.",
+        "photo": "tilemoss"
+      }
+    ]
+  },
+  "process": {
+    "headline": "We check it. Quote it clearly. Fix it properly.",
+    "steps": [
+      {
+        "title": "Send your roof",
+        "body": "Share a few photos with the form or give Dave a ring."
+      },
+      {
+        "title": "Inspection & quote",
+        "body": "We check the tiles, pointing and sarking and send a clear quote."
+      },
+      {
+        "title": "Quality work",
+        "body": "Dave and Levi do the job carefully, start to finish."
+      },
+      {
+        "title": "Clean-up & check",
+        "body": "Old pointing and debris cleared, and a final check together."
+      }
+    ]
+  },
+  "why": {
+    "headline": "Reviews from Townsville homeowners.",
+    "themes": [
+      {
+        "title": "Tiled roof specialists",
+        "body": "Repointing, repairs and renewals on tiled roofs."
+      },
+      {
+        "title": "Honest advice",
+        "body": "Straight answers about what the roof needs."
+      },
+      {
+        "title": "Reliable",
+        "body": "Big jobs and little jobs done as promised."
+      },
+      {
+        "title": "Pride in the work",
+        "body": "A family team that does it properly."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "John",
+      "rating": 5,
+      "date": "8 months ago",
+      "text": "We had the pleasure of having Dave and Levi re-point our roof and not only was it done professionally, but Dave also went to great lengths to check that both the roof and sark were in great condition. We would highly recommend Dave and Levi for any renewal or maintenance to your tiled roof. Dave has a great persona and pride in his work."
+    },
+    {
+      "author": "Mark Rickards",
+      "rating": 5,
+      "date": "3 years ago",
+      "text": "We had an old tiled roof with broken pointing and other problems. Dave and his crew stripped it down, conducted repairs, re-pointed the ridges and valleys. It is practically new again and will last another 30 years. Thanks Dave for a professional job."
+    },
+    {
+      "author": "Mick Edwards",
+      "rating": 5,
+      "date": "4 months ago",
+      "text": "Thanks David and son\nThey repaired my roof very professional great attitude I would recommend this company to all good clean job.local men.\nGot David and son back to do little jobs no job to big or small thanks\nRecommend him to my neighbours done a great job very happy neighbours.\nNot only does Dave and son repair roof they also clean them and do a great job very professionally thanks Dave and Levi"
+    }
+  ],
+  "finalCta": {
+    "headline": "Is your tiled roof due for some work?",
+    "body": "Send a few photos or pick a time for Dave to come out. You'll get a written quote before any work is booked.",
+    "microcopy": "No pressure. Just honest advice about your roof."
+  },
+  "faq": [
+    {
+      "q": "How do I know if my roof needs repointing?",
+      "a": "Cracked or crumbling mortar on the ridges, loose ridge caps or leaks near the ridge line are common signs. Send a photo and we'll tell you."
+    },
+    {
+      "q": "Do you take on small jobs?",
+      "a": "Yes. No job too big or small, from a few broken tiles to a full roof renewal."
+    },
+    {
+      "q": "Do you clean roofs too?",
+      "a": "Yes. Roof cleaning is part of the work, on its own or before repointing."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your quote and we'll send the licence and insurance details for your job."
+    },
+    {
+      "q": "What happens after I send a request?",
+      "a": "Your details come straight to Dave, you get a text and email confirmation, and we follow up to book a look at the roof."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
