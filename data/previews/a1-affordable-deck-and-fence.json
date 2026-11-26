@@ -1,0 +1,212 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-26): 'A1 Affordable Deck & Fence', 5.0 stars, 26 reviews, category 'Deck builder', phone +1 850-284-2571, address on Rolf Dr, Tallahassee, FL 32303, opens 8 AM, website link = facebook.com.",
+    "services": "Their own Facebook page bio (same day): 'We build&repair decks&all fences. Chain link installation. Dock and seawall repair.' Category on Facebook: Fence & Gate Contractor. Google review topics: fence installation 6, work quality 6, composite decking 5, wooden 4, workmanship 3, picket fence 2, timely completion 2, affordability 2, thorough work 2, efficient 2. Owner named in reviews: Will (Will Shiver); crew Shane and Charlie.",
+    "brand": "No logo or brand colours online (Facebook profile picture is a project photo). Sampled from their Google listing cover photo (tan composite deck among green plants) with scripts/sample-brand.mjs, then adjusted by eye: primary = composite board brown #7a5a48 (white 6.2:1), dark = deep plant green #26301f (white 13.8:1), accent = board tan #d9c7be (8.4:1 on dark). Sampled from their listing photo, not an official brand; confirm with the owner. Concept mark is original.",
+    "reviews": "Google Reviews tab, same session: 3 complete 5-star reviews copied verbatim (Minerva Simpson, Deborah Newlin, Keith Powell), stars read from each review's rating label."
+  },
+  "gap": "Facebook-only: 26 five-star reviews, but the Google website button goes to a Facebook page, so homeowners can't send deck measurements, fence lengths or photos for an estimate in one place.",
+  "market": "US",
+  "company": {
+    "name": "A1 Affordable Deck & Fence",
+    "trade": "Deck building, fencing and dock repair",
+    "city": "Tallahassee, FL",
+    "serviceArea": [
+      "Tallahassee"
+    ],
+    "phone": "(850) 284-2571"
+  },
+  "logo": {
+    "initials": "A1",
+    "tagline": "Decks & Fences · Tallahassee",
+    "svg": "/assets/logos/a1-affordable-deck-and-fence.svg"
+  },
+  "brand": {
+    "primary": "#7a5a48",
+    "dark": "#26301f",
+    "accent": "#d9c7be"
+  },
+  "assetFolder": "carpentry",
+  "assistantName": "A1 Deck & Fence",
+  "google": {
+    "rating": 5.0,
+    "reviewCount": 26,
+    "profileUrl": "https://www.google.com/maps/place/A1+Affordable+Deck+%26+Fence/@30.504575,-84.332808,17z/data=!4m6!3m5!1s0x88eced6d1dee8e97:0xfa26b69b0330b8f3!8m2!3d30.504575!4d-84.332808!16s%2Fg%2F1tfnzf3w"
+  },
+  "hero": {
+    "eyebrow": "Decks & fences in Tallahassee",
+    "headline": "Decks and fences built to last in Tallahassee.",
+    "subhead": "New composite and wood decks, deck repairs and every kind of fence, from picket to chain link, plus dock and seawall repair. Send a few photos and measurements and get a clear written estimate.",
+    "trustLine": [
+      "Deal directly with the owner",
+      "Composite or wood",
+      "Screws and scraps cleaned up"
+    ],
+    "photo": "stairs"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "New deck",
+      "Deck repair or rebuild",
+      "Wood or picket fence",
+      "Chain link fence",
+      "Dock or seawall repair"
+    ]
+  },
+  "skyeGreeting": "Hi, I'm the A1 Affordable Deck & Fence assistant. Planning a new deck, a fence or a repair? Tell me about the project and I'll help you get an estimate.",
+  "about": {
+    "headline": "Decks and fences done right the first time.",
+    "body": "Most homeowners want the same thing from a deck or fence job: a fair estimate, a crew that shows up when they said, and work that still looks good years later. Every project runs that way, from a small front stoop to a full rebuild.",
+    "cards": [
+      {
+        "title": "Old decks that need rebuilding",
+        "body": "Tired or unsafe decks torn out and rebuilt, often in low-maintenance composite."
+      },
+      {
+        "title": "Fence replacements",
+        "body": "Worn-out wood, picket or chain link fences replaced around the whole yard."
+      },
+      {
+        "title": "Docks and seawalls",
+        "body": "Repairs to docks and seawalls on Tallahassee waterfront properties."
+      }
+    ],
+    "closing": "Not sure where to start? Send a few photos and we'll talk it through."
+  },
+  "problems": {
+    "headline": "Getting a deck or fence built shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow estimates",
+        "body": "Calls to several companies and nobody comes out to measure."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "A number that changes once the old boards come off."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "A one-week job that drags on for a month."
+      },
+      {
+        "title": "Messy job sites",
+        "body": "Screws and offcuts left in the grass where kids and pets play."
+      }
+    ],
+    "bridge": "You should know the price, the plan and the finish date up front."
+  },
+  "solutions": {
+    "headline": "Quality decks and fences at a fair price.",
+    "services": [
+      {
+        "title": "New decks & deck rebuilds",
+        "body": "Composite and wood decks, porches, stoops and stairs, built new or rebuilt from the frame up.",
+        "photo": "deck"
+      },
+      {
+        "title": "Fence installation & repair",
+        "body": "Wood, picket and chain link fences installed or replaced around your property.",
+        "photo": "gate"
+      },
+      {
+        "title": "Deck, dock & seawall repairs",
+        "body": "Damaged decks, stairs, docks and seawalls repaired so they're safe and solid again.",
+        "photo": "stairs"
+      }
+    ]
+  },
+  "process": {
+    "headline": "We measure it. Price it fairly. Build it right.",
+    "steps": [
+      {
+        "title": "Send your project",
+        "body": "Share photos and rough measurements with the form or call Will."
+      },
+      {
+        "title": "Site visit & estimate",
+        "body": "We look at the job, suggest the right materials and give you a clear price."
+      },
+      {
+        "title": "Build on schedule",
+        "body": "The crew works to the timeline we agreed and keeps you updated."
+      },
+      {
+        "title": "Clean-up & walkthrough",
+        "body": "Screws and scraps cleared from the yard, then a final look together."
+      }
+    ]
+  },
+  "why": {
+    "headline": "26 five-star reviews from Tallahassee homeowners.",
+    "themes": [
+      {
+        "title": "Meticulous workmanship",
+        "body": "Attention to detail on every board and post."
+      },
+      {
+        "title": "Fair, affordable estimates",
+        "body": "Often the most reasonable price homeowners received."
+      },
+      {
+        "title": "On time",
+        "body": "Jobs started and finished when promised."
+      },
+      {
+        "title": "Owner who cares",
+        "body": "Will communicates clearly and stands behind the work."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Minerva Simpson",
+      "rating": 5,
+      "date": "4 months ago",
+      "text": "I hired them 2 years ago to replace a front stoop/small porch. I was so happy with them and the work that I hired them to replace a back deck, which was a larger job. Once again, very happy. If a deck can be beautiful, it is. The work is meticulous with attention to detail. The owner, Will, communicates and cares about the work he does. I plan to hire them for another deck section that needs replacing."
+    },
+    {
+      "author": "Deborah Newlin",
+      "rating": 5,
+      "date": "2 years ago",
+      "text": "A1, indeed! We'd called several companies for a demo and complete rebuild of a 20ft high 22×8 deck using composite decking.  Mr. Will's estimate was by far the most reasonable. He and his crew estimated 1 week, and they were right on target. The team took time clean up the area, even using devices to find dropped screws in the grass. The deck and stairs are beautifully done, and we couldn't be happier! We've already talked to them about coming back next summer for work on our back deck. HIGHLY recommend you call A1."
+    },
+    {
+      "author": "Keith Powell",
+      "rating": 5,
+      "date": "3 years ago",
+      "text": "We needed a 20 year old 4 ft wooden fence replaced. They gave us the best quote and said they’d have us scheduled within 2 weeks. Just a few days later they called to say they had time the next day to get our job done while they waited on supplies for another job. When we came home the job was complete perfection. Such quality work!   I won’t ever call anyone else for fence work!"
+    }
+  ],
+  "finalCta": {
+    "headline": "Ready for a new deck or fence?",
+    "body": "Send a few photos and rough measurements or pick a time for a site visit. You'll get a written estimate before any work is booked.",
+    "microcopy": "No pressure. Just a fair price and a straight answer."
+  },
+  "faq": [
+    {
+      "q": "Should I go with composite or wood?",
+      "a": "It depends on your budget and how much upkeep you want. Composite needs less maintenance; wood costs less up front. We'll walk you through both at the site visit."
+    },
+    {
+      "q": "What kinds of fences do you install?",
+      "a": "Wood, picket and chain link fences, new or as a full replacement of an old fence."
+    },
+    {
+      "q": "Do you repair docks and seawalls?",
+      "a": "Yes. Dock and seawall repair is part of the work, along with deck and stair repairs."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your estimate and we'll send the license and insurance details for your project."
+    },
+    {
+      "q": "What happens after I submit a request?",
+      "a": "Your details come straight to us, you get a text and email confirmation, and we follow up to set up a site visit."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
