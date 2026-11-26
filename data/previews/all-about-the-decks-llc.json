@@ -1,0 +1,211 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-26): 'All About The Decks LLC', 4.7 stars, 7 reviews, category 'Deck builder', 1119 County Rd 315, Grandin, FL 32138, 'Open 24 hours', phone +1 352-260-1575, website = allaboutthedecksllc.godaddysites.com. A second listing with the same name and phone (5.0 stars, 4 reviews, 726 NW 1 Ave, Ocala) also exists: the business's reviews are split across two listings.",
+    "website": "http://allaboutthedecksllc.godaddysites.com/ (2026-11-26): free GoDaddy site with the 'Start for free' banner, 'Contact us for a free quote!', 'Decks Built Right', generic template copy ('Occupied and fully operational job sites are never a problem ... multi-phase jobs'), no form on the home page ('Get a quote' links to a contact page). Colours: slate blue rgb(67,80,101) on black rgb(22,22,22).",
+    "services": "Deck building, deck repairs and restorations (website and Google category). Review topic: deck design 2.",
+    "brand": "From their own website: slate blue #435065 (white 8.2:1) and black #161616; accent = the pine of the new deck in their own hero photo, #e2c07f (10.4:1 on dark).",
+    "reviews": "Google Reviews tab of the 7-review listing, same session: 2 complete 5-star reviews with their own text copied verbatim (CR Smith, John). Three other 5-star entries show only the owner's thank-you text, one is a short 'You guys are the best', and one is 3 stars (warping boards, later repaired): not used. Builders named Ashley and Dakota.",
+    "serviceArea": "Listing addresses in Grandin and Ocala, FL. The page names Grandin and Ocala only."
+  },
+  "gap": "The Google website button opens a free GoDaddy page with generic template copy and no quote form on the home page, and the reviews are split across two separate Google listings, so homeowners can't see the full picture or send deck details easily.",
+  "market": "US",
+  "company": {
+    "name": "All About The Decks LLC",
+    "trade": "Deck building and repairs",
+    "city": "Grandin, FL",
+    "serviceArea": [
+      "Grandin",
+      "Ocala"
+    ],
+    "phone": "(352) 260-1575"
+  },
+  "logo": {
+    "initials": "AD",
+    "tagline": "Deck Building & Repairs · Grandin & Ocala",
+    "svg": "/assets/logos/all-about-the-decks-llc.svg"
+  },
+  "brand": {
+    "primary": "#435065",
+    "dark": "#161616",
+    "accent": "#e2c07f"
+  },
+  "assetFolder": "carpentry",
+  "assistantName": "All About The Decks",
+  "google": {
+    "rating": 4.7,
+    "reviewCount": 7,
+    "profileUrl": "https://www.google.com/maps/place/All+About+The+Decks+LLC/@29.750661,-81.9264017,10z/data=!4m6!3m5!1s0x2f4461f09f8999a1:0x70e3a781592e979!8m2!3d29.750661!4d-81.9264017!16s%2Fg%2F11t165l16q"
+  },
+  "hero": {
+    "eyebrow": "Deck building & repairs around Grandin and Ocala",
+    "headline": "New decks and deck repairs in Grandin, built right and delivered on time.",
+    "subhead": "New decks, deck repairs and restorations for homeowners around Grandin and Ocala. Tell us about your deck and get a free quote.",
+    "primaryCta": "Get a free quote",
+    "trustLine": [
+      "Free quotes",
+      "Decks are all we do",
+      "Delivered on time"
+    ],
+    "photo": "stairs"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "New deck",
+      "Deck repair",
+      "Deck restoration",
+      "Stairs or railings",
+      "Something else"
+    ]
+  },
+  "skyeGreeting": "Hi, I'm the All About The Decks assistant. Planning a new deck or need yours fixed? Tell me a bit about it and I'll help you get a free quote or book a time.",
+  "about": {
+    "headline": "Decks are all we do, so we do them right.",
+    "body": "Most homeowners want the same things from a deck builder: a fair price before work starts, a deck delivered on time, and boards that are built to last in the Florida weather. Every job is planned around that, from a repair to a new build.",
+    "cards": [
+      {
+        "title": "Backyards with no deck yet",
+        "body": "New decks designed around how you want to use the space."
+      },
+      {
+        "title": "Decks that need work",
+        "body": "Repairs and restorations for decks that have seen better days."
+      },
+      {
+        "title": "Bigger projects",
+        "body": "Multi-phase deck builds planned, managed and built in stages."
+      }
+    ],
+    "closing": "Not sure what your deck needs? Send a few photos and we'll talk it through."
+  },
+  "problems": {
+    "headline": "Getting a deck built around Grandin and Ocala shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow quotes",
+        "body": "You call around and wait weeks for anyone to come out."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "A rough number that climbs once the build starts."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "The deck you wanted for spring still isn't finished."
+      },
+      {
+        "title": "Messy job sites",
+        "body": "Offcuts and screws left across the yard."
+      }
+    ],
+    "bridge": "You shouldn't have to chase a builder just to get a clear quote."
+  },
+  "solutions": {
+    "headline": "Straightforward deck building with clear communication.",
+    "services": [
+      {
+        "title": "New decks",
+        "body": "New decks designed with you and built right, delivered on time.",
+        "photo": "deck"
+      },
+      {
+        "title": "Deck repairs & restorations",
+        "body": "Repairs and restorations that bring a worn deck back to solid and safe.",
+        "photo": "stairs"
+      },
+      {
+        "title": "Multi-phase projects",
+        "body": "Larger deck projects planned, managed and built in stages around your schedule.",
+        "photo": "framing"
+      }
+    ]
+  },
+  "process": {
+    "headline": "We listen to what you need. Quote it clearly. Build it right.",
+    "steps": [
+      {
+        "title": "Request your free quote",
+        "body": "Send a few details and photos with the form or give us a call."
+      },
+      {
+        "title": "Design & clear price",
+        "body": "We talk through the design and put the scope and price in writing."
+      },
+      {
+        "title": "On-time build",
+        "body": "Built on the schedule we agree, with clear communication throughout."
+      },
+      {
+        "title": "Final walkthrough",
+        "body": "We walk the finished deck with you and sort anything on the list before we call it done."
+      }
+    ]
+  },
+  "why": {
+    "headline": "Decks built right.",
+    "themes": [
+      {
+        "title": "Deck specialists",
+        "body": "Decks are the whole business, not a side line."
+      },
+      {
+        "title": "Free quotes",
+        "body": "A clear price before any work starts."
+      },
+      {
+        "title": "On time",
+        "body": "Delivered on the schedule we give you."
+      },
+      {
+        "title": "Clear communication",
+        "body": "Kept in the loop from design to the final board."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "CR Smith",
+      "rating": 5,
+      "date": "3 months ago",
+      "text": "Our new deck is beautiful! Delivered on time and the quality of their work is excellent!"
+    },
+    {
+      "author": "John",
+      "rating": 5,
+      "date": "4 months ago",
+      "text": "Ashley and Dakota built me a beautiful deck!!"
+    }
+  ],
+  "finalCta": {
+    "headline": "Ready to talk about your deck?",
+    "body": "Send a few details or pick a time that suits you. You'll get a free quote before anything is booked in.",
+    "cta": "Get a free quote",
+    "microcopy": "No pressure. Just a straightforward conversation about your deck."
+  },
+  "faq": [
+    {
+      "q": "Are quotes really free?",
+      "a": "Yes. Send a few details and photos through the form or give us a call, and you'll get a price before any work starts."
+    },
+    {
+      "q": "Which areas do you cover?",
+      "a": "Grandin, Ocala and the surrounding area. Tell us where the deck is when you get in touch and we'll confirm."
+    },
+    {
+      "q": "Can my old deck be repaired?",
+      "a": "Often, yes. We'll look at the framing and boards and tell you honestly whether a repair, a restoration or a new deck makes more sense."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your quote and we'll send the license and insurance details for your project."
+    },
+    {
+      "q": "What happens after I submit a request?",
+      "a": "Your details come straight to us, you get a text and email confirmation, and we follow up to set a time to look at the job."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
