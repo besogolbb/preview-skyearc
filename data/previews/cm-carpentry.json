@@ -1,0 +1,222 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-26): 'CM Carpentry', 5.0 stars, 8 reviews, category 'Carpenter', open, closes 5 PM, phone +61 449 266 909, website = sites.google.com (their Google Sites page).",
+    "serviceArea": "Google service-area outline (headless render, same day): the Central Coast from Cooranbong and Morisset through Wyong, Tuggerah, Toukley and Budgewoi to Gosford, Terrigal and Umina Beach. Their site: 'based in Avoca Beach, NSW servicing all parts of the Central Coast'.",
+    "website": "https://sites.google.com/cmcarpentry.com.au/cmcarpentry/home (2026-11-26): a single free Google Sites page: 'CM Carpentry — For all your carpentry needs', one paragraph, a plain services list (Decks, Pergolas, Renovations, Extensions, Fix outs, Floors, Doors, Internal and External Fittings, Screens), contact details (phone, cody@ email, Licence No: 374874C, ABN), four 'Some Recent Works' photos (pre-oiled, spotted gum and composite decking, privacy screen) and an embedded block that shows a Google sign-in prompt to visitors. No quote form, no reviews.",
+    "services": "Website services list plus reviews: new decking (Debra Smith), front door widened with smart lock and a wall knocked out to extend the kitchen, bifold windows (Cam), finishes advice (Aaron Hayes), on time at the quoted price (Patricia Morrow). Review topics: communication 4, workmanship 3, helpful staff 2.",
+    "brand": "From their own logo on their website: teal-blue wordmark #00658b, charcoal house #555658, steel-blue house #527fa9. Primary = the wordmark teal #00658b (white 6.5:1), dark = deep charcoal #1f2326 (white 15.8:1), accent = a lighter tint of their steel blue #8fb2d4 (7.2:1 on dark). Concept mark is original, not their logo.",
+    "reviews": "Google Reviews tab, same session: 3 complete 5-star reviews copied verbatim (Debra Smith, Cam, Patricia Morrow), stars checked via each review's rating label. Owner Cody (site email and reviews); one review names Ryan."
+  },
+  "gap": "The Google website button opens a one-page free Google Sites page with a plain list of services, no quote form and no reviews, and part of it shows visitors a Google sign-in prompt, so the 5.0 rating and their decking work don't come across when a homeowner clicks through.",
+  "market": "AU",
+  "company": {
+    "name": "CM Carpentry",
+    "trade": "Decks, pergolas and carpentry",
+    "city": "Avoca Beach, NSW",
+    "serviceArea": [
+      "Avoca Beach",
+      "Terrigal",
+      "Gosford",
+      "Umina Beach",
+      "Erina",
+      "Tuggerah",
+      "Wyong",
+      "Toukley"
+    ],
+    "phone": "0449 266 909",
+    "credential": "NSW Licence 374874C"
+  },
+  "logo": {
+    "initials": "CM",
+    "tagline": "Carpentry · Central Coast",
+    "svg": "/assets/logos/cm-carpentry.svg"
+  },
+  "brand": {
+    "primary": "#00658b",
+    "dark": "#1f2326",
+    "accent": "#8fb2d4"
+  },
+  "assetFolder": "carpentry",
+  "assistantName": "CM Carpentry",
+  "google": {
+    "rating": 5,
+    "reviewCount": 8,
+    "profileUrl": "https://www.google.com/maps/place/CM+Carpentry/@-33.3146575,151.3111836,10z/data=!4m6!3m5!1s0x6b72b77d5606d5e5:0xceaf5e64678fc3c6!8m2!3d-33.3146575!4d151.3111836!16s%2Fg%2F11rkh3ytfd"
+  },
+  "hero": {
+    "eyebrow": "Carpentry across the Central Coast",
+    "headline": "Decks, pergolas and renovations from Avoca Beach, built properly.",
+    "subhead": "New decking, pergolas, screens, doors, floors and renovations across the Central Coast. Send a few details or photos of the job and get a clear written quote.",
+    "trustLine": [
+      "NSW Licence 374874C",
+      "5.0 on Google",
+      "Based in Avoca Beach"
+    ],
+    "photo": "stairs"
+  },
+  "quoteField": {
+    "label": "Job type",
+    "options": [
+      "New deck",
+      "Pergola or screen",
+      "Renovation or extension",
+      "Doors, floors or fit-out",
+      "Something else"
+    ]
+  },
+  "skyeGreeting": "G'day, I'm the CM Carpentry assistant. Thinking about a new deck, a pergola or a reno? Tell me a bit about the job and I'll help you get a quote or book a time.",
+  "about": {
+    "headline": "Good carpentry, from the quote through to completion.",
+    "body": "Most people want the same things from a chippy: someone who listens to what they're after, gives a fair price, turns up on time and leaves the place clean. That's how every job is run, from a single door to a full deck.",
+    "cards": [
+      {
+        "title": "Backyards that need a deck",
+        "body": "Spotted gum, pre-oiled or composite decking, built to suit how you use the space."
+      },
+      {
+        "title": "Outdoor areas that need shade or privacy",
+        "body": "Pergolas and privacy screens that finish the space off."
+      },
+      {
+        "title": "Homes ready for a change",
+        "body": "Renovations, extensions, doors, floors and fit-outs inside and out."
+      }
+    ],
+    "closing": "Not sure what the job needs? Send a few photos and we'll talk it through."
+  },
+  "problems": {
+    "headline": "Getting a good carpenter on the Central Coast shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow quotes",
+        "body": "You ring around and wait weeks for anyone to come and look."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "A rough number that climbs once the job starts."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "The deck you wanted for summer still isn't finished."
+      },
+      {
+        "title": "Messy job sites",
+        "body": "Offcuts and screws left across the yard."
+      }
+    ],
+    "bridge": "You shouldn't have to chase a tradie just to get a clear quote."
+  },
+  "solutions": {
+    "headline": "Straightforward carpentry with good communication.",
+    "services": [
+      {
+        "title": "Decks",
+        "body": "New decks in spotted gum, pre-oiled timber or composite, with advice on finishes.",
+        "photo": "deck"
+      },
+      {
+        "title": "Pergolas & screens",
+        "body": "Pergolas and privacy screens built to suit the house and the yard.",
+        "photo": "pergola"
+      },
+      {
+        "title": "Renovations & fit-outs",
+        "body": "Renovations, extensions, doors, floors and internal and external fittings.",
+        "photo": "door"
+      }
+    ]
+  },
+  "process": {
+    "headline": "We listen to what you want. Quote it clearly. Build it properly.",
+    "steps": [
+      {
+        "title": "Request your quote",
+        "body": "Send a few details and photos with the form or give Cody a ring."
+      },
+      {
+        "title": "Ideas & clear price",
+        "body": "We talk through the design and finishes and put the price in writing."
+      },
+      {
+        "title": "Quality build",
+        "body": "Built on time at the quoted price, with the site cleaned up as we go."
+      },
+      {
+        "title": "Final walkthrough",
+        "body": "We walk the finished job with you before we call it done."
+      }
+    ]
+  },
+  "why": {
+    "headline": "5.0 on Google from homeowners across the Central Coast.",
+    "themes": [
+      {
+        "title": "Licensed in NSW",
+        "body": "Licence 374874C, based in Avoca Beach."
+      },
+      {
+        "title": "Good communication",
+        "body": "Patient, clear and easy to deal with from the first call."
+      },
+      {
+        "title": "Quality workmanship",
+        "body": "Careful work and good ideas on finishes."
+      },
+      {
+        "title": "On time, as quoted",
+        "body": "A written price before work starts, and a job that runs to schedule."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Debra Smith",
+      "rating": 5,
+      "date": "4 years ago",
+      "text": "Thanks so much to CM Carpentry for my new decking.\nI absolutely love it.\nCody was so helpful and professional at all times.\nThe decking was of high quality and I would not use anyone else.\nHighly recommended\nThanks again"
+    },
+    {
+      "author": "Cam",
+      "rating": 5,
+      "date": "4 years ago",
+      "text": "Cody widened our front door and installed the new one with a smart lock, also knocked down a wall to extend our kitchen. We are getting him back in a few weeks now to put in some bifold windows because he is fantastic. Great workmanship and I’m looking for other jobs to get him to do as everything looks so amazing."
+    },
+    {
+      "author": "Patricia Morrow",
+      "rating": 5,
+      "date": "2 years ago",
+      "text": "On time, quoted price, cleans up. Good communication and a lovely fella. Didn't have to wait very long for the work to be done"
+    }
+  ],
+  "finalCta": {
+    "headline": "Got a deck or carpentry job in mind?",
+    "body": "Send a few details or pick a time that suits you. You'll get a written quote before any work is booked.",
+    "microcopy": "No pressure. Just a straight answer about the job."
+  },
+  "faq": [
+    {
+      "q": "How do quotes work?",
+      "a": "Send a few details and photos through the form or give us a ring. We'll have a look at the job and send a written quote with the scope and price."
+    },
+    {
+      "q": "Which areas do you cover?",
+      "a": "All of the Central Coast, from Umina Beach, Gosford and Terrigal up through Tuggerah, Wyong and Toukley. Based in Avoca Beach."
+    },
+    {
+      "q": "What decking do you use?",
+      "a": "Spotted gum, pre-oiled timber and composite are all on the list. We'll talk through what suits your space and budget."
+    },
+    {
+      "q": "Are you licensed?",
+      "a": "Yes. CM Carpentry holds NSW licence 374874C. Ask for insurance details with your quote."
+    },
+    {
+      "q": "What happens after I submit a request?",
+      "a": "Your details come straight to us, you get a text and email confirmation, and we follow up to book a time to look at the job."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
