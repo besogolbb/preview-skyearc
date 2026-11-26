@@ -1,0 +1,212 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-26): 'Island Roofing Tasmania', 4.5 stars, 17 reviews (14 five-star, 2 one-star), category 'Roofing contractor', phone +61 459 447 161, opens 8 AM, service-area business around Launceston (no street address shown), no website ('Add website' shown).",
+    "services": "Google review topics: gutters 7, roof replacement 4, promptness 3, communication 3, polite roofers 2, facia replacement 2, fascia 2, cleanup 2, advice 2. Reviews: persistent leaks fixed and a badly installed roof redone plus gutters and fascias (Alex Tomalaris), new roof (Jacquie Milburn), complex reroof (LOUISE), roof painting and gutter replacement (Anna Burton), repointing and capping the gables (stephen williams). Owner Sam (signs owner replies); Brad also named.",
+    "brand": "No brand online (no website, no logo). Sampled from their Google listing cover photo (freshly finished red corrugated metal hip roof) with scripts/sample-brand.mjs, accent adjusted by eye from pink to a warm coral: primary = roof red #a8302f (white 6.7:1), dark = deep maroon shadow #2a1219 (white 17.5:1), accent = light coral #f2a48c (8.7:1 on dark). Sampled from their listing photo, not an official brand; confirm with the owner. Concept mark is original.",
+    "reviews": "Google Reviews tab, same session: 3 complete 5-star reviews copied verbatim (Alex Tomalaris, Jacquie Milburn, stephen williams). Skipped a 5-star review that names a different company (Total Roof & Gutters)."
+  },
+  "gap": "No website: 17 reviews, but the Google listing shows 'Add website', so homeowners can only ring; there's no way to send photos of a leak, gutters or a tired roof for a quote while Sam is up on a job.",
+  "market": "AU",
+  "company": {
+    "name": "Island Roofing Tasmania",
+    "trade": "Roof repairs, reroofing and gutters",
+    "city": "Launceston, TAS",
+    "serviceArea": [
+      "Launceston"
+    ],
+    "phone": "0459 447 161"
+  },
+  "logo": {
+    "initials": "IR",
+    "tagline": "Roofing · Launceston",
+    "svg": "/assets/logos/island-roofing-tasmania.svg"
+  },
+  "brand": {
+    "primary": "#a8302f",
+    "dark": "#2a1219",
+    "accent": "#f2a48c"
+  },
+  "assetFolder": "roofing",
+  "assistantName": "Island Roofing",
+  "google": {
+    "rating": 4.5,
+    "reviewCount": 17,
+    "profileUrl": "https://www.google.com/maps/place/Island+Roofing+Tasmania/@-41.433383,147.1439225,14z/data=!4m6!3m5!1s0xaa70a740312054a7:0xce92c66e012c50c7!8m2!3d-41.433383!4d147.1439225!16s%2Fg%2F11t16rrdnr"
+  },
+  "hero": {
+    "eyebrow": "Roofing & gutters in Launceston",
+    "headline": "Leaks fixed, new roofs and gutters in Launceston.",
+    "subhead": "Leak repairs, reroofing, gutters and fascia, roof painting and repointing for Launceston homes. Send a few photos of the roof and get a clear written quote.",
+    "trustLine": [
+      "Prompt quotes",
+      "Kept in the loop",
+      "Site left spotless"
+    ],
+    "photo": "rooftiles"
+  },
+  "quoteField": {
+    "label": "Roof need",
+    "options": [
+      "Leak repair",
+      "New roof / reroof",
+      "Gutters & fascia",
+      "Roof painting",
+      "Repointing & capping"
+    ]
+  },
+  "skyeGreeting": "Hi, I'm the Island Roofing assistant. Got a leak, tired gutters or a roof that needs redoing? Tell me what's going on and I'll help you get a quote.",
+  "about": {
+    "headline": "A roofer who turns up, quotes and gets it done.",
+    "body": "Most homeowners want the same thing from a roofer: someone who actually shows up, sends the quote, keeps you posted and leaves the place tidy. Every job runs that way, from one leak to a full reroof.",
+    "cards": [
+      {
+        "title": "Leaks that keep coming back",
+        "body": "Persistent leaks tracked down and fixed, even on roofs another company got wrong."
+      },
+      {
+        "title": "Tired roofs and gutters",
+        "body": "New gutters and fascia, roof painting and repointing to bring an old roof back."
+      },
+      {
+        "title": "Full reroofs",
+        "body": "Complex reroofing jobs finished to a high standard."
+      }
+    ],
+    "closing": "Not sure what the roof needs? Send a few photos and Sam will take a look."
+  },
+  "problems": {
+    "headline": "Getting a roofer in Launceston shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & no-show quotes",
+        "body": "Roofers who don't turn up, or never send the quote."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "No clear price until the job's already started."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "Buckets under the leak while you wait for a start date."
+      },
+      {
+        "title": "Messy job sites",
+        "body": "Screws, offcuts and old gutters left around the yard."
+      }
+    ],
+    "bridge": "You should get a quote fast and a roofer who keeps you posted."
+  },
+  "solutions": {
+    "headline": "Roofing done properly, start to finish.",
+    "services": [
+      {
+        "title": "Leak repairs & reroofing",
+        "body": "Leaks fixed for good, badly installed roofs put right and full reroofs completed with care.",
+        "photo": "roofing"
+      },
+      {
+        "title": "Gutters & fascia",
+        "body": "Old gutters and fascia boards replaced so water goes where it should.",
+        "photo": "siding"
+      },
+      {
+        "title": "Painting, repointing & capping",
+        "body": "Roof painting, repointing and capping the gables to protect and refresh an older roof.",
+        "photo": "tilemoss"
+      }
+    ]
+  },
+  "process": {
+    "headline": "We look at it. Quote it fast. Do it right.",
+    "steps": [
+      {
+        "title": "Send your roof",
+        "body": "Share a few photos with the form or give Sam a ring."
+      },
+      {
+        "title": "Inspection & quote",
+        "body": "We turn up when we say and send a clear written quote."
+      },
+      {
+        "title": "Quality work",
+        "body": "The job done with precision, and updates as we go."
+      },
+      {
+        "title": "Clean-up & check",
+        "body": "Site left spotless, and we come back to check it's all right."
+      }
+    ]
+  },
+  "why": {
+    "headline": "Reviews from Launceston homeowners who'd use us again.",
+    "themes": [
+      {
+        "title": "Prompt and reliable",
+        "body": "Turns up on time and sends the quote."
+      },
+      {
+        "title": "Great communication",
+        "body": "Kept up to date from start to finish."
+      },
+      {
+        "title": "Attention to detail",
+        "body": "Precise, careful work on tricky roofs."
+      },
+      {
+        "title": "Clean and tidy",
+        "body": "The site left spotless before we leave."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Alex Tomalaris",
+      "rating": 5,
+      "date": "2 weeks ago",
+      "text": "Sam is an incredibly hard worker that is honest and clear. He did a fabulous job fixing persistent leaks in our roof and fixed the whole roof that was badly installed by another company.\n\nTogether with the gutters and facias, Sam’s work looks brilliant.\n\nWe highly recommend him."
+    },
+    {
+      "author": "Jacquie Milburn",
+      "rating": 5,
+      "date": "2 months ago",
+      "text": "Very highly recommended.\nSam & Brad were not only clean & tidy leaving nothing for me to worry about they were also punctual, communicated exceptionally well, paid attention to every detail & were very polite & professional.\nMy new roof looks totally amazing 🤩"
+    },
+    {
+      "author": "stephen williams",
+      "rating": 5,
+      "date": "9 months ago",
+      "text": "Sam did a great job repointing our roof and capping the gables.It was finished really professionally.He was prompt in turning up and providing a quote. Communication was good and kept us updated. Several other companys didnt even turn up or turned up and  didnt send through a quote. Highly recommend Sam hes an experienced top notch roofer."
+    }
+  ],
+  "finalCta": {
+    "headline": "Got a leak or a roof that needs work?",
+    "body": "Send a few photos or pick a time for Sam to come out. You'll get a written quote before any work is booked.",
+    "microcopy": "No pressure. Just a straight answer about your roof."
+  },
+  "faq": [
+    {
+      "q": "Can you fix a leak another roofer couldn't?",
+      "a": "Often, yes. We track down where the water is actually getting in and fix the cause, including roofs that were badly installed."
+    },
+    {
+      "q": "Do you do gutters and fascia?",
+      "a": "Yes. Gutter and fascia replacement is one of the most common jobs, on its own or alongside roof work."
+    },
+    {
+      "q": "Do you work on tile roofs?",
+      "a": "Yes. Repointing, capping the gables and roof painting are all part of the work."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your quote and we'll send the licence and insurance details for your job."
+    },
+    {
+      "q": "What happens after I send a request?",
+      "a": "Your details come straight to Sam, you get a text and email confirmation, and we follow up to book a look at the roof."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
