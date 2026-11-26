@@ -1,0 +1,212 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-26): 'Carpenter Handyman - GD Trading & Services', 5.0 stars, 9 reviews, category 'Carpenter', phone +61 481 897 525, opens 8 AM, service-area business around Shepparton (no street address shown), no website ('Add website' shown). A second listing 'GD Trading & Services' (5.0, 2 reviews, same phone) also exists.",
+    "services": "Reviews: wall insulation, carpentry and tiling to move a laundry out under the front verandah, with help sourcing materials at competitive prices (Graham Truran); a problem diagnosed and fixed (Ken Baxter); multiple jobs (Jarrod Hudson); 'very good carpenter' (Richard Hiscock). Review topics: friendly staff 2, work quality 2, pricing 2. Owner: Garry (also spelled Gary).",
+    "brand": "No brand online (no website, no logo; the sign in their cover photo is hidden behind the Maps search box). Sampled from their Google listing cover photo (their ute on green grass) with scripts/sample-brand.mjs, adjusted by eye: primary = grass green #456b2a (white 6.2:1), dark = charcoal #1b1e17 (white 16.9:1), accent = light grass #b9cf7a (9.9:1 on dark). Sampled from their listing photo, not an official brand; confirm with the owner. Concept mark is original.",
+    "reviews": "Google Reviews tab, same session: all 9 reviews are 5 stars; 3 complete ones copied verbatim (Graham Truran, Luciano, Ken Baxter)."
+  },
+  "gap": "No website (and two separate Google listings): 9 five-star reviews, but 'Add website' on the listing, so locals can only ring Garry; there's no way to send photos and job details for a quote while he's on the tools.",
+  "market": "AU",
+  "company": {
+    "name": "Carpenter Handyman - GD Trading & Services",
+    "trade": "Carpentry and handyman services",
+    "city": "Shepparton, VIC",
+    "serviceArea": [
+      "Shepparton"
+    ],
+    "phone": "0481 897 525"
+  },
+  "logo": {
+    "initials": "GD",
+    "tagline": "Carpenter & Handyman · Shepparton",
+    "svg": "/assets/logos/carpenter-handyman-gd-trading-and-services.svg"
+  },
+  "brand": {
+    "primary": "#456b2a",
+    "dark": "#1b1e17",
+    "accent": "#b9cf7a"
+  },
+  "assetFolder": "carpentry",
+  "assistantName": "GD Trading",
+  "google": {
+    "rating": 5.0,
+    "reviewCount": 9,
+    "profileUrl": "https://www.google.com/maps/place/Carpenter+Handyman+-+GD+Trading+%26+Services/@-36.3540622,145.2385879,10z/data=!4m6!3m5!1s0x517ede3514cecff:0x33403480eaa874c6!8m2!3d-36.3540622!4d145.2385879!16s%2Fg%2F11nxsyfd34"
+  },
+  "hero": {
+    "eyebrow": "Carpenter & handyman in Shepparton",
+    "headline": "Carpentry and handyman jobs done right in Shepparton.",
+    "subhead": "Carpentry, repairs, insulation, tiling and small renovations around the house. Send a few photos and get a clear written quote from Garry.",
+    "trustLine": [
+      "Fair rates",
+      "Help sourcing materials",
+      "Neat, clean work"
+    ],
+    "photo": "framing"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "Carpentry",
+      "Repair or handyman job",
+      "Insulation",
+      "Tiling",
+      "Small renovation"
+    ]
+  },
+  "skyeGreeting": "Hi, I'm the GD Trading assistant. Got a carpentry job or something around the house that needs fixing? Tell me about it and I'll help you get a quote.",
+  "about": {
+    "headline": "One tradie for the jobs around your house.",
+    "body": "Most homeowners want the same thing from a handyman: someone who turns up, works out the problem, does tidy work at a fair rate and is easy to deal with. Every job runs that way, big or small.",
+    "cards": [
+      {
+        "title": "Things that need fixing",
+        "body": "Problems looked at, a fix suggested, and the job sorted quickly."
+      },
+      {
+        "title": "Small renovations",
+        "body": "Carpentry, tiling and insulation to change how a room or space works."
+      },
+      {
+        "title": "Older houses",
+        "body": "Insulating walls and upgrading tired parts of an older home."
+      }
+    ],
+    "closing": "Got a list of jobs? Send a few photos and Garry will take a look."
+  },
+  "problems": {
+    "headline": "Finding a reliable handyman in Shepparton shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow quotes",
+        "body": "Small jobs that nobody wants to call back about."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "No idea what it costs until the invoice turns up."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "A one-day job that drags on for weeks."
+      },
+      {
+        "title": "Messy job sites",
+        "body": "Offcuts and dust left behind for you to clean up."
+      }
+    ],
+    "bridge": "You should get a fair quote and a tradie you'd happily call again."
+  },
+  "solutions": {
+    "headline": "Quality carpentry and handyman work.",
+    "services": [
+      {
+        "title": "Carpentry & repairs",
+        "body": "Doors, frames and timber work, and those repairs that keep getting put off.",
+        "photo": "door"
+      },
+      {
+        "title": "Insulation & small renovations",
+        "body": "Wall insulation and carpentry for renovations, like moving a laundry or opening up a space.",
+        "photo": "framing"
+      },
+      {
+        "title": "Tiling",
+        "body": "Floor and wall tiling done neatly as part of a job or on its own.",
+        "photo": "tile"
+      }
+    ]
+  },
+  "process": {
+    "headline": "We look at it. Quote it fairly. Do it right.",
+    "steps": [
+      {
+        "title": "Send your job",
+        "body": "Share a few photos with the form or give Garry a ring."
+      },
+      {
+        "title": "Look & quote",
+        "body": "Garry checks the job, suggests the fix and sends a clear quote."
+      },
+      {
+        "title": "Quality work",
+        "body": "Neat, careful work, with help sourcing materials at good prices."
+      },
+      {
+        "title": "Clean-up & check",
+        "body": "Site left tidy, and a final look together."
+      }
+    ]
+  },
+  "why": {
+    "headline": "Five-star reviews from Shepparton locals.",
+    "themes": [
+      {
+        "title": "Fair rates",
+        "body": "Reasonable pricing, and help getting materials for less."
+      },
+      {
+        "title": "Can-do attitude",
+        "body": "Problems worked out and fixed quickly."
+      },
+      {
+        "title": "Great communication",
+        "body": "Work done exactly as expected."
+      },
+      {
+        "title": "Repeat customers",
+        "body": "Locals who've called Garry back for more jobs."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Graham Truran",
+      "rating": 5,
+      "date": "3 years ago",
+      "text": "Insulated the walls of  our 30 year old house, carpentry and tiling to help us move the laundry out under the front verandah. Excellent work, very fair rates, helped us source materials at competitive prices.  Highly recommended"
+    },
+    {
+      "author": "Luciano",
+      "rating": 5,
+      "date": "2 years ago",
+      "text": "Couldn't recommend Garry highly enough for his work. Great communication and happy to complete work exactly to expectation. I was really happy with his application to the job, working like he was creating for himself. Neat, clean and professional work which I couldn't be happier with.\nI'll be using Garry's services again, don't hesitate to give him a call. Thanks mate."
+    },
+    {
+      "author": "Ken Baxter",
+      "rating": 5,
+      "date": "2 years ago",
+      "text": "Garry visited to look at our issue and provided a suggestion to fix the problem and set to work to resolve this issue. He was very efficient, competent and confident in what he was doing. In a timely manner Garry rectified the problem to our great satisfaction. Garry’s positive can-do attitude made him a pleasure to deal with."
+    }
+  ],
+  "finalCta": {
+    "headline": "Got a job that needs doing?",
+    "body": "Send a few photos or pick a time for Garry to come out. You'll get a written quote before any work is booked.",
+    "microcopy": "No pressure. Small jobs welcome."
+  },
+  "faq": [
+    {
+      "q": "Do you take on small jobs?",
+      "a": "Yes. Repairs and small jobs are welcome, as well as bigger carpentry and renovation work."
+    },
+    {
+      "q": "Can you help me source materials?",
+      "a": "Yes. Garry can help you find the right materials at competitive prices."
+    },
+    {
+      "q": "What kind of work do you do?",
+      "a": "Carpentry, repairs, wall insulation, tiling and small renovations around the house."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your quote and we'll send the licence and insurance details for your job."
+    },
+    {
+      "q": "What happens after I send a request?",
+      "a": "Your details come straight to Garry, you get a text and email confirmation, and he follows up to have a look at the job."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
