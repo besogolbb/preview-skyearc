@@ -1,0 +1,219 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-26): 'The Maintenance Man Painting and Carpentry', 5.0 stars, 20 reviews, category 'Handyman/Handywoman/Handyperson', phone +1 601-310-2598, opens 7 AM, service-area business (no street address), no website ('Add website' shown). Owner named in reviews: Larry (Larry Foster), with Craig.",
+    "serviceArea": "Google service-area outline (headless render, same day): Hattiesburg, West Hattiesburg, Petal, Glendale, Rawls Springs, Arnold Line and Palmers Crossing.",
+    "services": "Google review topic chips: quality of work 6, honest 4, home repair 3, timeliness 3, friendly staff 3, attention to detail 3, communication 3, craftsmanship 2. Reviews describe interior and exterior painting, porches, decks and a boat dock, rotten deck steps and board replacement, fascia and soffit repair, pressure washing, mud work, door replacement and repair, cabinets, light fixtures and fans, screening a porch, attic stairs, floor transitions, flooring and tile, a gazebo assembly, custom builds, storm door install.",
+    "brand": "No website, socials or logo found. Sampled from their own Google listing cover photo (a new pine porch with railings on a red-brick home among trees): sample-brand suggested olive #5d4f2d / #252115 / #a29f74; replaced by eye with the photo's obvious colours: brick primary #9a3e2c (white 6.78:1), forest dark #1d2a1f, fresh pine accent #e3c58f (9.01:1 on dark). Not an official brand; confirm with the owner.",
+    "reviews": "Google Reviews tab, same session, 'More' expanded; three complete 5-star reviews copied verbatim (Susette Clark-Walker, Josh Luebbers, Elisabeth Palchak). All 20 reviews are 5 stars."
+  },
+  "gap": "No website: the Google listing shows 'Add website', so people who find 20 five-star reviews can only call Larry's cell; there's no way to send photos of a painting or repair job and ask for an estimate after hours.",
+  "market": "US",
+  "company": {
+    "name": "The Maintenance Man Painting and Carpentry",
+    "trade": "Painting, carpentry and home repairs",
+    "city": "Hattiesburg, MS",
+    "serviceArea": [
+      "Hattiesburg",
+      "West Hattiesburg",
+      "Petal",
+      "Glendale",
+      "Rawls Springs",
+      "Arnold Line",
+      "Palmers Crossing"
+    ],
+    "phone": "(601) 310-2598"
+  },
+  "logo": {
+    "initials": "MM",
+    "tagline": "Painting & Carpentry · Hattiesburg",
+    "svg": "/assets/logos/the-maintenance-man-painting-and-carpentry.svg"
+  },
+  "brand": {
+    "primary": "#9a3e2c",
+    "dark": "#1d2a1f",
+    "accent": "#e3c58f"
+  },
+  "assetFolder": "carpentry",
+  "assistantName": "Maintenance Man",
+  "google": {
+    "rating": 5,
+    "reviewCount": 20,
+    "profileUrl": "https://www.google.com/maps/place/The+Maintenance+Man+Painting+and+Carpentry/@31.295414,-89.3257699,12z/data=!4m6!3m5!1s0x889ce7cd4354d631:0xd7ca5c70a837e3ef!8m2!3d31.295414!4d-89.32577!16s%2Fg%2F11pxm5qcmr"
+  },
+  "hero": {
+    "eyebrow": "Painting & carpentry in Hattiesburg",
+    "headline": "Painting, carpentry and repairs in Hattiesburg, done right the first time.",
+    "subhead": "Interior and exterior painting, decks, porches, steps and the repairs around the house, across Hattiesburg and Petal. Send the job with a few photos and get a clear estimate.",
+    "trustLine": [
+      "Clear written estimates",
+      "5.0★ from 20 Google reviews",
+      "Work area left clean"
+    ],
+    "photo": "stairs"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "Interior or exterior painting",
+      "Deck, porch or steps",
+      "Rot, trim or door repair",
+      "Cabinets, lights or installs",
+      "Something else"
+    ]
+  },
+  "skyeGreeting": "Hi, I'm The Maintenance Man assistant. Got a paint job, a deck or a repair list? Tell me about it and I'll help you get an estimate.",
+  "about": {
+    "headline": "The go-to guy for the jobs around your house.",
+    "body": "Paint that needs refreshing, a deck step going soft, a door that won't close or a whole list of small jobs. Most homeowners just want someone honest who turns up when he says and does the work properly.",
+    "cards": [
+      {
+        "title": "Homeowners refreshing a house",
+        "body": "Interior and exterior painting, new cabinets and updated lighting, done with care."
+      },
+      {
+        "title": "Porches, decks and outdoor wood",
+        "body": "Rotten boards and steps replaced, decks rebuilt, porches screened and painted."
+      },
+      {
+        "title": "People with a repair list",
+        "body": "Doors, drywall, trim and the fixes other handymen didn't finish."
+      }
+    ],
+    "closing": "Not sure if it's a job for us? Send a photo and ask."
+  },
+  "problems": {
+    "headline": "Finding a reliable handyman in Hattiesburg shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow estimates",
+        "body": "You leave messages and wait days to hear back."
+      },
+      {
+        "title": "No-shows & missed timelines",
+        "body": "A day's work turns into weeks of rescheduling."
+      },
+      {
+        "title": "Sloppy finishing",
+        "body": "Paint lines, trim and repairs that look rushed."
+      },
+      {
+        "title": "Messy job sites",
+        "body": "Sawdust and paint left behind for you to clean."
+      }
+    ],
+    "bridge": "You shouldn't have to chase anyone to get your house looked after."
+  },
+  "solutions": {
+    "headline": "Painting, carpentry and repairs from one dependable crew.",
+    "services": [
+      {
+        "title": "Interior & exterior painting",
+        "body": "Rooms, kitchens, whole exteriors, fascia, soffits, porches and decks, with colors matched to what you asked for.",
+        "photo": "siding"
+      },
+      {
+        "title": "Decks, porches & steps",
+        "body": "Rotten boards and steps replaced, decks rebuilt, porches screened, plus gazebos and custom builds.",
+        "photo": "deck"
+      },
+      {
+        "title": "Repairs & installs",
+        "body": "Rot repair, drywall and mud work, doors and storm doors, cabinets, light fixtures, fans and flooring.",
+        "photo": "door"
+      }
+    ]
+  },
+  "process": {
+    "headline": "Tell us the job. Get a clear price. Get it done right.",
+    "steps": [
+      {
+        "title": "Send your project",
+        "body": "Use the form with a few photos, or give Larry a call."
+      },
+      {
+        "title": "Look & estimate",
+        "body": "We come out, look at the job and give you an honest price and time frame."
+      },
+      {
+        "title": "The work",
+        "body": "We show up on the agreed day with the right tools and keep you posted."
+      },
+      {
+        "title": "Walkthrough & cleanup",
+        "body": "We check the work with you and leave the area as neat as we found it."
+      }
+    ]
+  },
+  "why": {
+    "headline": "Honest, on time and careful with every detail.",
+    "themes": [
+      {
+        "title": "A man of his word",
+        "body": "Reviewers say the work gets done when promised, sometimes earlier."
+      },
+      {
+        "title": "Attention to detail",
+        "body": "Clean paint lines, matched colors and carpentry that's built to last."
+      },
+      {
+        "title": "Fair pricing",
+        "body": "Honest prices, and a straight answer if a job isn't for us."
+      },
+      {
+        "title": "Clean work areas",
+        "body": "Tools packed up and the yard or room left neat at the end of each day."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Susette Clark-Walker",
+      "rating": 5,
+      "date": "a year ago",
+      "text": "We had an amazing experience working with Larry! He helped us update and refresh our home, and the results were beyond what we imagined. He painted both the interior and exterior beautifully — the attention to detail really shows. He also installed new cabinets, cabinet doors, and drawers, as well as updated the lighting throughout the house. Everything was completed with care, professionalism, and high-quality craftsmanship. He was reliable, easy to communicate with, and truly went above and beyond to make sure we were happy with every detail. We highly recommend Larry to anyone looking for a skilled and trustworthy building professional!"
+    },
+    {
+      "author": "Josh Luebbers",
+      "rating": 5,
+      "date": "a year ago",
+      "text": "Mr. Larry was easy to communicate with and did excellent work on our home. I had him pressure wash and repair/renew our fascia and soffits by caulking and painting around the whole house. The results were better than expected and it was a pleasure working with The Maintenance Man! I'll be contacting him again for future projects."
+    },
+    {
+      "author": "Elisabeth Palchak",
+      "rating": 5,
+      "date": "a year ago",
+      "text": "A good, reliable handyman is hard to find. The Google reviews for Larry are accurate. Larry and his team were great at communicating, professional, punctual, knowledgeable, and displayed great attention to detail. They did mud work, painted my kitchen, repaired outdoor rot, and replaced & fixed doors. Larry is honest and fair priced--I highly recommend!"
+    }
+  ],
+  "finalCta": {
+    "headline": "Got a paint job or repair that's been waiting?",
+    "body": "Send a few details and photos, or pick a time that suits you. You'll get a clear estimate before any work is booked.",
+    "microcopy": "No pressure. Just an honest conversation about the job."
+  },
+  "faq": [
+    {
+      "q": "How do estimates work?",
+      "a": "Send the job through the form with a few photos, or call. Larry looks at it and gives you a price and time frame before any work starts."
+    },
+    {
+      "q": "Which areas do you cover?",
+      "a": "Hattiesburg and the surrounding area, including West Hattiesburg, Petal, Glendale, Rawls Springs, Arnold Line and Palmers Crossing. Close by but not on the list? Ask anyway."
+    },
+    {
+      "q": "Do you take on small jobs?",
+      "a": "Yes. A single door, a few rotten boards or one room of paint gets the same care as a whole-house project."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your estimate and we'll send the license and insurance details for your job."
+    },
+    {
+      "q": "What happens after I submit a request?",
+      "a": "Your details come straight to us, you get a text and email confirmation, and we follow up to set a time to look at the job."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
