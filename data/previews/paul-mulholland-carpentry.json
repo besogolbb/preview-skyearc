@@ -1,0 +1,215 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-26): 'Paul Mulholland Carpentry', 4.9 stars, 7 reviews, category 'Carpenter', phone +61 405 567 578, closes 5 PM, service-area business (no street address), no website ('Add website' shown).",
+    "serviceArea": "Google service-area outline (headless render, same day): central Wagga Wagga and North Wagga Wagga, from the Murrumbidgee River down to Turvey Park.",
+    "services": "Google reviews: a built-in wardrobe (Donna Graham, 4 stars), reviewing and doing repairs from a pre-purchase building inspection report (Nisha Mathew), work set up to suit an elderly owner (Geoff Simpson). The listing cover photo shows a timber deck and ramp beside a stone wall. Review chips: helpful staff 3, genuine advice 2. Services kept to these.",
+    "brand": "No website, socials or logo found. Sampled from their own Google listing cover photo (reddish timber deck and ramp, grey stone wall, terracotta pots): sample-brand suggested #8b6758 / #61514a / #eaded8; set by eye to timber primary #8f5437 (white 6.02:1), stone dark #262321, terracotta accent #e0995c (6.60:1 on dark). Not an official brand; confirm with the owner.",
+    "reviews": "Google Reviews tab, same session, 'More' expanded: 6 five-star, 1 four-star. Three complete 5-star reviews copied verbatim (Nisha Mathew, Geoff Simpson, Janki Amin); Kabi Maharjan's ends in '…' so was skipped."
+  },
+  "gap": "No website: the Google listing shows 'Add website', so people who find Paul can only ring during work hours; there's nowhere to send a building report or photos and ask for a quote.",
+  "market": "AU",
+  "company": {
+    "name": "Paul Mulholland Carpentry",
+    "trade": "Carpentry and repairs",
+    "city": "Wagga Wagga, NSW",
+    "serviceArea": [
+      "Wagga Wagga",
+      "North Wagga Wagga",
+      "Turvey Park"
+    ],
+    "phone": "0405 567 578"
+  },
+  "logo": {
+    "initials": "PM",
+    "tagline": "Carpentry · Wagga Wagga",
+    "svg": "/assets/logos/paul-mulholland-carpentry.svg"
+  },
+  "brand": {
+    "primary": "#8f5437",
+    "dark": "#262321",
+    "accent": "#e0995c"
+  },
+  "assetFolder": "carpentry",
+  "assistantName": "Paul Mulholland Carpentry",
+  "google": {
+    "rating": 4.9,
+    "reviewCount": 7,
+    "profileUrl": "https://www.google.com/maps/place/Paul+Mulholland+Carpentry/@-35.1066383,147.3605956,14z/data=!4m6!3m5!1s0x6b18995694b23065:0x2fb269b0dc0483a8!8m2!3d-35.1066383!4d147.3605956!16s%2Fg%2F11f6g1467j"
+  },
+  "hero": {
+    "eyebrow": "Carpentry in Wagga Wagga",
+    "headline": "Carpentry and repairs in Wagga Wagga, with honest advice first.",
+    "subhead": "Built-in wardrobes, decks and ramps, and repairs from building inspection reports across Wagga Wagga. Send a few photos or your report and get a clear quote.",
+    "trustLine": [
+      "4.9★ on Google",
+      "Genuine, honest advice",
+      "Clear quotes before work starts"
+    ],
+    "photo": "stairs"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "Built-in wardrobe or storage",
+      "Repairs from a building report",
+      "Deck, ramp or steps",
+      "General carpentry",
+      "Something else"
+    ]
+  },
+  "skyeGreeting": "G'day, I'm the Paul Mulholland Carpentry assistant. Got a carpentry job or a list of repairs? Tell me a bit about it and I'll help you get a quote.",
+  "about": {
+    "headline": "A local chippy who tells you straight.",
+    "body": "Buying a place and not sure what the building report means? Need a home set up to suit an older parent? Want a wardrobe that fits the room? You want someone who listens, gives genuine advice and does immaculate work.",
+    "cards": [
+      {
+        "title": "Buying a property",
+        "body": "Repairs from your pre-purchase building inspection report, reviewed and quoted honestly."
+      },
+      {
+        "title": "Homes for older parents",
+        "body": "Work set up to suit the person living there, done with care."
+      },
+      {
+        "title": "Storage and outdoor spaces",
+        "body": "Built-in wardrobes, decks, steps and ramps made to fit."
+      }
+    ],
+    "closing": "Not sure what the job needs? Send a photo or your report and ask."
+  },
+  "problems": {
+    "headline": "Getting honest carpentry advice in Wagga shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow quotes",
+        "body": "Tradies who don't get back to you about smaller jobs."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "No clear idea what a repair will cost until it's done."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "Jobs pushed back again and again."
+      },
+      {
+        "title": "Sloppy finishing",
+        "body": "Work that doesn't fit the room or the person using it."
+      }
+    ],
+    "bridge": "You should get honest advice and a job done properly."
+  },
+  "solutions": {
+    "headline": "Carpentry done carefully, by Paul himself.",
+    "services": [
+      {
+        "title": "Built-in wardrobes & storage",
+        "body": "Built-in wardrobes and storage made to fit your rooms.",
+        "photo": "door"
+      },
+      {
+        "title": "Repairs from building reports",
+        "body": "Repairs from pre-purchase inspection reports, reviewed with you and quoted clearly.",
+        "photo": "framing"
+      },
+      {
+        "title": "Decks, ramps & steps",
+        "body": "Timber decks, steps and ramps for easier access around the home.",
+        "photo": "deck"
+      }
+    ]
+  },
+  "process": {
+    "headline": "Tell Paul the job. Get honest advice. Get it done.",
+    "steps": [
+      {
+        "title": "Send your project",
+        "body": "Use the form with a few photos or your building report, or give Paul a ring."
+      },
+      {
+        "title": "Advice & quote",
+        "body": "Paul looks at the job, gives you genuine advice and sends a clear quote."
+      },
+      {
+        "title": "The work",
+        "body": "Done the way that works best for you and your home."
+      },
+      {
+        "title": "Final check",
+        "body": "We go over the finished job together before calling it done."
+      }
+    ]
+  },
+  "why": {
+    "headline": "Friendly, genuine and professional.",
+    "themes": [
+      {
+        "title": "Genuine advice",
+        "body": "Reviewers mention honest, helpful advice about what the job really needs."
+      },
+      {
+        "title": "Quick to respond",
+        "body": "Fast replies to requests, even in a busy property purchase."
+      },
+      {
+        "title": "Immaculate work",
+        "body": "Work delivered exactly the way the customer wanted it."
+      },
+      {
+        "title": "Approachable",
+        "body": "Easy to talk to, and makes the job easy for you."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Nisha Mathew",
+      "rating": 5,
+      "date": "a year ago",
+      "text": "Paul was quick to respond to my request and helped review the repairs I needed to do per the building inspection report, in the pre-purchase phase of a property. I recommend Paul's expertise to anyone looking for carpentry related assistance, he is very friendly and professional in his advice."
+    },
+    {
+      "author": "Geoff Simpson",
+      "rating": 5,
+      "date": "2 years ago",
+      "text": "Paul has just done work for my elderly Mum. He is very professional, friendly, helpful and made it work best for mum. He delivered exactly what she wanted. He is approachable and sincere ( made the job easy). The work is immaculate. Thanks mate."
+    },
+    {
+      "author": "Janki Amin",
+      "rating": 5,
+      "date": "2 years ago",
+      "text": "Paul was very helpful and genuine with about his advise and work!"
+    }
+  ],
+  "finalCta": {
+    "headline": "Got a carpentry job or repair list?",
+    "body": "Send a few details or pick a time that suits you. You'll get a written quote before anything is booked in.",
+    "microcopy": "No pressure. Just a straightforward chat about the job."
+  },
+  "faq": [
+    {
+      "q": "How do quotes work?",
+      "a": "Send photos, a description or your building report through the form, or give Paul a ring. He'll look at the job and send a written quote."
+    },
+    {
+      "q": "Which areas do you cover?",
+      "a": "Wagga Wagga, including North Wagga and Turvey Park. Just outside? Ask anyway."
+    },
+    {
+      "q": "Can you help with a building inspection report?",
+      "a": "Yes. Paul can go through the carpentry items on a pre-purchase report with you, explain what they mean and quote the repairs."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your quote and we'll send the licence and insurance details for your job."
+    },
+    {
+      "q": "What happens after I submit a request?",
+      "a": "Your details come straight to us, you get a text and email confirmation, and we follow up to book a time to look at the job."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
