@@ -117,7 +117,12 @@ for (const slug of slugs) {
   const text = JSON.stringify({ ...p, _sources: undefined, gap: undefined });
   if (p.market === "AU" && /\bestimates?\b/i.test(text)) warns.push(`AU preview uses "estimate": AU says "quote"`);
   if (/\bfree (quote|estimate)/i.test(text)) warns.push(`says "free quote/estimate": only if the contractor actually offers it`);
-  if (/no hidden fees|guarantee|more leads|double your/i.test(text)) errs.push(`contains a promise claude.md forbids (no hidden fees / guarantee / more leads / revenue)`);
+  // The business's own name (e.g. "Guaranteed Carpentry"), verbatim reviews and the Maps link are not our promises.
+  const esc = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  const names = [p.company?.name, p.assistantName, p.company?.name?.split(/\s+/).slice(0, 2).join(" ")].filter(Boolean);
+  let promiseText = JSON.stringify({ ...p, _sources: undefined, gap: undefined, realReviews: undefined, google: undefined, logo: { ...p.logo, svg: undefined } });
+  for (const n of names) promiseText = promiseText.replace(new RegExp(esc(n), "gi"), "");
+  if (/no hidden fees|guarantee|more leads|double your/i.test(promiseText)) errs.push(`contains a promise claude.md forbids (no hidden fees / guarantee / more leads / revenue)`);
 
   if (errs.length) {
     failed++;
