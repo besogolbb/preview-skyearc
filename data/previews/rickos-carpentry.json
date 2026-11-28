@@ -1,0 +1,216 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-28): 'Ricko’s Carpentry', 5.0 stars, 5 reviews, category 'Carpenter', phone +61 488 598 088 (matches the sheet), no website ('Add website'). Drawn service areas: Bunbury/Australind/Dalyellup down to Busselton, and Mandurah/Falcon/Dawesville. Cover graphic (their own promo): 'Bathrooms | Decking | Internal & External Doors | Skirting Boards & More', 'Open 7 days: 7am to 7pm'. Review topics: door 3, handles 2.",
+    "services": "From the cover graphic: bathrooms, decking, internal and external doors, skirting boards. From reviews: French door install with matching handles and new coving, bathroom door hung and door handles fixed, gate hinges and jockey wheel, pre-fabricated Bali hut assembly, enclosing a room with internal door access. Owner named Lee in reviews.",
+    "brand": "From their own cover graphic (white serif text over warm timber): primary = walnut #6a4a33 (white 8.0:1), dark = #24180f (white 17.3:1), accent = timber #d9b48f (9.0:1 on dark). Taken by eye from their graphic; confirm with the owner. Concept mark (R inside a doorframe) is original.",
+    "reviews": "Google Reviews tab, same session: all 5 stars; 3 complete ones copied verbatim covering different jobs (Martin Snailum: French door, Mel Maiolo: gate repair, Cathleen Harms: Bali hut). Skipped 'A Google User' because the text may be truncated (ends with an ellipsis)."
+  },
+  "gap": "No website: 5.0 stars on Google and open 7 days, but 'Add website' on the listing, so homeowners from Bunbury to Busselton and around Mandurah can only ring; there's no way to send photos of a door or deck job and ask for a quote.",
+  "market": "AU",
+  "company": {
+    "name": "Ricko’s Carpentry",
+    "trade": "Carpentry",
+    "city": "Bunbury, WA",
+    "serviceArea": [
+      "Bunbury",
+      "Australind",
+      "Dalyellup",
+      "Busselton",
+      "Mandurah",
+      "Dawesville"
+    ],
+    "phone": "0488 598 088"
+  },
+  "logo": {
+    "initials": "R",
+    "tagline": "Carpentry · Bunbury",
+    "svg": "/assets/logos/rickos-carpentry.svg"
+  },
+  "brand": {
+    "primary": "#6a4a33",
+    "dark": "#24180f",
+    "accent": "#d9b48f"
+  },
+  "assetFolder": "carpentry",
+  "assistantName": "Ricko’s Carpentry",
+  "google": {
+    "rating": 5.0,
+    "reviewCount": 5,
+    "profileUrl": "https://www.google.com/maps/place/Ricko%E2%80%99s+Carpentry/@-33.0794988,115.5127107,9z/data=!4m6!3m5!1s0xaf237fcfd13b08a1:0xbc805389e30f4689!8m2!3d-33.0794988!4d115.5127106!16s%2Fg%2F11vl3zdy6l"
+  },
+  "hero": {
+    "eyebrow": "Carpenter in Bunbury, open 7 days",
+    "headline": "Doors, decking and carpentry in Bunbury.",
+    "subhead": "Internal and external doors, decking, skirting boards and bathroom carpentry from Bunbury to Busselton and around Mandurah. Send a few photos and get a quote.",
+    "trustLine": [
+      "Open 7 days, 7am to 7pm",
+      "Leaves the place spotless",
+      "Affordable, quality work"
+    ],
+    "photo": "stairs"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "Doors or handles",
+      "Decking or outdoor",
+      "Skirting or bathroom",
+      "Something else"
+    ]
+  },
+  "skyeGreeting": "G'day, I'm the Ricko’s Carpentry assistant. Got a door, deck or carpentry job? Tell me a bit about it and I'll help you get a quote.",
+  "about": {
+    "headline": "Carpentry around the South West, seven days a week.",
+    "body": "Lee handles the jobs that make a house work better, from a new French door to a gate that finally swings properly. Nothing's too much trouble and the place is left spotless.",
+    "cards": [
+      {
+        "title": "Doors",
+        "body": "New internal and external doors hung, with handles to match."
+      },
+      {
+        "title": "Outdoors",
+        "body": "Decking, gates and backyard builds like a Bali hut."
+      },
+      {
+        "title": "Inside",
+        "body": "Skirting boards, coving, bathrooms and enclosing a room."
+      }
+    ],
+    "closing": "Send a few photos and Lee will take a look."
+  },
+  "problems": {
+    "headline": "Getting a carpenter out in Bunbury shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow quotes",
+        "body": "Waiting on a call back for a simple job."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "No idea what it'll cost until the bill arrives."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "A small job that takes weeks to get booked."
+      },
+      {
+        "title": "Messy job sites",
+        "body": "Sawdust through the house after the job."
+      }
+    ],
+    "bridge": "You need a carpenter who turns up, does it right and cleans up."
+  },
+  "solutions": {
+    "headline": "Doors, decks and carpentry done right.",
+    "services": [
+      {
+        "title": "Internal & external doors",
+        "body": "New doors hung, French doors installed and dodgy handles fixed or matched.",
+        "photo": "door"
+      },
+      {
+        "title": "Decking & outdoor builds",
+        "body": "Decking, gate repairs and backyard structures like Bali huts.",
+        "photo": "deck"
+      },
+      {
+        "title": "Skirting, bathrooms & interiors",
+        "body": "Skirting boards, coving, bathroom carpentry and enclosing a room with a new door.",
+        "photo": "bathroom"
+      }
+    ]
+  },
+  "process": {
+    "headline": "Send the job. Get a quote. Done properly.",
+    "steps": [
+      {
+        "title": "Send your job",
+        "body": "Use the form with a few photos, or give Lee a ring."
+      },
+      {
+        "title": "Quote",
+        "body": "A clear, affordable quote for the work."
+      },
+      {
+        "title": "Booked in",
+        "body": "Open 7 days, often at short notice."
+      },
+      {
+        "title": "Spotless finish",
+        "body": "Quality work and the place left clean."
+      }
+    ]
+  },
+  "why": {
+    "headline": "5.0 stars from every Google review.",
+    "themes": [
+      {
+        "title": "Doors done right",
+        "body": "The most mentioned job in reviews."
+      },
+      {
+        "title": "Short notice",
+        "body": "Able to come in and get right to it."
+      },
+      {
+        "title": "Affordable",
+        "body": "Reasonably priced, quality work."
+      },
+      {
+        "title": "Spotless",
+        "body": "The place is left clean when the job's done."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Martin Snailum",
+      "rating": 5,
+      "date": "9 months ago",
+      "text": "Very happy with Lee’s (Ricko’s) work installing a new French door in space to our formal lounge. He was happy to change at his suggestion our other French door’s handles to match. The installation required new coving in front entrance as well as in formal lounge. All very professional work and we are happy with end result. We would recommend Lee and we would also use him again if needed."
+    },
+    {
+      "author": "Mel Maiolo",
+      "rating": 5,
+      "date": "3 years ago",
+      "text": "So happy with the work done on our gate. Our gate was damaged from wear and tear/ weather damage and Lee came out fixed our hinges and put on a new jockey wheel to help with weight loading. Very quick service, reasonably priced and the gate is gliding open and shut."
+    },
+    {
+      "author": "Cathleen Harms",
+      "rating": 5,
+      "date": "2 years ago",
+      "text": "Lee from Ricko’s Carpentry was great, came in at short notice & got right to it, he & hubby spent 2 full days & a 1/2 day to complete our pre fabricated Bali Hut, Thanks Lee. Would highly recommend Lee, great bloke very professional quality work.."
+    }
+  ],
+  "finalCta": {
+    "headline": "Got a door, deck or carpentry job?",
+    "body": "Send a few photos or pick a time to talk it through. You'll get a clear quote before any work is booked.",
+    "microcopy": "No pressure. Just a straight answer."
+  },
+  "faq": [
+    {
+      "q": "Do you hang internal and external doors?",
+      "a": "Yes. New doors, French doors and matching handles. Send a photo of the opening for a quote."
+    },
+    {
+      "q": "Can you fix a gate that's dragging?",
+      "a": "Yes. Hinges, jockey wheels and weather-damaged gates sorted."
+    },
+    {
+      "q": "Which areas do you cover?",
+      "a": "Bunbury, Australind and Dalyellup down to Busselton, plus Mandurah and Dawesville. Ask if you're unsure."
+    },
+    {
+      "q": "What are your hours?",
+      "a": "Open 7 days, 7am to 7pm."
+    },
+    {
+      "q": "What happens after I send a request?",
+      "a": "Your details come straight to Lee, you get a text and email confirmation, and he follows up to talk through the job."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
