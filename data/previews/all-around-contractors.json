@@ -1,0 +1,217 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-28): 'All Around Contractors', 5.0 stars, 6 reviews (all 5 stars), category 'Kitchen remodeler', phone +1 724-350-7153 (matches the sheet), no website ('Add website'). Drawn service area runs from Pittsburgh south through Bethel Park, Bridgeville, Whitehall, Canonsburg and Finleyville toward Washington, PA. Review topics: install flooring 3, quality work 2, fence 2.",
+    "location": "The sheet says Greensburg, PA, but the listing's service area is Pittsburgh's South Hills down to Washington County, and Yelp (search snippets, 2026-11-28) lists the same phone at Meadowlands, PA 15347. Page uses Pittsburgh, PA plus the South Hills towns from the drawn area.",
+    "services": "Yelp 'From the business' snippet: 'Here at All Around Contractors we do interior remodeling. We do lots of drywall, flooring, and trim work.' Reviews: flooring tear-out and install (3), bathroom remodel, basement (planned), aluminum fence install, fence. Category: kitchen remodeler.",
+    "brand": "No brand online (no website or logo). Sampled from their Google listing cover photo (oak door and trim in a hallway) with scripts/sample-brand.mjs: primary = oak amber #834a0f (white 7.1:1), dark = #151015 (white 18.8:1), accent = light oak #d1ad7f (adjusted by eye, 9.0:1 on dark). Sampled from their listing photo, not an official brand; confirm with the owner. Concept mark (AA monogram) is original.",
+    "reviews": "Google Reviews tab, same session: 6 reviews, all 5 stars; 3 complete ones copied verbatim covering different jobs (Robert Conley: flooring, Frank Manson: bathroom, Haley: fence)."
+  },
+  "gap": "No website: 5.0 stars from 6 Google reviews, but the listing shows 'Add website', so homeowners can only call; there's nowhere to send photos of a floor, bathroom or fence job and ask for an estimate.",
+  "market": "US",
+  "company": {
+    "name": "All Around Contractors",
+    "trade": "Interior remodeling and flooring",
+    "city": "Pittsburgh, PA",
+    "serviceArea": [
+      "Pittsburgh South Hills",
+      "Bethel Park",
+      "Bridgeville",
+      "Whitehall",
+      "Canonsburg",
+      "Washington"
+    ],
+    "phone": "(724) 350-7153"
+  },
+  "logo": {
+    "initials": "AA",
+    "tagline": "Remodeling · Pittsburgh",
+    "svg": "/assets/logos/all-around-contractors.svg"
+  },
+  "brand": {
+    "primary": "#834a0f",
+    "dark": "#151015",
+    "accent": "#d1ad7f"
+  },
+  "assetFolder": "remodeling",
+  "assistantName": "All Around Contractors",
+  "google": {
+    "rating": 5.0,
+    "reviewCount": 6,
+    "profileUrl": "https://www.google.com/maps/place/All+Around+Contractors/@40.3282035,-80.0678835,11z/data=!4m6!3m5!1s0x64eb9b194f1cb36b:0xed71b490b44ca1e8!8m2!3d40.3282035!4d-80.0678835!16s%2Fg%2F11vd3rrrgx"
+  },
+  "hero": {
+    "eyebrow": "Remodeling in Pittsburgh's South Hills",
+    "headline": "Floors, baths and remodeling in Pittsburgh.",
+    "subhead": "New flooring, bathroom remodels, drywall, trim and fences for homes south of Pittsburgh. Send a few photos of the job and get an estimate.",
+    "trustLine": [
+      "Fast, quality work",
+      "On budget and on schedule",
+      "Friendly, professional crew"
+    ],
+    "photo": "kitchen"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "Flooring",
+      "Bathroom or basement",
+      "Drywall or trim",
+      "Fence"
+    ]
+  },
+  "skyeGreeting": "Hi, I'm the All Around Contractors assistant. Got a floor, bathroom or fence project coming up? Tell me about it and I'll help you get an estimate.",
+  "about": {
+    "headline": "Interior remodeling for homes around Pittsburgh.",
+    "body": "Floors, bathrooms, drywall and trim are the bread and butter, plus fences outside. Customers say the crew is fast, friendly and keeps the job on budget.",
+    "cards": [
+      {
+        "title": "New floors",
+        "body": "Old flooring torn out and new floors put down quickly and cleanly."
+      },
+      {
+        "title": "Bathrooms & basements",
+        "body": "Remodels that finish within your budget and on your schedule."
+      },
+      {
+        "title": "Outside the house",
+        "body": "Fence installs, including aluminum fencing."
+      }
+    ],
+    "closing": "Send a few photos and we'll take a look."
+  },
+  "problems": {
+    "headline": "Getting remodeling done in Pittsburgh shouldn't be a hassle.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow estimates",
+        "body": "Waiting days to hear back about a simple job."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "An estimate that keeps creeping up."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "A bathroom out of action for weeks longer than planned."
+      },
+      {
+        "title": "Sloppy, uneven finishing",
+        "body": "Floors and trim that don't sit right."
+      }
+    ],
+    "bridge": "You want a crew that's quick, fairly priced and does it right."
+  },
+  "solutions": {
+    "headline": "Inside and out, done right.",
+    "services": [
+      {
+        "title": "Flooring",
+        "body": "Old floors ripped out and new flooring installed, fast and with quality work.",
+        "photo": "tile"
+      },
+      {
+        "title": "Bathrooms, basements, drywall & trim",
+        "body": "Interior remodeling, from a bathroom refresh to drywall and trim work.",
+        "photo": "bathroom"
+      },
+      {
+        "title": "Fences",
+        "body": "New fence installs, including aluminum fencing, built to last.",
+        "photo": "gate"
+      }
+    ]
+  },
+  "process": {
+    "headline": "Send the job. Get an estimate. Get it done.",
+    "steps": [
+      {
+        "title": "Send your project",
+        "body": "Share a few photos with the form or give us a call."
+      },
+      {
+        "title": "Estimate",
+        "body": "We look at the job and give you a clear estimate."
+      },
+      {
+        "title": "Schedule",
+        "body": "We set a start date that works with your schedule."
+      },
+      {
+        "title": "Quality work",
+        "body": "Fast, tidy work, finished within the budget agreed."
+      }
+    ]
+  },
+  "why": {
+    "headline": "Five stars from every Google review.",
+    "themes": [
+      {
+        "title": "Fast",
+        "body": "Customers mention how quickly the work gets done."
+      },
+      {
+        "title": "Quality work",
+        "body": "Floors and remodels customers are happy with."
+      },
+      {
+        "title": "Good price",
+        "body": "Reviews mention staying within budget and fair pricing."
+      },
+      {
+        "title": "Friendly and professional",
+        "body": "A crew that's easy to have in your home."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Robert Conley",
+      "rating": 5,
+      "date": "3 years ago",
+      "text": "Had these guys come out and rip old flooring out and put new flooring in. They were very fast and did and excellent job. Best part is they were cheaper than most other businesses. Friendly guys too. I would recommend All Around Contractors over most other businesses."
+    },
+    {
+      "author": "Frank Manson",
+      "rating": 5,
+      "date": "2 years ago",
+      "text": "Would definitely recommend these guys. They remodeled my bathroom this past fall and got it done within my budget and on my schedule. Plan on scheduling them to finish my basement here soon as well. Overall great craftsmanship and good price."
+    },
+    {
+      "author": "Haley",
+      "rating": 5,
+      "date": "3 years ago",
+      "text": "All Around Contractors did an amazing job with my fence. They were professional, efficient, and exceeded my expectations. I highly recommend them!"
+    }
+  ],
+  "finalCta": {
+    "headline": "Got a floor, bathroom or fence project?",
+    "body": "Send a few photos or pick a time to talk it through. You'll get a clear estimate before any work starts.",
+    "microcopy": "No pressure. Just a straight answer."
+  },
+  "faq": [
+    {
+      "q": "Do you remove old flooring too?",
+      "a": "Yes. We rip out the old flooring and install the new. Send photos and measurements for an estimate."
+    },
+    {
+      "q": "Can you remodel a bathroom or finish a basement?",
+      "a": "Yes. Bathroom remodels and basement work are part of what we do."
+    },
+    {
+      "q": "Which areas do you cover?",
+      "a": "Pittsburgh's South Hills, including Bethel Park, Bridgeville, Whitehall and Canonsburg, down toward Washington. Ask if you're unsure."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your estimate and we'll send the details for your project."
+    },
+    {
+      "q": "What happens after I send a request?",
+      "a": "Your details come straight through, you get a text and email confirmation, and we follow up to talk through the job."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
