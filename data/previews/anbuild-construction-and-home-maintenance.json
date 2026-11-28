@@ -1,0 +1,212 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-28): 'Anbuild Construction & Home Maintenance', 5.0 stars, 9 reviews (all 5 stars), phone +61 407 052 363 (matches the sheet), Bunbury area. Review topics: attention to detail 2, workmanship 2, remodeling 2.",
+    "facebook": "https://www.facebook.com/Anbuild.Rob (checked 2026-11-28, logged-in view): page 'Anbuild', 553 followers, 'Bunbury Carpenter', category Carpenter, Bunbury WA 6230, +61 407 052 363, anbuild.rob@outlook.com, 'Not yet rated (0 reviews)'. Cover photo: timber roof trusses against blue sky. No website.",
+    "services": "From reviews: complex internal roof repairs (made safe and secured), carport support pole replacement, renovations with advice, multiple projects, same-day jobs. Cover photo shows roof framing. Owner named Rob in reviews.",
+    "brand": "From their own Facebook logo: black circle, white lettering with a red accent and red 'BUILDING SERVICES' line. primary = red #c8202f (white 5.7:1), dark = black #121212 (white 18.7:1), accent = light red #f0545d (5.5:1 on dark). Hues taken by eye from the logo; confirm with the owner. Concept mark (an A built like a roof truss with a king post) is original and doesn't copy their AB logo.",
+    "reviews": "Google Reviews tab, same session: 9 reviews, all 5 stars; 3 complete ones copied verbatim covering different jobs (Panna Leaver: roof repairs, J Curtis: carport poles, Daniel Lee: renovations)."
+  },
+  "gap": "Facebook-only: 5.0 stars on Google, but the only online home is a Facebook page (no website), so people searching for a carpenter in Bunbury have to message on Facebook or ring; there's no quote form to send photos and job details.",
+  "market": "AU",
+  "company": {
+    "name": "Anbuild Construction & Home Maintenance",
+    "trade": "Carpentry, building and home maintenance",
+    "city": "Bunbury, WA",
+    "serviceArea": [
+      "Bunbury"
+    ],
+    "phone": "0407 052 363"
+  },
+  "logo": {
+    "initials": "AB",
+    "tagline": "Building & Maintenance · Bunbury",
+    "svg": "/assets/logos/anbuild-construction-and-home-maintenance.svg"
+  },
+  "brand": {
+    "primary": "#c8202f",
+    "dark": "#121212",
+    "accent": "#f0545d"
+  },
+  "assetFolder": "builders",
+  "assistantName": "Anbuild",
+  "google": {
+    "rating": 5.0,
+    "reviewCount": 9,
+    "profileUrl": "https://www.google.com/maps/place/Anbuild+Construction+%26+Home+Maintenance/@-33.3780353,115.8227454,11z/data=!4m6!3m5!1s0x6b5c00c61e04fa2d:0x23ca8ecc65b53585!8m2!3d-33.3780353!4d115.8227454!16s%2Fg%2F11t6x7n0sq"
+  },
+  "hero": {
+    "eyebrow": "Carpenter and builder in Bunbury",
+    "headline": "Carpentry and home maintenance in Bunbury.",
+    "subhead": "Renovations, roof repairs, carports and maintenance jobs around Bunbury. Send a few photos of the job and get a clear quote.",
+    "trustLine": [
+      "Not scared of a hard job",
+      "Kept in the loop",
+      "Tidy clean-up"
+    ],
+    "photo": "framing"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "Renovation",
+      "Roof repair or framing",
+      "Carport or structural repair",
+      "Maintenance job"
+    ]
+  },
+  "skyeGreeting": "G'day, I'm the Anbuild assistant. Got a reno, repair or maintenance job? Tell me a bit about it and I'll help you get a quote.",
+  "about": {
+    "headline": "Building and repairs done properly around Bunbury.",
+    "body": "From a quick same-day fix to complex roof repairs and full renovations, Rob and the crew explain what's needed, keep you posted on every stage and leave the site tidy.",
+    "cards": [
+      {
+        "title": "Renovating",
+        "body": "Plenty of advice and attention to detail on your reno."
+      },
+      {
+        "title": "Something's failed",
+        "body": "Roof and structural repairs, made safe and secured."
+      },
+      {
+        "title": "Ongoing work",
+        "body": "Maintenance and multiple projects, handled seamlessly."
+      }
+    ],
+    "closing": "Send a few photos and Rob will take a look."
+  },
+  "problems": {
+    "headline": "Finding a reliable tradie in Bunbury shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow quotes",
+        "body": "Ringing around and not hearing back."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "No clear idea of what the job involves."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "Not knowing when anyone will turn up."
+      },
+      {
+        "title": "Messy job sites",
+        "body": "Offcuts and rubbish left behind."
+      }
+    ],
+    "bridge": "You need a builder who explains it, keeps you posted and cleans up."
+  },
+  "solutions": {
+    "headline": "Renos, repairs and maintenance.",
+    "services": [
+      {
+        "title": "Renovations",
+        "body": "Renovation work with good advice along the way and close attention to detail.",
+        "photo": "kitchen"
+      },
+      {
+        "title": "Roof framing & repairs",
+        "body": "Roof framing and complex internal roof repairs, restored, made safe and secured.",
+        "photo": "framing"
+      },
+      {
+        "title": "Carports & maintenance",
+        "body": "Carport and structural repairs, plus home maintenance jobs done properly.",
+        "photo": "pergola"
+      }
+    ]
+  },
+  "process": {
+    "headline": "Inspect it. Quote it. Build it right.",
+    "steps": [
+      {
+        "title": "Send your job",
+        "body": "Use the form with a few photos, or give Rob a ring."
+      },
+      {
+        "title": "Inspect & quote",
+        "body": "A prompt inspection and a clear quote with what's needed explained."
+      },
+      {
+        "title": "Kept informed",
+        "body": "You know what stage it's at and when to expect us on site."
+      },
+      {
+        "title": "Tidy finish",
+        "body": "Quality work and a clean site when we're done."
+      }
+    ]
+  },
+  "why": {
+    "headline": "5.0 stars from every Google review.",
+    "themes": [
+      {
+        "title": "Attention to detail",
+        "body": "Careful, top-notch workmanship."
+      },
+      {
+        "title": "Communication",
+        "body": "Calls, emails and messages answered promptly."
+      },
+      {
+        "title": "Honest advice",
+        "body": "Knowledgeable and straight about what the job needs."
+      },
+      {
+        "title": "Tough jobs welcome",
+        "body": "Not scared of a hard job."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Panna Leaver",
+      "rating": 5,
+      "date": "a year ago",
+      "text": "Work carried out was Internal Roof Repairs.\n\nFrom that initial enquiry call to Completed complex roof repairs, it was such a pleasure to deal with Rob. He promptly answered calls, emails and messages and always clarified and explained processes as required. He was always willing to assist and was very helpful.\n\nRob and his team were very professional. Their work was outstanding. It gave us a total peace of mind knowing our roof was excellently restored, made safe and secured.\n\nI am engaging him for more renovation work we require to complete and recommend Rob and his crew.\n\nThank you Rob."
+    },
+    {
+      "author": "J Curtis",
+      "rating": 5,
+      "date": "2 years ago",
+      "text": "First photo shows rusting support poles in carport discovered just as Easter chaos began.   Called Anbuild Bunbury and Rob was on a prompt inspect and quote mission.\nPrice was good, detailed explanation as to what work was required and a professional manner calmed nerves.\nI was always kept informed at what stage the process was and when to expect site work.  2nd photo shows progress and the final result is excellent. Clean up and finished work very tidy.\nI would highly recommend Rob to anyone."
+    },
+    {
+      "author": "Daniel Lee",
+      "rating": 5,
+      "date": "2 years ago",
+      "text": "Rob and his team go above and beyond with their services. They have great attention to detail and offer plenty of advice when it comes to renovations. Highly recommend Anbuild"
+    }
+  ],
+  "finalCta": {
+    "headline": "Got a job around the house?",
+    "body": "Send a few photos or pick a time to talk it through. You'll get a clear quote before any work is booked.",
+    "microcopy": "No pressure. Just a straight answer."
+  },
+  "faq": [
+    {
+      "q": "Do you do roof repairs?",
+      "a": "Yes. Including complex internal roof repairs and roof framing. Send photos of the problem."
+    },
+    {
+      "q": "Can you fix carports and other structures?",
+      "a": "Yes. Carport posts and other structural repairs, inspected and quoted promptly."
+    },
+    {
+      "q": "Do you take on small maintenance jobs?",
+      "a": "Yes. Some jobs are done the same day. Send the details and we'll let you know."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your quote and we'll send the details for your job."
+    },
+    {
+      "q": "What happens after I send a request?",
+      "a": "Your details come straight to Rob, you get a text and email confirmation, and he follows up to talk through the job."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
