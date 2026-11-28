@@ -1,0 +1,212 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-28): 'G Smith Woodwork', 5.0 stars, 13 reviews (all 5 stars), category 'Woodworker', 408 E 66th St, Savannah, GA 31405, phone +1 912-308-6609, website garypsmith.wixsite.com. Review topics: cabinetry 5, attention to detail 3, craftsmanship 3, custom cabinet 2, impeccable work 2, doors 2, problem-solving 2, ideas 2, shelves 2.",
+    "website": "https://garypsmith.wixsite.com/website (checked 2026-11-28): free Wix subdomain with Wix ad banner; 'I founded Custom Cabinetry and Storage Solutions in 2000 ... Recently I changed by business name to G Smith Woodwork'; products shown: custom door panels, custom bookcase; contact = address, email, 9123086609. No quote form (0 form fields). Phone matches the listing.",
+    "services": "From reviews and site: kitchen cabinet reconfiguration and custom cabinets, living-room built-ins, custom shelves, fireplace mantels, custom cabinet doors and panels, cabinet repairs (fixing another contractor's install), millwork.",
+    "brand": "No logo or brand colours online (site is a black-and-white Wix template). Taken from their own work on the listing cover photo: white built-ins with brass hardware beside a fireplace. primary = brass-bronze #80632c (white 5.6:1), dark = walnut #1d1815 (white 17.6:1), accent = brass #d4b571 (8.9:1 on dark). Sampled from their listing photo, not an official brand; confirm with the owner. Concept mark (shaker cabinet door) is original.",
+    "reviews": "Google Reviews tab, same session: 13 reviews, all 5 stars; 3 complete ones copied verbatim covering different jobs (Oliver Smith: mantel, Kortney Fuller: built-ins, Zach: cabinet repair)."
+  },
+  "gap": "No way to ask for an estimate online: 5.0 stars from 13 Google reviews, but the website is a free Wix page (with a Wix ad bar, still titled with the old business name) that only lists an email and phone number, so homeowners can't send photos or project details for an estimate.",
+  "market": "US",
+  "company": {
+    "name": "G Smith Woodwork",
+    "trade": "Custom cabinetry and woodwork",
+    "city": "Savannah, GA",
+    "serviceArea": [
+      "Savannah"
+    ],
+    "phone": "(912) 308-6609"
+  },
+  "logo": {
+    "initials": "GS",
+    "tagline": "Custom Woodwork · Savannah",
+    "svg": "/assets/logos/g-smith-woodwork.svg"
+  },
+  "brand": {
+    "primary": "#80632c",
+    "dark": "#1d1815",
+    "accent": "#d4b571"
+  },
+  "assetFolder": "remodeling",
+  "assistantName": "G Smith Woodwork",
+  "google": {
+    "rating": 5.0,
+    "reviewCount": 13,
+    "profileUrl": "https://www.google.com/maps/place/G+Smith+Woodwork/@32.03077,-81.0996336,17z/data=!4m6!3m5!1s0x76cd97283c310e9:0x1f0e0d37a85a4609!8m2!3d32.03077!4d-81.0996336!16s%2Fg%2F11ts2_zpty"
+  },
+  "hero": {
+    "eyebrow": "Custom woodwork in Savannah since 2000",
+    "headline": "Custom cabinets and built-ins in Savannah.",
+    "subhead": "Handmade cabinetry, built-ins, shelving and mantels, designed around your space and your ideas. Send a few photos and measurements to get an estimate.",
+    "trustLine": [
+      "Building since 2000",
+      "Attention to detail",
+      "Designs drawn up first"
+    ],
+    "photo": "kitchen"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "Cabinets or built-ins",
+      "Shelving or bookcase",
+      "Mantel or millwork",
+      "Repair or modification"
+    ]
+  },
+  "skyeGreeting": "Hi, I'm the G Smith Woodwork assistant. Thinking about cabinets, built-ins or a mantel? Tell me about the project and I'll help you get an estimate.",
+  "about": {
+    "headline": "Handmade woodwork, planned around your home.",
+    "body": "Every piece starts with your idea and a plan. Designs are worked through with you before a board is cut, then built and installed with close attention to the details.",
+    "cards": [
+      {
+        "title": "Kitchens",
+        "body": "Cabinets reconfigured, extended or matched so new work blends with what's there."
+      },
+      {
+        "title": "Living spaces",
+        "body": "Built-ins, bookcases and shelving made to fit the room."
+      },
+      {
+        "title": "One-off pieces",
+        "body": "Mantels, custom doors and panels made to your design."
+      }
+    ],
+    "closing": "Got a space in mind? Send a few photos to start."
+  },
+  "problems": {
+    "headline": "Getting custom woodwork done right in Savannah shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow estimates",
+        "body": "Waiting weeks to hear back about a project."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "An estimate that changes once the work starts."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "A cabinet job that drags on and on."
+      },
+      {
+        "title": "Sloppy, uneven finishing",
+        "body": "New work that doesn't match what's already there."
+      }
+    ],
+    "bridge": "You need a craftsman who plans it first and gets the details right."
+  },
+  "solutions": {
+    "headline": "Woodwork made to fit.",
+    "services": [
+      {
+        "title": "Custom cabinets & built-ins",
+        "body": "Cabinets, built-ins, bookcases and shelving designed with you and built by hand.",
+        "photo": "kitchen"
+      },
+      {
+        "title": "Mantels & millwork",
+        "body": "Fireplace mantels and millwork in the style you're after, from minimalist to traditional.",
+        "photo": "pergola"
+      },
+      {
+        "title": "Cabinet doors, repairs & changes",
+        "body": "Matching cabinet doors and panels, reconfigured cabinets and fixes to poorly installed work.",
+        "photo": "door"
+      }
+    ]
+  },
+  "process": {
+    "headline": "Share your idea. See the plan. Get it built.",
+    "steps": [
+      {
+        "title": "Send your project",
+        "body": "Share photos, measurements and ideas with the form, or give Gary a call."
+      },
+      {
+        "title": "Design",
+        "body": "We work through the plans together until they're right."
+      },
+      {
+        "title": "Estimate",
+        "body": "You get a clear estimate before work begins."
+      },
+      {
+        "title": "Build & install",
+        "body": "Handmade, installed carefully and cleaned up after."
+      }
+    ]
+  },
+  "why": {
+    "headline": "5.0 stars from 13 Google reviews in Savannah.",
+    "themes": [
+      {
+        "title": "Attention to detail",
+        "body": "Corners, joints and finishes that customers notice."
+      },
+      {
+        "title": "Ideas that help",
+        "body": "Suggestions that improve on your original plan."
+      },
+      {
+        "title": "Problem-solving",
+        "body": "Tricky fixes and installs figured out properly."
+      },
+      {
+        "title": "Fair and communicative",
+        "body": "Reviews mention reasonable pricing and clear communication."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Oliver Smith",
+      "rating": 5,
+      "date": "3 years ago",
+      "text": "Gary is a craftsman who loves what he does. And is very good at it. He plans his work and develops solutions with your vision in mind. He recently helped me with a new fireplace mantle. I wanted a mid-century modern look - very minimalist. Gary took my ideas and ran with them. Before long we several designs to discuss. When we had some problems with the installation, he figured it out. He’s pretty good at that. Next thing I knew, the mantle was in place. It was just what I wanted. I’m glad I got Gary to help me out."
+    },
+    {
+      "author": "Kortney Fuller",
+      "rating": 5,
+      "date": "a year ago",
+      "text": "Gary did an amazing job with our built-ins in our living room! He’s very thorough and priced well! Highly recommend! Pic attached (not fully decorated yet)."
+    },
+    {
+      "author": "Zach",
+      "rating": 5,
+      "date": "3 years ago",
+      "text": "I can’t speak highly enough of the work that Gary did for us. We were having an issue with some of our cabinets being improperly installed by another contractor. Gary came to the rescue! He truly went above and beyond just a normal repair. His work is extremely high quality. It was a real pleasure to have a kind and honest person help us. I highly recommend Gary! We are already looking for our next project!"
+    }
+  ],
+  "finalCta": {
+    "headline": "Planning cabinets, built-ins or a mantel?",
+    "body": "Send a few photos and your ideas, or pick a time to talk it through. You'll get a clear estimate before any work starts.",
+    "microcopy": "No pressure. Just a straight answer."
+  },
+  "faq": [
+    {
+      "q": "Can you match my existing cabinets?",
+      "a": "Often, yes. Custom doors and panels can be made to match what you already have. Send photos for an estimate."
+    },
+    {
+      "q": "Do you design the piece or do I need plans?",
+      "a": "Either works. Bring your idea and we'll work through designs together before anything is built."
+    },
+    {
+      "q": "Do you fix cabinets someone else installed?",
+      "a": "Yes. Repairs and corrections to existing cabinetry are part of the work. Send details of the problem."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your estimate and we'll send the details for your project."
+    },
+    {
+      "q": "What happens after I send a request?",
+      "a": "Your details come straight through, you get a text and email confirmation, and we follow up to talk through the project."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
