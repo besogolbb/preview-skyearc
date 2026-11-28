@@ -1,0 +1,216 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-28): 'Wiregrass Handyman', 4.6 stars, 15 reviews (12 five-star, 2 four-star, 1 one-star), category 'Handyman/Handywoman/Handyperson', opens 6 AM Sat, website wiregrass-handyman.my.canva.site, phone +1 334-714-8185 (matches the sheet). Drawn service area around Dothan, Ozark, Enterprise, Headland and nearby Wiregrass towns. Two other listings exist ('Wiregrass Handyman' with no reviews and 'The Wiregrass Handyman' 5.0/1 with a different phone); this row matches the 15-review one.",
+    "website": "https://wiregrass-handyman.my.canva.site/ (checked 2026-11-28): free Canva site, 'Reliable Handyman & Home Improvement Services', 'Dothan, Alabama & the Wiregrass Area', 'Call 334-714-8185' / 'Text for an estimate' buttons, no form. Services listed: general home repairs, drywall, interior & exterior painting, flooring, tile work & custom tile showers, decks & porches, privacy fences & fence repair, doors & window replacement, pressure washing, gutters & leaf guards, screen rooms, rental property maintenance, minor electrical & fixture work, plumbing fixture replacement, punch list repairs, carpentry, caulking & weatherproofing, moving & furniture assembly. Serves homeowners, landlords, rental properties and property managers. 'No job too big, no job too small.'",
+    "brand": "From their own website: dark navy header/footer (#1a222c) and yellow buttons (#f2b52c). primary = yellow #f2b52c with primaryInk #0b1626 (9.9:1), dark = navy #1a222c (white 16.0:1), accent = yellow (8.7:1 on dark). Concept mark (three wiregrass blades) is original.",
+    "reviews": "Google Reviews tab, same session: 3 complete 5-star reviews copied verbatim covering different jobs (Lloyd Townsell: covered patio, Christopher Hooper: fireplace surround, Jennifer Walworth: odd jobs list). Note: one 1-star review (Shannon Thomas) says a visit time was never confirmed."
+  },
+  "gap": "Call-or-text only: the Canva site's only way to ask for an estimate is calling or texting, with no form or booking, and a recent 1-star review says a visit time was never confirmed. A request form with instant confirmation and a booking calendar would close that loop.",
+  "market": "US",
+  "company": {
+    "name": "Wiregrass Handyman",
+    "trade": "Handyman and home improvement",
+    "city": "Dothan, AL",
+    "serviceArea": [
+      "Dothan",
+      "Ozark",
+      "Enterprise",
+      "Headland",
+      "the Wiregrass"
+    ],
+    "phone": "(334) 714-8185"
+  },
+  "logo": {
+    "initials": "WH",
+    "tagline": "Handyman · Dothan",
+    "svg": "/assets/logos/wiregrass-handyman.svg"
+  },
+  "brand": {
+    "primary": "#f2b52c",
+    "dark": "#1a222c",
+    "accent": "#f2b52c",
+    "primaryInk": "#0b1626"
+  },
+  "assetFolder": "carpentry",
+  "assistantName": "Wiregrass Handyman",
+  "google": {
+    "rating": 4.6,
+    "reviewCount": 15,
+    "profileUrl": "https://www.google.com/maps/place/Wiregrass+Handyman/@31.274536,-85.4919166,10z/data=!4m6!3m5!1s0xa5ed4bf42bc6583:0x913e95de356318ce!8m2!3d31.274536!4d-85.4919166!16s%2Fg%2F11nv6_bq4l"
+  },
+  "hero": {
+    "eyebrow": "Handyman services in the Wiregrass",
+    "headline": "Repairs and home improvements in Dothan.",
+    "subhead": "From hanging pictures to building a covered patio, for homeowners, landlords and property managers around Dothan. Send a few photos and get an estimate.",
+    "trustLine": [
+      "No job too big or too small",
+      "Detail-oriented work",
+      "Cleans up when finished"
+    ],
+    "photo": "stairs"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "Repairs or odd jobs",
+      "Deck, porch or patio",
+      "Painting, drywall or tile",
+      "Rental property work"
+    ]
+  },
+  "skyeGreeting": "Hi, I'm the Wiregrass Handyman assistant. Got a repair, a to-do list or a bigger project? Tell me about it and I'll help you get an estimate.",
+  "about": {
+    "headline": "Dependable work for Wiregrass homes and rentals.",
+    "body": "Small repairs or bigger improvement projects, the work is done with care and an eye for detail, and the site is cleaned up before the tools go away.",
+    "cards": [
+      {
+        "title": "Homeowners",
+        "body": "The to-do list you've been putting off, finally done."
+      },
+      {
+        "title": "Landlords",
+        "body": "Rental property maintenance and punch list repairs."
+      },
+      {
+        "title": "Bigger projects",
+        "body": "Decks, porches, covered patios and screen rooms."
+      }
+    ],
+    "closing": "Photos of your project are welcome. Send them through."
+  },
+  "problems": {
+    "headline": "Getting a handyman to show up in Dothan shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow estimates",
+        "body": "Texts and calls that never get a clear answer."
+      },
+      {
+        "title": "Missed timelines & no-shows",
+        "body": "Waiting all day without a confirmed time."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "Not knowing what the job will cost."
+      },
+      {
+        "title": "Messy job sites",
+        "body": "Dust and debris left behind."
+      }
+    ],
+    "bridge": "You need a confirmed time, a clear estimate and tidy work."
+  },
+  "solutions": {
+    "headline": "One handyman for the whole list.",
+    "services": [
+      {
+        "title": "Decks, porches & covered patios",
+        "body": "Decks, porches, screen rooms and covered patios built without cutting corners.",
+        "photo": "deck"
+      },
+      {
+        "title": "Carpentry & repairs",
+        "body": "Doors, windows, fences, fireplace surrounds and general home repairs.",
+        "photo": "door"
+      },
+      {
+        "title": "Painting, drywall, tile & odd jobs",
+        "body": "Painting, drywall, flooring and tile, plus pictures, curtains and fixtures.",
+        "photo": "tile"
+      }
+    ]
+  },
+  "process": {
+    "headline": "Send it. Book it. Get it done.",
+    "steps": [
+      {
+        "title": "Send your project",
+        "body": "Use the form with a few photos, or call or text."
+      },
+      {
+        "title": "Estimate",
+        "body": "You get a clear estimate for the work."
+      },
+      {
+        "title": "Confirmed time",
+        "body": "Pick a time and get a confirmation, so you know when to expect us."
+      },
+      {
+        "title": "Done and tidy",
+        "body": "Detailed work, and everything cleaned up before we leave."
+      }
+    ]
+  },
+  "why": {
+    "headline": "4.6 stars from 15 Google reviews around Dothan.",
+    "themes": [
+      {
+        "title": "Attention to detail",
+        "body": "Customers keep mentioning the small details."
+      },
+      {
+        "title": "Craftsmanship",
+        "body": "Give a vision or inspiration and see it built."
+      },
+      {
+        "title": "Prompt and reliable",
+        "body": "Quick responses and on-time arrivals."
+      },
+      {
+        "title": "Clean finish",
+        "body": "Everything cleaned up when the job is done."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Lloyd Townsell",
+      "rating": 5,
+      "date": "3 months ago",
+      "text": "I had Wiregrass Handyman build a covered patio for relaxing by my pool and  just enjoying our back yard rain or shine. Michael and his crew showed up when he promised on time and completed the project in a very professional and timely manner. Michael surprised me with his attention to details when it came to making sure everything was built without taking short cuts or cutting corners. After the project was completed,  Michael made sure I was satisfied before he put any of his tools up. I couldn't be more pleased, and would recommend him and will definitely call him for any future projects or repairs that I may need."
+    },
+    {
+      "author": "Christopher Hooper",
+      "rating": 5,
+      "date": "a week ago",
+      "text": "Can’t say enough good things! Michael is the best. We had him build a fireplace surround for us while we were gone on vacation. He is very detail oriented and did exactly what we wanted. And he also cleaned everything up when he was finished. HIGHLY RECOMMEND!!!\nThank you Michael"
+    },
+    {
+      "author": "Jennifer Walworth",
+      "rating": 5,
+      "date": "a month ago",
+      "text": "I am so very pleased with the work done at my house!!! I contacted Wiregrass Handyman at the last minute and luckily he was able to fit me into his schedule. He completed several small odd jobs that I’d been putting off for a while…hanging pictures, installing curtain rods, replacing 3 pendant lights, and mounting a new toilet paper holder! If you’ve been putting off your to-do list, give Wiregrass Handyman a call. Michael will take good care of you!"
+    }
+  ],
+  "finalCta": {
+    "headline": "Got a project or a to-do list?",
+    "body": "Send a few photos or pick a time that suits you. You'll get a clear estimate and a confirmed time.",
+    "microcopy": "No pressure. No job too small."
+  },
+  "faq": [
+    {
+      "q": "Do you take small jobs?",
+      "a": "Yes. No job is too small, from hanging pictures and curtains to fixing a door."
+    },
+    {
+      "q": "Do you work on rental properties?",
+      "a": "Yes. Rental property maintenance and punch list repairs for landlords and property managers."
+    },
+    {
+      "q": "Which areas do you serve?",
+      "a": "Dothan and the surrounding Wiregrass, including Ozark, Enterprise and Headland. Ask if you're unsure."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your estimate and we'll send the details for your job."
+    },
+    {
+      "q": "What happens after I send a request?",
+      "a": "Your details come straight through, you get a text and email confirmation, and we follow up with an estimate and a time."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
