@@ -1,0 +1,215 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-28): 'Pro Tip Roofing Solutions', 4.7 stars, 12 reviews (11 five-star, 1 one-star), category 'Roofing contractor', 7/11 Maroona Rd, Carnegie VIC 3163, closes 6 PM, website kurtmorley99.wixsite.com, and NO phone number on the listing ('Add place's phone number'). Review topics: affordability 3, leak 3, roof repair 3, promptness 2, gutters 2, process explanation 2, tiles 2.",
+    "website": "https://kurtmorley99.wixsite.com/protiproofingsolutio (checked 2026-11-28): free Wix site with Wix ad bar, title 'Melbourne Roof Painting and Roof Restoration'. Phone 0491960437 (matches the sheet), kurtmorley99@gmail.com. Services: roofing restorations, gutter re-spouting and repair, re-roofing, roof painting, roof re-pointing, high pressure cleaning, roof replacement, leak detection. 'Call or message us for a free quote' / 'free no obligation quote'. Quote form sits mid-page.",
+    "brand": "Their site is charcoal (#1f2328) and white with no logo. Colour taken from their listing cover photo (blue-grey metal roof) with scripts/sample-brand.mjs (hidden hue 209°), adjusted by eye for contrast: primary = roof blue #2c6aa3 (white 5.7:1), dark = site charcoal #1f2328 (white 15.8:1), accent = light blue #8fc1ec (8.3:1 on dark). Confirm with the owner. Concept mark (paint roller) is original.",
+    "reviews": "Google Reviews tab, same session: 3 complete 5-star reviews copied verbatim covering different jobs (Chris O'Brien: terracotta tiles + valley gutter, Steve Yasuba: leak + skylight, Monique Murnane: leak, tiles, gutters). Owner named Kurt in reviews."
+  },
+  "gap": "No phone on Google: the listing (4.7 stars, 12 reviews) shows 'Add place's phone number', so searchers can't tap to call, and the website it links to is a free Wix page with an ad bar and the quote form halfway down.",
+  "market": "AU",
+  "company": {
+    "name": "Pro Tip Roofing Solutions",
+    "trade": "Roof restoration and repairs",
+    "city": "Melbourne, VIC",
+    "serviceArea": [
+      "Carnegie",
+      "Melbourne's south-east",
+      "Melbourne"
+    ],
+    "phone": "0491 960 437"
+  },
+  "logo": {
+    "initials": "PT",
+    "tagline": "Roofing · Melbourne",
+    "svg": "/assets/logos/pro-tip-roofing-solutions.svg"
+  },
+  "brand": {
+    "primary": "#2c6aa3",
+    "dark": "#1f2328",
+    "accent": "#8fc1ec"
+  },
+  "assetFolder": "roofing",
+  "assistantName": "Pro Tip Roofing",
+  "google": {
+    "rating": 4.7,
+    "reviewCount": 12,
+    "profileUrl": "https://www.google.com/maps/place/Pro+Tip+Roofing+Solutions/@-37.8889535,145.0482393,17z/data=!4m6!3m5!1s0x6ad60dce42dc3dc9:0x5d6d51e207934b48!8m2!3d-37.8889535!4d145.0482393!16s%2Fg%2F11mhdvf4tg"
+  },
+  "hero": {
+    "eyebrow": "Roofing in Carnegie and Melbourne",
+    "headline": "Roof restoration and leak repairs in Melbourne.",
+    "subhead": "Roof painting, re-pointing, tile and leak repairs, gutters and re-roofing. Tell us what's happening up top and get a free, no-obligation quote.",
+    "primaryCta": "Get a free quote",
+    "trustLine": [
+      "Free, no-obligation quotes",
+      "Fixes leaks others couldn't",
+      "Explains the options"
+    ],
+    "photo": "rooftiles"
+  },
+  "quoteField": {
+    "label": "Roof need",
+    "options": [
+      "Leak repair",
+      "Restoration or painting",
+      "Gutters",
+      "Re-roof or replacement"
+    ]
+  },
+  "skyeGreeting": "G'day, I'm the Pro Tip Roofing assistant. Got a leak, tired roof or gutter problem? Tell me what's going on and I'll help you get a free quote.",
+  "about": {
+    "headline": "Roof repairs done right the first time.",
+    "body": "From a single cracked tile to a full restoration, Kurt finds the real cause, explains your options and gets it sorted quickly, including leaks other roofers couldn't fix.",
+    "cards": [
+      {
+        "title": "Leaking roofs",
+        "body": "Leaks tracked down and fixed, skylights included."
+      },
+      {
+        "title": "Older tiled roofs",
+        "body": "Re-pointing, tile replacement and valley gutters on older terracotta roofs."
+      },
+      {
+        "title": "Tired roofs",
+        "body": "Cleaning, restoration and painting to bring it back."
+      }
+    ],
+    "closing": "Tell us what's going on for a free quote."
+  },
+  "problems": {
+    "headline": "Getting a roofer you can trust in Melbourne shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow quotes",
+        "body": "Waiting days for a call back while it keeps leaking."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "Not knowing what the fix will cost."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "Roofers who don't turn up when they said."
+      },
+      {
+        "title": "Leaks that come back",
+        "body": "The same leak returning after someone else's fix."
+      }
+    ],
+    "bridge": "You need a roofer who finds the real problem and fixes it."
+  },
+  "solutions": {
+    "headline": "Restorations, repairs and gutters.",
+    "services": [
+      {
+        "title": "Roof restoration & painting",
+        "body": "High pressure cleaning, re-pointing and painting to restore a tired roof.",
+        "photo": "tilemoss"
+      },
+      {
+        "title": "Leak & tile repairs",
+        "body": "Leak detection, cracked and loose tiles replaced, skylight leaks fixed.",
+        "photo": "brokentiles"
+      },
+      {
+        "title": "Gutters & re-roofing",
+        "body": "Gutter re-spouting and repair, valley gutters and full roof replacements.",
+        "photo": "roofing"
+      }
+    ]
+  },
+  "process": {
+    "headline": "Inspect it. Explain it. Fix it.",
+    "steps": [
+      {
+        "title": "Tell us the problem",
+        "body": "Use the form with a few photos, or call Kurt."
+      },
+      {
+        "title": "Free quote",
+        "body": "A free, no-obligation quote with the options explained."
+      },
+      {
+        "title": "Quick start",
+        "body": "Work booked in promptly, often within days."
+      },
+      {
+        "title": "Fixed properly",
+        "body": "The real cause sorted, gutters cleaned, site left tidy."
+      }
+    ]
+  },
+  "why": {
+    "headline": "4.7 stars from 12 Google reviews.",
+    "themes": [
+      {
+        "title": "Finds the real cause",
+        "body": "Leaks fixed that other roofers couldn't."
+      },
+      {
+        "title": "Affordable",
+        "body": "Reasonable prices, mentioned again and again."
+      },
+      {
+        "title": "Explains the process",
+        "body": "Clear options before any work starts."
+      },
+      {
+        "title": "Prompt",
+        "body": "Quick to respond and quick to get started."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Chris O'Brien",
+      "rating": 5,
+      "date": "2 years ago",
+      "text": "Kurt was quick to respond to our leaking tile roof. The job was more complex than originally thought & involved replacing a very rusted valley gutter & numerous damaged tiles on the 50 year old terra cotta tiled roof. He did an excellent job & knew exactly what he was doing. I would highly recommend Kurt for any tile roof repair.\nChris"
+    },
+    {
+      "author": "Steve Yasuba",
+      "rating": 5,
+      "date": "a year ago",
+      "text": "My roof was leaking and my skylight was leaking. Kurt and his crew did a free quote and had my roof and skylight fixed within a few days. Super happy with the work.\nWould highly recommend Pro Tip roofing\nCheers boys"
+    },
+    {
+      "author": "Monique Murnane",
+      "rating": 5,
+      "date": "a year ago",
+      "text": "Kurt was prompt, friendly and reasonably priced. He fixed the hole causing a leak into the house, replaced loose tiles and cleaned the gutters. He got the job done in a timely manner and was easy to talk to and came when he said he would. Thanks Kurt!"
+    }
+  ],
+  "finalCta": {
+    "headline": "Got a leak or a tired roof?",
+    "body": "Send a few photos or pick a time for an inspection. You'll get a free, no-obligation quote.",
+    "cta": "Get a free quote",
+    "microcopy": "No pressure. No obligation."
+  },
+  "faq": [
+    {
+      "q": "Are quotes free?",
+      "a": "Yes. Quotes are free and there's no obligation."
+    },
+    {
+      "q": "Can you fix a leak someone else couldn't?",
+      "a": "Often, yes. We look for the real cause, whether it's tiles, pointing, flashing or a valley gutter."
+    },
+    {
+      "q": "Do you work on old terracotta roofs?",
+      "a": "Yes. Re-pointing, tile replacement and valley gutters on older tiled roofs."
+    },
+    {
+      "q": "Which areas do you cover?",
+      "a": "Carnegie and the surrounding Melbourne area. Ask if you're unsure."
+    },
+    {
+      "q": "What happens after I send a request?",
+      "a": "Your details come straight to Kurt, you get a text and email confirmation, and he follows up to arrange your quote."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
