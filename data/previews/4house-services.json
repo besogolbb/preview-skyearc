@@ -1,0 +1,211 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-28): '4HOUSE SERVICES', 5.0 stars, 16 reviews (all 5 stars), category 'Corporate office', 11000 Metro Pkwy, Fort Myers, FL 33966, opens 8 AM Mon, phone +1 239-834-5953 (matches the sheet), 'Identifies as women-owned', 'Identifies as Latino-owned', no website listed. Review topics: renovations 4, kitchen space 2, kitchen renovation 2, attention to detail 2, quality work 2.",
+    "services": "From reviews: kitchen renovations ('dream kitchen ... total transformation'), master bathroom renovation, tiling bedrooms/bathroom/closets, installing vanities, toilets, mirrors and lights, first-home renovation. Team named in reviews: Paulo and Marilia.",
+    "brand": "No brand online. Sampled from their Google listing cover photo (grey quartz kitchen island with walnut stools) with scripts/sample-brand.mjs, adjusted by eye: primary = walnut #614d3f (white 7.9:1), dark = espresso #2a1d15 (white 16.3:1), accent = quartz grey #c5d0d0 (10.4:1 on dark). Sampled from their listing photo, not an official brand; confirm with the owner. Concept mark (the 4 of 4HOUSE) is original.",
+    "reviews": "Google Reviews tab, same session: 16 reviews, all 5 stars (8 with text); 3 complete ones copied verbatim covering different jobs (Diane Baschieri: kitchen, Brian Spain: master bathroom, Emile Gayed: tiling + vanities)."
+  },
+  "gap": "No website: 5.0 stars from 16 Google reviews but no website on the listing (and the category reads 'Corporate office', not remodeler), so homeowners searching for a kitchen or bathroom renovation in Fort Myers can only call; there's nowhere to see the work or send project details.",
+  "market": "US",
+  "company": {
+    "name": "4House Services",
+    "trade": "Kitchen and bathroom renovation",
+    "city": "Fort Myers, FL",
+    "serviceArea": [
+      "Fort Myers"
+    ],
+    "phone": "(239) 834-5953"
+  },
+  "logo": {
+    "initials": "4H",
+    "tagline": "Renovations · Fort Myers",
+    "svg": "/assets/logos/4house-services.svg"
+  },
+  "brand": {
+    "primary": "#614d3f",
+    "dark": "#2a1d15",
+    "accent": "#c5d0d0"
+  },
+  "assetFolder": "remodeling",
+  "assistantName": "4House Services",
+  "google": {
+    "rating": 5.0,
+    "reviewCount": 16,
+    "profileUrl": "https://www.google.com/maps/place/4HOUSE+SERVICES/@26.5813704,-81.8543777,17z/data=!4m6!3m5!1s0x88db412fb58eaaab:0xd28a4952dd7754dc!8m2!3d26.5813704!4d-81.8543777!16s%2Fg%2F11nnwgkpd9"
+  },
+  "hero": {
+    "eyebrow": "Home renovations in Fort Myers",
+    "headline": "Kitchen and bath renovations in Fort Myers.",
+    "subhead": "Kitchens, bathrooms, tile and fixtures, planned with you and finished with attention to detail. Tell us about your project and get an estimate.",
+    "trustLine": [
+      "Women-owned & Latino-owned",
+      "Attention to detail",
+      "Helpful suggestions along the way"
+    ],
+    "photo": "kitchen"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "Kitchen",
+      "Bathroom",
+      "Tile flooring",
+      "Something else"
+    ]
+  },
+  "skyeGreeting": "Hi, I'm the 4House Services assistant. Planning a kitchen, bathroom or tile project? Tell me about it and I'll help you get an estimate.",
+  "about": {
+    "headline": "Renovations that change how your home works.",
+    "body": "From a small update to a total transformation, the team plans the layout with you, makes suggestions along the way and stays on site to see everything done properly.",
+    "cards": [
+      {
+        "title": "Kitchens",
+        "body": "Better flow, more space and a kitchen that feels new."
+      },
+      {
+        "title": "Bathrooms",
+        "body": "Master bath renovations, new vanities, mirrors and lighting."
+      },
+      {
+        "title": "First renovations",
+        "body": "A seamless process if you've never renovated before."
+      }
+    ],
+    "closing": "Tell us what you have in mind to get started."
+  },
+  "problems": {
+    "headline": "Renovating in Fort Myers shouldn't feel overwhelming.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow estimates",
+        "body": "Waiting to hear back before you can even plan."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "Not knowing what the project will really cost."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "A kitchen or bathroom out of action for too long."
+      },
+      {
+        "title": "Sloppy, uneven finishing",
+        "body": "Tile and fixtures that aren't quite right."
+      }
+    ],
+    "bridge": "You need a team that plans it well and checks every detail."
+  },
+  "solutions": {
+    "headline": "Kitchens, baths and tile, done properly.",
+    "services": [
+      {
+        "title": "Kitchen renovations",
+        "body": "From small updates to full transformations, with a layout that flows and more space.",
+        "photo": "kitchen"
+      },
+      {
+        "title": "Bathroom renovations",
+        "body": "Master bath remodels with new vanities, toilets, mirrors and lights installed.",
+        "photo": "bathroom"
+      },
+      {
+        "title": "Tile flooring",
+        "body": "Tile for bedrooms, bathrooms and closets, laid carefully and finished cleanly.",
+        "photo": "tile"
+      }
+    ]
+  },
+  "process": {
+    "headline": "Plan it together. Build it carefully. Check every detail.",
+    "steps": [
+      {
+        "title": "Tell us your plans",
+        "body": "Use the form or call to share what you have in mind."
+      },
+      {
+        "title": "Estimate",
+        "body": "We look at the space and give you a clear estimate."
+      },
+      {
+        "title": "Renovation",
+        "body": "Quality work, done in a timely way, with suggestions along the way."
+      },
+      {
+        "title": "Final check",
+        "body": "Any small issue gets resolved before we're done."
+      }
+    ]
+  },
+  "why": {
+    "headline": "5.0 stars from 16 Google reviews in Fort Myers.",
+    "themes": [
+      {
+        "title": "Attention to detail",
+        "body": "Careful work customers notice in the finished space."
+      },
+      {
+        "title": "Responsive",
+        "body": "Quick to adjust if something isn't exactly right."
+      },
+      {
+        "title": "On site",
+        "body": "Work overseen in person so it's done properly."
+      },
+      {
+        "title": "Easy to work with",
+        "body": "A seamless process, even for first-time renovators."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Diane Baschieri",
+      "rating": 5,
+      "date": "a month ago",
+      "text": "Wow! My dream kitchen has become a reality, thanks to Paulo and his team. What started with a small project ended up being a total transformation. From the careful attention to detail and Professional quality service, we could not be more pleased with 4house services. Marilia is pure delight and easy to work with. I highly recommend!"
+    },
+    {
+      "author": "Brian Spain",
+      "rating": 5,
+      "date": "4 years ago",
+      "text": "Paulo and his crew were extremely professional, responsive and skilled. We were extremely happy with our master bathroom renovation.  They made great suggestions along the way and if something didn't work out exactly the way we wanted, they were quick to respond and adjust.\nMy wife and I would highly recommend Paulo and his crew at 4House."
+    },
+    {
+      "author": "Emile Gayed",
+      "rating": 5,
+      "date": "4 years ago",
+      "text": "Paulo and Marilia did a great job with our renovations, we had 2 bedrooms, bathroom and 2 closets tiled as well as 2 new vanities, toilet mirrors and lights in the bathrooms installed. Paulo quality work was done in a timely, efficient  manner, Paulo was there to oversee that everything was done properly, if there was any small issues Paulo had them resolved.\nThank you Paulo & Marilia"
+    }
+  ],
+  "finalCta": {
+    "headline": "Ready to plan your kitchen or bathroom?",
+    "body": "Send a few details and photos or pick a time to talk it through. You'll get a clear estimate before any work starts.",
+    "microcopy": "No pressure. Just a straight answer."
+  },
+  "faq": [
+    {
+      "q": "Can you take a small project and grow it into a full renovation?",
+      "a": "Yes. Many projects start small. We'll help you plan as much or as little as you want."
+    },
+    {
+      "q": "Do you install vanities, mirrors and lighting?",
+      "a": "Yes. Bathroom fixtures like vanities, toilets, mirrors and lights are part of the work."
+    },
+    {
+      "q": "Do you lay tile in bedrooms and closets too?",
+      "a": "Yes. Tile flooring throughout the home, not just bathrooms."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your estimate and we'll send the details for your project."
+    },
+    {
+      "q": "What happens after I send a request?",
+      "a": "Your details come straight through, you get a text and email confirmation, and we follow up to talk through the project."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
