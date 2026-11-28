@@ -1,0 +1,212 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-28): 'Sunnyside Carpentry Coffs', 4.9 stars, 12 reviews (11 five-star, 1 four-star), category 'Carpenter', opens 7 AM Mon, website sunnysidecarpentry.wixsite.com, phone +61 474 135 105 (matches the sheet). Review topics: deck 4, communication 2.",
+    "website": "https://sunnysidecarpentry.wixsite.com/my-site (checked 2026-11-28): free Wix site titled 'Deck builder and Carpentry service'; name misspelled 'Sunnnyside' in the heading and socials; template footer still reads '© 2035 by NEWEL'. Copy: 'reliable, professional and detail-focused ... plan each job properly ... From the first quote to the final clean-up'; 'premium decking, renovations, and custom carpentry in Coffs Harbour'. Gallery: Solid Oak Decking, Kitchen Reimagined, Outdoor Framing, Deck Refinishing. Contact form (name, email, phone, address). Email sunnysidecarpentry@outlook.com.au, phone 0474135105. Facebook and Instagram (@sunnyside_carpentry) linked.",
+    "services": "From reviews: back deck renovation, new decks, Ekodeck entry walkway, backyard pool area transformation, shed framing, closing up a double door entry and repositioning a door, reusing timber as bench seats. From the site: decking, deck refinishing, renovations (kitchen), outdoor framing, custom carpentry. Owner named Josh in reviews.",
+    "brand": "From their own logo (cartoon egg mascot with house and pine trees, black arched lettering): yolk yellow-orange and pine green. primary = pine green #3b6633 (white 6.7:1), dark = near-black #141710 (white 18.1:1), accent = yolk #f4b13d (9.7:1 on dark). Hues taken by eye from the logo; confirm with the owner. Concept mark (sun over deck boards) is original and doesn't copy their mascot.",
+    "reviews": "Google Reviews tab, same session: 3 complete 5-star reviews copied verbatim covering different jobs (Carolyn Hoogervorst: back deck renovation, Jodie Franken: Ekodeck entry walkway, Matt Rumsey: shed framing)."
+  },
+  "gap": "Free Wix site with errors: 4.9 stars from 12 Google reviews, but the linked Wix page misspells the business as 'Sunnnyside', still shows the template's '© 2035 by NEWEL' footer, and only has a generic contact form, so it undersells a deck builder with great reviews.",
+  "market": "AU",
+  "company": {
+    "name": "Sunnyside Carpentry Coffs",
+    "trade": "Decking and carpentry",
+    "city": "Coffs Harbour, NSW",
+    "serviceArea": [
+      "Coffs Harbour"
+    ],
+    "phone": "0474 135 105"
+  },
+  "logo": {
+    "initials": "SC",
+    "tagline": "Decks & Carpentry · Coffs Harbour",
+    "svg": "/assets/logos/sunnyside-carpentry-coffs.svg"
+  },
+  "brand": {
+    "primary": "#3b6633",
+    "dark": "#141710",
+    "accent": "#f4b13d"
+  },
+  "assetFolder": "carpentry",
+  "assistantName": "Sunnyside Carpentry",
+  "google": {
+    "rating": 4.9,
+    "reviewCount": 12,
+    "profileUrl": "https://www.google.com/maps/place/Sunnyside+Carpentry+Coffs/@-30.3852743,152.9955583,11z/data=!4m6!3m5!1s0x8cf9ca5ce5c582e3:0xa84e47079c5c65f5!8m2!3d-30.3852742!4d152.9955583!16s%2Fg%2F11y_hwgnjx"
+  },
+  "hero": {
+    "eyebrow": "Deck builder and carpenter, Coffs Harbour",
+    "headline": "Decks and carpentry in Coffs Harbour.",
+    "subhead": "New decks, deck renovations, outdoor framing and custom carpentry, planned properly and finished to the last millimetre. Send a few photos and get a quote.",
+    "trustLine": [
+      "Talks you through each day",
+      "Eye for detail",
+      "Immaculate clean-up"
+    ],
+    "photo": "stairs"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "New deck",
+      "Deck renovation or refinish",
+      "Framing or renovation",
+      "Doors or other carpentry"
+    ]
+  },
+  "skyeGreeting": "G'day, I'm the Sunnyside Carpentry assistant. Thinking about a deck, reno or carpentry job? Tell me a bit about it and I'll help you get a quote.",
+  "about": {
+    "headline": "Decks and carpentry, planned properly.",
+    "body": "Josh takes the time to plan each job, brings good ideas to the table and talks you through progress every day. The finish is meticulous and the site is left clean.",
+    "cards": [
+      {
+        "title": "Backyards",
+        "body": "New decks and pool areas that turn the yard into an oasis."
+      },
+      {
+        "title": "First impressions",
+        "body": "Entry walkways and verandahs brought back to life."
+      },
+      {
+        "title": "Builds & renos",
+        "body": "Shed framing, renovations and doors moved or closed up."
+      }
+    ],
+    "closing": "Send a few photos and Josh will take a look."
+  },
+  "problems": {
+    "headline": "Getting a good deck builder in Coffs shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow quotes",
+        "body": "Chasing builders for a price on your deck."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "A budget that blows out halfway through."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "A deck that takes months instead of days."
+      },
+      {
+        "title": "Sloppy, uneven finishing",
+        "body": "Boards that aren't straight and gaps that don't match."
+      }
+    ],
+    "bridge": "You need a carpenter who plans it, communicates and nails the finish."
+  },
+  "solutions": {
+    "headline": "Decks, framing and custom carpentry.",
+    "services": [
+      {
+        "title": "New decks & walkways",
+        "body": "Timber and composite decks, entry walkways and pool surrounds built to last.",
+        "photo": "deck"
+      },
+      {
+        "title": "Deck renovations & refinishing",
+        "body": "Tired decks renovated or refinished, with existing timber reused where it can be.",
+        "photo": "stairs"
+      },
+      {
+        "title": "Framing, renos & doors",
+        "body": "Shed and outdoor framing, renovations, and doors repositioned or closed up.",
+        "photo": "framing"
+      }
+    ]
+  },
+  "process": {
+    "headline": "Plan it. Quote it. Build it right.",
+    "steps": [
+      {
+        "title": "Send your job",
+        "body": "Use the form with a few photos, or give Josh a call."
+      },
+      {
+        "title": "Ideas & quote",
+        "body": "Good ideas, sensible advice and a clear quote."
+      },
+      {
+        "title": "Daily updates",
+        "body": "Josh talks you through progress each day."
+      },
+      {
+        "title": "Clean finish",
+        "body": "Fine-tuned to the last millimetre and the site left clean."
+      }
+    ]
+  },
+  "why": {
+    "headline": "4.9 stars from 12 Google reviews in Coffs.",
+    "themes": [
+      {
+        "title": "Decks done right",
+        "body": "The most mentioned job in reviews."
+      },
+      {
+        "title": "Communication",
+        "body": "Talks you through the process every day."
+      },
+      {
+        "title": "Attention to detail",
+        "body": "Neat, tidy and precise from start to finish."
+      },
+      {
+        "title": "Fair prices",
+        "body": "Quality work that doesn't break the budget."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Carolyn Hoogervorst",
+      "rating": 5,
+      "date": "3 months ago",
+      "text": "Josh had been working at a neighbour’s home and had done a great job, the neighbours being very pleased with his work.\n\nI asked Josh if he would be interested in renovating my back deck.\n\nJosh had excellent ideas and suggestions and so the process began. He was always on time, communicated well, was efficient, very neat and tidy with an eye for detail and keen to deliver a quality product! He worked with Dave (also a carpenter) and their fine tuning to the last mm was very professional!\n\nI cannot tell you how thrilled I am with my new back deck and would highly recommend Sunnyside Carpentry if you are looking for a meticulous new look/renovation!\n\nCarolyn"
+    },
+    {
+      "author": "Jodie Franken",
+      "rating": 5,
+      "date": "7 months ago",
+      "text": "First impressions DO matter! my outdated entry way needed a facelift and how beautifully it has been revived with this stunning eko deck walkway!\n\nJosh was absolutely incredible throughout the whole process from quoting and advice to the efficiency and installation!\n\nThis project was done within great time and workmanship was neat and tidy each step of the way. The care and attention to detail is evident in the final outcome!\n\nI could not be happier with my fresh entrance and cannot wait to have them back to bring my back verandah up to the same standard!"
+    },
+    {
+      "author": "Matt Rumsey",
+      "rating": 5,
+      "date": "4 weeks ago",
+      "text": "Josh from Sunnyside Carpentry Coffs was excellent for our shed framing job. He helped create exactly what we envisioned and was a great communicator throughout. Josh was efficient, detailed and precise in this build, and this allowed me to continue the progress of the build smoothly with other contractors. For any future building and carpentry needs, I would highly recommend Josh and the team from Sunnyside Carpentry Coffs"
+    }
+  ],
+  "finalCta": {
+    "headline": "Ready for a new deck?",
+    "body": "Send a few photos or pick a time to talk it through. You'll get a clear quote before any work is booked.",
+    "microcopy": "No pressure. Just good advice."
+  },
+  "faq": [
+    {
+      "q": "Do you renovate existing decks?",
+      "a": "Yes. We renovate and refinish tired decks, and reuse good timber where we can."
+    },
+    {
+      "q": "Do you build composite decks?",
+      "a": "Yes. Timber or composite like Ekodeck. Send photos of the area and we'll talk through options."
+    },
+    {
+      "q": "Do you do framing?",
+      "a": "Yes. Shed and outdoor framing, built precisely so other trades can follow on smoothly."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your quote and we'll send the details for your job."
+    },
+    {
+      "q": "What happens after I send a request?",
+      "a": "Your details come straight to Josh, you get a text and email confirmation, and he follows up to talk through the job."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
