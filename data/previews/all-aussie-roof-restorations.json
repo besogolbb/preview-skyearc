@@ -1,0 +1,209 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-28): 'All Aussie Roof Restorations Pty Ltd - Roof Repairs, Painting, Restoration', 5.0 stars, 2 reviews, category 'Roofing contractor', 'Open 24 hours', phone +61 488 092 192 (matches the sheet), no website ('Add website'). The map pin sits in the middle of Australia (outback South Australia), not in Central Queensland. Cover photo: a freshly painted terracotta tile roof.",
+    "other": "Service.com.au profile (checked 2026-11-28): Verified, Rockhampton QLD 4700, member 10+ years. 'All Aussie Roof Restorations is a local family owned company providing high quality Roofing Services in the Rockhampton, Yeppoon, Gladstone and Surrounding areas. With over 20 years experience in the roofing industry'. Services: roof restorations (tile, tin, Decramastic), tile rebedding, repointing, tile repairs, painting systems from standard paint to thermal systems, tin sheet replacements/repairs/rescrews, Decramastic specialist, all roof repairs, whirlybirds (zinc or Colorbond), skylights, guttering repairs and installs, gutter guard, new roofs/re-roofing. Yelp and Hotfrog: Glenlee QLD 4711, same phone. Hotfrog lists www.allaussieroofrestorations.com.au, which does not resolve (DNS lookup fails, 2026-11-28). Instagram @allaussieroofing (240+ followers).",
+    "brand": "No brand found. Taken from their Google listing cover photo (freshly painted terracotta tile roof) with scripts/sample-brand.mjs, adjusted by eye: primary = terracotta #a3502d (white 5.6:1), dark = #2a201b (white 15.9:1), accent = light terracotta #ee9558 (6.9:1 on dark). Sampled from their listing photo, not an official brand; confirm with the owner. Concept mark (whirlybird roof ventilator) is original.",
+    "reviews": "Google Reviews tab, same session: 2 reviews, both 5 stars, copied verbatim (Joanne Wolter, Savleen Sarleen)."
+  },
+  "gap": "Pin in the wrong place and a dead website: the Google listing (5.0 stars) has no website and its map pin sits in outback South Australia instead of Central Queensland, and the website listed on Hotfrog (allaussieroofrestorations.com.au) no longer loads, so local searchers in Rockhampton can easily miss them.",
+  "market": "AU",
+  "company": {
+    "name": "All Aussie Roof Restorations",
+    "trade": "Roof restoration and repairs",
+    "city": "Rockhampton, QLD",
+    "serviceArea": [
+      "Rockhampton",
+      "Yeppoon",
+      "Gladstone",
+      "Glenlee"
+    ],
+    "phone": "0488 092 192"
+  },
+  "logo": {
+    "initials": "AA",
+    "tagline": "Roof Restorations · Rockhampton",
+    "svg": "/assets/logos/all-aussie-roof-restorations.svg"
+  },
+  "brand": {
+    "primary": "#a3502d",
+    "dark": "#2a201b",
+    "accent": "#ee9558"
+  },
+  "assetFolder": "roofing",
+  "assistantName": "All Aussie Roofing",
+  "google": {
+    "rating": 5.0,
+    "reviewCount": 2,
+    "profileUrl": "https://www.google.com/maps/place/All+Aussie+Roof+Restorations+Pty+Ltd+-+Roof+Repairs,+Painting,+Restoration/@-32.205415,136.1073692,4z/data=!4m6!3m5!1s0x6bc305cc0ad0b205:0x4f54aa683ca8eb67!8m2!3d-32.205415!4d136.1073692!16s%2Fg%2F11b6hnl9pg"
+  },
+  "hero": {
+    "eyebrow": "Family-owned roofers, Central Queensland",
+    "headline": "Roof restorations and repairs in Rockhampton.",
+    "subhead": "Tile, tin and Decramastic roof restorations, repairs, painting, gutters and whirlybirds across Rockhampton, Yeppoon and Gladstone. Tell us about your roof and get a quote.",
+    "trustLine": [
+      "Over 20 years in roofing",
+      "Local and family owned",
+      "Decramastic specialists"
+    ],
+    "photo": "rooftiles"
+  },
+  "quoteField": {
+    "label": "Roof need",
+    "options": [
+      "Restoration or painting",
+      "Leak or roof repair",
+      "Gutters or whirlybirds",
+      "Re-roof"
+    ]
+  },
+  "skyeGreeting": "G'day, I'm the All Aussie Roofing assistant. Got a tired roof, a leak or gutter trouble? Tell me about it and I'll help you get a quote.",
+  "about": {
+    "headline": "Local roofers looking after Central Queensland roofs.",
+    "body": "A local family-owned business with over 20 years in the roofing industry, using quality materials and giving honest, reliable service across Rockhampton, Yeppoon and Gladstone.",
+    "cards": [
+      {
+        "title": "Tile roofs",
+        "body": "Rebedding, repointing, tile repairs and painting."
+      },
+      {
+        "title": "Tin roofs",
+        "body": "Sheet replacements, repairs, rescrews and painting."
+      },
+      {
+        "title": "Decramastic roofs",
+        "body": "Specialist repairs and restoration for Decramastic."
+      }
+    ],
+    "closing": "Tell us about your roof and we'll take a look."
+  },
+  "problems": {
+    "headline": "Getting your roof sorted in Rocky shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow quotes",
+        "body": "Waiting on a roofer while storm season gets closer."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "Not knowing what a restoration will really cost."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "Jobs that get pushed back again and again."
+      },
+      {
+        "title": "Sloppy repairs that leak again",
+        "body": "Quick fixes that don't last the next downpour."
+      }
+    ],
+    "bridge": "You need honest, experienced roofers who use quality materials."
+  },
+  "solutions": {
+    "headline": "Restorations, repairs and gutters.",
+    "services": [
+      {
+        "title": "Roof restoration & painting",
+        "body": "Tile, tin and Decramastic restorations with painting systems up to thermal coatings.",
+        "photo": "tilemoss"
+      },
+      {
+        "title": "Roof repairs",
+        "body": "Repairs for most roof types, including rebedding, repointing and sheet replacements.",
+        "photo": "brokentiles"
+      },
+      {
+        "title": "Gutters, whirlybirds & re-roofs",
+        "body": "Gutter repairs and installs, gutter guard, whirlybirds, skylights and full re-roofs.",
+        "photo": "roofing"
+      }
+    ]
+  },
+  "process": {
+    "headline": "Inspect it. Quote it. Restore it.",
+    "steps": [
+      {
+        "title": "Tell us about your roof",
+        "body": "Use the form with a few photos or give us a call."
+      },
+      {
+        "title": "Inspection & quote",
+        "body": "We look at the roof and give you a clear quote."
+      },
+      {
+        "title": "Quality materials",
+        "body": "The job is done with high quality materials."
+      },
+      {
+        "title": "Done properly",
+        "body": "Professional, efficient and thorough from start to finish."
+      }
+    ]
+  },
+  "why": {
+    "headline": "5.0 stars on Google from Central Queensland homeowners.",
+    "themes": [
+      {
+        "title": "Experience",
+        "body": "Over 20 years in the roofing industry."
+      },
+      {
+        "title": "Family owned",
+        "body": "A local business, not a call centre."
+      },
+      {
+        "title": "Quality materials",
+        "body": "Only high quality materials go on your roof."
+      },
+      {
+        "title": "Thorough",
+        "body": "Professional, efficient and hard working."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Joanne Wolter",
+      "rating": 5,
+      "date": "4 years ago",
+      "text": "So very professional, efficient and thorough. I very much appreciated all their hard work.....one hell of a roofing team."
+    },
+    {
+      "author": "Savleen Sarleen",
+      "rating": 5,
+      "date": "4 years ago",
+      "text": "Very good"
+    }
+  ],
+  "finalCta": {
+    "headline": "Is your roof due for some love?",
+    "body": "Send a few photos or pick a time for an inspection. You'll get a clear quote before any work is booked.",
+    "cta": "Book an inspection",
+    "microcopy": "No pressure. Just honest advice."
+  },
+  "faq": [
+    {
+      "q": "Do you restore Decramastic roofs?",
+      "a": "Yes. We specialise in Decramastic repairs and restoration, as well as tile and tin roofs."
+    },
+    {
+      "q": "What painting systems do you offer?",
+      "a": "Everything from standard roof paint through to thermal systems. Ask what suits your roof."
+    },
+    {
+      "q": "Which areas do you cover?",
+      "a": "Rockhampton, Yeppoon, Gladstone and the surrounding areas."
+    },
+    {
+      "q": "Do you install whirlybirds and gutter guard?",
+      "a": "Yes. Whirlybirds in zinc or Colorbond, gutter guard, skylights and guttering."
+    },
+    {
+      "q": "What happens after I send a request?",
+      "a": "Your details come straight through, you get a text and email confirmation, and we follow up to arrange your inspection."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
