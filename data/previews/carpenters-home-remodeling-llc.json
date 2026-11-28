@@ -1,0 +1,209 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-28): \"Carpenter's Home Remodeling, LLC\", 5.0 stars, 2 reviews, category 'Remodeler', phone +1 515-745-4105 (matches the outreach sheet), website godaddysites.com, drawn service area around Des Moines.",
+    "website": "https://carpentershomeremodelingllc.godaddysites.com/ (checked 2026-11-28): free GoDaddy builder page with an ad bar. 'Specializing in home remodeling. We have bought, completely remodeled, and sold numerous homes in the Des Moines and surrounding areas'; kitchens, bathrooms ('adding an additional bath'), complete home renovations, plus 'other renovation, remodeling, carpentry and Handyman services'. Offers 'SCHEDULE YOUR FREE ESTIMATE'. Portfolio labels include Beaverdale and Urbandale. Hours Mon-Fri 9am-8pm, Sat/Sun by appointment. NOTE: the site lists phone (515) 845-4105, which differs from the Google listing's 515-745-4105; the page uses the Google number. Confirm with the owner.",
+    "brand": "From their own website theme: sage grey #d7d9d5 (theme-color) with near-black #161616 buttons, no logo. Low colour, so primary = deep sage from the same hue #4f6148 (white 6.7:1), dark = #161716 (white 18.0:1), accent = light sage #c9d2bf (11.5:1 on dark). Derived from their site theme; confirm with the owner. Concept mark (cabinet under a countertop) is original.",
+    "reviews": "Google Reviews tab, same session: 2 reviews, both 5 stars and complete; copied verbatim (Chaz Johnson, Robi Muniz)."
+  },
+  "gap": "Estimate form buried and phone mismatch: the Google listing links to a free GoDaddy page (with a GoDaddy ad bar) where the estimate form sits at the very bottom, and the site's phone number (515-845-4105) doesn't match the Google listing (515-745-4105), so some callers may dial the wrong number.",
+  "market": "US",
+  "company": {
+    "name": "Carpenter's Home Remodeling, LLC",
+    "trade": "Kitchen and bathroom remodeling",
+    "city": "Des Moines, IA",
+    "serviceArea": [
+      "Des Moines",
+      "Urbandale",
+      "Beaverdale"
+    ],
+    "phone": "(515) 745-4105"
+  },
+  "logo": {
+    "initials": "CH",
+    "tagline": "Kitchens & Baths · Des Moines",
+    "svg": "/assets/logos/carpenters-home-remodeling-llc.svg"
+  },
+  "brand": {
+    "primary": "#4f6148",
+    "dark": "#161716",
+    "accent": "#c9d2bf"
+  },
+  "assetFolder": "remodeling",
+  "assistantName": "Carpenter's Home Remodeling",
+  "google": {
+    "rating": 5.0,
+    "reviewCount": 2,
+    "profileUrl": "https://www.google.com/maps/place/Carpenter%27s+Home+Remodeling,+LLC/@41.6409842,-93.639385,11z/data=!4m6!3m5!1s0x187d8f1e5bab7f3:0xfb9924ca72669dd1!8m2!3d41.6409842!4d-93.639385!16s%2Fg%2F11sg2jyv9m"
+  },
+  "hero": {
+    "eyebrow": "Home remodeling in Des Moines",
+    "headline": "Kitchen and bathroom remodeling in Des Moines.",
+    "subhead": "Kitchens, bathrooms and complete home renovations around Des Moines, planned with you from start to finish. Tell us about your project and schedule a free estimate.",
+    "primaryCta": "Get a free estimate",
+    "trustLine": [
+      "Free estimates",
+      "Kept informed start to finish",
+      "Fair and fast"
+    ],
+    "photo": "kitchen"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "Kitchen",
+      "Bathroom",
+      "Whole-home renovation",
+      "Carpentry or repairs"
+    ]
+  },
+  "skyeGreeting": "Hi, I'm the Carpenter's Home Remodeling assistant. Thinking about a kitchen, bathroom or bigger renovation? Tell me about it and I'll help you set up a free estimate.",
+  "about": {
+    "headline": "Remodeling homes around Des Moines, start to finish.",
+    "body": "We've bought, completely remodeled and sold numerous homes around Des Moines, so we know how a full renovation comes together. We'll hear your ideas out and keep you informed of progress the whole way.",
+    "cards": [
+      {
+        "title": "Kitchen upgrades",
+        "body": "Kitchens that are ready for a refresh or a full remodel."
+      },
+      {
+        "title": "Bathrooms",
+        "body": "Remodeling an existing bath, freshening it up or adding another one."
+      },
+      {
+        "title": "Whole-home projects",
+        "body": "Several projects and not sure where to start? We'll help you plan them."
+      }
+    ],
+    "closing": "Got a project in mind? Schedule your free estimate."
+  },
+  "problems": {
+    "headline": "Remodeling in Des Moines shouldn't feel this uncertain.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow estimates",
+        "body": "Leaving messages and waiting to hear back."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "Numbers that change once the walls come down."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "A kitchen that's out of action far longer than planned."
+      },
+      {
+        "title": "Messy job sites",
+        "body": "Dust and debris left all through the house."
+      }
+    ],
+    "bridge": "You need a remodeler who plans it with you and keeps you in the loop."
+  },
+  "solutions": {
+    "headline": "Kitchens, baths and full renovations.",
+    "services": [
+      {
+        "title": "Kitchen remodeling",
+        "body": "From an upgrade to a complete remodel, planned around how you use your kitchen.",
+        "photo": "kitchen"
+      },
+      {
+        "title": "Bathroom remodeling",
+        "body": "Remodel your bathroom, freshen up the one you have or add an additional bath.",
+        "photo": "bathroom"
+      },
+      {
+        "title": "Complete home renovations",
+        "body": "Several projects planned and completed together, plus carpentry and handyman work.",
+        "photo": "framing"
+      }
+    ]
+  },
+  "process": {
+    "headline": "Share your ideas. Get a free estimate. We get to work.",
+    "steps": [
+      {
+        "title": "Tell us your ideas",
+        "body": "Use the form or call to share what you have in mind."
+      },
+      {
+        "title": "Free estimate",
+        "body": "We look at the project and give you a free estimate."
+      },
+      {
+        "title": "Plan",
+        "body": "We create a plan together, especially for multi-project homes."
+      },
+      {
+        "title": "Remodel",
+        "body": "The work gets done, with updates on progress until it's finished."
+      }
+    ]
+  },
+  "why": {
+    "headline": "5.0 stars on Google from homeowners in Des Moines.",
+    "themes": [
+      {
+        "title": "Whole-home experience",
+        "body": "Numerous homes fully remodeled around Des Moines."
+      },
+      {
+        "title": "Kept informed",
+        "body": "Constant communication until the job is done."
+      },
+      {
+        "title": "Fair and fast",
+        "body": "What customers say about pricing and pace."
+      },
+      {
+        "title": "Your ideas first",
+        "body": "We hear your ideas out from start to finish."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Chaz Johnson",
+      "rating": 5,
+      "date": "2 years ago",
+      "text": "He did great on my mom’s kitchen! Highly recommend. They are fair and fast. Thank you very much!!"
+    },
+    {
+      "author": "Robi Muniz",
+      "rating": 5,
+      "date": "4 years ago",
+      "text": "Great work is done by this company! I highly recommend if you need some remodeling or fixing up done around your home or business."
+    }
+  ],
+  "finalCta": {
+    "headline": "Ready to plan your kitchen or bath?",
+    "body": "Send a few details or pick a time to talk it through, and schedule your free estimate.",
+    "cta": "Get a free estimate",
+    "microcopy": "No pressure. Just a clear plan and price."
+  },
+  "faq": [
+    {
+      "q": "Are estimates free?",
+      "a": "Yes. Send your project details and we'll schedule your free estimate."
+    },
+    {
+      "q": "Do you do whole-home renovations?",
+      "a": "Yes. If you have several projects, we can help you plan them and complete them together."
+    },
+    {
+      "q": "Which areas do you serve?",
+      "a": "Des Moines and the surrounding areas, including Urbandale and Beaverdale. Ask if you're unsure."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your estimate and we'll send the details for your project."
+    },
+    {
+      "q": "What are your hours?",
+      "a": "Monday to Friday 9am to 8pm, with Saturday and Sunday by appointment."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
