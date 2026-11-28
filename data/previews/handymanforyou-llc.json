@@ -1,0 +1,214 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-28): 'Handymanforyou LLC', 5.0 stars, 17 reviews (all 5 stars), category 'Handyman/Handywoman/Handyperson', opens 11 AM Tue, phone +1 318-610-0125 (matches the sheet), no website ('Add website'). Drawn service area covers Shreveport, Bossier City, Haughton and south to Keithville. Review topics: fair pricing 7, communication 3, job 3, workmanship 2, thoroughness 2, window 2.",
+    "services": "From reviews: bedroom doors hung, front screen door installed, rotten exterior wood paneling replaced after window water damage, soffit vents, dishwasher install and fridge water line, cooktop install, window AC unit replaced, shed assembly, furniture assembly. Owner named Tam in reviews; one reviewer writes the business as 'Handy Man For You'.",
+    "brand": "No brand online. Sampled from their Google listing cover photo (a weathered shed being repaired, low colour) with scripts/sample-brand.mjs: hidden hue 21° (rust). primary = rust darkened by eye #a54a1d so white text works (white 5.8:1), dark = #161213 (white 18.6:1), accent = #e18d60 (7.2:1 on dark). Sampled from their listing photo, not an official brand; confirm with the owner. Concept mark (H with a plank crossbar) is original.",
+    "reviews": "Google Reviews tab, same session: 17 reviews, all 5 stars; 3 complete ones copied verbatim covering different jobs (Jordan Smith: rotten exterior wood, Jamie Sloan: dishwasher/water line/soffit vents, gary donovan: bedroom doors)."
+  },
+  "gap": "No website: 5.0 stars from 17 Google reviews but 'Add website' on the listing, so homeowners in Shreveport and Bossier can only call; there's no way to send photos of a repair and get a quote back.",
+  "market": "US",
+  "company": {
+    "name": "Handyman For You LLC",
+    "trade": "Handyman and home repairs",
+    "city": "Shreveport, LA",
+    "serviceArea": [
+      "Shreveport",
+      "Bossier City",
+      "Haughton",
+      "Keithville"
+    ],
+    "phone": "(318) 610-0125"
+  },
+  "logo": {
+    "initials": "HFY",
+    "tagline": "Handyman · Shreveport",
+    "svg": "/assets/logos/handymanforyou-llc.svg"
+  },
+  "brand": {
+    "primary": "#a54a1d",
+    "dark": "#161213",
+    "accent": "#e18d60"
+  },
+  "assetFolder": "carpentry",
+  "assistantName": "Handyman For You",
+  "google": {
+    "rating": 5.0,
+    "reviewCount": 17,
+    "profileUrl": "https://www.google.com/maps/place/Handymanforyou+LLC/@32.4522263,-93.712519,11z/data=!4m6!3m5!1s0x86312ffaa178c081:0xc84197148ed938ea!8m2!3d32.4522263!4d-93.712519!16s%2Fg%2F11g_x6fhrs"
+  },
+  "hero": {
+    "eyebrow": "Handyman services in Shreveport & Bossier",
+    "headline": "Home repairs and installs in Shreveport.",
+    "subhead": "Doors, rotten wood, soffits, appliance installs and assembly for homes around Shreveport and Bossier. Send a few photos and get a fair quote.",
+    "trustLine": [
+      "Fair, transparent pricing",
+      "Honors the quote",
+      "Great communication"
+    ],
+    "photo": "framing"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "Doors or carpentry repair",
+      "Rotten wood or exterior repair",
+      "Appliance install",
+      "Assembly or odd jobs"
+    ]
+  },
+  "skyeGreeting": "Hi, I'm the Handyman For You assistant. Need a repair, install or something assembled? Tell me about it and I'll help you get a quote.",
+  "about": {
+    "headline": "A reliable handyman for Shreveport and Bossier.",
+    "body": "Calls get returned, the quote is honored to the penny and you're kept updated on timing. Big or small, the job gets done right the first time.",
+    "cards": [
+      {
+        "title": "Repairs",
+        "body": "Rotten wood, water damage around windows and worn-out doors."
+      },
+      {
+        "title": "Installs",
+        "body": "Dishwashers, cooktops, window AC units and screen doors."
+      },
+      {
+        "title": "Moving in",
+        "body": "Furniture and shed assembly, even on short notice."
+      }
+    ],
+    "closing": "Send a few photos and we'll take a look."
+  },
+  "problems": {
+    "headline": "Finding a handyman who calls back in Shreveport shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow quotes",
+        "body": "Leaving messages that never get a reply."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "A price that climbs once the job starts."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "Waiting around for someone who doesn't show."
+      },
+      {
+        "title": "Sloppy, uneven finishing",
+        "body": "A rushed job you end up paying to fix."
+      }
+    ],
+    "bridge": "You need someone who calls back, quotes fairly and follows through."
+  },
+  "solutions": {
+    "headline": "Repairs, installs and the rest of the list.",
+    "services": [
+      {
+        "title": "Doors & carpentry repairs",
+        "body": "Bedroom doors hung, screen doors installed and carpentry repairs done right.",
+        "photo": "door"
+      },
+      {
+        "title": "Rotten wood & exterior repair",
+        "body": "Rotten paneling replaced, water damage around windows fixed and soffit vents installed.",
+        "photo": "siding"
+      },
+      {
+        "title": "Appliance installs & assembly",
+        "body": "Dishwashers, cooktops, window AC units, sheds and furniture installed or assembled.",
+        "photo": "kitchen"
+      }
+    ]
+  },
+  "process": {
+    "headline": "Look at it. Quote it fairly. Get it done.",
+    "steps": [
+      {
+        "title": "Send your job",
+        "body": "Use the form with a few photos or call."
+      },
+      {
+        "title": "Assessment",
+        "body": "We look at the job and give you a fair, clear quote."
+      },
+      {
+        "title": "On schedule",
+        "body": "We agree a time and keep you updated on arrival."
+      },
+      {
+        "title": "Done right",
+        "body": "Quality work, cleaned up, and the quote honored."
+      }
+    ]
+  },
+  "why": {
+    "headline": "5.0 stars from 17 Google reviews.",
+    "themes": [
+      {
+        "title": "Fair pricing",
+        "body": "The most mentioned topic in reviews."
+      },
+      {
+        "title": "Communication",
+        "body": "Updates on pricing and timing throughout the job."
+      },
+      {
+        "title": "Thorough",
+        "body": "Meticulous work and helpful advice on other issues."
+      },
+      {
+        "title": "Respectful",
+        "body": "Quick, quiet, clean and careful in your home."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Jordan Smith",
+      "rating": 5,
+      "date": "a year ago",
+      "text": "Hired them to take care of a rotten wood paneling on the exterior of  my house.  Someone did a poor job of sealing the window and it created some water damage.  Tam came out, offered me a reasonable price, handled it in a timely manner, and did a quality job.  Highly recommend."
+    },
+    {
+      "author": "Jamie Sloan",
+      "rating": 5,
+      "date": "a year ago",
+      "text": "If you are looking for a go to resource that is knowledgeable, fair priced, and will return your calls with follow through… look no further. Tam came out, assessed our request, and did an outstanding job with installing a net new dishwasher in the kitchen, a new waterline to the refrigerator, and new soffit vents around the house. We will definitely use Tam for future projects, and highly recommend that you do as well."
+    },
+    {
+      "author": "gary donovan",
+      "rating": 5,
+      "date": "7 years ago",
+      "text": "I needed some bedroom doors put up, called several people all were way to expensive, I called and spoke to Tam and he gave me a really good price, agreed on a time to start the work and actually got there a little earlier than we discussed but only after calling me to see if it was ok to come early.   He took great pride in his work and was very fast and did an awesome job.   I would recommend this young man for any project"
+    }
+  ],
+  "finalCta": {
+    "headline": "Got a repair or install to get done?",
+    "body": "Send a few photos or pick a time to talk it through. You'll get a clear quote before any work starts.",
+    "microcopy": "No pressure. Just a fair price."
+  },
+  "faq": [
+    {
+      "q": "Do you install appliances?",
+      "a": "Yes. Dishwashers, cooktops and window AC units are regular jobs. Send the model and a photo of the space."
+    },
+    {
+      "q": "Can you fix rotten wood around windows?",
+      "a": "Yes. We replace rotten paneling and repair water damage from poorly sealed windows."
+    },
+    {
+      "q": "Do you cover Bossier City?",
+      "a": "Yes. Shreveport, Bossier City, Haughton and the surrounding area."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your quote and we'll send the details for your job."
+    },
+    {
+      "q": "What happens after I send a request?",
+      "a": "Your details come straight through, you get a text and email confirmation, and we follow up to talk through the job."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
