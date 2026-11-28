@@ -1,0 +1,215 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-28): 'PMB Carpentry and Construction', 5.0 stars, 5 reviews (all 5 stars), category 'Carpenter', 'Open 24 hours', phone +61 468 565 397 (matches the sheet), no website ('Add website'). Drawn service areas: Toowoomba, Warwick, and a large area from Caboolture through Brisbane and Ipswich to the Gold Coast. Cover photo: a hardwood deck with a timber screen. Review topics: reliability 3, quality of work 2.",
+    "services": "From reviews: deck, sunshade and pool fencing built to the customer's design, on time and within the contracted budget; repeat carpentry jobs for several customers. Owner named Peter in reviews.",
+    "brand": "No brand online. Sampled from their Google listing cover photo (merbau-coloured hardwood deck) with scripts/sample-brand.mjs, adjusted by eye: primary = merbau #94502a (white 6.1:1), dark = #2b1a10 (white 16.7:1), accent = timber #e7b97e (9.3:1 on dark). Sampled from their listing photo, not an official brand; confirm with the owner. Concept mark (PMB lettering) is original.",
+    "reviews": "Google Reviews tab, same session: 5 reviews, all 5 stars; 3 complete ones copied verbatim (Nilantha Karunarathna: deck/sunshade/pool fencing, Lauren R: repeat jobs, Holly H: repeat customer)."
+  },
+  "gap": "No website: 5.0 stars on Google and a service area from Toowoomba to the Gold Coast, but 'Add website' on the listing, so homeowners can only ring; there's no way to send deck plans or photos and ask for a quote.",
+  "market": "AU",
+  "company": {
+    "name": "PMB Carpentry and Construction",
+    "trade": "Carpentry and construction",
+    "city": "Toowoomba, QLD",
+    "serviceArea": [
+      "Toowoomba",
+      "Warwick",
+      "Ipswich",
+      "Brisbane",
+      "Gold Coast"
+    ],
+    "phone": "0468 565 397"
+  },
+  "logo": {
+    "initials": "PMB",
+    "tagline": "Carpentry · Toowoomba",
+    "svg": "/assets/logos/pmb-carpentry-and-construction.svg"
+  },
+  "brand": {
+    "primary": "#94502a",
+    "dark": "#2b1a10",
+    "accent": "#e7b97e"
+  },
+  "assetFolder": "carpentry",
+  "assistantName": "PMB Carpentry",
+  "google": {
+    "rating": 5.0,
+    "reviewCount": 5,
+    "profileUrl": "https://www.google.com/maps/place/PMB+Carpentry+and+Construction/@-27.6193783,152.3467841,9z/data=!4m6!3m5!1s0xedfa4f240afc835:0x820e81e445fd83e6!8m2!3d-27.6193782!4d152.3467841!16s%2Fg%2F11ry3d26y8"
+  },
+  "hero": {
+    "eyebrow": "Carpentry from Toowoomba to the coast",
+    "headline": "Decks and carpentry built right in Toowoomba.",
+    "subhead": "Decks, sunshades, fencing and carpentry built to your design, on time and to the agreed budget. Send your plans or a few photos and get a quote.",
+    "trustLine": [
+      "On time and on budget",
+      "Built to your design",
+      "Reliable, repeat customers"
+    ],
+    "photo": "stairs"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "Deck",
+      "Sunshade or pergola",
+      "Fencing",
+      "Other carpentry"
+    ]
+  },
+  "skyeGreeting": "G'day, I'm the PMB Carpentry assistant. Planning a deck, shade or fencing job? Tell me a bit about it and I'll help you get a quote.",
+  "about": {
+    "headline": "Your design, built properly.",
+    "body": "Peter reads your plans and ideas, sets out the work and builds it on time and within the agreed budget. Plenty of customers come back for their next job.",
+    "cards": [
+      {
+        "title": "Outdoor living",
+        "body": "Decks and sunshades built to the design you have in mind."
+      },
+      {
+        "title": "Pools",
+        "body": "Pool fencing done as part of the build."
+      },
+      {
+        "title": "Repeat jobs",
+        "body": "Carpentry for customers who keep coming back."
+      }
+    ],
+    "closing": "Got plans or a few photos? Send them through."
+  },
+  "problems": {
+    "headline": "Getting a reliable chippy in Toowoomba shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow quotes",
+        "body": "Chasing tradies for a price."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "A budget that blows out halfway through."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "A deck that's still not finished months later."
+      },
+      {
+        "title": "Sloppy, uneven finishing",
+        "body": "Boards and rails that don't line up."
+      }
+    ],
+    "bridge": "You need a carpenter who builds to the plan, on time and on budget."
+  },
+  "solutions": {
+    "headline": "Decks, shade and fencing.",
+    "services": [
+      {
+        "title": "Decks",
+        "body": "Hardwood decks designed around how you'll use the space and built to plan.",
+        "photo": "deck"
+      },
+      {
+        "title": "Sunshades & pergolas",
+        "body": "Shade structures that make the deck usable year round.",
+        "photo": "pergola"
+      },
+      {
+        "title": "Fencing & carpentry",
+        "body": "Pool fencing and general carpentry and construction work.",
+        "photo": "gate"
+      }
+    ]
+  },
+  "process": {
+    "headline": "Plan it. Quote it. Build it on time.",
+    "steps": [
+      {
+        "title": "Send your plans",
+        "body": "Share your design, ideas or a few photos with the form or call Peter."
+      },
+      {
+        "title": "Quote & contract",
+        "body": "A clear quote and an agreed budget before work starts."
+      },
+      {
+        "title": "Build to plan",
+        "body": "The work runs to the plan and the timeline."
+      },
+      {
+        "title": "Handover",
+        "body": "Finished on time, within budget, to a high standard."
+      }
+    ]
+  },
+  "why": {
+    "headline": "5.0 stars from every Google review.",
+    "themes": [
+      {
+        "title": "Reliable",
+        "body": "The most mentioned thing in reviews."
+      },
+      {
+        "title": "Quality work",
+        "body": "Work completed to an excellent standard."
+      },
+      {
+        "title": "Fairly priced",
+        "body": "Within the budget agreed in the contract."
+      },
+      {
+        "title": "Easy to deal with",
+        "body": "Friendly, hard working and easy to get along with."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Nilantha Karunarathna",
+      "rating": 5,
+      "date": "4 years ago",
+      "text": "Perter is a good bloke. Work seamlessly with us to build our dream deck, sunshade, and complete fool fencing. Peter reads design and our imagination well and executes work on a plan. Complete all work on time and within budget as agreed on in the contract. We hire him again if the opportunity exists to complete carpentry work in future. Wish you all the bast mate."
+    },
+    {
+      "author": "Lauren R",
+      "rating": 5,
+      "date": "4 years ago",
+      "text": "Peter is an extremely hard working professional, who has great attention to detail. He is fairly priced and is very reliable. I have used Peter a few times now, and his work has always been completed efficiently and to an excellent standard. He is also very friendly and easy to get along with. I will continue to use and recommend his services. Keep up the good work Peter."
+    },
+    {
+      "author": "Holly H",
+      "rating": 5,
+      "date": "4 years ago",
+      "text": "I will always be a repeat customer. Peter’s work is to the highest of standards, he is efficient and always a delight to deal with. Well done to Peter, trades aren’t always so easy. Love your work and service."
+    }
+  ],
+  "finalCta": {
+    "headline": "Planning a deck or carpentry job?",
+    "body": "Send your plans or a few photos, or pick a time to talk it through. You'll get a clear quote before any work is booked.",
+    "microcopy": "No pressure. Just a straight answer."
+  },
+  "faq": [
+    {
+      "q": "Can you build to my own design?",
+      "a": "Yes. Send your plans or ideas and we'll work out how to build them."
+    },
+    {
+      "q": "Do you do pool fencing?",
+      "a": "Yes. Pool fencing can be done as part of a deck or outdoor build."
+    },
+    {
+      "q": "Which areas do you cover?",
+      "a": "Toowoomba and Warwick, plus Ipswich, Brisbane and the Gold Coast. Ask if you're unsure."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your quote and we'll send the details for your job."
+    },
+    {
+      "q": "What happens after I send a request?",
+      "a": "Your details come straight to Peter, you get a text and email confirmation, and he follows up to talk through the job."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
