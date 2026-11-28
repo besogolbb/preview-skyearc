@@ -1,0 +1,189 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-28): 'Caudillo General Carpentry', 5.0 stars, 2 reviews (both 5 stars, rating only, no text), category 'General contractor', Amarillo, TX 79106, phone +1 806-444-7632 (matches the sheet), unclaimed ('Claim this business'), no hours, no website, no photos.",
+    "services": "Google search results (2026-11-28): their Facebook page is titled 'Caudillo General Carpentry - roofing,siding,windows,doors' with the snippet 'We do free estimates..quality work...we also compare prices'; MapQuest: 'specializing in a wide range of general carpentry services'. Phone (806) 444-7632 also on BBB (Woodworking, not accredited) and ChamberofCommerce.com. Yelp/Yahoo list an older number (806) 881-3755; the page uses the Google/BBB number.",
+    "brand": "No brand online and no listing photo to sample, so brand is omitted and the default palette applies. Concept mark (open door) is original, in the default colours.",
+    "reviews": "Google Reviews tab, same session: 2 reviews, both 5 stars with no text, so realReviews is empty."
+  },
+  "gap": "Unclaimed and invisible: the Google listing is unclaimed with no website, photos or hours, so even with a 5.0 rating there's nothing for an Amarillo homeowner to look at and no way to ask for a free estimate except calling.",
+  "market": "US",
+  "company": {
+    "name": "Caudillo General Carpentry",
+    "trade": "General carpentry, roofing and siding",
+    "city": "Amarillo, TX",
+    "serviceArea": [
+      "Amarillo"
+    ],
+    "phone": "(806) 444-7632"
+  },
+  "logo": {
+    "initials": "CGC",
+    "tagline": "General Carpentry · Amarillo",
+    "svg": "/assets/logos/caudillo-general-carpentry.svg"
+  },
+  "assetFolder": "carpentry",
+  "assistantName": "Caudillo General Carpentry",
+  "google": {
+    "rating": 5.0,
+    "reviewCount": 2,
+    "profileUrl": "https://www.google.com/maps/place/Caudillo+General+Carpentry/@35.2018902,-101.8948722,17z/data=!4m6!3m5!1s0x870151d155555555:0x81c176a5fc3834cd!8m2!3d35.2018902!4d-101.8948722!16s%2Fg%2F1tdk10nf"
+  },
+  "hero": {
+    "eyebrow": "General carpentry in Amarillo",
+    "headline": "Carpentry, roofing and siding in Amarillo.",
+    "subhead": "Roofing, siding, windows, doors and general carpentry for Amarillo homes. Tell us about the job and get a free estimate.",
+    "primaryCta": "Get a free estimate",
+    "trustLine": [
+      "Free estimates",
+      "Quality work",
+      "Fair, compared pricing"
+    ],
+    "photo": "framing"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "Roofing",
+      "Siding",
+      "Windows or doors",
+      "General carpentry"
+    ]
+  },
+  "skyeGreeting": "Hi, I'm the Caudillo General Carpentry assistant. Need roofing, siding, windows, doors or carpentry work? Tell me about it and I'll help you set up a free estimate.",
+  "about": {
+    "headline": "One carpenter for the outside of your home.",
+    "body": "Roofs, siding, windows and doors, plus the general carpentry that ties it all together. Estimates are free, and we'll help you compare prices so you know you're getting a fair deal.",
+    "cards": [
+      {
+        "title": "Weather damage",
+        "body": "Roofing and siding repairs after Panhandle wind and hail."
+      },
+      {
+        "title": "Upgrades",
+        "body": "New windows and doors that suit your home."
+      },
+      {
+        "title": "Carpentry jobs",
+        "body": "General carpentry, inside or out."
+      }
+    ],
+    "closing": "Tell us about the job for a free estimate."
+  },
+  "problems": {
+    "headline": "Getting exterior work done in Amarillo shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow estimates",
+        "body": "Waiting days to hear back about a price."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "No way to tell if the price is fair."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "Jobs that drag on longer than promised."
+      },
+      {
+        "title": "Sloppy, uneven finishing",
+        "body": "Siding and trim that doesn't line up."
+      }
+    ],
+    "bridge": "You need a free estimate, a fair price and quality work."
+  },
+  "solutions": {
+    "headline": "Roofing, siding, windows and doors.",
+    "services": [
+      {
+        "title": "Roofing",
+        "body": "Roof repairs and replacements for Amarillo homes. Ask for a free estimate.",
+        "photo": "roofing"
+      },
+      {
+        "title": "Siding",
+        "body": "Siding repairs and replacement to protect and refresh the outside of your home.",
+        "photo": "siding"
+      },
+      {
+        "title": "Windows, doors & carpentry",
+        "body": "Window and door installs, plus general carpentry around the house.",
+        "photo": "door"
+      }
+    ]
+  },
+  "process": {
+    "headline": "Tell us the job. Get a free estimate. Get it done.",
+    "steps": [
+      {
+        "title": "Send your job",
+        "body": "Use the form with a few photos or give us a call."
+      },
+      {
+        "title": "Free estimate",
+        "body": "We look at the job and give you a free estimate."
+      },
+      {
+        "title": "Compare",
+        "body": "We'll help you compare prices so you can decide."
+      },
+      {
+        "title": "Quality work",
+        "body": "The job gets done properly, start to finish."
+      }
+    ]
+  },
+  "why": {
+    "headline": "5.0 stars on Google in Amarillo.",
+    "themes": [
+      {
+        "title": "Free estimates",
+        "body": "Know the cost before you commit."
+      },
+      {
+        "title": "Fair prices",
+        "body": "We help you compare prices."
+      },
+      {
+        "title": "Quality work",
+        "body": "Carpentry done properly, inside and out."
+      },
+      {
+        "title": "Local",
+        "body": "Based in Amarillo and working on Amarillo homes."
+      }
+    ]
+  },
+  "realReviews": [],
+  "finalCta": {
+    "headline": "Need roofing, siding or carpentry work?",
+    "body": "Tell us about the job or pick a time to talk it through, and get a free estimate.",
+    "cta": "Get a free estimate",
+    "microcopy": "No pressure. Just a straight price."
+  },
+  "faq": [
+    {
+      "q": "Are estimates free?",
+      "a": "Yes. Send the details of your job and we'll set up a free estimate."
+    },
+    {
+      "q": "Do you do roofing and siding?",
+      "a": "Yes. Roofing, siding, windows and doors, plus general carpentry."
+    },
+    {
+      "q": "Can you help after wind or hail damage?",
+      "a": "Send photos of the damage and we'll take a look and give you an estimate."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your estimate and we'll send the details for your job."
+    },
+    {
+      "q": "What happens after I send a request?",
+      "a": "Your details come straight through, you get a text and email confirmation, and we follow up to set up your free estimate."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
