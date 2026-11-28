@@ -1,0 +1,215 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-28): \"Cranley's Carpentry Contracting\", 5.0 stars, 4 reviews (all 5 stars, 3 with text), category 'Carpenter', opens 7 AM Mon, phone +61 407 422 489 (matches the sheet), no website ('Add website'). Drawn service area across the Mid West: Geraldton, Northampton, Mullewa, Nabawa/Chapman Valley and out toward Pindar and Canna. Cover photo: a white gable patio on a brick home. Review topic: quality work 2.",
+    "other": "Google search (2026-11-28): bluecollarbusiness.com.au lists them as 'Geraldton (service area) · general carpentry & contracting'; named as a supporter of local Geraldton community fundraisers on Facebook. A directory entry for 'Cranley'S Carpentry And Concrete Services' was not used because it may be a different business.",
+    "services": "Verified: general carpentry and contracting, home improvements (review), and the cover photo shows a gable patio. Owners named Jim (Jimmy) and Erica in reviews.",
+    "brand": "No brand online. Taken from their Google listing cover photo (white gable patio, blue sky) with scripts/sample-brand.mjs, adjusted by eye: primary = sky blue deepened #2a67ad (white 5.8:1), dark = #16171a (white 17.9:1), accent = sky #86bdfa (9.1:1 on dark). Sampled from their listing photo, not an official brand; confirm with the owner. Concept mark (open gable patio frame) is original.",
+    "reviews": "Google Reviews tab, same session: 4 reviews, all 5 stars; the 3 with text copied verbatim (Miriam Bell, Kerri Mulford, Jack Walton)."
+  },
+  "gap": "No website: 5.0 stars on Google and a service area across the Mid West, but 'Add website' on the listing, so people around Geraldton can only ring; there's nowhere to see past work or send details for a quote.",
+  "market": "AU",
+  "company": {
+    "name": "Cranley's Carpentry Contracting",
+    "trade": "Carpentry and contracting",
+    "city": "Geraldton, WA",
+    "serviceArea": [
+      "Geraldton",
+      "Northampton",
+      "Mullewa",
+      "Chapman Valley"
+    ],
+    "phone": "0407 422 489"
+  },
+  "logo": {
+    "initials": "CC",
+    "tagline": "Carpentry · Geraldton",
+    "svg": "/assets/logos/cranleys-carpentry-contracting.svg"
+  },
+  "brand": {
+    "primary": "#2a67ad",
+    "dark": "#16171a",
+    "accent": "#86bdfa"
+  },
+  "assetFolder": "carpentry",
+  "assistantName": "Cranley's Carpentry",
+  "google": {
+    "rating": 5.0,
+    "reviewCount": 4,
+    "profileUrl": "https://www.google.com/maps/place/Cranley's+Carpentry+Contracting/@-28.4398639,114.9240012,9z/data=!4m6!3m5!1s0x2b2f5110ef4538f3:0x1c7f2730d4cc5643!8m2!3d-28.4398639!4d114.9240012!16s%2Fg%2F11t_sjwm5j"
+  },
+  "hero": {
+    "eyebrow": "Carpentry contractor, Geraldton & Mid West",
+    "headline": "Carpentry and home improvements in Geraldton.",
+    "subhead": "Patios, home improvements and general carpentry across Geraldton and the Mid West. Send a few photos of the job and get a quote.",
+    "trustLine": [
+      "Quick to get back to you",
+      "Eye for detail",
+      "Reliable and easy to talk to"
+    ],
+    "photo": "framing"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "Patio",
+      "Home improvement",
+      "General carpentry",
+      "Something else"
+    ]
+  },
+  "skyeGreeting": "G'day, I'm the Cranley's Carpentry assistant. Got a patio, home improvement or carpentry job? Tell me a bit about it and I'll help you get a quote.",
+  "about": {
+    "headline": "Local carpentry for Geraldton and the Mid West.",
+    "body": "Jim and Erica get back to you quickly, keep communication easy and deliver top-notch work with an eye for detail, in town or out on the farm.",
+    "cards": [
+      {
+        "title": "Outdoor living",
+        "body": "Patios that make the most of the Geraldton weather."
+      },
+      {
+        "title": "Home improvements",
+        "body": "Upgrades around the house, done to a high standard."
+      },
+      {
+        "title": "Out of town",
+        "body": "Carpentry for homes from Northampton to Mullewa."
+      }
+    ],
+    "closing": "Send a few photos and we'll get back to you."
+  },
+  "problems": {
+    "headline": "Finding a reliable carpenter in Geraldton shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow quotes",
+        "body": "Waiting on a call back that never comes."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "No clear idea of what the job will cost."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "Work that drags on longer than it should."
+      },
+      {
+        "title": "Sloppy, uneven finishing",
+        "body": "Details that aren't quite right."
+      }
+    ],
+    "bridge": "You need a carpenter who gets back to you and gets the details right."
+  },
+  "solutions": {
+    "headline": "Patios, improvements and carpentry.",
+    "services": [
+      {
+        "title": "Patios",
+        "body": "Gable patios and outdoor areas built to suit your home.",
+        "photo": "pergola"
+      },
+      {
+        "title": "Home improvements",
+        "body": "Improvements around the house, finished with an eye for detail.",
+        "photo": "door"
+      },
+      {
+        "title": "General carpentry & contracting",
+        "body": "General carpentry work across Geraldton and the Mid West.",
+        "photo": "framing"
+      }
+    ]
+  },
+  "process": {
+    "headline": "Get in touch. Get a quote. Get it built.",
+    "steps": [
+      {
+        "title": "Send your job",
+        "body": "Use the form with a few photos, or give Jim a ring."
+      },
+      {
+        "title": "Quick reply",
+        "body": "We get back to you quickly to talk it through."
+      },
+      {
+        "title": "Quote",
+        "body": "A clear quote before any work is booked."
+      },
+      {
+        "title": "Quality work",
+        "body": "Top-notch work with attention to detail."
+      }
+    ]
+  },
+  "why": {
+    "headline": "5.0 stars from every Google review.",
+    "themes": [
+      {
+        "title": "Quality work",
+        "body": "The most mentioned thing in reviews."
+      },
+      {
+        "title": "Eye for detail",
+        "body": "Professional work that gets the details right."
+      },
+      {
+        "title": "Quick to respond",
+        "body": "Gets back to you fast."
+      },
+      {
+        "title": "Local",
+        "body": "Part of the Geraldton community."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Miriam Bell",
+      "rating": 5,
+      "date": "2 years ago",
+      "text": "Cannot recommend Jim and Erica more! They got back to me quickly, did a great job on our home improvements, and the quality of the work was top-notch. Super reliable and easy to communicate with, I highly recommend!"
+    },
+    {
+      "author": "Kerri Mulford",
+      "rating": 5,
+      "date": "3 years ago",
+      "text": "Jimmy is very professional and has an excellent eye for details!"
+    },
+    {
+      "author": "Jack Walton",
+      "rating": 5,
+      "date": "3 years ago",
+      "text": "Good friendly service and quality work"
+    }
+  ],
+  "finalCta": {
+    "headline": "Got a carpentry job in mind?",
+    "body": "Send a few photos or pick a time to talk it through. You'll get a clear quote before any work is booked.",
+    "microcopy": "No pressure. Just a straight answer."
+  },
+  "faq": [
+    {
+      "q": "Do you build patios?",
+      "a": "Yes. Send a few photos of the area and the size you're after for a quote."
+    },
+    {
+      "q": "Do you work outside Geraldton?",
+      "a": "Yes. Across the Mid West, including Northampton, Mullewa and Chapman Valley."
+    },
+    {
+      "q": "Do you take on smaller jobs?",
+      "a": "Send the details and we'll let you know if it's a fit."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your quote and we'll send the details for your job."
+    },
+    {
+      "q": "What happens after I send a request?",
+      "a": "Your details come straight through, you get a text and email confirmation, and we follow up to talk through the job."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
