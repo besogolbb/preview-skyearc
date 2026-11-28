@@ -1,0 +1,212 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-28): 'Rrc remodeling', 5.0 stars, 8 reviews (all 5 stars), category 'Roofing contractor', 6846 Glen Rock Dr, Houston, TX 77087 (Southeast Houston), opens 6 AM Sat, phone +1 713-894-4682 (matches the sheet), no website ('Add website'). Review topics: punctual crew 4, quality work 4, honest 4, dependability 3, professional team 3, clean job site 2, detail-oriented 2, pride in work 2, craftsmanship 2, clear communication 2.",
+    "services": "From reviews: full roof replacements, roof repairs (homes and a business), helping choose materials, an outdoor porch build. Reviewers write the name as 'RRC Remodeling'. The sheet lists Home Remodeling; Google category is Roofing contractor, so roofing leads with porches/remodeling as a second line.",
+    "brand": "No brand online. Sampled from their Google listing cover photo (white two-storey house, dark slate shingle roof, blue sky) with scripts/sample-brand.mjs, adjusted by eye: primary = sky blue deepened #2a67a6 (white 5.9:1), dark = slate #121a21 (white 17.6:1), accent = sky #6ab3f8 (7.9:1 on dark). Sampled from their listing photo, not an official brand; confirm with the owner. Concept mark (RRC lettering) is original.",
+    "reviews": "Google Reviews tab, same session: 8 reviews, all 5 stars; 3 complete ones copied verbatim covering different jobs (erasto elizalde: business repairs + home re-roof, Pilar Torres: honest repair, Alexis Flores: porch + roof repair)."
+  },
+  "gap": "No website: 5.0 stars from 8 Google reviews but 'Add website' on the listing, so homeowners in southeast Houston can only call; there's no way to send photos of a leak or damage and request an estimate after hours.",
+  "market": "US",
+  "company": {
+    "name": "RRC Remodeling",
+    "trade": "Roofing and remodeling",
+    "city": "Houston, TX",
+    "serviceArea": [
+      "Southeast Houston",
+      "Houston"
+    ],
+    "phone": "(713) 894-4682"
+  },
+  "logo": {
+    "initials": "RRC",
+    "tagline": "Roofing & Remodeling · Houston",
+    "svg": "/assets/logos/rrc-remodeling.svg"
+  },
+  "brand": {
+    "primary": "#2a67a6",
+    "dark": "#121a21",
+    "accent": "#6ab3f8"
+  },
+  "assetFolder": "roofing",
+  "assistantName": "RRC Remodeling",
+  "google": {
+    "rating": 5.0,
+    "reviewCount": 8,
+    "profileUrl": "https://www.google.com/maps/place/Rrc+remodeling/@29.6728645,-95.3041072,17z/data=!4m6!3m5!1s0x86409724deb68147:0xd30f64e7904accea!8m2!3d29.6728645!4d-95.3041072!16s%2Fg%2F11j65mqtl1"
+  },
+  "hero": {
+    "eyebrow": "Roofing and remodeling in Houston",
+    "headline": "Roofing and remodeling in Houston.",
+    "subhead": "Roof replacements, roof repairs and outdoor porches for homes and businesses around Houston. Tell us what you need and get an honest estimate.",
+    "trustLine": [
+      "Honest, no upselling",
+      "Crew shows up on time",
+      "Clean job site"
+    ],
+    "photo": "siding"
+  },
+  "quoteField": {
+    "label": "Roof need",
+    "options": [
+      "Leak or roof repair",
+      "Roof replacement",
+      "Inspection",
+      "Porch or remodeling"
+    ]
+  },
+  "skyeGreeting": "Hi, I'm the RRC Remodeling assistant. Need a roof repair, a new roof or a porch? Tell me what's going on and I'll help you get an estimate.",
+  "about": {
+    "headline": "Honest roofing for Houston homes and businesses.",
+    "body": "Customers come back to us for repairs, full replacements and outdoor projects. We tell you straight what needs fixing, help you pick the right materials and leave the site looking like nothing happened.",
+    "cards": [
+      {
+        "title": "Homeowners",
+        "body": "Repairs and full roof replacements, with help choosing materials."
+      },
+      {
+        "title": "Business owners",
+        "body": "Roof repairs on commercial buildings, done efficiently."
+      },
+      {
+        "title": "Outdoor living",
+        "body": "Sturdy, well-designed porches that add to your home."
+      }
+    ],
+    "closing": "Tell us what's going on and we'll take a look."
+  },
+  "problems": {
+    "headline": "Finding an honest roofer in Houston shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow estimates",
+        "body": "Waiting days for a roofer to call back."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "Being upsold on work you don't need."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "Crews that don't turn up when they said."
+      },
+      {
+        "title": "Messy job sites",
+        "body": "Debris left in the yard after the job."
+      }
+    ],
+    "bridge": "You need a roofer who's honest, on time and cleans up."
+  },
+  "solutions": {
+    "headline": "Roofs and porches, built to last.",
+    "services": [
+      {
+        "title": "Roof replacement",
+        "body": "Full roof replacements with help choosing the best materials, finished with a clean site.",
+        "photo": "roofing"
+      },
+      {
+        "title": "Roof repairs",
+        "body": "Leaks and damage fixed, sealed and secured properly, with no upselling.",
+        "photo": "rooftiles"
+      },
+      {
+        "title": "Porches & remodeling",
+        "body": "Outdoor porches and remodeling work, sturdy and well designed.",
+        "photo": "deck"
+      }
+    ]
+  },
+  "process": {
+    "headline": "Assess it. Explain it. Fix it right.",
+    "steps": [
+      {
+        "title": "Tell us what's wrong",
+        "body": "Use the form or call with what's going on and a few photos."
+      },
+      {
+        "title": "Assessment & estimate",
+        "body": "A thorough look at the roof and a straight estimate."
+      },
+      {
+        "title": "Choose materials",
+        "body": "We help you pick the right materials for your home."
+      },
+      {
+        "title": "Install & clean up",
+        "body": "On-time crew, quality work and a clean site when we leave."
+      }
+    ]
+  },
+  "why": {
+    "headline": "5.0 stars from every Google review.",
+    "themes": [
+      {
+        "title": "Honest",
+        "body": "Straight answers and no upselling on work you don't need."
+      },
+      {
+        "title": "Punctual",
+        "body": "Crews that show up when they said they would."
+      },
+      {
+        "title": "Quality work",
+        "body": "Craftsmanship customers notice, with real attention to detail."
+      },
+      {
+        "title": "Clean job site",
+        "body": "When we're done, it looks like nothing ever happened."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "erasto elizalde",
+      "rating": 5,
+      "date": "9 months ago",
+      "text": "This company has been my trusted choice for all roofing needs for several years. I’ve hired them multiple times from taking care of repairs at my business to recently replacing the entire roof on my home and every experience has been excellent. They are honest, dependable, and take real pride in their work. What truly sets them apart is the care they show, not only in the quality of the job but in how clean they leave everything. When they’re done, it honestly looks like nothing ever happened. I genuinely appreciate their hard work and highly recommend them to anyone in need of roofing services."
+    },
+    {
+      "author": "Pilar Torres",
+      "rating": 5,
+      "date": "9 months ago",
+      "text": "We hired this roofing company for a repair on our home, and they did an excellent job. From the first call, they were responsive, honest, and straightforward about what needed to be fixed. They didn’t try to upsell us on anything we didn’t need, which we really appreciated.\nThe crew arrived on time, completed the repair efficiently, and made sure everything was sealed and secured properly. The quality of the work gave us peace of mind, and they cleaned up thoroughly before leaving.If you’re looking for a trustworthy company for roof repairs, we would definitely recommend them."
+    },
+    {
+      "author": "Alexis Flores",
+      "rating": 5,
+      "date": "9 months ago",
+      "text": "I had an outstanding experience with RRC Remodeling. Emilio and Raul are true professionals who take pride in their work. They built a beautiful outdoor porch for my home and repaired my roof, and the results exceeded my expectations.\n\nFrom start to finish, they were reliable, detail-oriented, and communicated clearly throughout the entire process. The porch came out sturdy, well-designed, and adds real value to my home. The roof repair was done efficiently and with great craftsmanship, you can tell they care about doing the job right the first time.\n\nIf you’re looking for a remodeling team that’s honest, skilled, and dependable, I highly recommend RRC Remodeling. Emilio and Raul deliver quality work and stand behind it."
+    }
+  ],
+  "finalCta": {
+    "headline": "Got a roof problem or a porch in mind?",
+    "body": "Tell us what's going on or pick a time to talk it through. You'll get an honest estimate before any work starts.",
+    "microcopy": "No pressure. No upselling."
+  },
+  "faq": [
+    {
+      "q": "Do you do roof repairs or only replacements?",
+      "a": "Both. If a repair is all you need, we'll tell you."
+    },
+    {
+      "q": "Do you work on businesses too?",
+      "a": "Yes. We handle roof repairs for businesses as well as homes."
+    },
+    {
+      "q": "Can you help me choose roofing materials?",
+      "a": "Yes. We'll assess your roof and help you pick the materials that suit it."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your estimate and we'll send the details for your project."
+    },
+    {
+      "q": "What happens after I send a request?",
+      "a": "Your details come straight through, you get a text and email confirmation, and we follow up to set up a time to look at the job."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
