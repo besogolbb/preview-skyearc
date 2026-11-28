@@ -1,0 +1,212 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-28): 'Handyman Rob', 5.0 stars, 25 reviews (all 5 stars), category 'Handyman/Handywoman/Handyperson', opens 12 PM Mon, phone +1 318-900-1046 (matches the sheet), no website ('Add website'). Drawn service area around Shreveport and Haughton. Review topics: punctuality 8, knowledgeable staff 7, work quality 6, communication 4, siding rehang 2, window repair 2, tidiness 2, thoroughness 2, efficient 2, odd jobs 2.",
+    "services": "From reviews: exterior siding and window reseal, siding rehang, rotted wood replacement, window repair (ordering parts), custom mantel, 475 sq ft wood privacy fence, full fence redo, board and batten wall, shed assembly with a level pad, closet organizers, blinds, odd jobs, extensive work on an 80-year-old home. Same-day response mentioned.",
+    "brand": "No brand online. Sampled from their Google listing cover photo (a low-colour granite kitchen); the only real colour is a bowl of green limes, so primary = deep lime green #3f6b26 (white 6.3:1), dark = #121411 (white 18.5:1), accent = lime #a9cc5a (10.1:1 on dark). Sampled from their listing photo, not an official brand; confirm with the owner. Concept mark (spirit level) is original.",
+    "reviews": "Google Reviews tab, same session: 25 reviews, all 5 stars; 3 complete ones copied verbatim covering different jobs (Stanley Joyce: siding/mantel/fence/wall, Lisa Jenkins: closet organizers, Sharon Ong: shed)."
+  },
+  "gap": "No website: 5.0 stars from 25 Google reviews but 'Add website' on the listing, and customers say they found him through a neighborhood Facebook page, so new homeowners in Shreveport can only call; there's no way to send photos of a job and ask for a quote.",
+  "market": "US",
+  "company": {
+    "name": "Handyman Rob",
+    "trade": "Handyman and carpentry",
+    "city": "Shreveport, LA",
+    "serviceArea": [
+      "Shreveport",
+      "Haughton"
+    ],
+    "phone": "(318) 900-1046"
+  },
+  "logo": {
+    "initials": "HR",
+    "tagline": "Handyman · Shreveport",
+    "svg": "/assets/logos/handyman-rob.svg"
+  },
+  "brand": {
+    "primary": "#3f6b26",
+    "dark": "#121411",
+    "accent": "#a9cc5a"
+  },
+  "assetFolder": "carpentry",
+  "assistantName": "Handyman Rob",
+  "google": {
+    "rating": 5.0,
+    "reviewCount": 25,
+    "profileUrl": "https://www.google.com/maps/place/Handyman+Rob/@32.4895125,-93.288011,9z/data=!4m6!3m5!1s0x69c6e55fe109bd3:0xd45f5df8a6f997a9!8m2!3d32.4895125!4d-93.288011!16s%2Fg%2F11sm7wg508"
+  },
+  "hero": {
+    "eyebrow": "Handyman services in Shreveport",
+    "headline": "Carpentry and home repairs in Shreveport.",
+    "subhead": "Fences, mantels, siding and window repairs, installs and all the odd jobs around the house. Send a few photos and get a quote.",
+    "trustLine": [
+      "On time, every time",
+      "Price charged is price quoted",
+      "Cleans up after himself"
+    ],
+    "photo": "stairs"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "Fence or carpentry",
+      "Siding or window repair",
+      "Install or assembly",
+      "Odd jobs list"
+    ]
+  },
+  "skyeGreeting": "Hi, I'm the Handyman Rob assistant. Got a repair, install or carpentry job? Tell me what you need and I'll help you get a quote.",
+  "about": {
+    "headline": "The handyman Shreveport neighbors recommend.",
+    "body": "Rob shows up when he says he will, keeps you posted on the job and finishes when he said he would. Big carpentry projects or a list of odd jobs, the price charged is the price quoted.",
+    "cards": [
+      {
+        "title": "Older homes",
+        "body": "Careful, thorough repairs for houses with some years on them."
+      },
+      {
+        "title": "Projects",
+        "body": "Fences, mantels, feature walls and sheds built properly."
+      },
+      {
+        "title": "Odd-jobs lists",
+        "body": "All the little things that have built up, done in one visit."
+      }
+    ],
+    "closing": "Send your list or a few photos to get started."
+  },
+  "problems": {
+    "headline": "Getting a reliable handyman in Shreveport shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow quotes",
+        "body": "Waiting days for someone to call back."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "A final bill that doesn't match the quote."
+      },
+      {
+        "title": "Missed timelines & no-shows",
+        "body": "Taking time off and nobody turns up."
+      },
+      {
+        "title": "Messy job sites",
+        "body": "Sawdust and offcuts left behind."
+      }
+    ],
+    "bridge": "You need someone who shows up, communicates and does it right."
+  },
+  "solutions": {
+    "headline": "One call for the jobs around your house.",
+    "services": [
+      {
+        "title": "Fences & carpentry",
+        "body": "Wood privacy fences, fence redos, custom mantels and board and batten walls.",
+        "photo": "gate"
+      },
+      {
+        "title": "Siding, windows & rot repair",
+        "body": "Siding rehangs, window repairs and reseals, and rotted wood replaced.",
+        "photo": "siding"
+      },
+      {
+        "title": "Installs & odd jobs",
+        "body": "Closet organizers, sheds on a level pad, blinds and the rest of the list.",
+        "photo": "door"
+      }
+    ]
+  },
+  "process": {
+    "headline": "Quick look. Straight quote. Job done right.",
+    "steps": [
+      {
+        "title": "Send your job",
+        "body": "Use the form with a few photos, or give Rob a call."
+      },
+      {
+        "title": "Quote",
+        "body": "A fair quote, and that's the price you pay."
+      },
+      {
+        "title": "On time",
+        "body": "Arrives when he says, with updates along the way."
+      },
+      {
+        "title": "Clean finish",
+        "body": "Quality work and a tidy space when he leaves."
+      }
+    ]
+  },
+  "why": {
+    "headline": "5.0 stars from 25 Google reviews in Shreveport.",
+    "themes": [
+      {
+        "title": "Punctual",
+        "body": "The most mentioned thing in reviews: he's on time."
+      },
+      {
+        "title": "Knowledgeable",
+        "body": "Knows his trade and the right way to do the job."
+      },
+      {
+        "title": "Communication",
+        "body": "Keeps you updated from start to finish."
+      },
+      {
+        "title": "Fair prices",
+        "body": "Reasonable pricing for high-quality work."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Stanley Joyce",
+      "rating": 5,
+      "date": "4 years ago",
+      "text": "Our Family,\nHas hired Handyman Rob on 4 seperate occasions for different jobs. Rob did an exterior siding and window reseal, followed with creating the mantle of our dreams from a piece of wood we purchased, he designed and built 475 square feet of 8 ft tall completey wooden fence, lastly we recently hired him to complete a board and madden wall for us. We are extremely excited to see the finished product. Handyman Rob is a professional from start of a project all the way through. The difference between Handyman Rob and others is the constant communication he has with you all the way through the job. I personally recommend Handyman Rob for any job!!!!!"
+    },
+    {
+      "author": "Lisa Jenkins",
+      "rating": 5,
+      "date": "2 years ago",
+      "text": "Quick response, arrived within 1 hour to evaluate; provided quote, arrived when he said he would arrive to do the job; wasted no time, cleaned up behind himself; price charged was price quoted. Rob is personable, honest, fair, and exceeded my expectations. Will keep him on speed dial! Installed 3 different closet organizers."
+    },
+    {
+      "author": "Sharon Ong",
+      "rating": 5,
+      "date": "4 years ago",
+      "text": "Handyman Rob did exactly what I needed and more! I needed a shed installed in my yard and not only did he assemble the shed, he constructed a level pad and took into account drainage and floor clearance. The finished product is more professional than I imagined. I also appreciated his communication and the fact that he responded and kept his word to doing the job. I highly recommend Handyman Rob to anyone!"
+    }
+  ],
+  "finalCta": {
+    "headline": "Got a job or a list of them?",
+    "body": "Send a few photos or pick a time to talk it through. You'll get a straight quote before any work starts.",
+    "microcopy": "No pressure. Just a fair price."
+  },
+  "faq": [
+    {
+      "q": "Do you take small jobs?",
+      "a": "Yes. Odd jobs and small repairs are welcome, and a list of them is even better."
+    },
+    {
+      "q": "Can you build fences and mantels?",
+      "a": "Yes. Wood fences, mantels, board and batten walls and other carpentry projects."
+    },
+    {
+      "q": "Do you repair siding and windows?",
+      "a": "Yes. Siding rehangs, window repairs and reseals, and rotted wood replacement."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your quote and we'll send the details for your job."
+    },
+    {
+      "q": "What happens after I send a request?",
+      "a": "Your details come straight to Rob, you get a text and email confirmation, and he follows up to talk through the job."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
