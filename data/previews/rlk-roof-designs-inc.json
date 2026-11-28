@@ -1,0 +1,212 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-28): 'RLK Roof Designs Inc', 4.7 stars, 29 reviews (matches the sheet), category 'Roofing contractor', open 24 hours, phone +1 832-434-4159, no website ('Add website'). A second listing with the same name and phone shows 4.5 stars / 8 reviews at 1711 Heritage S...; the sheet's row matches the 29-review listing. Review topics: cleanup 9, insurance assistance 8, responsiveness 4, speed of work 3, new roof 3, fair cost 2, leak repair 2, polite crew 2, efficient crew 2, punctuality 2.",
+    "services": "From reviews: full roof replacements (often done in one day), storm and hail damage with insurance claim help (calling the insurer, inspections, photos, adjuster reports), leak repair and maintenance (tropical storm Beta leak), HOA colour research and samples, gutter touch-ups, attic check. Out-of-pocket jobs also mentioned.",
+    "brand": "From their own yard sign on the listing cover photo: red sign with white 'RLK' lettering. primary = sign red #c41e2a (white 5.9:1), dark = charcoal #1b1a1c (white 17.3:1), accent = light red #ff8a80 (7.6:1 on dark). Hues taken by eye from the sign; confirm with the owner. Concept mark (R monogram, white on red like the sign) is original.",
+    "reviews": "Google Reviews tab, same session: 29 reviews (26 five-star, 2 one-star, 1 four-star off-topic). 3 complete 5-star reviews copied verbatim covering different jobs (angela perfetti: insurance + one-day install, Eric: out-of-pocket + HOA colours, Yates and May Lee: honest leak repair). Note: one 1-star review (Lauren Chamberlain) says a promised emailed quote never arrived."
+  },
+  "gap": "No website and quotes that slip through: 4.7 stars from 29 Google reviews but 'Add website' on the listing, so every lead depends on a phone call, and one review says an estimate that was promised by email never arrived. A request form with instant confirmation and follow-up would stop that.",
+  "market": "US",
+  "company": {
+    "name": "RLK Roof Designs Inc",
+    "trade": "Roofing",
+    "city": "Houston, TX",
+    "serviceArea": [
+      "Houston"
+    ],
+    "phone": "(832) 434-4159"
+  },
+  "logo": {
+    "initials": "RLK",
+    "tagline": "Roofing · Houston",
+    "svg": "/assets/logos/rlk-roof-designs-inc.svg"
+  },
+  "brand": {
+    "primary": "#c41e2a",
+    "dark": "#1b1a1c",
+    "accent": "#ff8a80"
+  },
+  "assetFolder": "roofing",
+  "assistantName": "RLK Roof Designs",
+  "google": {
+    "rating": 4.7,
+    "reviewCount": 29,
+    "profileUrl": "https://www.google.com/maps/place/RLK+Roof+Designs+Inc/@29.946437,-95.765236,9z/data=!4m6!3m5!1s0x8640d132b4fe8a9d:0xe62073146d05b59f!8m2!3d29.946437!4d-95.765236!16s%2Fg%2F11gbnwy05l"
+  },
+  "hero": {
+    "eyebrow": "Roofing contractor in Houston",
+    "headline": "Roof replacement and repairs in Houston.",
+    "subhead": "New roofs, leak repairs and storm damage, with help working through your insurance claim. Tell us what's going on with your roof and book an inspection.",
+    "trustLine": [
+      "Insurance claim help",
+      "Many roofs done in a day",
+      "Spotless cleanup"
+    ],
+    "photo": "siding"
+  },
+  "quoteField": {
+    "label": "Roof need",
+    "options": [
+      "Leak repair",
+      "Storm or hail damage",
+      "Roof replacement",
+      "Inspection"
+    ]
+  },
+  "skyeGreeting": "Hi, I'm the RLK Roof Designs assistant. Got a leak, storm damage or an old roof? Tell me what's going on and I'll help you set up an inspection.",
+  "about": {
+    "headline": "Roofing for Houston homeowners, start to finish.",
+    "body": "A new roof is a big job, and an insurance claim can make it feel bigger. We inspect the roof, explain your options in plain terms, work with your insurance where it applies and leave the yard cleaner than we found it.",
+    "cards": [
+      {
+        "title": "Storm and hail damage",
+        "body": "Inspection, photos and help with your insurance adjuster."
+      },
+      {
+        "title": "Leaks",
+        "body": "An honest look at whether you need a repair or a new roof."
+      },
+      {
+        "title": "Paying out of pocket",
+        "body": "Clear, fair pricing and colour samples that meet your HOA rules."
+      }
+    ],
+    "closing": "Not sure what your roof needs? Book an inspection."
+  },
+  "problems": {
+    "headline": "Getting a roof sorted in Houston shouldn't be this stressful.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow quotes",
+        "body": "Waiting on a roofer to call back while the leak gets worse."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "A final bill that doesn't match the quote."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "Crews that don't show when they said they would."
+      },
+      {
+        "title": "Messy job sites",
+        "body": "Nails and shingle scraps left all over the yard."
+      }
+    ],
+    "bridge": "You need a roofer who explains it clearly, shows up on time and cleans up."
+  },
+  "solutions": {
+    "headline": "Roofing done right, without the runaround.",
+    "services": [
+      {
+        "title": "Roof replacement",
+        "body": "Full roof replacements, often finished in a single day, with colour help for HOA neighborhoods.",
+        "photo": "roofing"
+      },
+      {
+        "title": "Storm & hail damage claims",
+        "body": "Thorough inspections and reports, and we work directly with your insurance company.",
+        "photo": "brokentiles"
+      },
+      {
+        "title": "Leak repair & maintenance",
+        "body": "Leaks tracked down and fixed, with honest advice when a repair is all you need.",
+        "photo": "rooftiles"
+      }
+    ]
+  },
+  "process": {
+    "headline": "Inspect it. Explain it. Replace or repair it.",
+    "steps": [
+      {
+        "title": "Request an inspection",
+        "body": "Use the form or call and tell us what's happening with your roof."
+      },
+      {
+        "title": "Inspection & quote",
+        "body": "A thorough inspection, photos and a clear quote."
+      },
+      {
+        "title": "Insurance help",
+        "body": "If it's a claim, we work with your insurance and adjuster."
+      },
+      {
+        "title": "Install & cleanup",
+        "body": "The crew shows up on time, does the job and cleans up thoroughly."
+      }
+    ]
+  },
+  "why": {
+    "headline": "4.7 stars from 29 Google reviews in Houston.",
+    "themes": [
+      {
+        "title": "Insurance assistance",
+        "body": "The most mentioned topic in reviews: help talking to your insurer."
+      },
+      {
+        "title": "Cleanup",
+        "body": "Reviewers keep mentioning how clean the yard was afterward."
+      },
+      {
+        "title": "Fast and on time",
+        "body": "Crews that show up as promised and work quickly."
+      },
+      {
+        "title": "Honest advice",
+        "body": "Straight answers, even when you don't need a new roof."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "angela perfetti",
+      "rating": 5,
+      "date": "6 years ago",
+      "text": "We worked with Dustin. He was so responsive and professional. He coordinated with the insurance representatives to file the claim and inspect the roof which really helped. The crew did an amazing job. They got everything done in less than a day! They protected the pool and plants and did an exceptional job cleaning up when they were finished. I highly recommend them and would be happy to use them again!"
+    },
+    {
+      "author": "Eric",
+      "rating": 5,
+      "date": "5 years ago",
+      "text": "RLK really sets the bar high for roofing and customer service.\n\nRobert was very responsive, on time, and communicated very well. He researched the HOA requirements for roof colors, provided samples, and was very straight forward with the process and pricing. The roof was done in just one day and looks fantastic. We paid out of pocket (not go through insurance) and the total cost was very fair.\n\nI would highly recommend RLK to anyone in need of roof work."
+    },
+    {
+      "author": "Yates and May Lee",
+      "rating": 5,
+      "date": "6 years ago",
+      "text": "Jeremy just came out to the house and explained how we didn't need a new roof but just some maintenance from a leak we had from tropical storm Beta. He did a few things and recommendations and I was really impressed and thankful for his honesty. PTL! because I was worried about a roof replacement."
+    }
+  ],
+  "finalCta": {
+    "headline": "Worried about your roof?",
+    "body": "Tell us what's going on or pick a time for an inspection. You'll get a clear answer and a quote before any work is booked.",
+    "cta": "Book an inspection",
+    "microcopy": "No pressure. Just an honest look."
+  },
+  "faq": [
+    {
+      "q": "Can you help with my insurance claim?",
+      "a": "Yes. We inspect the roof, take photos and work with your insurance company and adjuster."
+    },
+    {
+      "q": "Do I always need a new roof after a leak?",
+      "a": "Not always. Sometimes a repair or maintenance is all it needs, and we'll tell you honestly."
+    },
+    {
+      "q": "How long does a roof replacement take?",
+      "a": "Many replacements are finished in a single day, depending on the size of the roof and the weather."
+    },
+    {
+      "q": "Can you match my HOA's color rules?",
+      "a": "Yes. We can check your HOA requirements and bring samples so you can choose."
+    },
+    {
+      "q": "What happens after I send a request?",
+      "a": "Your details come straight through, you get a text and email confirmation, and we follow up to set up your inspection."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
