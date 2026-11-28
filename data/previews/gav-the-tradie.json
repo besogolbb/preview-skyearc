@@ -1,0 +1,211 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-28): 'Gav The Tradie', 5.0 stars, 3 reviews (all 5 stars, 2 with text), category 'Carpenter', opens 9 AM Mon, phone +61 412 086 473 (matches the sheet), no website ('Add website'). Drawn service area across the Darling Downs: Toowoomba, Oakey, Crows Nest, Pittsworth, Millmerran, Dalby and nearby towns. Listing image: their logo, hot pink 'GTT / GAV THE TRADIE' on yellow.",
+    "other": "Google search (2026-11-28): Facebook page 'Gav The Tradie', Toowoomba City, 'I am a handyman and much, much more........'; Localsearch: Harristown QLD, 9:00 am - 5:00 pm, unclaimed; FindYourLocal: 61412086473; listed as Handyman on Service.com.au (Rangeville).",
+    "services": "From reviews: timber fencing (two separate fence jobs), done by Gav and Al. From his own Facebook bio: handyman and more. Google category: Carpenter.",
+    "brand": "From their own logo: hot pink lettering on yellow. primary = hot pink #c8236f (white 5.4:1), dark = charcoal #1c1a22 (white 17.2:1), accent = yellow #f5e33f (13.1:1 on dark). Hues taken by eye from the logo; confirm with the owner. Concept mark (G monogram, yellow on pink) is original and doesn't copy the GTT logo.",
+    "reviews": "Google Reviews tab, same session: 3 reviews, all 5 stars; the 2 with text copied verbatim (Sam D, Gemma Pearce)."
+  },
+  "gap": "No website: 5.0 stars on Google but 'Add website' on the listing and an unclaimed Localsearch profile, so homeowners across the Darling Downs can only ring; there's nowhere to send photos of a fence or repair job for a quote.",
+  "market": "AU",
+  "company": {
+    "name": "Gav The Tradie",
+    "trade": "Handyman, carpentry and fencing",
+    "city": "Toowoomba, QLD",
+    "serviceArea": [
+      "Toowoomba",
+      "Oakey",
+      "Crows Nest",
+      "Pittsworth",
+      "Millmerran",
+      "Dalby"
+    ],
+    "phone": "0412 086 473"
+  },
+  "logo": {
+    "initials": "GTT",
+    "tagline": "Handyman · Toowoomba",
+    "svg": "/assets/logos/gav-the-tradie.svg"
+  },
+  "brand": {
+    "primary": "#c8236f",
+    "dark": "#1c1a22",
+    "accent": "#f5e33f"
+  },
+  "assetFolder": "carpentry",
+  "assistantName": "Gav The Tradie",
+  "google": {
+    "rating": 5.0,
+    "reviewCount": 3,
+    "profileUrl": "https://www.google.com/maps/place/Gav+The+Tradie/@-27.4795956,151.4863081,9z/data=!4m6!3m5!1s0x6b965b7c3f683191:0x946714d82008e292!8m2!3d-27.4795956!4d151.4863081!16s%2Fg%2F11gdkpc4ky"
+  },
+  "hero": {
+    "eyebrow": "Handyman and carpentry, Darling Downs",
+    "headline": "Fencing and handyman work in Toowoomba.",
+    "subhead": "Timber fences, carpentry and handyman jobs around Toowoomba and the Darling Downs. Send a few photos of the job and get a quote.",
+    "trustLine": [
+      "Honest and reliable",
+      "Quality workmanship",
+      "Great value for money"
+    ],
+    "photo": "stairs"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "Timber fence",
+      "Carpentry",
+      "Handyman job",
+      "Something else"
+    ]
+  },
+  "skyeGreeting": "G'day, I'm the Gav The Tradie assistant. Got a fence, carpentry or handyman job? Tell me a bit about it and I'll help you get a quote.",
+  "about": {
+    "headline": "A handyman and much more, around Toowoomba.",
+    "body": "From a new timber fence to the odd jobs around the house, the work is done honestly, communicated clearly from the first chat to the finished job, and priced fairly.",
+    "cards": [
+      {
+        "title": "Fences",
+        "body": "Timber fences built properly and built to last."
+      },
+      {
+        "title": "Carpentry",
+        "body": "Carpentry jobs around the home and yard."
+      },
+      {
+        "title": "Odd jobs",
+        "body": "Handyman work for the list that keeps growing."
+      }
+    ],
+    "closing": "Send a few photos and we'll take a look."
+  },
+  "problems": {
+    "headline": "Finding an honest tradie around Toowoomba shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow quotes",
+        "body": "Ringing around and not hearing back."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "Not knowing what you'll pay at the end."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "Jobs that take forever to get started."
+      },
+      {
+        "title": "Sloppy, uneven finishing",
+        "body": "Fences that lean and palings that don't line up."
+      }
+    ],
+    "bridge": "You need someone honest, reliable and quality-driven."
+  },
+  "solutions": {
+    "headline": "Fences, carpentry and handyman jobs.",
+    "services": [
+      {
+        "title": "Timber fencing",
+        "body": "New timber fences, built with clear communication from first meeting to finish.",
+        "photo": "gate"
+      },
+      {
+        "title": "Carpentry",
+        "body": "Carpentry around the home and yard, done to a high standard.",
+        "photo": "deck"
+      },
+      {
+        "title": "Handyman & maintenance",
+        "body": "Handyman jobs and maintenance around the house. Ask what's on your list.",
+        "photo": "door"
+      }
+    ]
+  },
+  "process": {
+    "headline": "Chat about it. Get a quote. Get it done.",
+    "steps": [
+      {
+        "title": "Send your job",
+        "body": "Use the form with a few photos, or give Gav a ring."
+      },
+      {
+        "title": "Meet & quote",
+        "body": "We talk it through and you get a clear quote."
+      },
+      {
+        "title": "The work",
+        "body": "Reliable, quality work with updates along the way."
+      },
+      {
+        "title": "Finished",
+        "body": "A job you're happy with, at a fair price."
+      }
+    ]
+  },
+  "why": {
+    "headline": "5.0 stars from every Google review.",
+    "themes": [
+      {
+        "title": "Honest",
+        "body": "Straight-up advice and fair prices."
+      },
+      {
+        "title": "Reliable",
+        "body": "Turns up and gets the job done."
+      },
+      {
+        "title": "Clear communication",
+        "body": "From the first meeting to the finished job."
+      },
+      {
+        "title": "Value for money",
+        "body": "Quality work at a reasonable price."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Sam D",
+      "rating": 5,
+      "date": "8 years ago",
+      "text": "I recently had some fencing work done by Gav.  From the get go, Gav was reliable, honest and eager to ensure customer satisfaction.  We are very happy with Gav's high quality workmanship.  We would recommend Gav to anyone searching for an honest quality driven tradesman, at a reasonable price."
+    },
+    {
+      "author": "Gemma Pearce",
+      "rating": 5,
+      "date": "4 years ago",
+      "text": "I would highly recommend Gav and Al! They provided excellent service and superior quality when building our timber fence. Very clear communication occurred from the initial meeting through to the finished product. Very reliable and great value for money. Will definitely be calling them again in the future!"
+    }
+  ],
+  "finalCta": {
+    "headline": "Got a fence or a job list?",
+    "body": "Send a few photos or pick a time to talk it through. You'll get a clear quote before any work is booked.",
+    "microcopy": "No pressure. Just a fair price."
+  },
+  "faq": [
+    {
+      "q": "Do you build timber fences?",
+      "a": "Yes. Timber fencing is a regular job. Send a few photos and the length you need."
+    },
+    {
+      "q": "Do you take small handyman jobs?",
+      "a": "Yes. Send the details and we'll let you know."
+    },
+    {
+      "q": "Which areas do you cover?",
+      "a": "Toowoomba and the Darling Downs, including Oakey, Crows Nest, Pittsworth, Millmerran and Dalby."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your quote and we'll send the details for your job."
+    },
+    {
+      "q": "What happens after I send a request?",
+      "a": "Your details come straight to Gav, you get a text and email confirmation, and he follows up to talk through the job."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
