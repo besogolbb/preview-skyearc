@@ -1,0 +1,212 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-28): 'Sunraysia Handywork', 5.0 stars, 7 reviews (all 5 stars), category 'Handyman/Handywoman/Handyperson', closes 8 PM, phone +61 448 916 399 (matches the sheet), Mildura, no website ('Add website'). A second listing with the same name and phone also shows 5.0/7 (closes 6 PM) and a third has no reviews (Fifteenth St); this page uses the first. Cover photo: a carport/verandah area beside red brick under blue sky.",
+    "services": "From reviews: new kitchen cupboards, breakfast bar top and side bar installed; small carpentry job; general handyman work, on time and at a fair price. Owner named Ali in reviews.",
+    "brand": "No brand online. Taken from their Google listing cover photo (red brick and blue sky) with scripts/sample-brand.mjs, adjusted by eye: primary = brick #a1432d (white 6.3:1), dark = #161616 (white 18.1:1), accent = sky blue #8cc4ef (9.7:1 on dark). Sampled from their listing photo, not an official brand; confirm with the owner. Concept mark (rising sun over a plank, for Sunraysia) is original.",
+    "reviews": "Google Reviews tab, same session: 7 reviews, all 5 stars (5 with text); 3 complete ones copied verbatim (Joanne Camilleri: kitchen cupboards, Jay F: general job, Alan Wishart: small carpentry job)."
+  },
+  "gap": "No website and duplicate listings: 5.0 stars on Google but 'Add website', plus three separate 'Sunraysia Handywork' listings that split the reviews, so people in Mildura can only ring and may not know which listing is current.",
+  "market": "AU",
+  "company": {
+    "name": "Sunraysia Handywork",
+    "trade": "Handyman and carpentry",
+    "city": "Mildura, VIC",
+    "serviceArea": [
+      "Mildura",
+      "Sunraysia"
+    ],
+    "phone": "0448 916 399"
+  },
+  "logo": {
+    "initials": "SH",
+    "tagline": "Handyman · Mildura",
+    "svg": "/assets/logos/sunraysia-handywork.svg"
+  },
+  "brand": {
+    "primary": "#a1432d",
+    "dark": "#161616",
+    "accent": "#8cc4ef"
+  },
+  "assetFolder": "carpentry",
+  "assistantName": "Sunraysia Handywork",
+  "google": {
+    "rating": 5.0,
+    "reviewCount": 7,
+    "profileUrl": "https://www.google.com/maps/place/Sunraysia+Handywork/@-34.210739,142.1336058,17z/data=!4m6!3m5!1s0xa3f7554c5395eec7:0x86ae818e06751762!8m2!3d-34.210739!4d142.1336058!16s%2Fg%2F11xtwkdqr1"
+  },
+  "hero": {
+    "eyebrow": "Handyman and carpentry in Mildura",
+    "headline": "Handyman and carpentry jobs in Mildura.",
+    "subhead": "Kitchen cupboards, benchtops, carpentry and the jobs around the house, done properly at a fair price. Send a few photos and get a quote.",
+    "trustLine": [
+      "Turns up when he says",
+      "Fair price, no fuss",
+      "Friendly and reliable"
+    ],
+    "photo": "framing"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "Kitchen cupboards or benchtops",
+      "Carpentry",
+      "Handyman job",
+      "Something else"
+    ]
+  },
+  "skyeGreeting": "G'day, I'm the Sunraysia Handywork assistant. Got a carpentry or handyman job? Tell me a bit about it and I'll help you get a quote.",
+  "about": {
+    "headline": "Jobs done properly around Sunraysia.",
+    "body": "Ali turns up when he says he will, gets the job done properly and keeps the price fair. Big or small, from new kitchen cupboards to a quick carpentry fix.",
+    "cards": [
+      {
+        "title": "Kitchens",
+        "body": "New cupboards, a breakfast bar top or a fresh new look."
+      },
+      {
+        "title": "Carpentry",
+        "body": "Small carpentry jobs with a good quote and good workmanship."
+      },
+      {
+        "title": "Around the house",
+        "body": "The handyman jobs on your list, without the fuss."
+      }
+    ],
+    "closing": "Send a few photos and we'll take a look."
+  },
+  "problems": {
+    "headline": "Getting a handyman out in Mildura shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow quotes",
+        "body": "Leaving messages and never hearing back."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "A price that changes once they're there."
+      },
+      {
+        "title": "Missed timelines & no-shows",
+        "body": "Waiting around for someone who doesn't turn up."
+      },
+      {
+        "title": "Sloppy, uneven finishing",
+        "body": "Cupboards and trim that don't sit right."
+      }
+    ],
+    "bridge": "You need someone reliable who does it properly for a fair price."
+  },
+  "solutions": {
+    "headline": "Kitchens, carpentry and handyman work.",
+    "services": [
+      {
+        "title": "Kitchen cupboards & benchtops",
+        "body": "New kitchen cupboards, breakfast bar tops and side bars installed for a fresh look.",
+        "photo": "kitchen"
+      },
+      {
+        "title": "Carpentry",
+        "body": "Carpentry jobs big and small, with a good quote and good workmanship.",
+        "photo": "pergola"
+      },
+      {
+        "title": "Handyman jobs",
+        "body": "Repairs and jobs around the house, done properly with no fuss.",
+        "photo": "door"
+      }
+    ]
+  },
+  "process": {
+    "headline": "Send it. Quote it. Get it done.",
+    "steps": [
+      {
+        "title": "Send your job",
+        "body": "Use the form with a few photos, or give Ali a ring."
+      },
+      {
+        "title": "Quote",
+        "body": "A fair, clear quote for the work."
+      },
+      {
+        "title": "On time",
+        "body": "Turns up when he says he will."
+      },
+      {
+        "title": "Done properly",
+        "body": "Quality work and easy to deal with."
+      }
+    ]
+  },
+  "why": {
+    "headline": "5.0 stars from every Google review.",
+    "themes": [
+      {
+        "title": "Workmanship",
+        "body": "Jobs done properly, mentioned again and again."
+      },
+      {
+        "title": "Punctual",
+        "body": "Turns up when he says he will."
+      },
+      {
+        "title": "Fair price",
+        "body": "Reasonably priced, with no fuss."
+      },
+      {
+        "title": "Friendly",
+        "body": "Polite, reliable and easy to deal with."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Joanne Camilleri",
+      "rating": 5,
+      "date": "a week ago",
+      "text": "Excellent Work From Ali Sunraysia Hanywork. Installed Brand New Kitchen Cupboards, Breakfast Bar Top,and Side Bar with new Look. Reasonable Priced. Friendly polite,and reliable. 100%. Excellent Work Ali."
+    },
+    {
+      "author": "Jay F",
+      "rating": 5,
+      "date": "5 months ago",
+      "text": "Really happy with the work from Sunraysia Handywork. Turned up when he said he would, got the job done properly and were easy to deal with. Fair price and no fuss. Would definitely recommend and use them again."
+    },
+    {
+      "author": "Alan Wishart",
+      "rating": 5,
+      "date": "6 months ago",
+      "text": "Completed small carpentry job for me. Good quote, good workmanship, good bloke. Highly recommend"
+    }
+  ],
+  "finalCta": {
+    "headline": "Got a job around the house?",
+    "body": "Send a few photos or pick a time to talk it through. You'll get a clear quote before any work is booked.",
+    "microcopy": "No pressure. Just a fair price."
+  },
+  "faq": [
+    {
+      "q": "Can you install kitchen cupboards and benchtops?",
+      "a": "Yes. New cupboards, breakfast bar tops and side bars. Send photos of the space for a quote."
+    },
+    {
+      "q": "Do you take small jobs?",
+      "a": "Yes. Small carpentry and handyman jobs are welcome."
+    },
+    {
+      "q": "Which areas do you cover?",
+      "a": "Mildura and the Sunraysia area. Ask if you're unsure."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your quote and we'll send the details for your job."
+    },
+    {
+      "q": "What happens after I send a request?",
+      "a": "Your details come straight to Ali, you get a text and email confirmation, and he follows up to talk through the job."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
