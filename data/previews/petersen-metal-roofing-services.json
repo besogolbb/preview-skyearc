@@ -1,0 +1,217 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-28): 'Petersen Metal Roofing Services', 5.0 stars, 6 reviews (all 5 stars), category 'Roofing contractor', closes 6 PM, phone +61 459 026 908 (matches the sheet), no website ('Add website'). Drawn service area centred on Gunnedah: Narrabri, Boggabri, Manilla, Tamworth, Werris Creek, Quirindi, Coonabarabran edge. Owner post (Nov 10, 2026): leaf guard installation. Cover photo: black Colorbond roof on a house with copper-toned timber cladding. Review topics: workmanship 3, roof repair 3, timeliness 2, tiles 2, communication 2.",
+    "location": "The sheet says Tamworth, NSW; the listing's service area is centred on Gunnedah with Tamworth at its eastern edge. Page uses Gunnedah, NSW with Tamworth in the service area.",
+    "services": "From reviews: complete re-roof of an old farmhouse, Decramastic tile roof replaced with Colorbond, tiles to Colorbond, large Colorbond roof replacement, roofing and guttering repeat work. From the owner post: leaf guard installation. Owner named Nathan Petersen in reviews.",
+    "brand": "No brand online. Taken from their Google listing cover photo (black Colorbond roof over copper-toned cladding) with scripts/sample-brand.mjs, adjusted by eye: primary = copper #9a4d27 (white 6.1:1), dark = Colorbond black #1c1a1b (white 17.3:1), accent = cedar #dba878 (8.2:1 on dark). Sampled from their listing photo, not an official brand; confirm with the owner. Concept mark (ribbed metal sheet profile) is original.",
+    "reviews": "Google Reviews tab, same session: 6 reviews, all 5 stars; 3 complete ones copied verbatim covering different jobs (Peter Costello: farmhouse re-roof, Linda Fletcher: Decramastic to Colorbond, Shane Turner: roofing and guttering)."
+  },
+  "gap": "No website: 5.0 stars on Google and a service area from Narrabri to Quirindi, but 'Add website' on the listing, so homeowners can only ring; there's no way to send photos of an old roof and request a re-roof quote.",
+  "market": "AU",
+  "company": {
+    "name": "Petersen Metal Roofing Services",
+    "trade": "Metal roofing",
+    "city": "Gunnedah, NSW",
+    "serviceArea": [
+      "Gunnedah",
+      "Tamworth",
+      "Narrabri",
+      "Boggabri",
+      "Quirindi",
+      "Manilla"
+    ],
+    "phone": "0459 026 908"
+  },
+  "logo": {
+    "initials": "PMR",
+    "tagline": "Metal Roofing · Gunnedah",
+    "svg": "/assets/logos/petersen-metal-roofing-services.svg"
+  },
+  "brand": {
+    "primary": "#9a4d27",
+    "dark": "#1c1a1b",
+    "accent": "#dba878"
+  },
+  "assetFolder": "roofing",
+  "assistantName": "Petersen Metal Roofing",
+  "google": {
+    "rating": 5.0,
+    "reviewCount": 6,
+    "profileUrl": "https://www.google.com/maps/place/Petersen+Metal+Roofing+Services/@-30.8143876,150.0214049,9z/data=!4m6!3m5!1s0x6b0a996cad534f91:0x16cbd2e60e7d014a!8m2!3d-30.8143876!4d150.0214049!16s%2Fg%2F11gwmj2crv"
+  },
+  "hero": {
+    "eyebrow": "Metal roofing, Gunnedah to Tamworth",
+    "headline": "Colorbond re-roofs and repairs in Gunnedah.",
+    "subhead": "Tile to Colorbond re-roofs, roof repairs, guttering and leaf guards for homes and farmhouses across the region. Send a few photos of your roof and get a quote.",
+    "trustLine": [
+      "Tile to Colorbond specialists",
+      "Great communication",
+      "On time, no fuss"
+    ],
+    "photo": "rooftiles"
+  },
+  "quoteField": {
+    "label": "Roof need",
+    "options": [
+      "Re-roof to Colorbond",
+      "Roof repair",
+      "Guttering or leaf guard",
+      "Inspection"
+    ]
+  },
+  "skyeGreeting": "G'day, I'm the Petersen Metal Roofing assistant. Thinking about a re-roof, a repair or new gutters? Tell me about your roof and I'll help you get a quote.",
+  "about": {
+    "headline": "Metal roofing done properly, start to finish.",
+    "body": "Nathan and the crew swap tired tile and Decramastic roofs for Colorbond, fix what needs fixing and keep you in the loop the whole way, from town houses to old farmhouses.",
+    "cards": [
+      {
+        "title": "Old tile roofs",
+        "body": "Tile and Decramastic roofs replaced with Colorbond."
+      },
+      {
+        "title": "Farmhouses",
+        "body": "Complete re-roofs on older farm homes."
+      },
+      {
+        "title": "Gutters",
+        "body": "Guttering and leaf guards to keep the water flowing."
+      }
+    ],
+    "closing": "Send a few photos of your roof for a quote."
+  },
+  "problems": {
+    "headline": "Getting a roofer out in the North West shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow quotes",
+        "body": "Waiting weeks to hear back about your roof."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "Not knowing what a re-roof will really cost."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "Crews that don't turn up when they said."
+      },
+      {
+        "title": "Messy job sites",
+        "body": "Old tiles and offcuts left in the yard."
+      }
+    ],
+    "bridge": "You need a roofer who communicates, turns up and does it right."
+  },
+  "solutions": {
+    "headline": "Re-roofs, repairs and gutters.",
+    "services": [
+      {
+        "title": "Re-roofing to Colorbond",
+        "body": "Tile and Decramastic roofs replaced with Colorbond, including complete farmhouse re-roofs.",
+        "photo": "roofing"
+      },
+      {
+        "title": "Roof repairs",
+        "body": "Roof repairs done to an exceptional standard, so the problem stays fixed.",
+        "photo": "brokentiles"
+      },
+      {
+        "title": "Guttering & leaf guards",
+        "body": "New guttering and leaf guards to cut blockages and maintenance.",
+        "photo": "siding"
+      }
+    ]
+  },
+  "process": {
+    "headline": "Look at it. Quote it. Re-roof it.",
+    "steps": [
+      {
+        "title": "Send your roof",
+        "body": "Use the form with a few photos, or give Nathan a ring."
+      },
+      {
+        "title": "Quote",
+        "body": "A clear quote for the work and the materials."
+      },
+      {
+        "title": "Kept informed",
+        "body": "Easy-to-follow updates on what's happening on the job."
+      },
+      {
+        "title": "Finished on time",
+        "body": "Completed without fuss and looking right."
+      }
+    ]
+  },
+  "why": {
+    "headline": "5.0 stars from every Google review.",
+    "themes": [
+      {
+        "title": "Workmanship",
+        "body": "Quality work from start to finish."
+      },
+      {
+        "title": "Communication",
+        "body": "Easy to follow what's happening on the job."
+      },
+      {
+        "title": "On time",
+        "body": "Punctual crews and jobs completed when promised."
+      },
+      {
+        "title": "Repeat customers",
+        "body": "People come back for their next roofing or guttering job."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Peter Costello",
+      "rating": 5,
+      "date": "a year ago",
+      "text": "We Just had Nathan and his crew do a complete re roof on an old farm house\nAwesome job you can’t go past Peterson Metal Roofing\nfrom start to finish these blokes where amazing communication and workmanship are spot on AAA +\nThanks for an awesome Job Nathan 👍"
+    },
+    {
+      "author": "Linda Fletcher",
+      "rating": 5,
+      "date": "11 months ago",
+      "text": "Anyone looking for a professional job call Nathan and co. He recently replaced my decramastic tile roof with colourbond.  He does quality work from start to finish, communicates is punctual and polite. I have no hesitation in recommending him."
+    },
+    {
+      "author": "Shane Turner",
+      "rating": 5,
+      "date": "7 years ago",
+      "text": "Nathan has done quite a few jobs for me now with excellent quality. Would definitely recommend to anyone who is after roofing or guttering work done"
+    }
+  ],
+  "finalCta": {
+    "headline": "Is it time for a new roof?",
+    "body": "Send a few photos of your roof or pick a time to talk it through. You'll get a clear quote before any work is booked.",
+    "microcopy": "No pressure. Just a straight answer."
+  },
+  "faq": [
+    {
+      "q": "Can you replace a tile roof with Colorbond?",
+      "a": "Yes. Tile and Decramastic to Colorbond re-roofs are a regular job."
+    },
+    {
+      "q": "Do you work on farmhouses out of town?",
+      "a": "Yes. We cover Gunnedah, Tamworth, Narrabri, Boggabri, Quirindi and the farms in between."
+    },
+    {
+      "q": "Do you install leaf guards?",
+      "a": "Yes. Leaf guards and new guttering to reduce blockages, especially for homes surrounded by trees."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Ask when you request your quote and we'll send the details for your job."
+    },
+    {
+      "q": "What happens after I send a request?",
+      "a": "Your details come straight to Nathan, you get a text and email confirmation, and he follows up to talk through the job."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
