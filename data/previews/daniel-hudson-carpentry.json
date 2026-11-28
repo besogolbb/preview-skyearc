@@ -1,0 +1,217 @@
+{
+  "_sources": {
+    "listing": "Google Business Profile, read in the user's own Chrome via Claude in Chrome (2026-11-28): 'Daniel Hudson Carpentry', 5.0 stars, 3 reviews, category 'Carpenter', phone +61 403 055 306, opens 7 AM Mon, website link 'yellow.com.au'. Drawn service area covers Albury, Wodonga, Lavington, Thurgoona and Jindera.",
+    "services": "From the business card used as the listing cover photo: Decking & Verandahs, Timber Repairs, Door Adjustments, Carports, Cladding, Skirting & Architraves, Framing, Hardwood & Laminate Flooring. Card also reads 'Daniel Hudson, Licensed Carpenter' and T 0403 055 306 (phone matches the listing).",
+    "website": "https://daniel-hudson-carpentry.yellow.com.au/ (the site linked from the listing and the sheet) shows 'Site not found. This site is not published or does not have a domain assigned to it.' (checked 2026-11-28).",
+    "brand": "From their own business card on the Google listing: black and charcoal card with a light-blue triangular mark. primary = deep blue #1e6a9e (white 5.8:1), dark = charcoal #161718 (white 18.0:1), accent = light blue #8fcdee (10.4:1 on dark). Hues taken by eye from the card, not an official brand file; confirm with the owner. Concept mark (DH monogram) is original.",
+    "reviews": "Google Reviews tab, same session: all 3 reviews are 5 stars and complete; copied verbatim (Jessica Hay, Monika H, Pippa)."
+  },
+  "gap": "Website offline: the Google listing (5.0 stars) links to a Yellow Pages site that now shows 'Site not found', so anyone who clicks through from Google hits a dead page with no way to send job details or ask for a quote.",
+  "market": "AU",
+  "company": {
+    "name": "Daniel Hudson Carpentry",
+    "trade": "Carpentry",
+    "city": "Albury, NSW",
+    "serviceArea": [
+      "Albury",
+      "Wodonga",
+      "Lavington",
+      "Thurgoona",
+      "Jindera"
+    ],
+    "phone": "0403 055 306",
+    "credential": "Licensed carpenter"
+  },
+  "logo": {
+    "initials": "DH",
+    "tagline": "Carpentry · Albury",
+    "svg": "/assets/logos/daniel-hudson-carpentry.svg"
+  },
+  "brand": {
+    "primary": "#1e6a9e",
+    "dark": "#161718",
+    "accent": "#8fcdee"
+  },
+  "assetFolder": "carpentry",
+  "assistantName": "Daniel Hudson Carpentry",
+  "google": {
+    "rating": 5.0,
+    "reviewCount": 3,
+    "profileUrl": "https://www.google.com/maps/place/Daniel+Hudson+Carpentry/@-36.0768534,146.8927965,11z/data=!4m6!3m5!1s0x6b23e1d14a7ac101:0x1bb40a428c7ede0e!8m2!3d-36.0768534!4d146.8927965!16s%2Fg%2F11gk7hj6bj"
+  },
+  "hero": {
+    "eyebrow": "Licensed carpenter, Albury-Wodonga",
+    "headline": "Decks, carports and carpentry in Albury.",
+    "subhead": "Decking, verandahs, carports, flooring and timber repairs for homes around Albury and Wodonga. Send a few photos of the job and get a clear quote back.",
+    "trustLine": [
+      "Licensed carpenter",
+      "Listens to what you need",
+      "Helpful suggestions on the job"
+    ],
+    "photo": "stairs"
+  },
+  "quoteField": {
+    "label": "Project type",
+    "options": [
+      "Deck, verandah or carport",
+      "Flooring",
+      "Skirting, architraves or doors",
+      "Repairs or something else"
+    ]
+  },
+  "skyeGreeting": "G'day, I'm the Daniel Hudson Carpentry assistant. Got a deck, flooring or repair job in mind? Tell me a bit about it and I'll help you get a quote.",
+  "about": {
+    "headline": "Carpentry for homes around Albury-Wodonga.",
+    "body": "From a new deck out the back to fresh architraves and floors inside, the work is done by a licensed carpenter who listens to what you need and gets it right.",
+    "cards": [
+      {
+        "title": "Homeowners",
+        "body": "Decks, verandahs and carports that add usable space to your place."
+      },
+      {
+        "title": "Investment properties",
+        "body": "Architraves, skirting and new floors to freshen up a rental between tenants."
+      },
+      {
+        "title": "Fix-it jobs",
+        "body": "Sticking doors, tired timber and repairs sorted properly."
+      }
+    ],
+    "closing": "Send a few photos and we'll talk through the job."
+  },
+  "problems": {
+    "headline": "Getting a carpenter sorted around Albury shouldn't be this hard.",
+    "points": [
+      {
+        "title": "Unreturned calls & slow quotes",
+        "body": "Ringing around and waiting days for a price."
+      },
+      {
+        "title": "Vague pricing & surprise costs",
+        "body": "Extras that pop up once the job's started."
+      },
+      {
+        "title": "Missed timelines",
+        "body": "A small job that drags on for weeks."
+      },
+      {
+        "title": "Sloppy, uneven finishing",
+        "body": "Gaps in the trim and boards that don't sit flat."
+      }
+    ],
+    "bridge": "You want a carpenter who listens, quotes clearly and does a tidy job."
+  },
+  "solutions": {
+    "headline": "Carpentry, inside and out.",
+    "services": [
+      {
+        "title": "Decks, verandahs & carports",
+        "body": "New decks, verandahs and carports built to suit your home and how you use it.",
+        "photo": "deck"
+      },
+      {
+        "title": "Floors, skirting & architraves",
+        "body": "Hardwood and laminate flooring, plus skirting and architraves fitted neatly.",
+        "photo": "framing"
+      },
+      {
+        "title": "Doors, cladding & timber repairs",
+        "body": "Door adjustments, cladding, framing and repairs to worn or damaged timber.",
+        "photo": "door"
+      }
+    ]
+  },
+  "process": {
+    "headline": "Tell us the job. Get a clear quote. Done right.",
+    "steps": [
+      {
+        "title": "Send your job",
+        "body": "Use the form with a few photos, or give Daniel a ring."
+      },
+      {
+        "title": "Talk it through",
+        "body": "We go over what you need and any ideas that might help."
+      },
+      {
+        "title": "Clear quote",
+        "body": "You get a written quote before any work is booked."
+      },
+      {
+        "title": "Quality work",
+        "body": "Careful carpentry, finished the way you asked for."
+      }
+    ]
+  },
+  "why": {
+    "headline": "Five-star reviews from homeowners around Albury.",
+    "themes": [
+      {
+        "title": "Listens to you",
+        "body": "Easy to talk with and works to what you actually need."
+      },
+      {
+        "title": "Helpful suggestions",
+        "body": "Practical ideas on the job that make the result better."
+      },
+      {
+        "title": "Licensed carpenter",
+        "body": "Skilled, professional carpentry from start to finish."
+      },
+      {
+        "title": "Results you can see",
+        "body": "Finished work that customers are happy with."
+      }
+    ]
+  },
+  "realReviews": [
+    {
+      "author": "Jessica Hay",
+      "rating": 5,
+      "date": "8 years ago",
+      "text": "Easy to talk with and listens to what the client needs. Daniel renovated our investment house with replacing all architraves, painting, installing roller blinds and laying new laminate floorboards down. Looks a million times better."
+    },
+    {
+      "author": "Monika H",
+      "rating": 5,
+      "date": "8 years ago",
+      "text": "Daniel is a very profesional and skilled carpenter. He gave us a couple of helpfull sugestion during building a deck in our backyard and fixing a fiew things. We were very happy about final results.I definitely recomend his services."
+    },
+    {
+      "author": "Pippa",
+      "rating": 5,
+      "date": "6 years ago",
+      "text": "Thank you Daniel. You did a great job."
+    }
+  ],
+  "finalCta": {
+    "headline": "Got a carpentry job around Albury?",
+    "body": "Send a few photos or pick a time to talk it through. You'll get a clear quote before any work is booked.",
+    "microcopy": "No pressure. Just a straight answer."
+  },
+  "faq": [
+    {
+      "q": "Do you build decks and verandahs?",
+      "a": "Yes. Decks, verandahs and carports are a big part of the work. Send a few photos of the spot for a quote."
+    },
+    {
+      "q": "Which areas do you cover?",
+      "a": "Albury, Wodonga, Lavington, Thurgoona, Jindera and the surrounding area. Ask if you're further out."
+    },
+    {
+      "q": "Can you lay new floors and replace trim?",
+      "a": "Yes. Hardwood and laminate flooring, skirting and architraves. Handy for freshening up a home or rental."
+    },
+    {
+      "q": "Do you take on small jobs and repairs?",
+      "a": "Door adjustments and timber repairs are on the list. Send the details and we'll let you know."
+    },
+    {
+      "q": "What happens after I send a request?",
+      "a": "Your details come straight through, you get a text and email confirmation, and we follow up to talk through the job."
+    }
+  ],
+  "embeds": {
+    "ghlFormUrl": "",
+    "ghlCalendarUrl": ""
+  }
+}
